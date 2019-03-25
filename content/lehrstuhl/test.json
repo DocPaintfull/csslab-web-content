@@ -1,0 +1,8 @@
+{
+  "_meta": {
+    "type": "Employee"
+  },
+  "name": "Legolas",
+  "age": "31",
+  "picture": "person.jpg"
+}
