@@ -1,0 +1,30 @@
+{
+    "name": "Frederic Kerksieck",
+    "ref": "kerksieck",
+    "title": "",
+    "status": "Student Assistant",
+    "cv": "Frederic Kerksieck is a student research assistant since April 2018 funded by the DFG Initiative of Excellence. Together with Lukas Böhres he is responsible for programming the CSS-Lab Tools as well as the CSS-Lab Website.",
+    "img": "image-soon.png",
+    "field": "Computer Science (B. Sc.)",
+    "projects": [
+      {
+        "name": "Project One",
+        "description": "This is project ones description."
+      }
+    ],
+    "publications": [
+      {
+        "name": "Publication One",
+        "authors": "Mustermann, Max and Mustermann, Moritz",
+        "year": "2019",
+        "in": "Random Book",
+        "pages": "1-200"
+      },
+      {
+        "name": "Publication Two",
+        "authors": "Mustermann, Max and Mustermann, Moritz",
+        "year": "2019",
+        "in": "Random Book"
+      }
+    ]
+}

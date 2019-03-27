@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Gesture, Embodied Cognition & Robots",
+    "date": "25 to 26 July 2019",
+    "type": "Workshop",
+    "organizedBy": "organized by Dawid Kasprowicz together with Prof. Dr. Irene Mittelberg, RWTH Aachen University",
+    "description": "",
+    "program": "Program is not yet available",
+    "location": "Location: Seminar room 303, Theaterplatz 14, RWTH Aachen University",
+    "done": "false"
+  },
+  {
+    "name": "Infrastructures of Science",
+    "date": "15 to 19 July 2019",
+    "type": "IDEA League Summer School 2019",
+    "organizedBy": "organized by Gabriele Gramelsberger together with the Chair for History of Technology at the ETH Züric",
+    "description": "Archives, collections, labs and machine parks are well known institutions that promote scientific research. From the 19th century on they have been developing into large scale research systems organizing methods, instruments and scientists’ work. In the last decades we are witnessing that sciences have become more and more computer-based. Obviously, data centers, networks and platforms are indispensable facilities for research, they are complementing and reconfiguring traditional technologies. In a historical perspective, digital infrastructures offer an unprecedented generalizability: they stimulate the production and circulation of methodological knowledge across a broad spectrum of academic disciplines. The interdisciplinary Summer School investigates the history and philosophy of digital infrastructures. How do infrastructures affect science? And how do sciences configure their technologies?",
+    "program": "Program http://idealeague.org/wp-content/uploads/2018/04/FAQ-IDEA-League-Summer-Schools_V2018.pdf",
+    "location": "Location: ETH Zürich, resort at the nearby mountains",
+    "done": "false"
+  },
+  {
+    "name": "Machine Learning in Research",
+    "date": "16 May 2019, 14:00 to 18:00",
+    "type": "Workshop",
+    "organizedBy": "organized by Lisa Schüttler",
+    "description": "",
+    "program": "Program is not yet available",
+    "location": "Location: Seminar room 303, Theaterplatz 14, RWTH Aachen University",
+    "done": "false"
+  },
+  {
+    "name": "Code Studies",
+    "date": "14 December 2018",
+    "type": "Workshop",
+    "description": "",
+    "organizedBy": "follow-up workshop of the EASST 2018 panel; organized by Dawid Kasprowicz",
+    "program": "CSS-Lab Tools, Lukas Böhres, RWTH Aachen University. Panel on Computer-Methoden in der Sozial- und Wissenschaftsforschung, Dr. Marcus Burckhardt and Nikolaus Pöchhacker, University of Siegen; Dr. Katharina Kinder-Kurlanda, GESIS Cologne. Panel on Human-Machine Interaction im Machine Learning, Hendrik Heuer, University of Bremen; Dr. Simon Egbert, University of Hamburg; Dawid Kasprowicz, RWTH Aachen University. Panel on Politiken der Wissensproduktion mit Algorithmen, Dr. Bianca Prietl, TU Darmstadt, Goda Klumbyte, University of Kassel; Prof. Dr. Jutta Weber, University of Paderborn",
+    "location": "Location: Seminar room 407, Theaterplatz 14, RWTH Aachen University",
+    "done": "true"
+  },
+  {
+    "name": "Philosophy and Physics",
+    "date": "6 December 2018, 16:00 to 19:00",
+    "type": "Workshop",
+    "organizedBy": "organized together with the DFG Research Group 'Epistemology of LHC'",
+    "description": "",
+    "program": "The Higgs Boson, the Naturalness Principle, and the Lack of New Physics at the LHC, Dr. Joshua Rosaler, Physics Department, RWTH Aachen University 'The new conception of the postulates': the Bohr-Kramers-Slater 'interpretation' of the (old) quantum theory, Daniel Jon Mitchell, Physics Department, RWTH Aachen University Dark Matter & Modified Gravity, Dr. Niels Martens, Physics Department, RWTH Aachen University",
+    "location": "Location: Seminar room 303, Theaterplatz 14, RWTH Aachen University",
+    "done": "true"
+  },
+  {
+    "name": "Many Faces of Logic - Evening Lecture",
+    "date": "19 November 2018, 18:00 to 20:00",
+    "type": "Evening Lecture",
+    "organizedBy": "organized by Daniel Wenz",
+    "description": "",
+    "program": "From Being to Becoming, Prof. Johan van Benthem, Universities of Amsterdam/Stanford/Tsinghua",
+    "location": "Location: Seminar room 303, Theaterplatz 14, RWTH Aachen University",
+    "done": "true"
+  },
+  {
+    "name": "Many Faces of Logic",
+    "date": "20 November 2018, 10:00 to 18:00",
+    "type": "Workshop",
+    "organizedBy": "organized by Daniel Wenz",
+    "description": "The aim of this workshop is to introduce the work of Johan van Benthem, its applications, and ongoing developments to an interdisciplinary public. This includes but is not limited to the areas of logic, mathematics and philosophy, as well as of informatics, AI-research, cognitive sciences, theory of learning and every discipline that analyses social dynamics of any kind.",
+    "program": "Knowability and Dynamic Epistemic Logic, Dr. Luis Rosa, University of Cologne Epistemic Protocols in Dynamic Gossip, Dr. Pere Pardo, RUB University of Bochum Games for Logic, Logic for Games, Prof. Erich Grädel, RWTH Aachen University Observation and Distinction. Representing Information in Infinite Games, Dr. Dietmar Berwanger, CNRS/ENS Paris-Saclay Games, Best Actions, and Deontic Logic, Prof. Olivier Roy, University of Bayreuth Learning Probabilities, Dr. Soroush Rafiee-Rad, University of Bayreuth",
+    "location": "Location: Seminar room 213, Eilfschornsteinstr. 15 (1820|213), RWTH Aachen University",
+    "done": "true"
+  },
+  {
+    "name": "Code Studies",
+    "date": "23 February 2018, 14:00 to 18:00",
+    "type": "Workshop",
+    "organizedBy": "organized by Gabriele Gramelsberger together with Dr. Daniela Zetti, ETH Zürich",
+    "description": "",
+    "program": "Topic Modelling, Dr. Daniela Zetti and Dr. Ricky Wichum, ETH Zürich Computational Science Studies, Prof. Dr. Gabriele Gramelsberger and Dawid Kasprowicz, RWTH Aachen University",
+    "location": "Location: CSS-Lab (410), Theaterplatz 14, RWTH Aachen University",
+    "done": "true"
+  },
+  {
+    "name": "Digital Humanities. Zukunft der Geisteswissenschaften?",
+    "date": "15 December 2017, 14:00 to 18:00",
+    "type": "Workshop",
+    "organizedBy": "organized together with Prof. Dr. Stella Neumann, Chair of English Linguistics, RWTH Aachen University",
+    "description": "",
+    "program": "'DH' versus auxiliäre Digitalität, Prof. Dr. Petra Gehring, TU Darmstadt Models, predictions, data - an (un)problematic relationship?, Prof. Dr. Erich Steiner, University of the Saarland",
+    "location": "Location: Pausenhalle, Eifschornsteinstrasse 16, Institute of Philosophy, RWTH Aachen University",
+    "done": "true"
+  }
+]
