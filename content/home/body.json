@@ -1,0 +1,17 @@
+{
+    "headline": "Philosophy of Computational Sciences",
+    "content": [
+        {
+            "headline": "Digital Transformation of Science",
+            "body": "Our research is dedicated to the understanding of the\n\"radical transformation of the nature of science\" through digitalization\n(EU Horizon 2020). Since some decades computer based modelling and\nsimulation has expand the traditional methods of science. Computational\ndepartments complement experimental and theoretical departments. Since\na view years big data analytics and artificial intelligence, in\nparticular machine learning, are pushing forward the digital\ntransformation of science and technology. Thus, knowledge production\nin science as well as technology development have changed tremendously.\nUnderstanding these shifts is our concern."
+        },
+        {
+            "headline": "Research Questions",
+            "body": "The Computational Science Studies (CSS) Lab explores the ongoing shift\nfrom science to computational sciences. Rooted in philosophy of science\nand technology, the CSS-Lab aims at understanding the transformative\npower of digitalization for science and technology. How do scientific\nconcepts and practices change? How are computational sciences informed\nby new forms of knowledge production such as computer-based simulation\nand machine-learning methods? How reliable are the results of\ncomputational sciences?"
+        },
+        {
+            "headline": "Research Methods",
+            "body": "Many more questions can be posed, but what is required are methods for\nexploring new research methods to access sciences vanishing into the\ncomputer and algorithms. The CSS-Lab builds up an infrastructure for\nconducting computational science studies (CSS). It explores traditional\nScience and Technology Studies methods such as interviews, participatory\nobservation, and text analysis for case studies. Furthermore, the focus\nlies on the investigation of new methods such as studies of scientific\ncode and programming. Therefore, software tools are developed in order\nto support computational science studies."
+        }
+    ]
+}
