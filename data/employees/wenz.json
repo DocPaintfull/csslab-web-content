@@ -1,0 +1,65 @@
+{
+    "name": "Daniel Wenz",
+    "ref": "wenz",
+    "title": "Dr. phil.",
+    "status": "Post-Doc",
+    "cv": "Daniel Wenz is a research assistant at the Chair for Theory of Science and Technology. He studied philosophy and history at Bonn University. He graduated with a Magister thesis on the concept of nature in classical German philosophy and the contemporary theory of science (2008). He wrote his dissertation thesis on speculative logics and inferential semantics at the FernUniversität Hagen and the Pontificia Universidad Católica Argentina (Cotutelle) (2017). He was a visiting scholar at the University of Pittsburgh (USA) and the UCA (Argentina). He was awarded a PhD-scholarship by the Evangelische Studienstifung and a foreign exchange scholarship by the DAAD. His research interests center about classic epistemology, the theory of science and the philosophy of mathematics.",
+    "img": "wenz.png",
+    "tel": "+49 241 80 25508",
+    "email": "daniel.wenz@humtec.rwth-aachen.de",
+    "field": "Philosophy of Mathematics and Logic",
+    "researchInterests": "Philosophy of mathematics; epistemology; logic; classical German philosophy, neopragmatism.",
+    "projects": [
+      {
+        "name": "What do computers 'know' about mathematical objects?",
+        "description": "The term “automated reasoning” subsumes different approaches to automatize the human capacity to reason. The long-term goal is to design programs that work independently of the external input from their users and their semantic capacities. Although automated reasoning is already employed in mathematical research, a program that independently discovers genuinely new mathematical proofs is still science fiction. However, the development and interaction with such programs in mathematical research are interesting from an epistemological point of view. The aim is not to articulate another functionalist model of the human mind, but to gain insights in other possible modes of 'thinking' and 'understanding'. A promising entry point is to ask how the algorithms of the different approaches in automated reasoning (explicitly or implicitly) generate mathematical objects and – more specific – how they are able to track the identities of those objects. In this respect, my project combines classical epistemology, constructive ontology, machine learning and ventures into the field of explainable AI. <br/><br/> The existing programs can be divided into two groups: Those that are able to validate the correctness of a given proof and those that are (still in a very rudimentary sense) able to automatically generate theorems and proofs. The former kind comprises programs like the Mizar-system. Programs that are able to conduct proofs (e.g. Otter/Prover9) are only deployed on a very low level. Especially the complex objects of higher-order mathematics seem to pose a problem. In practice such programs are used mainly as interactive theorem solvers (e.g. Isabelle, Vampire), i.e. as virtual assistants that spare the mathematician some easy but tedious paperwork or that give him an outlook on the viability of different possible approaches to design a proof. More interesting are the recent approaches that combine the classical methods (which can largely be seen as applied proof theory) with machine learning (Kaliszyk, Urban, et al 2018) and deep neuronal networks (Yuan 2016). <br/><br/> In both cases, it is of interest if and how the program reconstructs the relevant mathematical objects by its own means: A proof is more than the epistemic securing of a single proposition (a single theorem) but it also casts a light on the structure of its mathematical universe. A proof that invokes resources from different mathematical domains uncovers also additional information concerning the interconnection of these domains. To be able to identify and to construct objects that uncover such relationships presupposes the ability to navigate in and between these structures. To be able to decide when this is successfully done can be seen as the ability to validate the reasonableness and thereby 'meaningfulness' of the generated ontological structures."
+      }
+    ],
+    "seminars": [
+
+    ],
+    "publications": {
+      "reviewed":
+      [
+        {
+          "name": "John Searle und Robert Brandom",
+          "authors": "Wenz, Daniel",
+          "year": "2019",
+          "in": "Handbuch Ontologie",
+          "in_author": "Jan Urbich, Jörg Zimmer",
+          "pages": "",
+          "city": "Stuttgart",
+          "publisher": "Metzler",
+          "in_print": true
+        },
+        {
+          "name": "Wirklichkeit als Reflexionskategorie – Hegels normativer Realismus",
+          "authors": "Wenz, Daniel",
+          "year": "2016",
+          "in": "Ausgehend von Kant. Wegmarken der Klassischen Deutschen Philosophie (Studien zur Phänomenologie und Praktischen Philosophie, Bd. 38)",
+          "pages": "127-146",
+          "city": "Würzburg",
+          "publisher": "Ergon-Verlag"
+        },
+        {
+          "name": "A Sphere of Mediation: Hegel, Reflection and Methodological Constructivism",
+          "authors": "Wenz, Daniel",
+          "year": "2014",
+          "in": "Los aportes del itinerario intelectual de Kant a Hegel",
+          "pages": "1499-1525",
+          "city": "Porto Alegre",
+          "publisher": "edipucrs"
+        },
+        {
+          "name": "System und Systemkritik – Witz und Ironie als philosophische Methode beim frühen Friedrich Schlegel",
+          "authors": "Wenz, Daniel and Sticker, Daniel",
+          "year": "2013",
+          "in": "Philosophisches Jahrbuch",
+          "volume": "1. Halbband 2013",
+          "pages": "64-81",
+          "city": "Freiburg/München",
+          "publisher": "Karl Alber"
+        }
+      ]
+    }
+}

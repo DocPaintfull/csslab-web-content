@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Machine Learning in Scientific Research",
+    "description": "How will machine learning change scientific knowledge production?",
+    "by": "Lisa Schüttler",
+    "type": "PhD project",
+    "startYear": 2018,
+    "endYear": 2021,
+    "ref": "schuettler",
+    "images": [
+      {
+        "src": "/favicon.png",
+        "alt": "CSS-Lab Logo",
+        "href": "/"
+      }
+    ]
+  },
+  {
+    "title": "Robot Phenomenology",
+    "description": "How do robots incorporate concepts of the human body?",
+    "by": "Dr. Dawid Kasprowicz",
+    "type": "PostDoc project",
+    "startYear": 2018,
+    "endYear": 2022,
+    "ref": "kasprowicz",
+    "images": [
+      {
+        "src": "/favicon.png",
+        "alt": "CSS-Lab Logo",
+        "href": "/"
+      }
+    ]
+  },
+  {
+    "title": "Automated Reasoning",
+    "description": "How does algorithmic thinking change mathematical thinking? ",
+    "by": "Dr. Daniel Wenz",
+    "type": "PostDoc project",
+    "startYear": 2018,
+    "endYear": 2021,
+    "ref": "wenz",
+    "images": [
+      {
+        "src": "/favicon.png",
+        "alt": "CSS-Lab Logo",
+        "href": "/"
+      }
+    ]
+  }
+]

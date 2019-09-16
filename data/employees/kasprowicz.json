@@ -1,0 +1,353 @@
+{
+  "name": "Dawid Kasprowicz",
+  "ref": "kasprowicz",
+  "title": "Dr. phil.",
+  "status": "Post-Doc",
+  "cv": "Dr. Dawid Kasprowicz is a research assistant at the Chair for Theory of Science and Technology. From 2005 to 2012 he studied media studies and philosophy at Ruhr University Bochum and at the Université du Littoral Côte d’Opale in Dunkerque, France. He graduated with a Master’s thesis on Bernard Stiegler’s concept of psychopower. From 2013 to 2016, he was a PhD student at the \"Media Cultures of Computer Simulation\" Institute for Advanced Study in Lüneburg; afterwards he was a research assistant at the chair for philosophy of digital media in Witten-Herdecke until spring 2018. He was awarded a doctorate by Leuphana University Lüneburg in April 2018. In his PhD thesis he develops a history of knowledge based on the concept of immersion. His main research fields include: Theory and history of embodiment, the concept of models and simulations in robotics, and theory of science with a focus on computational sciences.",
+  "img": "kasprowicz.jpg",
+  "tel": "+49 241 80 25510",
+  "email": "dawid.kasprowicz@humtec.rwth-aachen.de",
+  "field":"Philosophy and Media Studies of Computational Sciences/Head of CSS-Lab",
+  "researchInterests": "Theory and history of embodiment; epistemology of human-robot collaborations; philosophy; phenomenology; philosophy of digital media.",
+  "projects": [
+    {
+      "name": "How to Meet Humans: Modeling and Media in Man-Robot-Collaborations",
+      "description": "Since the advent of marketing buzzwords like “industry 4.0” at the latest, the image of collaborative robots that work with their human partners has been frequently presented in the media. Be it for a humanoid partner or an attentive robotic arm in the manufacturing process, these new agents of collaborative labour are stirring more than the mere curiosity of fairgoers. Collaboration with robotic agents challenges the episteme of engineering sciences, and raises essential questions about embedding robotic systems into everyday situations. The immediate question now is not how to design robots in a human-friendly way, but rather, how the human partner can be adapted to the robot.<br/><br/> The project poses this question from the perspectives of philosophy of science and media studies. It argues that the phenomenon of man-robot collaborations constitutes a new anthropology. This anthropology no longer revolves around human beings, but around their virtualizations and avatars – either as paths of possible movements or as digital human models. This constitutes a new form of human factors, one that can’t be reduced to mere datafication of the body, as it extends far beyond disciplines like ergonomics into health care systems and education. Thus, these new human factors of man-robot collaborations entail a huge knowledge transfer from the humanities into the engineering sciences. <br/><br/> This transfer is based on two methods: The first is an analysis of the formalizations of body movements and their possible intentions. Here, engineers use several diverse types of models for man-robot collaborations, depending on whether a biomechanical process of the arm is to be modelled, or a whole-body model is to be animated in order to “train” the robot to read human body postures. <br/><br/> The second method focuses on the media involved in the encounter between man and robot. Today, virtualizations of humans are based on diverse media like tactile sensors, motion-capture techniques, 3-D graphic animation of digital human models, and methods from computer vision, which use neural networks trained with images from multiple data banks. Neither virtual movements nor avatars serve as mere representations, but are used to create predictions of body-space relations that react to the way human collaborators move, in order to incorporate this information into security standards (DIN norms) to protect humans, and to determine how the creating subjects relate to their technology as a result of these new body encounters."
+    }
+  ],
+  "publications": {
+    "books":
+    [
+      {
+        "name": "Immersion. Grenzen und Metaphorik des digitalen Subjekts",
+        "authors": "Breyer, Thiemo and Kasprowicz, Dawid (eds.)",
+        "year": "2019",
+        "in": "Navigationen. Zeitschrift für Medien- und Kulturwissenschaften",
+        "volume": "19 (1)",
+        "pages": "",
+        "city": "",
+        "publisher": "",
+        "doi": ""
+      },
+      {
+        "name": "Unterwachen und Schlafen. Anthropophile Medien nach dem Interface",
+        "authors": "Andreas, Michael, Kasprowicz, Dawid and Rieger, Stefan (eds.)",
+        "year": "2018",
+        "in": "",
+        "volume": "",
+        "pages": "",
+        "city": "Lüneburg",
+        "publisher": "Meson Press",
+        "doi": ""
+      },
+      {
+        "name": "Technik | Intimität",
+        "authors": "Michael Andreas, Dawid Kasprowicz, Stefan Rieger (eds.)",
+        "year": "2016",
+        "in": "Zeitschrift für Medienwissenschaft (ZfM)",
+        "volume": "15 (2)",
+        "pages": "",
+        "city": "",
+        "publisher": "",
+        "doi": ""
+      },
+      {
+        "name": "Handbuch Virtualität",
+        "authors": "Dawid Kasprowicz, Stefan Rieger (eds.)",
+        "year": "2019",
+        "in": "",
+        "volume": "",
+        "pages": "",
+        "city": "Wiesbaden ua.",
+        "publisher": "Springer",
+        "doi": ""
+      }
+    ],
+    "contributions":
+    [
+      {
+        "name": "Virtual Embodiment",
+        "authors": "Kasprowicz, Dawid",
+        "year": "2019",
+        "in": "Handbuch Virtualität",
+        "in_author": "Kasprowicz, Dawid and Rieger, Stefan (eds.)",
+        "volume": "",
+        "pages": "",
+        "city": "Wiesbaden",
+        "publisher": "Springer",
+        "doi": "",
+        "in_print": true
+      },
+      {
+        "name": "Virtualisierte Arbeitsplätze – Medienhistorische Annäherung an die Interaktion und Kollaboration zwischen menschlichen und maschinellen Agenten",
+        "authors": "Kasprowicz, Dawid",
+        "year": "2019",
+        "in": "Handbuch Virtualität",
+        "in_author": "Kasprowicz, Dawid and Rieger, Stefan (eds.)",
+        "volume": "",
+        "pages": "",
+        "city": "Wiesbaden",
+        "publisher": "Springer",
+        "doi": "",
+        "in_print": true
+      },
+      {
+        "name": "Einleitung",
+        "authors": "Kasprowicz, Dawid and Rieger, Stefan",
+        "year": "2019",
+        "in": "Handbuch Virtualität",
+        "in_author": "Dawid Kasprowicz, Stefan Rieger (eds.)",
+        "volume": "",
+        "pages": "",
+        "city": "Wiesbaden",
+        "publisher": "Springer",
+        "doi": "",
+        "in_print": true
+      },
+      {
+        "name": "Encoding Proximity - Intuition in Human-Robot-Collaborations",
+        "authors": "Kasprowicz, Dawid",
+        "year": "2019",
+        "in": "Affective Media and Policy",
+        "in_author": " Bösel, Bernd and Wiemer, Serjoscha. (eds.)",
+        "volume": "",
+        "pages": "",
+        "city": "Lüneburg",
+        "publisher": "Meson Press",
+        "doi": "",
+        "in_print": true
+      },
+      {
+        "name": "Information",
+        "authors": "Kasprowicz, Dawid",
+        "year": "2019",
+        "in": "Mensch-Maschine-Interaktion. Handbuch zu Geschichte - Kultur - Ethik",
+        "in_author": "Liggieri, Kevin and Müller, Oliver (eds.)",
+        "volume": "",
+        "pages": "",
+        "city": "Stuttgart",
+        "publisher": "Metzler",
+        "doi": "",
+        "in_print": true
+      },
+      {
+        "name": "Fühlen/Tasten",
+        "authors": "Kasprowicz, Dawid",
+        "year": "2019",
+        "in": "Handbuch für Technikanthropologie",
+        "in_author": "Hessler, Martina and Liggeri, Kevin. (eds)",
+        "volume": "",
+        "pages": "",
+        "city": "Baden-Baden",
+        "publisher": "Nomos/Edition Sigma",
+        "doi": "",
+        "in_print": true
+      },
+      {
+        "name": "Immersion oder Das Versprechen der Auflösung. Zur Einführung",
+        "authors": "Kasprowicz, Dawid and Breyer, Thiemo",
+        "year": "2019",
+        "in": "Navigationen. Zeitschrift für Medien- und Kulturwissenschaften",
+        "in_author": "",
+        "volume": "19 (1)",
+        "pages": "7-16",
+        "city": "",
+        "publisher": "",
+        "doi": ""
+      },
+      {
+        "name": "Von alten Besen im System und neuen Körpern im Loop. Bildgebungsverfahren in der Mensch-Roboter-Kollaboration",
+        "authors": "Kasprowicz, Dawid",
+        "year": "2019",
+        "in": "Augenblick. Konstanzer Hefte zur Medienwissenschaft",
+        "in_author": "",
+        "volume": "73",
+        "pages": "43-58",
+        "city": "",
+        "publisher": "",
+        "doi": ""
+      },
+      {
+        "name": "Das Interface der Selbstverborgenheit. Szenarien des Intuitiven in Mensch-Roboter-Kollaborationen",
+        "authors": "Kasprowicz, Dawid",
+        "year": "2018",
+        "in": "Unterwachen und Schlafen. Anthropophile Medien nach dem Interface",
+        "in_author": "Andreas, Michael, Kasprowicz, Dawid and Rieger, Stefan (eds.)",
+        "volume": "",
+        "pages": "159-188",
+        "city": "Lüneburg",
+        "publisher": "Meson Press",
+        "doi": ""
+      },
+      {
+        "name": "Unterwachen und Schlafen. Einleitung",
+        "authors": "Andreas, Michael, Kasprowicz, Dawid and Stefan Rieger",
+        "year": "2018",
+        "in": "Unterwachen und Schlafen. Anthropophile Medien nach dem Interface",
+        "in_author": "Andreas, Michael, Kasprowicz, Dawid and Stefan Rieger (eds.)",
+        "volume": "",
+        "pages": "7-32",
+        "city": "Lüneburg",
+        "publisher": "Meson Press",
+        "doi": ""
+      },
+      {
+        "name": "The Hidden Space of Production. Virtuality in Henri Bergson and Gilbert Simondon",
+        "authors": "Kasprowicz, Dawid",
+        "year": "2017",
+        "in": "‘You were not expected to do this.’ On the Dynamics of Production",
+        "in_author": "Blanga-Gubbay, Daniel and Ruchaud, Elisabeth (eds.)",
+        "volume": "",
+        "pages": "111-126",
+        "city": "Düsseldorf",
+        "publisher": "Düsseldorf Univ. Press",
+        "doi": ""
+      },
+      {
+        "name": "Technik | Intimität. Einleitung in den Schwerpunkt",
+        "authors": "Andreas, Michael, Dawid Kasprowicz and Rieger, Stefan (2016)",
+        "year": "2016",
+        "in": "Zeitschrift für Medienwissenschaft (ZfM)",
+        "in_author": "",
+        "volume": "15 (2)",
+        "pages": "10-17",
+        "city": "",
+        "publisher": "",
+        "doi": ""
+      },
+      {
+        "name": "Zwischen Fruchtfliege und Global Player. Zur neuroökonomischen Modellierung des Lernverhaltens",
+        "authors": "Kasprowicz, Dawid",
+        "year": "2016",
+        "in": "Neuroimaging & Neuroökonomie: Grundlagen, ethische Fragestellungen, soziale und rechtliche Relevanz",
+        "in_author": "Ach, Johann S., Lüttenberg, Beate and Nossek, Alexa (eds.)",
+        "volume": "",
+        "pages": "149-166",
+        "city": "Münster",
+        "publisher": "Lit-Verlag",
+        "doi": ""
+      },
+      {
+        "name": "Lebenstreue Medien: Von immersierten Körpern zu digitalen Menschmodellen",
+        "authors": "Kasprowicz, Dawid",
+        "year": "2016",
+        "in": "Jahrbuch für immersive Medien 2015",
+        "in_author": "Institut für immersive Medien FH Kiel (eds.)",
+        "volume": "",
+        "pages": "29-41",
+        "city": "Marbach",
+        "publisher": "Schüren Verlag",
+        "doi": ""
+      },
+      {
+        "name": "Fluide Säcke: Raumanzüge als Operationalisierungstechniken des Körpers",
+        "authors": "Kasprowicz, Dawid",
+        "year": "2014",
+        "in": "Haut und Hülle. Umschlag und Verpackung",
+        "in_author": "Seiderer, Ute and Fischer, Michael (eds.)",
+        "volume": "",
+        "pages": "257-272",
+        "city": "Berlin",
+        "publisher": "Rotbuch",
+        "doi": ""
+      }
+    ],
+    "reviewed":
+    [
+      {
+        "name": "Die Einschreibung möglicher Dinge. Zwei Urszenen der Computergrafik und eine onthographische Schneise",
+        "authors": "Kasprowicz, Dawid and Gramelsberger, Gabriele",
+        "year": "2019",
+        "in": "Zeitschrift für Medien- und Kulturforschung - Medien der Natur",
+        "volume": "10(1)",
+        "pages": "119-132",
+        "in_print": false
+      },
+      {
+        "name": "Die Umwelt steuerbar designen. Zum Human-Factors Engineering in den Jahren 1945-1968",
+        "authors": "Kasprowicz, Dawid",
+        "year": "2019",
+        "in": "Zeitschrift für Technikgeschichte",
+        "volume": "85 (1)",
+        "pages": "67-95",
+        "city": "",
+        "publisher": "",
+        "doi": "",
+        "in_print": true
+      }
+    ],
+    "reviews":
+    [
+      {
+        "name": "Conference Report: Zwischen Auslöser und militärischem Eingriff. Report of the Conference „Medien-Krieg-Raum“, at the Friedrich-Alexander University in Erlangen-Nürnberg",
+        "authors": "Kasprowicz, Dawid",
+        "year": "2015",
+        "in": "Rundbrief Photographie",
+        "volume": "22 (1)",
+        "pages": "48-51",
+        "city": "",
+        "publisher": "",
+        "doi": ""
+      },
+      {
+        "name": "Conference Report: „Medien – Krieg – Raum“, 11th-13th July 2014 at the Friedrich-Alexander University Erlangen-Nürnberg",
+        "authors": "Kasprowicz, Dawid",
+        "year": "2014",
+        "in": "H-Soz-Kult",
+        "volume": "",
+        "pages": "",
+        "city": "",
+        "publisher": "",
+        "doi": "",
+        "url": "http://www.hsozkult.de/conferencereport/id/tagungsberichte-5525"
+      },
+      {
+        "name": "Conference Report: Den Wissenschaften auf der Spur. Report of the Annual Conference of the „Gesellschaft für Medienwissenschaft“",
+        "authors": "Kasprowicz, Dawid and Janssen, Anneke",
+        "year": "2013",
+        "in": "Rundfunk und Geschichte",
+        "volume": "39 (3-4)",
+        "pages": "87-90",
+        "city": "",
+        "publisher": "",
+        "doi": ""
+      }
+    ],
+    "misc":
+    [
+      {
+        "name": "Art and Algorithms #3 – Contribution to the Performance 'Open Your Body for Big Data' from Martina Leeker",
+        "authors": "Kasprowicz, Dawid",
+        "year": "2018",
+        "in": "",
+        "volume": "",
+        "pages": "",
+        "city": "NRW-Forum, Düsseldorf",
+        "publisher": "",
+        "doi": ""
+      },
+      {
+        "name": "Ein bekannter Körper ist nur so echt wie sein neuer Look – Body-Swapping-Techniques in Kunst, Wissenschaft und Therapeutik",
+        "authors": "Kasprowicz, Dawid",
+        "year": "2016",
+        "in": "",
+        "volume": "",
+        "pages": "",
+        "city": "Hamburg",
+        "publisher": "Schwarzmarkt des Wissens, Kampnagel",
+        "doi": ""
+      },
+      {
+        "name": "Node – Körper – Kunst – Digitales“ – Script to the Pod-Cast of the exhibition: Node 15: Wrapped in Code – the future of the informed body",
+        "authors": "Kasprowicz, Dawid",
+        "year": "2015",
+        "in": "",
+        "volume": "",
+        "pages": "",
+        "city": "Frankfurt a.M.",
+        "publisher": "Künstlerhaus Muosonturm",
+        "doi": ""
+      }
+    ]
+  }
+}

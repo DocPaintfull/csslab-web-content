@@ -1,8 +1,140 @@
 [
     {
+      "name": "Human Kinaesthetics for Robots",
+      "by": "kasprowicz",
+      "date": "4 to 5 July 2019",
+      "startDate": "2019-07-04",
+      "endDate": "2019-07-05",
+      "type": "",
+      "in": "Workshop Embodied AI / Exbodied Mind",
+      "institution": "RWTH University Aachen"
+    },
+    {
+      "name": "Designing Workplaces through Machine Environments – The Action Office and the Human Factors Engineering",
+      "by": "kasprowicz",
+      "date": "24 to 27 Octobre 2019",
+      "startDate": "2019-10-24",
+      "endDate": "2019-10-27",
+      "type": "Annual Conference of",
+      "in": "the Society for the History of Technology (SHOT)",
+      "institution": "Milan"
+    },
+    {
+      "name": "From Cockpit to Cubicle – How the Human Factors Engineering Influenced Office Design",
+      "by": "kasprowicz",
+      "date": "30 to 31 Octobre 2019",
+      "startDate": "2019-10-30",
+      "endDate": "2019-10-30",
+      "type": "",
+      "in": "Architecture and Bureaucracy: Entangled Sites of Knowledge Production and Exchange. International Conference",
+      "institution": "Brussels"
+    },
+    {
+      "name": "Prozessierung von Datenmaterialien in der Forschung. Spuren digitaler Forschung",
+      "by": "gramelsberger",
+      "date": "25 to 28 September 2019",
+      "startDate": "2019-09-25",
+      "endDate": "2019-09-28",
+      "type": "Jahrestagung der",
+      "in": "Gesellschaft der Medienforschung 2019",
+      "institution": "University of Cologne"
+    },
+    {
+      "name": "Global Game/AI-Ecosystem driving 2020s Industry 4.0",
+      "by": "gramelsberger",
+      "date": "17 to 21 June 2019",
+      "startDate": "2019-07-17",
+      "endDate": "2019-07-21",
+      "type": "Symposium on 'Engineering and R&D in Times of Industry 4.0'.",
+      "in": "Research and Development Management Conference 2019",
+      "institution": "Ecole Politechnique Paris"
+    },
+    {
+      "name": "Hermeneutik der Maschinen",
+      "by": "gramelsberger",
+      "date": "11 to 12 July 2019",
+      "startDate": "2019-07-11",
+      "endDate": "2019-07-12",
+      "type": "Colloquium",
+      "in": "Hermeneutik unter Verdacht des Arbeitskreises Text und Textlichkeit",
+      "institution": "University of Cologne"
+    },
+    {
+      "name": "Technizität grenzrealisierender Rückkopplungen und deren Folgen für die Un/Verfügbarkeiten der Selbstaffizierung",
+      "by": "gramelsberger",
+      "date": "21 to 22 June 2019",
+      "startDate": "2019-07-21",
+      "endDate": "2019-07-22",
+      "type": "Conference",
+      "in": "Aktualität und Potenzial von Doppelaspektivität und Unergründlichkeit. Perspektiven auf Figuren des Unverfügbaren im Anschluss an Helmuth Plessner",
+      "institution": "University of Oldenburg"
+    },
+    {
+      "name": "Immersion & Interface. Anmerkungen zu einem medienanthropologischen Konnex",
+      "by": "kasprowicz",
+      "date": "13 June 2019",
+      "startDate": "2019-06-13",
+      "endDate": "2019-06-13",
+      "type": "",
+      "in": "Lecture Series Digital Masterclass",
+      "institution": "Bauhaus University Weimar"
+    },
+    {
+      "name": "Digitalisierung der Forschung",
+      "by": "gramelsberger",
+      "date": "6 June 2019",
+      "startDate": "2019-06-06",
+      "endDate": "2019-06-06",
+      "type": "Leonardo Lecture Series",
+      "in": "Leonardo Zukunftswerkstatt",
+      "institution": "RWTH Aachen University"
+    },
+    {
+      "name": "Rheologie des Medialen",
+      "by": "gramelsberger",
+      "date": "23 to 25 May 2019",
+      "startDate": "2019-05-23",
+      "endDate": "2019-05-25",
+      "type": "",
+      "in": "Fluide Mediale",
+      "institution": "University of Düsseldorf"
+    },
+    {
+      "name": "Coding, Valuing and Knowing: Intersections in the Practice of Programming",
+      "by": "kasprowicz, schuettler",
+      "date": "6 to 7 May 2019",
+      "startDate": "2019-05-06",
+      "endDate": "2019-05-07",
+      "type": "Conference",
+      "in": "Critical Issues in Science, Technology and Society Studies",
+      "institution": "Technical University of Graz"
+    },
+    {
+      "name": "Digitalisierung von Forschung",
+      "by": "gramelsberger",
+      "date": "2 to 3 May 2019",
+      "startDate": "2019-05-02",
+      "endDate": "2019-05-03",
+      "type": "Colloquium",
+      "in": "Leonardowelten. Eine Leitidee für Technische Hochschulen",
+      "institution": "RWTH Aachen University"
+    },
+    {
+      "name": "Philosophy of Computational Sciences",
+      "by": "gramelsberger",
+      "date": "8 April 2019",
+      "startDate": "2019-04-08",
+      "endDate": "2019-04-08",
+      "type": "Conference on",
+      "in": "Computational Engineering",
+      "institution": "TU Darmstadt"
+    },
+    {
       "name": "Philosophy of Science investigating Computational Neuroscience",
       "by": "gramelsberger",
       "date": "27 to 28 February 2019",
+      "startDate": "2019-02-27",
+      "endDate": "2019-02-28",
       "type": "Workshop ",
       "in": "Neurological Computer-Simulations",
       "institution": "MECS Leuphana University Lüneburg"
@@ -11,6 +143,8 @@
       "name": "Augmenting Human Intellect",
       "by": "gramelsberger",
       "date": "15 February 2019",
+      "startDate": "2019-02-15",
+      "endDate": "2019-02-15",
       "type": "AKWG-Tagung",
       "in": "Vergangenheit analysieren – Zukunft gestalten",
       "institution": "IHK Aachen"
@@ -19,6 +153,8 @@
       "name": "The challenge of non-linearity",
       "by": "gramelsberger",
       "date": "31 January 2019",
+      "startDate": "2019-01-31",
+      "endDate": "2019-01-31",
       "type": "Lecture of the",
       "in": "Colloquium of the ILLC Institute for Language, Logic, and Computing",
       "institution": "University of Amsterdam"
@@ -27,6 +163,8 @@
       "name": "Über Körper- und Modellschichtung: 'Computer Vision' oder was Roboter von uns sehen sollen",
       "by": "kasprowicz",
       "date": "14 December 2018",
+      "startDate": "2018-12-14",
+      "endDate": "2018-12-14",
       "type": "Workshop",
       "in": "Computational Science Studies: Methode und Epistemologie im Zeitalter des Machine Learning",
       "institution": "RWTH Aachen University"
@@ -35,6 +173,8 @@
       "name": "Beyond a (Known) Self: Mediatechnicity and the Anthropological Paradox",
       "by": "kasprowicz",
       "date": "15 to 18 November 2018",
+      "startDate": "2018-11-15",
+      "endDate": "2018-11-18",
       "type": "SLSA 2018",
       "in": "Out of Mind",
       "institution": "University of Toronto"
@@ -43,6 +183,8 @@
       "name": "Self-(un-)Obstrusiveness – Embodiment in the Age of Mediatechnicity",
       "by": "kasprowicz",
       "date": "19 to 22 September 2018",
+      "startDate": "2018-09-19",
+      "endDate": "2018-09-22",
       "type": "Conference",
       "in": "Digital Cultures. Knowledge. Cultures. Technology",
       "institution": "Leuphana University Lüneburg"
@@ -51,6 +193,8 @@
       "name": "Shaping Haptics, Meeting Humans: Data-Clustering Algorithms in Human-Robot-Collaborations",
       "by": "kasprowicz",
       "date": "27 July 2018",
+      "startDate": "2018-08-27",
+      "endDate": "2018-08-27",
       "type": "",
       "in": "EASST 2018 Conference of the European Association for Science and Technology Studies",
       "institution": "University of Lancaster"
@@ -59,6 +203,8 @@
       "name": "Die Entgrenzung des Banalen: Zum Begriff des Embodiment in der Robotik",
       "by": "kasprowicz",
       "date": "21 to 23 June 2018",
+      "startDate": "2018-07-21",
+      "endDate": "2018-07-23",
       "type": "Conference",
       "in": "Virtuelle Lebenswelten",
       "institution": "Ruhr-University Bochum"
@@ -67,6 +213,8 @@
       "name": "Instanteneous Past: On Body Images and Algorithmic Proximity",
       "by": "kasprowicz",
       "date": "14 to 15 June 2018",
+      "startDate": "2018-07-14",
+      "endDate": "2018-07-15",
       "type": "Conference",
       "in": "Sensing Media",
       "institution": "University Siegen"
@@ -75,6 +223,8 @@
       "name": "Exo-Selbst und Endo-Sphären: Zu einem medienanthropologischen Konzept der Immersion",
       "by": "kasprowicz",
       "date": "07 to 09 February 2018",
+      "startDate": "2018-02-07",
+      "endDate": "2018-02-09",
       "type": "Conference",
       "in": "Der 'Faktor Mensch' in der Mensch-Maschinen-Interaktion",
       "institution": "Ruhr-University Bochum"
@@ -83,6 +233,8 @@
       "name": "Mark-up languages as tools for standardizing modeling in science",
       "by": "gramelsberger",
       "date": "22 to 23 November 2018",
+      "startDate": "2018-11-22",
+      "endDate": "2018-11-23",
       "type": "Workshop",
       "in": "Philosophy and Technologies for Simulation",
       "institution": "Politecnico di Milano"
@@ -91,6 +243,8 @@
       "name": "The technoromanticism of ontography. Using computer-aided design for direct access to things, but possible ones",
       "by": "gramelsberger",
       "date": "17 to 19 October 2018",
+      "startDate": "2018-10-17",
+      "endDate": "2018-10-19",
       "type": "Conference",
       "in": "Ontography. Procedures, Problems, Prospects",
       "institution": "IKKM Internationales Kolleg für Kulturtechnikforschung und Medienphilosophie, Bauhaus University Weimar"
@@ -99,6 +253,8 @@
       "name": "Parallelgesellschaft der Maschinen",
       "by": "gramelsberger",
       "date": "5 to 7 October 2018",
+      "startDate": "2018-10-05",
+      "endDate": "2018-10-07",
       "type": "Keynote Lecture 3. INSIST-Nachwuchstagung",
       "in": "Von Menschen und Maschinen",
       "institution": "KIT Karlsruher Institut für Technologie"
@@ -107,6 +263,8 @@
       "name": "Labore - Herstellungsorte temporaler Artifizialitäten",
       "by": "gramelsberger",
       "date": "27 to 28 September 2018",
+      "startDate": "2018-09-27",
+      "endDate": "2018-09-28",
       "type": "Conference",
       "in": "Technik und Zeit",
       "institution": "Kunstakademie Düsseldorf"
@@ -115,6 +273,8 @@
       "name": "Technologie und ihre Auswirkungen auf Individuen, Gesellschaft und Wissenschaft",
       "by": "gramelsberger",
       "date": "7 September 2018",
+      "startDate": "2018-09-07",
+      "endDate": "2018-09-07",
       "type": "",
       "in": "Faculty Club",
       "institution": "RWTH Aachen University"
@@ -123,6 +283,8 @@
       "name": "Mediatechnicity",
       "by": "gramelsberger",
       "date": "19 to 22 September 2018",
+      "startDate": "2018-09-19",
+      "endDate": "2018-09-22",
       "type": "International Conference on",
       "in": "Digital Culture",
       "institution": "Leuphana University Luneburg"
@@ -131,6 +293,8 @@
       "name": "Mastering temporal regimes in science",
       "by": "gramelsberger",
       "date": "6 September 2018",
+      "startDate": "2018-09-06",
+      "endDate": "2018-09-06",
       "type": "",
       "in": "Colloquium of the Institute for Computational and Systems Neuroscience (INM-6)",
       "institution": "Research Center Jülich"
@@ -139,6 +303,8 @@
       "name": "Scaling in modelling and simulation",
       "by": "gramelsberger",
       "date": "22 June 2018",
+      "startDate": "2018-06-22",
+      "endDate": "2018-06-22",
       "type": "Workshop",
       "in": "Scales of Justice: Calculating Norms and Probabilities",
       "institution": "Institute of Advanced Legal Studies London"
@@ -147,6 +313,8 @@
       "name": "Living Labs, kollaboratives Forschungsdatenmanagement und Transfermetriken",
       "by": "gramelsberger",
       "date": "13 June 2018",
+      "startDate": "2018-06-13",
+      "endDate": "2018-06-13",
       "type": "",
       "in": "IT-Center Informationstag",
       "institution": "RWTH Aachen University"
@@ -155,6 +323,8 @@
       "name": "FAIR4U Digitalisierung der Wissenschaft erforschen und in der Lehre kommunizieren",
       "by": "gramelsberger",
       "date": "6 June 2018",
+      "startDate": "2018-06-06",
+      "endDate": "2018-06-06",
       "type": "",
       "in": "Talk Lehre 2018",
       "institution": "RWTH Aachen University"
@@ -163,6 +333,8 @@
       "name": "Einsichten in Modelle und Modellierung",
       "by": "gramelsberger",
       "date": "17 April 2018",
+      "startDate": "2018-04-17",
+      "endDate": "2018-04-17",
       "type": "Kick-off Workshop",
       "in": "Literary Modelling and Energy Transition",
       "institution": "KIT Karlsruhe Institute of Technology"
@@ -171,6 +343,8 @@
       "name": "Kognitive Grenzen im Umgang mit Komplexität",
       "by": "gramelsberger",
       "date": "14 April 2018",
+      "startDate": "2018-04-14",
+      "endDate": "2018-04-14",
       "type": "6. Aachener Kongress der Studierenden der Studienstiftung des deutschen Volkes",
       "in": "Der Mensch an seinen Grenzen",
       "institution": "RWTH Aachen University"
@@ -179,6 +353,8 @@
       "name": "Tech-Bodies. Thresholds of biological bodies and technological innovation",
       "by": "gramelsberger",
       "date": "15 March 2018",
+      "startDate": "2018-03-15",
+      "endDate": "2018-03-15",
       "type": "",
       "in": "Assembly / Tanzplattform in Deutschland 2018",
       "institution": "PACT Zollverein"
@@ -187,6 +363,8 @@
       "name": "History of continuous culture techniques and their promise of directed evolution",
       "by": "gramelsberger",
       "date": "12 February 2018",
+      "startDate": "2018-02-12",
+      "endDate": "2018-02-12",
       "type": "",
       "in": "EGENIS Colloquium",
       "institution": "University of Exeter"
@@ -195,6 +373,8 @@
       "name": "Erkenntnisformen des Neuen",
       "by": "gramelsberger",
       "date": "31 January 2018",
+      "startDate": "2018-01-31",
+      "endDate": "2018-01-31",
       "type": "Lecture Series",
       "in": "Das Neue",
       "institution": "Institute of Philosophy, TU Darmstadt"
@@ -203,6 +383,8 @@
       "name": "Mediatechnicity",
       "by": "gramelsberger",
       "date": "12 January 2018",
+      "startDate": "2018-01-12",
+      "endDate": "2018-01-12",
       "type": "Conference",
       "in": "CritiqueLab for Digital Cultures",
       "institution": "DCRL Centre for Digital Cultures, Leuphana University Lüneburg"
@@ -211,22 +393,18 @@
       "name": "Philosophie, Klima, Komplexe Systeme",
       "by": "gramelsberger",
       "date": "7 December 2017",
+      "startDate": "2017-12-07",
+      "endDate": "2017-12-07",
       "type": "",
       "in": "Colloquium of the Institute of Philosophy",
       "institution": "RUB University of Bochum"
     },
     {
-      "name": "",
-      "by": "gramelsberger",
-      "date": "",
-      "type": "",
-      "in": "",
-      "institution": ""
-    },
-    {
       "name": "Promising Care, Longing for Data",
       "by": "gramelsberger",
       "date": "2 to 4 November 2017",
+      "startDate": "2017-11-02",
+      "endDate": "2017-11-04",
       "type": "Conference",
       "in": "Affective Transformations: Politics. Algorithms. Media",
       "institution": "University of Postdam"
@@ -235,6 +413,8 @@
       "name": "Die Kunst des Modellierens",
       "by": "gramelsberger",
       "date": "23 October 2017",
+      "startDate": "2017-10-23",
+      "endDate": "2017-10-23",
       "type": "Opening Lecture of the Conjoint Research Project",
       "in": "Literary Modelling and Energy Transition",
       "institution": "University of Münster and Karlsruhe Institute of Technology. University of Münster"
@@ -243,6 +423,8 @@
       "name": "Base-calling Algorithmen. Epistemische Folgen der Automatisierung der Gensequenzierung in den 1970ern und 1980ern auf den Gen-Begriff",
       "by": "gramelsberger",
       "date": "12 to 14 October 2017",
+      "startDate": "2017-10-12",
+      "endDate": "2017-10-14",
       "type": "Workshop",
       "in": "Algorithmische Wissenskulturen? Der Einfluss des Computers auf die Wissenschaftsentwicklung",
       "institution": "Deutsches Museum München"

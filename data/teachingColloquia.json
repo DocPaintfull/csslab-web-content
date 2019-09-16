@@ -1,0 +1,18 @@
+{
+    "headLine": "TST Colloquium",
+    "content": {
+        "blueBox": {
+            "headLine": "Mission",
+            "content": "The colloquium of the Chair for Theory of Science and Technology (TST) addresses a variety of topics related to the theory of (computational) science and technology for Master’s and PhD students as well as postdocs. It discusses the literature of the workshops organized by the CSS Lab and hosts the reading group on code studies organized by Dawid Kasprowicz and Jennifer Schaffrath. <br/><br/> The colloquium takes place on Thursdays during the lecture period from 14:30 to 16:00. Location: CSS Lab (room 410), Theaterplatz 14, RWTH Aachen University. Accreditation is required."
+        },
+        "box1": {
+            "headLine": "Summer Term 2019"
+        },
+        "box2": {
+            "headLine": "Winter Term 2018/2019"
+        },
+        "box3": {
+            "headLine": "Summer Term 2018"
+        }
+    }
+}

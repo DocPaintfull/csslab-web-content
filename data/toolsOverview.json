@@ -1,0 +1,17 @@
+{
+    "headLine": "Tools",
+    "content": {
+        "box1": {
+            "headLine": "CSS Tools",
+            "content": "<p> The CSS Lab intends to establish an open science infrastructure for Computational Science Studies. We are programming software tools designed to facilitate case studies on computational sciences in the subfield of code studies. Our tools fulfil three demands: <ul class=\"arrow-style\"><li> The CSS Tools visualize software structures in order to better analyse them; </li><li> The CSS Tools help to conduct code genealogies as well as code comparisons; </li><li> The CSS Tools help to analyse the scientific content of software projects. </li></ul> The last of these, in particular, is an entirely new demand resulting from the requirements of conducting Computational Science Studies. However, it is not easy to extract the scientific content of software projects such as scientific models, scientific data analysis algorithms, and measurement procedures. Therefore, we are developing methods to perform scientific content analysis. </p><p><b> ICE Isomorphic Comment Extractor</b>: The ICE visualizes comments for the most common programming languages such as Python, C/C++, Fortran, etc. It extracts the comments of a software project and links the comments to the code. It is rooted in the isomorphic basis of all our tools, which represents and depicts the file structure of a software project in isomorphic form. Under construction. </p><p><b> ICA Isomorphic Class Analyzer </b>: The ICE visualizes the class structure of an object-oriented programmed software project. It shows the genealogy based on Git, as well as the software project’s heredity of classes. Under construction. </p>"
+        },
+        "box2": {
+            "headLine": "Manuals",
+            "content": "<p> Each CSS Tool is thoroughly documented; use cases are described and the methods for achieving scientific content analysis are explained. </p><p> These manuals will be provided soon. </p>"
+        },
+        "box3": {
+            "headLine": "Glossary",
+            "content": "<p> The glossary explains the most important concepts and methods in Computational Science Studies. </p><p> The glossary will be available soon. </p>"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "headLine": "Research",
+    "content": {
+        "box1": {
+            "headLine": "Mission",
+            "content": "Our research is dedicated to the understanding of the \"radical transformation of the nature of science\" through digitalization (EU Horizon 2020). The aim is twofold: On the one hand, we are developing a conceptual framework for a Philosophy of Computational Sciences and Technology; on the other, we are building an open science infrastructure for Computational Science Studies. We are programming software tools designed to facilitate case studies on computational sciences in the subfield of code studies. <br/><br/> The CSS Lab was founded in 2017. It is part of the Chair for Theory of Science and Technology at the RWTH Human Technology Center. In 2018 and 2019 the CSS Lab received funding from the DFG Initiative of Excellence and the the Stifterverband and the Ministry of Innovation, Science and Research of North Rhine-Westphalia (NRW Digital Fellowship 2017)"
+        },
+
+        "box2": {
+            "headLine": "PhD and PostDoc Projects"
+        },
+
+        "box3": {
+            "headLine": "Funded Research Projects"
+        },
+
+        "box4": {
+            "headLine": "Collaborations"
+        },
+
+        "box5": {
+            "headLine": "Preprints",
+            "content": "The Computational Science Studies Lab invites researchers to publish preprints on philosophy of computational sciences, computational science studies, and digital transformation of science, technology and society on our preprint server. Case studies in computational sciences using CSS Tools are especially welcomed to present their results in our CSS preprint series."
+        },
+
+        "box6": {
+            "headLine": "Book Series"
+        },
+
+        "box7": {
+            "headLine": "Publications (upcoming)"
+        }
+    }
+}
