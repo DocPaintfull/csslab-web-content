@@ -1,11 +1,11 @@
 {
     "box1": {
         "headLine": "Research",
-        "content": "How does algorithmic thinking change science and technology? <br/> How do scientific concepts transform? <br/> The CSS Lab is dedicated to the understanding of the digital transformation of science. We are developing a conceptual framework for a Philosophy of Computational Sciences and Technology."
+        "content": "How does algorithmic thinking change science and technology? How do scientific concepts transform? The CSS Lab is dedicated to the understanding of the digital transformation of science. We are developing a conceptual framework for a Philosophy of Computational Sciences and Technology."
     },
     "box2": {
         "headLine": "Tools",
-        "content": "How can we explore computational sciences? <br/> How can we ease the study of computational sciences? <br/> The CSS Lab is building an open science infrastructure for Computational Science Studies. We are programming software tools designed to facilitate case studies on computational sciences in the subfield of code studies."
+        "content": "How can we explore computational sciences? How can we ease the study of computational sciences? The CSS Lab is building an open science infrastructure for Computational Science Studies. We are programming software tools designed to facilitate case studies on computational sciences in the subfield of code studies."
     },
 
     "bottom": {
