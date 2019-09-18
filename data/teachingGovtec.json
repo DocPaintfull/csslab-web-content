@@ -9,33 +9,76 @@
         "content": {
             "box1": {
                 "headLine": "1st Semester: Basic courses",
-                "content": "Module 1: Wissenstheorie des Forschens (Knowledge Theory of Research) <br/> Module 2: Innovieren im Wandel (Changes in Innovation) <br/> Module 3: Governance von Wissenschaft und Innovation (Governance of Science and Innovation <br/>"
+                "content": [
+                    "Module 1: Wissenstheorie des Forschens (Knowledge Theory of Research)",
+                    "Module 2: Innovieren im Wandel (Changes in Innovation)",
+                    "Module 3: Governance von Wissenschaft und Innovation (Governance of Science and Innovation"
+                ]
             },
             "box2": {
                 "headLine": "2nd Semester: Advanced courses",
-                "content": "Module 4: Modelling for Innovation <br/> Module 5: Technology Assessment <br/> Module 6: Responsible Research and Innovation <br/>"
+                "content": [
+                    "Module 4: Modelling for Innovation",
+                    "Module 5: Technology Assessment",
+                    "Module 6: Responsible Research and Innovation"
+                ]
             },
             "box3": {
                 "headLine": "1st to 3rd Semester: Elective course",
-                "content": "Module 7: Governance of socio-technical change <ul class=\"arrow-style second-level\"><li> A: Managing the innovation Process </li><li> B: Sustainability Strategies in Politics and Companies </li><li> C: Techniksoziologie </li><li> D: Technologie und Politik </li><li> E: Entscheidungslehre </li></ul>"
+                "content": [
+                    "Module 7: Governance of socio-technical change",
+                    {
+                        "box1": "A: Managing the innovation Process",
+                        "box2": "B: Sustainability Strategies in Politics and Companies",
+                        "box3": "C: Techniksoziologie",
+                        "box4": "D: Technologie und Politik",
+                        "box5": "E: Entscheidungslehre"
+                    }
+                ]
             },
             "box4": {
                 "headLine": "3rd Semester: Practice",
-                "content": "Module 8: Practice <ul class=\"arrow-style second-level\"><li> 1-week workshop on STS-methods </li><li> 10-weeks internship/10-weeks graduate project, respectively </li><li> 1-week colloquium on governance of socio-technical change (module 7) </li></ul>"
+                "content": [
+                    "Module 8: Practice",
+                    {
+                        "box1": "1-week workshop on STS-methods",
+                        "box2": "10-weeks internship/10-weeks graduate project, respectively",
+                        "box3": "1-week colloquium on governance of socio-technical change (Module 7)"
+                    }
+                ]
             },
             "box5": {
                 "headLine": "4th Semester: Master",
-                "content": "Module 9: Master <ul class=\"arrow-style second-level\"><li> Master colloquium </li><li> Master thesis (50-60 pages) </li><li> Master presentation and discussion (30 minutes) </li></ul>"
+                "content": [
+                    "Module 9: Master",
+                    {
+                        "box1": "Master colloquium",
+                        "box2": "Master thesis (50-60 pages)",
+                        "box3": "Master presentation and discussion (30 minutes)"
+                    }
+                ]
             }
         }
     },
     "box2": {
         "headLine": "Responsible",
-        "content": {
-            "box1": "<li> Prof. Dr. Gabriele Gramelsberger, Chair for Theory of Science and Technology (TST). <router-link to=\"/team/gramelsberger\"> Contact. </router-link></li>",
-            "box2": "<li> Prof. Dr. Stefan Böschen, Chair for Technology and Society (SocT). <a href=\"http://www.humtec.rwth-aachen.de/cms/HUMTEC/Das-Projekthaus/Team/~ptvs/Mitarbeiter-CAMPUS-/?gguid=0x80FDFE0318BE424CABEE1A4FA3595E25&allou=1&lidx=1\" target=\"_blank\" rel=\"noopener\"> Contact. </a></li>",
-            "box3": "<li> Master Program Advisor: Dr. Willy Viehöver. <a href=\"mailto: willy.viehoever@humtec.rwth-aachen.de\"> Contact. </a></li>"
-        }
+        "content": [
+            {
+                "desc": "Prof. Dr. Gabriele Gramelsberger, Chair for Theory of Science and Technology (TST).",
+                "href": "",
+                "router": "/team/gramelsberger"
+            },
+            {
+                "desc": "Prof. Dr. Stefan Böschen, Chair for Technology and Society (SocT).",
+                "href": "http://www.humtec.rwth-aachen.de/cms/HUMTEC/Das-Projekthaus/Team/~ptvs/Mitarbeiter-CAMPUS-/?gguid=0x80FDFE0318BE424CABEE1A4FA3595E25&allou=1&lidx=1",
+                "router": ""
+            },
+            {
+                "desc": "Master Program Advisor: Dr. Willy Viehöver.",
+                "href": "mailto: willy.viehoever@humtec.rwth-aachen.de",
+                "router": ""
+            }
+        ]
     },
     "box3": {
         "headLine": "Application"
