@@ -16,12 +16,12 @@
         },
         "box2": {
             "headLine": "Manuals",
-            "content": "<p> Each CSS Tool is thoroughly documented; use cases are described and the methods for achieving scientific content analysis are explained.",
+            "content": "Each CSS Tool is thoroughly documented; use cases are described and the methods for achieving scientific content analysis are explained.",
             "subline": "These manuals will be provided soon."
         },
         "box3": {
             "headLine": "Glossary",
-            "content": "<p> The glossary explains the most important concepts and methods in Computational Science Studies.",
+            "content": "The glossary explains the most important concepts and methods in Computational Science Studies.",
             "subline": "The glossary will be available soon."
         }
     }
