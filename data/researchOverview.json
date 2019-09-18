@@ -23,9 +23,7 @@
 
         "box5": {
             "headLine": "Preprints",
-            "content": [
-                "The Computational Science Studies Lab invites researchers to publish preprints on philosophy of computational sciences, computational science studies, and digital transformation of science, technology and society on our preprint server. Case studies in computational sciences using CSS Tools are especially welcomed to present their results in our CSS preprint series."
-            ]
+            "content": "The Computational Science Studies Lab invites researchers to publish preprints on philosophy of computational sciences, computational science studies, and digital transformation of science, technology and society on our preprint server. Case studies in computational sciences using CSS Tools are especially welcomed to present their results in our CSS preprint series."
         },
 
         "box6": {
