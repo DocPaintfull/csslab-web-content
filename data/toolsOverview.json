@@ -10,7 +10,8 @@
                 "The CSS Tools help to analyse the scientific content of software projects.",
                 "The last of these, in particular, is an entirely new demand resulting from the requirements of conducting Computational Science Studies. However, it is not easy to extract the scientific content of software projects such as scientific models, scientific data analysis algorithms, and measurement procedures. Therefore, we are developing methods to perform scientific content analysis.",
                 "ICE Isomorphic Comment Extractor:", "The ICE visualizes comments for the most common programming languages such as Python, C/C++, Fortran, etc. It extracts the comments of a software project and links the comments to the code. It is rooted in the isomorphic basis of all our tools, which represents and depicts the file structure of a software project in isomorphic form. Under construction.",
-                "ICA Isomorphic Class Analyzer </b>: The ICE visualizes the class structure of an object-oriented programmed software project. It shows the genealogy based on Git, as well as the software project’s heredity of classes. Under construction."
+                "ICA Isomorphic Class Analyzer:",
+                "The ICE visualizes the class structure of an object-oriented programmed software project. It shows the genealogy based on Git, as well as the software project’s heredity of classes. Under construction."
             ]
         },
         "box2": {
