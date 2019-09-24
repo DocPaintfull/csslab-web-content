@@ -15,6 +15,13 @@
   "seminars":
   [
     {
+      "in": "name",
+      "term": "asdf",
+      "type": "Module",
+      "name": "test",
+      "description": "test"
+    },
+    {
       "in": "Master Programme Governance of Technology and Innovation (GovTec)",
       "term": "Winter term",
       "type": "Module",
