@@ -36,27 +36,6 @@
     ]
   },
   {
-    "title": "NRW Digital Fellowship 2017",
-    "description": "The CSS Lab as a lab for teaching Computational Science Studies has been partly funded by the NRW Digital Fellowship; in particular, the development of ICE Isomorphic Comment Extractor and ICA Isomorphic Class Analyzer, the CSS Lab website as well as the development and communication of the GovTec Master's modules Knowledge Theory of Research, Modelling for Innovation and Practice. The CSS Lab provides a digital environment for computational science studies for Master students as well as PhD students.",
-    "fundedBy": "Stifterverband and the NRW Ministry of Research",
-    "collaborators": "Prof. Dr. Gabriele Gramelsberger and Dr. Dawid Kasprowicz, RWTH Aachen University",
-    "publicationInfo": "",
-    "startYear": 2018,
-    "endYear": 2019,
-    "images": [
-      {
-        "src": "https://www.stifterverband.org/sites/all/themes/stifterverband/images/logos/sv.svg",
-        "alt": "Stifterverband Logo",
-        "href": "https://www.dfg.de/en/"
-      },
-      {
-        "src": "https://www.mkw.nrw/themes/custom/mkw_theme/source/images/logo.png",
-        "alt": "NRW Ministry of Research Logo",
-        "href": "https://www.rwth-aachen.de/cms/root/Forschung/Angebote-fuer-Forschende/~ohy/ERS-Angebote/?lidx=1"
-      }
-    ]
-  },
-  {
     "title": "Mind the Game!",
     "description": "Artificial Intelligence (AI) dominates the discourse on future society. While most of the smart cars, robots, and algorithms discussed by the broader public have yet to be developed in academic and industrial labs, the massive exposure of users to AI in computer games is part of everyday experience for millions. Thus, our main hypothesis is that AI is not a future technology, but has long since invaded the living rooms of our society today, opening up an unexplored 'sociointelligent space'. Mind the Game! explores this socio-intelligent space of AI in games that interact with users theoretically, empirically, and technologically.",
     "fundedBy": "Volkswagen Foundation",
@@ -107,6 +86,27 @@
         "src": "/snf_logo_en.gif",
         "alt": "Swiss National Science Foundation Logo",
         "href": "http://www.snf.ch/en/Pages/default.aspx"
+      }
+    ]
+  },
+  {
+    "title": "NRW Digital Fellowship 2017 (completed)",
+    "description": "The CSS Lab as a lab for teaching Computational Science Studies has been partly funded by the NRW Digital Fellowship; in particular, the development of ICE Isomorphic Comment Extractor and ICA Isomorphic Class Analyzer, the CSS Lab website as well as the development and communication of the GovTec Master's modules Knowledge Theory of Research, Modelling for Innovation and Practice. The CSS Lab provides a digital environment for computational science studies for Master students as well as PhD students.",
+    "fundedBy": "Stifterverband and the NRW Ministry of Research",
+    "collaborators": "Prof. Dr. Gabriele Gramelsberger and Dr. Dawid Kasprowicz, RWTH Aachen University",
+    "publicationInfo": "",
+    "startYear": 2018,
+    "endYear": 2019,
+    "images": [
+      {
+        "src": "https://www.stifterverband.org/sites/all/themes/stifterverband/images/logos/sv.svg",
+        "alt": "Stifterverband Logo",
+        "href": "https://www.dfg.de/en/"
+      },
+      {
+        "src": "https://www.mkw.nrw/themes/custom/mkw_theme/source/images/logo.png",
+        "alt": "NRW Ministry of Research Logo",
+        "href": "https://www.rwth-aachen.de/cms/root/Forschung/Angebote-fuer-Forschende/~ohy/ERS-Angebote/?lidx=1"
       }
     ]
   },
