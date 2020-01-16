@@ -19,6 +19,28 @@
     "books":
     [
       {
+        "name": "Handbuch Virtualität",
+        "authors": "Kasprowicz, Dawid and Stefan Rieger (eds.)",
+        "year": "2020",
+        "in": "",
+        "volume": "",
+        "pages": "",
+        "city": "Wiesbaden u.a.",
+        "publisher": "Springer",
+        "doi": "",
+        "in_print": true
+      },{
+        "name": "Der Körper auf Tauchstation. Zu einer Wissensgeschichte der Immersion. (Reihe Wissenschafts- und Technikforschung, 19)",
+        "authors": "Kasprowicz, Dawid",
+        "year": "2019",
+        "in": "",
+        "volume": "",
+        "pages": "",
+        "city": "Baden Baden",
+        "publisher": "Nomos",
+        "doi": ""
+      },
+      {
         "name": "Immersion. Grenzen und Metaphorik des digitalen Subjekts",
         "authors": "Breyer, Thiemo and Kasprowicz, Dawid (eds.)",
         "year": "2019",
@@ -52,14 +74,14 @@
         "doi": ""
       },
       {
-        "name": "Handbuch Virtualität",
-        "authors": "Dawid Kasprowicz, Stefan Rieger (eds.)",
-        "year": "2019",
+        "name": "",
+        "authors": "",
+        "year": "",
         "in": "",
         "volume": "",
         "pages": "",
-        "city": "Wiesbaden ua.",
-        "publisher": "Springer",
+        "city": "",
+        "publisher": "",
         "doi": ""
       }
     ],
