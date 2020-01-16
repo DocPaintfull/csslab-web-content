@@ -36,7 +36,7 @@ Contains the content of the Teaching Philosophy page.
 Holds the headlines of the colloquium page.
 
 * [Teaching Events](https://github.com/DocPaintfull/csslab-web-content/blob/master/data/teachingEvents.json)  
-This contains the lectures and seminars of the chair.
+This contains the lectures and seminars of the chair. This will be shown as a list on Teaching Philosophy.
 
 * [Events](https://github.com/DocPaintfull/csslab-web-content/tree/master/data/events)  
 This folder contains events, panels and talks, each in a single file.
