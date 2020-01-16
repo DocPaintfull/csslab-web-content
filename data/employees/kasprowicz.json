@@ -129,6 +129,19 @@
         "in_print": true
       },
       {
+        "name": "Human Factors Engineering",
+        "authors": "Kasprowicz, Dawid",
+        "year": "2019",
+        "in": "Mensch-Maschine-Interaktion. Handbuch zu Geschichte - Kultur - Ethik",
+        "in_author": "Liggieri, Kevin and Müller, Oliver (eds.)",
+        "volume": "",
+        "pages": "263-265",
+        "city": "Stuttgart",
+        "publisher": "Metzler",
+        "doi": "",
+        "in_print": false
+      },
+      {
         "name": "Information",
         "authors": "Kasprowicz, Dawid",
         "year": "2019",
@@ -290,6 +303,17 @@
     "reviews":
     [
       {
+        "name": "Die Wiederkehr der Zaubermaschinen. Drei Bücher zur viel diskutierten Disziplin des „machine learning“",
+        "authors": "Kasprowicz, Dawid",
+        "year": "2019",
+        "in": "Zeitschrift für Medienwissenschaft",
+        "volume": "21 (1)",
+        "pages": "180-186",
+        "city": "",
+        "publisher": "",
+        "doi": ""
+      },
+      {
         "name": "Conference Report: Zwischen Auslöser und militärischem Eingriff. Report of the Conference „Medien-Krieg-Raum“, at the Friedrich-Alexander University in Erlangen-Nürnberg",
         "authors": "Kasprowicz, Dawid",
         "year": "2015",
@@ -327,14 +351,14 @@
     "misc":
     [
       {
-        "name": "Art and Algorithms #3 – Contribution to the Performance 'Open Your Body for Big Data' from Martina Leeker",
+        "name": "Abschalten – Eintauchen – Auftauchen: Besseres Leben durch Immersion. Beitrag zur Mimikry: Wellness Retrotopia (07.02. 2020). Zürich: Theater am Neumarkt (06.-16.02.)",
         "authors": "Kasprowicz, Dawid",
-        "year": "2018",
+        "year": "2020",
         "in": "",
         "volume": "",
         "pages": "",
-        "city": "NRW-Forum, Düsseldorf",
-        "publisher": "",
+        "city": "Zürich",
+        "publisher": "Theater am Neumarkt",
         "doi": ""
       },
       {
