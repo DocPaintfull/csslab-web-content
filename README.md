@@ -9,7 +9,7 @@ This Repository contains the content for the CSS-Lab website to allow fast and e
 This is the Banner which is on top of a few sites, especially the home site.
 
 * [Home](https://github.com/DocPaintfull/csslab-web-content/blob/master/data/home.json)  
-This is the content of the standard website.
+This is the content of the main page.
 
 * [Employees](https://github.com/DocPaintfull/csslab-web-content/tree/master/data/employees)  
 This folder contains all employee files. Inside these it is possible to change the description and publications. Here you can also find the pictures of the employees.
