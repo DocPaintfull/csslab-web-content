@@ -16,11 +16,27 @@
       }
     ],
     "publications": {
+      "reviewed":
+      [
+        {
+          "name": "Computational Science Studies. A Tool-Based Methodology for Studying Code",
+          "authors": "Schüttler, Lisa, Kasprowicz, Dawid and Gramelsberger, Gabriele",
+          "year": "2019",
+          "in": "Critical Issues in Science, Technology, and Society Studies (Conference Proceedings STS Conference Graz 2019)",
+          "in_author": "Getzinger, Günter, Jahrbacher, Michaela (eds.)",
+          "volume": "",
+          "pages": "385-401",
+          "city": "Graz",
+          "publisher": "Verlag der Technischen Universität Graz",
+          "doi": "",
+          "in_print": false 
+        }
+      ],
       "reports":
       [
         {
           "name": "Robotik in Österreich. Kurzstudie – Entwicklungsperspektiven und politische Herausforderungen",
-          "authors": "Johann Čas, Gloria Rose, Lisa Schüttler",
+          "authors": "Čas, Johann, Rose, Gloria, Schüttler, Lisa",
           "year": "2017",
           "url": "http://epub.oeaw.ac.at/ita/ita-projektberichte/2017-03.pdf",
           "pages": ""
