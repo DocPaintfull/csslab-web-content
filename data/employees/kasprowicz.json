@@ -79,7 +79,7 @@
       {
         "name": "Virtual Embodiment",
         "authors": "Kasprowicz, Dawid",
-        "year": "2019",
+        "year": "2020",
         "in": "Handbuch Virtualität",
         "in_author": "Kasprowicz, Dawid and Rieger, Stefan (eds.)",
         "volume": "",
@@ -351,14 +351,25 @@
     "misc":
     [
       {
-        "name": "Abschalten – Eintauchen – Auftauchen: Besseres Leben durch Immersion. Beitrag zur Mimikry: Wellness Retrotopia (07.02. 2020). Zürich: Theater am Neumarkt (06.-16.02.)",
+        "name": "Abschalten – Eintauchen – Auftauchen: Besseres Leben durch Immersion. Beitrag zur Mimikry: Wellness Retrotopia (07.02. 2020)",
         "authors": "Kasprowicz, Dawid",
         "year": "2020",
         "in": "",
         "volume": "",
         "pages": "",
         "city": "Zürich",
-        "publisher": "Theater am Neumarkt",
+        "publisher": "Theater am Neumarkt (06.-16.02.)",
+        "doi": ""
+      },
+       {
+        "name": "Art & Algorithm: Embodiment und algorithmisierte Körper. Beitrag zur Performance 'Open your Body for Big Data' von Martina Leeker",
+        "authors": "Kasprowicz, Dawid",
+        "year": "2018",
+        "in": "",
+        "volume": "",
+        "pages": "",
+        "city": "Düsseldorf",
+        "publisher": "NRW Forum (13.12.)",
         "doi": ""
       },
       {
