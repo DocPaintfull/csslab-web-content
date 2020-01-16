@@ -118,22 +118,8 @@
     "contributions":
     [
       {
-        "authors": "Mahony, Martin, Heymann, Matthias and Gramelsberger, Gabriele",
-        "year": "2019",
-        "name": "Cultures of prediction in climate science",
-        "in_author": "Feola, Giuseppe et al. (eds.)",
-        "in": "Climate and Culture",
-        "volume": "",
-        "pages": "",
-        "city": "Cambridge",
-        "publisher": "Cambridge University Press",
-        "doi": "",
-        "url": "",
-        "in_print": true
-      },
-      {
         "authors": "Gramelsberger, Gabriele",
-        "year": "2019",
+        "year": "2020",
         "name": "Algorithm Awareness. Towards a Philosophy of Artifactuality",
         "in_author": "Bösel, Bernd and Wiemer, Serjoscha. (eds.)",
         "in": "Affective Media and Policy",
@@ -147,35 +133,7 @@
       },
       {
         "authors": "Gramelsberger, Gabriele",
-        "year": "2019",
-        "name": "Affective Computing",
-        "in_author": "Hessler, Martina and Liggeri, Kevin. (eds)",
-        "in": "Handbuch für Technikanthropologie",
-        "volume": "",
-        "pages": "",
-        "city": "Baden-Baden",
-        "publisher": "Nomos/Edition Sigma",
-        "doi": "",
-        "url": "",
-        "in_print": true
-      },
-      {
-        "authors": "Gramelsberger, Gabriele",
-        "year": "2019",
-        "name": "Matrices – Compensating the Loss of Anschauung",
-        "in_author": "Friedman, Michael and Krauthausen, Karin. (eds.)",
-        "in": "Model and Mathematics: from 19th to 21th century",
-        "volume": "",
-        "pages": "",
-        "city": "",
-        "publisher": "",
-        "doi": "",
-        "url": "",
-        "in_print": true
-      },
-      {
-        "authors": "Gramelsberger, Gabriele",
-        "year": "2019",
+        "year": "2020",
         "name": "GeoMIP Szenarien - Der wissenschaftliche Umgang mit dem künstlichen Klima",
         "in_author": "Büttner, Urs and Müller, Dorit. (eds.)",
         "in": "Künstliches Klima: Zur Imaginationsgeschichte des Climate Engineering, (Special Issue for Zeitschrift Dritte Natur)",
@@ -186,6 +144,34 @@
         "doi": "",
         "url": "",
         "in_print": true
+      },
+      {
+        "authors": "Gramelsberger, Gabriele",
+        "year": "2020",
+        "name": "Affective Computing",
+        "in_author": "Hessler, Martina and Liggeri, Kevin. (eds)",
+        "in": "Handbuch für Technikanthropologie",
+        "volume": "",
+        "pages": "445-452",
+        "city": "Baden-Baden",
+        "publisher": "Nomos/Edition Sigma",
+        "doi": "",
+        "url": "",
+        "in_print": false
+      },
+      {
+        "authors": "Mahony, Martin, Heymann, Matthias and Gramelsberger, Gabriele",
+        "year": "2019",
+        "name": "Cultures of prediction in climate science",
+        "in_author": "Feola, Giuseppe et al. (eds.)",
+        "in": "Climate and Culture",
+        "volume": "",
+        "pages": "29-38",
+        "city": "Cambridge",
+        "publisher": "Cambridge University Press",
+        "doi": "",
+        "url": "",
+        "in_print": false
       },
       {
         "authors": "Gramelsberger, Gabriele",
@@ -749,13 +735,13 @@
       {
         "name": "Matrizen - Schriftbilder diskontinuierlicher Zeitmodelle",
         "authors": "Gramelsberger, Gabriele",
-        "year": "2019",
+        "year": "2020",
         "in": " Bildwelten des Wissens. Kunsthistorisches Jahrbuch für Bildkritik",
         "volume": "15",
-        "pages": "",
+        "pages": "61-69",
         "city": "",
         "publisher": "",
-        "in_print": true
+        "in_print": false
       },
       {
         "name": "Climate and Simulation",
