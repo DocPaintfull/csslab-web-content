@@ -1,0 +1,54 @@
+
+{
+    "headLine": "Philosophy",
+    "content": {
+        "usualLecturers": [
+            {
+                "name": "Prof. Dr. habil. Gabriele Gramelsberger",
+                "topics": "theoretical philosophy, theory of science, philosophy of technology, model and simulation theory, logic"
+            },
+            {
+                "name": "Apl. Prof. Dr. habil. Wulf Kellerwessel",
+                "topics": "practical philosophy, political philosophy, philosophy of language, ethics"
+            },
+            {
+                "name": "Apl. Professor Dr. phil. Reinhold Breil",
+                "topics": "theoretical philosophy, modern philosophy"
+            },
+            {
+                "name": "Prof. em. Dr. habil. Rudolf Lüthe",
+                "topics": "theoretical philosophy, modern philosophy"
+            },
+            {
+                "name": "Prof. em. Dr. habil. Wolfgang Kuhlmann",
+                "topics": "discourse theory, political philosophy"
+            },
+            {
+                "name": "Privatdozent Dr. Jan-Hendrik Heinrichs (Forschungszentrum Jülich)",
+                "topics": "philosophy of mind, neuro ethics"
+            },
+            {
+                "name": "Lisa Schüttler",
+                "topics": "philosophy of technology, ethics of technology, philosophy of computer science and engineering"
+            },
+            {
+                "name": "Dr. Dawid Kasprowicz",
+                "topics": "theoretical philosophy, phenomenology, philosophy of technology"
+            },
+            {
+                "name": "Dr. Daniel Wenz",
+                "topics": "analytic philosophy, logic"
+            }
+        ],
+        "associateLecturers": [
+            {
+                "name": "Dr. Niels Martin",
+                "topics": "philosophy of science"
+            },
+            {
+                "name": "Dr. Jürgen Kippenhahn",
+                "topics": "practical philosophy, political philosophy, philosophy of language"
+            }
+        ]
+    }
+}
