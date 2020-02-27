@@ -28,8 +28,9 @@
         "city": "Wiesbaden u.a.",
         "publisher": "Springer",
         "doi": "",
-        "in_print": true
-      },{
+        "in_print": false
+      },
+      {
         "name": "Der Körper auf Tauchstation. Zu einer Wissensgeschichte der Immersion. (Reihe Wissenschafts- und Technikforschung, 19)",
         "authors": "Kasprowicz, Dawid",
         "year": "2019",
@@ -83,11 +84,10 @@
         "in": "Handbuch Virtualität",
         "in_author": "Kasprowicz, Dawid and Rieger, Stefan (eds.)",
         "volume": "",
-        "pages": "",
+        "pages": "385-402",
         "city": "Wiesbaden",
         "publisher": "Springer",
-        "doi": "",
-        "in_print": true
+        "doi": ""
       },
       {
         "name": "Virtualisierte Arbeitsplätze – Medienhistorische Annäherung an die Interaktion und Kollaboration zwischen menschlichen und maschinellen Agenten",
@@ -96,11 +96,11 @@
         "in": "Handbuch Virtualität",
         "in_author": "Kasprowicz, Dawid and Rieger, Stefan (eds.)",
         "volume": "",
-        "pages": "",
+        "pages": "129-148",
         "city": "Wiesbaden",
         "publisher": "Springer",
         "doi": "",
-        "in_print": true
+        "in_print": false
       },
       {
         "name": "Einleitung",
@@ -109,11 +109,11 @@
         "in": "Handbuch Virtualität",
         "in_author": "Dawid Kasprowicz, Stefan Rieger (eds.)",
         "volume": "",
-        "pages": "",
+        "pages": "1-22",
         "city": "Wiesbaden",
         "publisher": "Springer",
         "doi": "",
-        "in_print": true
+        "in_print": false
       },
       {
         "name": "Encoding Proximity - Intuition in Human-Robot-Collaborations",
