@@ -61,6 +61,15 @@
     "books":
     [
       {
+        "name": "Natures of Data. A Discussion between Biology, History and Philosophy of Science and Art",
+        "authors": "Fischer, Philipp, Gramelsberger, Gabriele, Hoffmann, Christoph, Hofmann, Hans, Rickli, Hannes and Rheinberger, Hans-Jörg. (eds)",
+        "year": "2020",
+        "in": "",
+        "pages": "",
+        "city": "Zürich, Berlin",
+        "publisher": "Diaphanes"
+      },
+      {
         "name": "Cultures of Prediction in Atmospheric and Climate Science: Epistemic and Cultural Shifts in Computer-based Modelling and Simulation (Routledge Environmental Humanities)",
         "authors": "Heymann, Matthias, Gramelsberger, Gabriele and Mahony, Martin. (eds.)",
         "year": "2017",
@@ -114,15 +123,6 @@
         "city": "Bielefeld",
         "publisher": "Transcript"
       },
-      {
-        "name": "Natures of Data. A Discussion between Biology, History and Philosophy of Science and Art",
-        "authors": "Fischer, Philipp, Gramelsberger, Gabriele, Hoffmann, Christoph, Hofmann, Hans, Rickli, Hannes and Rheinberger, Hans-Jörg. (eds)",
-        "year": "2020",
-        "in": "",
-        "pages": "",
-        "city": "Zürich, Berlin",
-        "publisher": "Diaphanes"
-      }
     ],
     "contributions":
     [
@@ -747,6 +747,39 @@
     "reviewed":
     [
       {
+        "name": "Synthetic Morphology – A vision of engineering biological form",
+        "authors": "Gramelsberger, Gabriele",
+        "year": "2020",
+        "in": "Journal of the History of Biology(accepted and in print)",
+        "volume": "",
+        "pages": "",
+        "city": "",
+        "publisher": "",
+        "doi": ""
+      },
+    {
+      "name": "Philosophical Perspectives on Earth System Modeling: Truth, Adequacy and Understanding",
+      "authors": "Gramelsberger, Gabriele, Lenhard, Johannes and Parker, Wendy",
+      "year": "2020",
+      "in": "Journal of Advances in Modeling Earth Systems",
+      "volume": "12(1)",
+      "pages": "",
+      "city": "",
+      "publisher": "",
+      "doi": ""
+    },
+    {
+      "name": "Mind the Game! Die Exteriorisierung des Geistes ins Spiel gebracht",
+      "authors": "Gramelsberger, Gabriele, Rautzenberg, Markus, Wiemer, Serjoscha and Fuchs Mathias",
+      "year": "2019",
+      "in": "eitschrift für Medienwissenschaft",
+      "volume": "11(2)",
+      "pages": "29–38",
+      "city": "",
+      "publisher": "",
+      "doi": ""
+    },
+      {
           "name": "Computational Science Studies. A Tool-Based Methodology for Studying Code",
           "authors": "Schüttler, Lisa, Kasprowicz, Dawid and Gramelsberger, Gabriele",
           "year": "2019",
@@ -1131,39 +1164,6 @@
         "in": "Leonardo - Magazin für Architektur",
         "volume": "4",
         "pages": "66-70",
-        "city": "",
-        "publisher": "",
-        "doi": ""
-      },
-      {
-        "name": "Synthetic Morphology – A vision of engineering biological form",
-        "authors": "Gramelsberger, Gabriele",
-        "year": "2020",
-        "in": "Journal of the History of Biology(accepted and in print)",
-        "volume": "",
-        "pages": "",
-        "city": "",
-        "publisher": "",
-        "doi": ""
-      },
-      {
-        "name": "Philosophical Perspectives on Earth System Modeling: Truth, Adequacy and Understanding",
-        "authors": "Gramelsberger, Gabriele, Lenhard, Johannes and Parker, Wendy",
-        "year": "2020",
-        "in": "Journal of Advances in Modeling Earth Systems",
-        "volume": "12(1)",
-        "pages": "",
-        "city": "",
-        "publisher": "",
-        "doi": ""
-      },
-      {
-        "name": "Mind the Game! Die Exteriorisierung des Geistes ins Spiel gebracht",
-        "authors": "Gramelsberger, Gabriele, Rautzenberg, Markus, Wiemer, Serjoscha and Fuchs Mathias",
-        "year": "2019",
-        "in": "eitschrift für Medienwissenschaft",
-        "volume": "11(2)",
-        "pages": "29–38",
         "city": "",
         "publisher": "",
         "doi": ""
