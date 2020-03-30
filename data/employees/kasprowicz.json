@@ -28,9 +28,8 @@
         "city": "Wiesbaden u.a.",
         "publisher": "Springer",
         "doi": "",
-        "in_print": false
-      },
-      {
+        "in_print": true
+      },{
         "name": "Der Körper auf Tauchstation. Zu einer Wissensgeschichte der Immersion. (Reihe Wissenschafts- und Technikforschung, 19)",
         "authors": "Kasprowicz, Dawid",
         "year": "2019",
@@ -84,10 +83,11 @@
         "in": "Handbuch Virtualität",
         "in_author": "Kasprowicz, Dawid and Rieger, Stefan (eds.)",
         "volume": "",
-        "pages": "385-402",
+        "pages": "",
         "city": "Wiesbaden",
         "publisher": "Springer",
-        "doi": ""
+        "doi": "",
+        "in_print": true
       },
       {
         "name": "Virtualisierte Arbeitsplätze – Medienhistorische Annäherung an die Interaktion und Kollaboration zwischen menschlichen und maschinellen Agenten",
@@ -96,11 +96,11 @@
         "in": "Handbuch Virtualität",
         "in_author": "Kasprowicz, Dawid and Rieger, Stefan (eds.)",
         "volume": "",
-        "pages": "129-148",
+        "pages": "",
         "city": "Wiesbaden",
         "publisher": "Springer",
         "doi": "",
-        "in_print": false
+        "in_print": true
       },
       {
         "name": "Einleitung",
@@ -109,11 +109,11 @@
         "in": "Handbuch Virtualität",
         "in_author": "Dawid Kasprowicz, Stefan Rieger (eds.)",
         "volume": "",
-        "pages": "1-22",
+        "pages": "",
         "city": "Wiesbaden",
         "publisher": "Springer",
         "doi": "",
-        "in_print": false
+        "in_print": true
       },
       {
         "name": "Encoding Proximity - Intuition in Human-Robot-Collaborations",
@@ -278,17 +278,6 @@
     ],
     "reviewed":
     [
-      {
-        "name": "Computational Science Studies. A Tool-Based Methodology for Studying Code.",
-        "authors": "Kasprowicz, Dawid, Schüttler, Lisa and Gramelsberger, Gabriele",
-        "year": "2019",
-        "in": "Critical Issues in Science, Technology, and Society Studies (Conference Proceedings STS Conference Graz 2019)",
-        "in_author": " Getzinger, Günter, Jahrbacher, Michaela (eds.)",
-        "pages": "385-401",
-        "city": "Graz",
-        "publisher": "Verlag der Technischen Universität Graz",
-        "in_print": false
-      },
       {
         "name": "Die Einschreibung möglicher Dinge. Zwei Urszenen der Computergrafik und eine onthographische Schneise",
         "authors": "Kasprowicz, Dawid and Gramelsberger, Gabriele",
