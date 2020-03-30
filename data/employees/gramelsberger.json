@@ -113,10 +113,33 @@
         "pages": "",
         "city": "Bielefeld",
         "publisher": "Transcript"
+      },
+      {
+        "name": "Natures of Data. A Discussion between Biology, History and Philosophy of Science and Art",
+        "authors": "Fischer, Philipp, Gramelsberger, Gabriele, Hoffmann, Christoph, Hofmann, Hans, Rickli, Hannes and Rheinberger, Hans-Jörg. (eds)",
+        "year": "2020",
+        "in": "",
+        "pages": "",
+        "city": "Zürich, Berlin",
+        "publisher": "Diaphanes"
       }
     ],
     "contributions":
     [
+      {
+        "authors": "Gramelsberger, Gabriele",
+        "year": "2020",
+        "name": "Emotion Mark-up Language – Die Maschinenlesbarkeit menschlicher Expressivität",
+        "in_author": "Heßler, Martina (ed.)",
+        "in": "Technikemotionen (Reihe Geschichte der technischen Kultur)",
+        "volume": "",
+        "pages": "",
+        "city": "Paderborn",
+        "publisher": "Schöningh (in print)",
+        "doi": "",
+        "url": "",
+        "in_print": true
+      },
       {
         "authors": "Gramelsberger, Gabriele",
         "year": "2020",
@@ -734,7 +757,7 @@
           "city": "Graz",
           "publisher": "Verlag der Technischen Universität Graz",
           "doi": "",
-          "in_print": false 
+          "in_print": false
         },
       {
         "name": "Die Einschreibung möglicher Dinge. Zwei Urszenen der Computergrafik und eine onthographische Schneise",
@@ -1108,6 +1131,39 @@
         "in": "Leonardo - Magazin für Architektur",
         "volume": "4",
         "pages": "66-70",
+        "city": "",
+        "publisher": "",
+        "doi": ""
+      },
+      {
+        "name": "Synthetic Morphology – A vision of engineering biological form",
+        "authors": "Gramelsberger, Gabriele",
+        "year": "2020",
+        "in": "Journal of the History of Biology(accepted and in print)",
+        "volume": "",
+        "pages": "",
+        "city": "",
+        "publisher": "",
+        "doi": ""
+      },
+      {
+        "name": "Philosophical Perspectives on Earth System Modeling: Truth, Adequacy and Understanding",
+        "authors": "Gramelsberger, Gabriele, Lenhard, Johannes and Parker, Wendy",
+        "year": "2020",
+        "in": "Journal of Advances in Modeling Earth Systems",
+        "volume": "12(1)",
+        "pages": "",
+        "city": "",
+        "publisher": "",
+        "doi": ""
+      },
+      {
+        "name": "Mind the Game! Die Exteriorisierung des Geistes ins Spiel gebracht",
+        "authors": "Gramelsberger, Gabriele, Rautzenberg, Markus, Wiemer, Serjoscha and Fuchs Mathias",
+        "year": "2019",
+        "in": "eitschrift für Medienwissenschaft",
+        "volume": "11(2)",
+        "pages": "29–38",
         "city": "",
         "publisher": "",
         "doi": ""
