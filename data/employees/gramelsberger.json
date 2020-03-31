@@ -746,34 +746,40 @@
             "name":"Synthetic Morphology – A vision of engineering biological form",
             "authors":"Gramelsberger, Gabriele",
             "year":"2020",
-            "in":"Journal of the History of Biology(accepted and in print)",
+            "in":"Journal of the History of Biology",
+            "in_author":"",
             "volume":"",
             "pages":"",
             "city":"",
             "publisher":"",
-            "doi":""
+            "doi":"",
+            "in_print":true
          },
          {
             "name":"Philosophical Perspectives on Earth System Modeling: Truth, Adequacy and Understanding",
             "authors":"Gramelsberger, Gabriele, Lenhard, Johannes and Parker, Wendy",
             "year":"2020",
             "in":"Journal of Advances in Modeling Earth Systems",
+            "in_author":"",
             "volume":"12(1)",
             "pages":"",
             "city":"",
             "publisher":"",
-            "doi":"e2019MS001720"
+            "doi":"e2019MS001720",
+            "in_print":false
          },
          {
             "name":"Mind the Game! Die Exteriorisierung des Geistes ins Spiel gebracht",
             "authors":"Gramelsberger, Gabriele, Rautzenberg, Markus, Wiemer, Serjoscha and Fuchs Mathias",
             "year":"2019",
             "in":"eitschrift für Medienwissenschaft",
+            "in_author":"",
             "volume":"11(2)",
             "pages":"29–38",
             "city":"",
             "publisher":"",
-            "doi":""
+            "doi":"",
+            "in_print":false
          },
          {
             "name":"Computational Science Studies. A Tool-Based Methodology for Studying Code",
