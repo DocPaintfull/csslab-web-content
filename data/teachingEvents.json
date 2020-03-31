@@ -1,4 +1,32 @@
 [
+  {
+   "name": "Research Colloquium (TST)",
+   "heldBy": "Prof. Dr. Gabriele Gramelsberger",
+   "description": "",
+   "type": "Colloquium",
+   "semesterTags": "W19 "
+   },
+   {
+    "name": "Einführung in die Wissenschafts- und Technikphilosophie",
+    "heldBy": "Prof. Dr. Gabriele Gramelsberger",
+    "description": "",
+    "type": "Lecture",
+    "semesterTags": "W19 "
+    },
+    {
+     "name": "Theorien des Forschens",
+     "heldBy": "Prof. Dr. Gabriele Gramelsberger",
+     "description": "",
+     "type": "Seminar",
+     "semesterTags": "W19 "
+     },
+     {
+      "name": "inführung in die Erkenntnistheorie",
+      "heldBy": "Prof. Dr. Gabriele Gramelsberger",
+      "description": "",
+      "type": "Seminar",
+      "semesterTags": "W19 "
+      },
     {
       "name": "Wissenschaftstheorie",
       "heldBy": "Prof. Dr. Gabriele Gramelsberger",
