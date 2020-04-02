@@ -1,4 +1,64 @@
 [
+  {
+    "name": "Computational Science Studies. Software-Tools for Philosophers",
+    "by": "gramelsberger",
+    "date": "28 November 2019",
+    "startDate": "2019-11-28",
+    "endDate": "2019-11-28",
+    "type": "Colloquium",
+    "in": "Colloquium of the RUST Lab",
+    "institution": "Ruhr University Bochum"
+  },
+  {
+    "name": "Asymptotik – Finales Anschmiegen an das Unendliche",
+    "by": "gramelsberger",
+    "date": "15 November 2019",
+    "startDate": "2019-11-15",
+    "endDate": "2019-11-15",
+    "type": "Tagung",
+    "in": "Paradoxien des Endes",
+    "institution": "KHM Köln"
+  },
+  {
+    "name": "Machine Learning in Material Science",
+    "by": "gramelsberger",
+    "date": "12 November 2019",
+    "startDate": "2019-11-12",
+    "endDate": "2019-11-12",
+    "type": "",
+    "in": "SAS’19 The society of learning algorithms",
+    "institution": "HRLS Stuttgart"
+  },
+  {
+    "name": "John von Neumanns Digitaler Windkanal",
+    "by": "gramelsberger",
+    "date": "08 November 2019",
+    "startDate": "2019-11-08",
+    "endDate": "2019-11-08",
+    "type": "Workshop",
+    "in": "Windkanäle. Wissen, Politik und Ästhetik bewegter Luft",
+    "institution": "MECS Leuphana University Lüneburg"
+  },
+  {
+    "name": "Algorithms, Design and New Forms/Objects",
+    "by": "gramelsberger",
+    "date": "23 October 2019",
+    "startDate": "2019-10-23",
+    "endDate": "2019-10-23",
+    "type": "Lecture",
+    "in": "Lecture at the Bartlett School of Architecture London",
+    "institution": "Bartlett School of Architecture London"
+  },
+  {
+    "name": "Towards Wetware Computing",
+    "by": "gramelsberger",
+    "date": "13 July 2019",
+    "startDate": "2019-07-13",
+    "endDate": "2019-07-13",
+    "type": "",
+    "in": "Media Festival Blue Skies: Bodies in Trouble.",
+    "institution": "PACT Zollverein Essen"
+  },
     {
       "name": "Human Kinaesthetics for Robots",
       "by": "kasprowicz",
