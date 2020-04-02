@@ -54,7 +54,7 @@
       "organizedBy":"Gabriele Gramelsberger in Zusammenarbeit mit der Computer Signals Research Group",
       "description":"Daten sind nie einfach gegeben, sondern werden in vielfältigen Prozeduren hergestellt, berechnet und verteilt. Dies gilt insbesondere auch im digitalen Datenraum, der entgegen der Annahme, das Prozessieren von Daten sei eine rein logisch-mathematische Angelegenheit, auf massiven Infrastrukturen aufbaut und den Daten damit einen physischen Körper anhaftet.  Die interdisziplinär angelegte Tagung Datennaturen versteht Daten selbst als Organismen, die bestimmte Lebensbedingungen benötigen und einem Lebenszyklus (data life cycle) unterworfen sind. Sie geht von Praktiken der Datenherstellung und der Datenarbeit anhand konkreter Beispiele aus. Die darin auftauchenden «Naturen» von Daten als deren stoffliche und genealogische Beschaffenheit, ihre technisch-infrastrukturellen Bedingtheiten von Herstellung und Prozessierung sowie ihren Eigensinn im Zusammenspiel der Akteure diskutiert sie im erweiterten Kreis mit Biologen, Wissenschaftsforschenden, Künstlerinnen sowie Kunst- und Medienwissenschaftlerinnen.",
       "location":"Kunstraum Walcheturm, Zürich",
-      "done":"false",
+      "done":"true",
       "links":[
          {
             "name":"Program",
