@@ -21,13 +21,23 @@
   },
   {
     "name": "Computational Science Studies. Software-Tools for Philosophers",
-    "by": "gramelsberger",
+    "by": "kasprowicz",
     "date": "28 November 2019",
     "startDate": "2019-11-28",
     "endDate": "2019-11-28",
     "type": "Colloquium",
     "in": "Colloquium of the RUST Lab",
     "institution": "Ruhr University Bochum"
+  },
+  {
+    "name": "Von der Syntax zur Semantik. ICE als Analyse-Tool für Programmcodes in den Wissenschaften",
+    "by": "kasprowicz",
+    "date": "21 November 2019",
+    "startDate": "2019-11-21",
+    "endDate": "2019-11-23",
+    "type": "Colloquium",
+    "in": "DFG-Symposium \"Wozu Digitale Geisteswissenschaften\"",
+    "institution": "Leuphana Universität Lüneburg"
   },
   {
     "name": "Asymptotik – Finales Anschmiegen an das Unendliche",
