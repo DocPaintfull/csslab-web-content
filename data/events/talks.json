@@ -79,25 +79,15 @@
     "in": "Lecture at the Bartlett School of Architecture London",
     "institution": "Bartlett School of Architecture London"
   },
-  {
-    "name": "Towards Wetware Computing",
-    "by": "gramelsberger",
-    "date": "13 July 2019",
-    "startDate": "2019-07-13",
-    "endDate": "2019-07-13",
-    "type": "",
-    "in": "Media Festival Blue Skies: Bodies in Trouble.",
-    "institution": "PACT Zollverein Essen"
-  },
     {
-      "name": "Human Kinaesthetics for Robots",
+      "name": "From Cockpit to Cubicle – How the Human Factors Engineering Influenced Office Design",
       "by": "kasprowicz",
-      "date": "4 to 5 July 2019",
-      "startDate": "2019-07-04",
-      "endDate": "2019-07-05",
+      "date": "30 to 31 Octobre 2019",
+      "startDate": "2019-10-30",
+      "endDate": "2019-10-30",
       "type": "",
-      "in": "Workshop Embodied AI / Exbodied Mind",
-      "institution": "RWTH University Aachen"
+      "in": "Architecture and Bureaucracy: Entangled Sites of Knowledge Production and Exchange. International Conference",
+      "institution": "Brussels"
     },
     {
       "name": "Designing Workplaces through Machine Environments – The Action Office and the Human Factors Engineering",
@@ -110,16 +100,6 @@
       "institution": "Milan"
     },
     {
-      "name": "From Cockpit to Cubicle – How the Human Factors Engineering Influenced Office Design",
-      "by": "kasprowicz",
-      "date": "30 to 31 Octobre 2019",
-      "startDate": "2019-10-30",
-      "endDate": "2019-10-30",
-      "type": "",
-      "in": "Architecture and Bureaucracy: Entangled Sites of Knowledge Production and Exchange. International Conference",
-      "institution": "Brussels"
-    },
-    {
       "name": "Prozessierung von Datenmaterialien in der Forschung. Spuren digitaler Forschung",
       "by": "gramelsberger",
       "date": "25 to 28 September 2019",
@@ -128,6 +108,16 @@
       "type": "Jahrestagung der",
       "in": "Gesellschaft der Medienforschung 2019",
       "institution": "University of Cologne"
+    },
+    {
+      "name": "Towards Wetware Computing",
+      "by": "gramelsberger",
+      "date": "13 July 2019",
+      "startDate": "2019-07-13",
+      "endDate": "2019-07-13",
+      "type": "",
+      "in": "Media Festival Blue Skies: Bodies in Trouble.",
+      "institution": "PACT Zollverein Essen"
     },
     {
       "name": "Global Game/AI-Ecosystem driving 2020s Industry 4.0",
@@ -158,6 +148,16 @@
       "type": "Conference",
       "in": "Aktualität und Potenzial von Doppelaspektivität und Unergründlichkeit. Perspektiven auf Figuren des Unverfügbaren im Anschluss an Helmuth Plessner",
       "institution": "University of Oldenburg"
+    },
+    {
+      "name": "Human Kinaesthetics for Robots",
+      "by": "kasprowicz",
+      "date": "4 to 5 July 2019",
+      "startDate": "2019-07-04",
+      "endDate": "2019-07-05",
+      "type": "",
+      "in": "Workshop Embodied AI / Exbodied Mind",
+      "institution": "RWTH University Aachen"
     },
     {
       "name": "Immersion & Interface. Anmerkungen zu einem medienanthropologischen Konnex",
@@ -360,16 +360,6 @@
       "institution": "Kunstakademie Düsseldorf"
     },
     {
-      "name": "Technologie und ihre Auswirkungen auf Individuen, Gesellschaft und Wissenschaft",
-      "by": "gramelsberger",
-      "date": "7 September 2018",
-      "startDate": "2018-09-07",
-      "endDate": "2018-09-07",
-      "type": "",
-      "in": "Faculty Club",
-      "institution": "RWTH Aachen University"
-    },
-    {
       "name": "Mediatechnicity",
       "by": "gramelsberger",
       "date": "19 to 22 September 2018",
@@ -378,6 +368,16 @@
       "type": "International Conference on",
       "in": "Digital Culture",
       "institution": "Leuphana University Luneburg"
+    },
+    {
+      "name": "Technologie und ihre Auswirkungen auf Individuen, Gesellschaft und Wissenschaft",
+      "by": "gramelsberger",
+      "date": "7 September 2018",
+      "startDate": "2018-09-07",
+      "endDate": "2018-09-07",
+      "type": "",
+      "in": "Faculty Club",
+      "institution": "RWTH Aachen University"
     },
     {
       "name": "Mastering temporal regimes in science",
