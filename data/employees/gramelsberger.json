@@ -58,15 +58,7 @@
    ],
    "publications":{
       "books":[
-         {
-            "name":"Natures of Data. A Discussion between Biology, History and Philosophy of Science and Art",
-            "authors":"Fischer, Philipp, Gramelsberger, Gabriele, Hoffmann, Christoph, Hofmann, Hans, Rickli, Hannes and Rheinberger, Hans-Jörg. (eds)",
-            "year":"2020",
-            "in":"",
-            "pages":"",
-            "city":"Zürich, Berlin",
-            "publisher":"Diaphanes"
-         },
+         
          {
             "name":"Cultures of Prediction in Atmospheric and Climate Science: Epistemic and Cultural Shifts in Computer-based Modelling and Simulation (Routledge Environmental Humanities)",
             "authors":"Heymann, Matthias, Gramelsberger, Gabriele and Mahony, Martin. (eds.)",
@@ -75,6 +67,15 @@
             "pages":"",
             "city":"London",
             "publisher":"Routledge/Francis & Taylor"
+         },
+         {
+            "name":"Natures of Data. A Discussion between Biology, History and Philosophy of Science and Art",
+            "authors":"Fischer, Philipp, Gramelsberger, Gabriele, Hoffmann, Christoph, Hofmann, Hans, Rickli, Hannes and Rheinberger, Hans-Jörg. (eds)",
+            "year":"2020",
+            "in":"",
+            "pages":"",
+            "city":"Zürich, Berlin",
+            "publisher":"Diaphanes"
          },
          {
             "name":"Synthesis. Zur Konjunktur eines philosophischen Begriffs in Wissenschaft und Technik",
