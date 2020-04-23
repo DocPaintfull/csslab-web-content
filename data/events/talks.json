@@ -79,7 +79,17 @@
     "in": "Media Festival Blue Skies: Bodies in Trouble.",
     "institution": "PACT Zollverein Essen"
   },
-    {
+  {
+      "name": "The intuitive interface - or the proximity of robots",
+      "by": "kasprowicz",
+      "date": "4 March 2020",
+      "startDate": "2020-03-04",
+      "endDate": "2020-03-04",
+      "type": "",
+      "in": "European Robotic Forum, Panel on Trustworthy Robots",
+      "institution": "Congress Center Málaga, Spain"
+ },
+ {
       "name": "Human Kinaesthetics for Robots",
       "by": "kasprowicz",
       "date": "4 to 5 July 2019",
@@ -92,7 +102,7 @@
     {
       "name": "Designing Workplaces through Machine Environments – The Action Office and the Human Factors Engineering",
       "by": "kasprowicz",
-      "date": "24 to 27 Octobre 2019",
+      "date": "25 Octobre 2019",
       "startDate": "2019-10-24",
       "endDate": "2019-10-27",
       "type": "Annual Conference of",
