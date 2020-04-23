@@ -28,7 +28,7 @@
         "city": "Wiesbaden u.a.",
         "publisher": "Springer",
         "doi": "",
-        "in_print": true
+        "in_print": false
       },{
         "name": "Der Körper auf Tauchstation. Zu einer Wissensgeschichte der Immersion. (Reihe Wissenschafts- und Technikforschung, 19)",
         "authors": "Kasprowicz, Dawid",
@@ -83,11 +83,11 @@
         "in": "Handbuch Virtualität",
         "in_author": "Kasprowicz, Dawid and Rieger, Stefan (eds.)",
         "volume": "",
-        "pages": "",
+        "pages": "385-399",
         "city": "Wiesbaden",
         "publisher": "Springer",
         "doi": "",
-        "in_print": true
+        "in_print": false
       },
       {
         "name": "Virtualisierte Arbeitsplätze – Medienhistorische Annäherung an die Interaktion und Kollaboration zwischen menschlichen und maschinellen Agenten",
@@ -96,11 +96,11 @@
         "in": "Handbuch Virtualität",
         "in_author": "Kasprowicz, Dawid and Rieger, Stefan (eds.)",
         "volume": "",
-        "pages": "",
+        "pages": "129-147",
         "city": "Wiesbaden",
         "publisher": "Springer",
         "doi": "",
-        "in_print": true
+        "in_print": false
       },
       {
         "name": "Einleitung",
@@ -109,11 +109,11 @@
         "in": "Handbuch Virtualität",
         "in_author": "Dawid Kasprowicz, Stefan Rieger (eds.)",
         "volume": "",
-        "pages": "",
+        "pages": "1-23",
         "city": "Wiesbaden",
         "publisher": "Springer",
         "doi": "",
-        "in_print": true
+        "in_print": false
       },
       {
         "name": "Encoding Proximity - Intuition in Human-Robot-Collaborations",
@@ -135,11 +135,11 @@
         "in": "Handbuch für Technikanthropologie",
         "in_author": "Hessler, Martina and Liggeri, Kevin. (eds)",
         "volume": "",
-        "pages": "",
+        "pages": "562-567",
         "city": "Baden-Baden",
         "publisher": "Nomos/Edition Sigma",
         "doi": "",
-        "in_print": true
+        "in_print": false
       },
       {
         "name": "Human Factors Engineering",
