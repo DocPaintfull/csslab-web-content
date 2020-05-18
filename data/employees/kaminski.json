@@ -75,10 +75,106 @@
       }
     ],
     "reviewed": [
-
+      {
+        "name": "What is Postphenomenology? A controversy",
+        "authors": "Don Ihde and Andreas Kaminski",
+        "year": "2020",
+        "in": "Alexander Friedrich, Petra Gehring, Christoph Hubig, Andreas Kaminski and Alfred Nordmann (eds.): Unheimlichkeit und Autonomie. Jahrbuch Technikphilosophie (6)",
+        "volume": "",
+        "pages": "261-287",
+        "city": "Baden-Baden",
+        "publisher": "Nomos",
+        "in_print": false
+      },
+      {
+        "name": "Mathematische Opazität",
+        "authors": "Kaminski, Andreas; Resch, Michael; Küster, Uwe",
+        "year": "2018",
+        "in": "Jahrbuch Technikphilosophie (3)",
+        "volume": "",
+        "pages": "257–281",
+        "city": "",
+        "publisher": "",
+        "in_print": false
+      },
+      {
+        "name": "Was heißt es, dass eine Metapher absolut ist? Metaphern als Indizien",
+        "authors": "Kaminski, Andreas",
+        "year": "2014",
+        "in": "Alexander Friedrich; Petra Gehring and Andreas Kaminski (eds.): Journal Phänomenologie. Schwerpunkt: Metaphern als strenge Wissenschaft",
+        "volume": "",
+        "pages": "47–62",
+        "city": "",
+        "publisher": "",
+        "in_print": false
+      }
     ],
     "contributions": [
-
+      {
+        "name": "Begriffe in Modellen. Die Modellierung von Vertrauen in Computersimulation und maschinellem Lernen im Spiegel der Theoriegeschichte von Vertrauen",
+        "authors": "Kaminski, Andreas",
+        "year": "2019",
+        "in": "Nicole J. Saam, Michael Resch und Andreas Kaminski (eds.): Simulieren und Entscheiden. Entscheidungsmodellierung, Modellierungsentscheidungen, Entscheidungsunterstützung",
+        "in_author": "",
+        "volume": "",
+        "pages": "167–192",
+        "city": "Wiesbaden",
+        "publisher": "Springer",
+        "doi": "",
+        "in_print": false
+      },
+      {
+        "name": "Gründe geben. Maschinelles Lernen als Problem der Moralfähigkeit von Entscheidungen",
+        "authors": "Kaminski, Andreas",
+        "year": "2020",
+        "in": "Klaus Wiegerling, Michael Nerurkar, Christian Wadephul (eds.): Ethische Herausforderungen von Big-Data",
+        "in_author": "",
+        "volume": "",
+        "pages": "151-174",
+        "city": "Bielefeld",
+        "publisher": "Transcript",
+        "doi": "",
+        "in_print": false
+      },
+      {
+        "name": "Der Erfolg der Modellierung und das Ende der Modelle. Epistemische Opazität in der Computersimulation",
+        "authors": "Kaminski, Andreas",
+        "year": "2018",
+        "in": "Andreas Brenneis, Oliver Honer, Sina Keesser und Silke Vetter-Schultheiß (eds.): Technik – Macht – Raum. Das Topologische Manifest im Kontext interdisziplinärer Studien",
+        "in_author": "",
+        "volume": "",
+        "pages": "317-333",
+        "city": "Wiesbaden",
+        "publisher": "Springer",
+        "doi": "",
+        "in_print": false
+      },
+      {
+        "name": "Measuring Intelligence effectively. Psychometrics from a Philosophy of Technology Perspective",
+        "authors": "Kaminski, Andreas",
+        "year": "2017",
+        "in": "Alfred Nordmann und Nicola Moeßner (eds.): Reasoning in Measurement",
+        "in_author": "",
+        "volume": "",
+        "pages": "146–157",
+        "city": "London",
+        "publisher": "Routledge",
+        "doi": "",
+        "in_print": false
+      },
+      {
+        "name": "Hat Vertrauen Gründe oder ist Vertrauen ein Grund? Eine dialektische Tugendtheorie von Vertrauen und Vertrauenswürdigkeit",
+        "authors": "Kaminski, Andreas",
+        "year": "2017",
+        "in": "Jens Kertscher und Jan Müller (eds.): Praxis und ‚zweite Natur‘. Begründungsfiguren normativer Wirklichkeit in der Diskussion",
+        "in_author": "",
+        "volume": "",
+        "pages": "121–139",
+        "city": "Münster",
+        "publisher": "Mentis",
+        "doi": "",
+        "in_print": false
+      }
     ]
   }
 }
