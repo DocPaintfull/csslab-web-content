@@ -14,7 +14,15 @@
 
   ],
   "seminars":[
-
+      {
+        "term":"Summer term",
+        "type":"Lecture",
+        "name":"Philosophy of Computational Sciences",
+        "type":"Seminar",
+        "name":"Modelling for Policy", 
+        "type":"Lecture",
+        "name":"Social Epistemology"      },
+      
   ],
   "publications":{
     "books": [
