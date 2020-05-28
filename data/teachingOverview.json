@@ -6,7 +6,7 @@
             "content": "List of lecturers teaching at the Chair for Theory of Science and Technology.",
             "link": "philosophylecturers"
         },
-        box2": {
+        "box2": {
             "headLine": "Philosophy",
             "content": "Teaching in philosophy covers the full spectrum of theoretical philosophy, with a focus on theory of (computational) science and technology. We link theory of science and technology to continental philosophy. Further, we collaborate in our seminars and lectures with colleagues from engineering and science.",
             "link": "philosophy"
