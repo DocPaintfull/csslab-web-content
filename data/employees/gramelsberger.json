@@ -131,12 +131,12 @@
             "in_author":"Heßler, Martina (ed.)",
             "in":"Technikemotionen (Reihe Geschichte der technischen Kultur)",
             "volume":"",
-            "pages":"",
+            "pages":"385-397",
             "city":"Paderborn",
             "publisher":"Schöningh",
             "doi":"",
             "url":"",
-            "in_print":true
+            "in_print":false
          },
          {
             "authors":"Gramelsberger, Gabriele",
@@ -145,12 +145,12 @@
             "in_author":"Bösel, Bernd and Wiemer, Serjoscha. (eds.)",
             "in":"Affective Media and Policy",
             "volume":"",
-            "pages":"",
+            "pages":"41-49",
             "city":"Lüneburg",
             "publisher":"Meson Press",
             "doi":"",
             "url":"",
-            "in_print":true
+            "in_print":false
          },
          {
             "authors":"Gramelsberger, Gabriele",
@@ -749,12 +749,12 @@
             "year":"2020",
             "in":"Journal of the History of Biology",
             "in_author":"",
-            "volume":"",
+            "volume":"53(2)",
             "pages":"",
             "city":"",
             "publisher":"",
-            "doi":"",
-            "in_print":true
+            "doi":"10.1007/s10739-020-09601-w",
+            "in_print":false
          },
          {
             "name":"Philosophical Perspectives on Earth System Modeling: Truth, Adequacy and Understanding",
@@ -773,7 +773,7 @@
             "name":"Mind the Game! Die Exteriorisierung des Geistes ins Spiel gebracht",
             "authors":"Gramelsberger, Gabriele, Rautzenberg, Markus, Wiemer, Serjoscha and Fuchs Mathias",
             "year":"2019",
-            "in":"eitschrift für Medienwissenschaft",
+            "in":"Zeitschrift für Medienwissenschaft",
             "in_author":"",
             "volume":"11(2)",
             "pages":"29–38",
