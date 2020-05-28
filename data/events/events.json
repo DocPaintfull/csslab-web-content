@@ -1,5 +1,18 @@
 [
    {
+      "name":"Operator & User Empowerment in Times of AI ",
+      "date":"9 July 2020",
+      "startDate":"2020-07-9",
+      "endDate":"2020-07-9",
+      "type":" Interactive Virtual Online Workshop",
+      "organizedBy":"Frank Piller, Gabriele Gramelsberger and Thomas Bergs, RWTH ProdE",
+      "description":"The goal of this workshop is to bring stakeholders from industry, society, research, and politics together to discuss the needs and possibilities of future collaborations of humans, AI and machines for Industry 4.0. We want to learn from experiences from different industries and application areas, discuss concepts of operator (user) empowerment in production and other domains, understand the concept of fair use of AI, but also identify open fields for research, development, and policy making.",
+      "location":"RWTH Aachen",
+      "done":"false",       
+      ]
+   },
+[
+   {
       "name":"Infrastructures of Science",
       "date":"12 to 16 July 2021",
       "startDate":"2021-07-12",
