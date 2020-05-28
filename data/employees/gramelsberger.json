@@ -754,8 +754,8 @@
             "city":"",
             "publisher":"",
             "doi":"10.1007/s10739-020-09601-w",
-            "in_print":false
-            "name":"open access:",
+            "in_print":false,
+            "namex":"open access:",
             "href":"https://link.springer.com/article/10.1007/s10739-020-09601-w"
          },
          {
@@ -769,8 +769,8 @@
             "city":"",
             "publisher":"",
             "doi":"e2019MS001720",
-            "in_print":false
-            "name":"open access:",
+            "in_print":false,
+            "namex":"open access:",
             "href":"https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019MS001720"
          },
          {
@@ -784,8 +784,8 @@
             "city":"",
             "publisher":"",
             "doi":"",
-            "in_print":false
-            "name":"open access:",
+            "in_print":false,
+            "namex":"open access:",
             "href":"https://mediarep.org/bitstream/handle/doc/13539/ZfM_21_29-38_Gramelsberger_Rautzenberg_ea_Mind-the-Game_.pdf?sequence=2"
          },
          {
@@ -799,8 +799,8 @@
             "city":"Graz",
             "publisher":"Verlag der Technischen Universität Graz",
             "doi":"",
-            "in_print":false
-            "name":"open access:",
+            "in_print":false,
+            "namex":"open access:",
             "href":"https://mediarep.org/bitstream/handle/doc/13539/ZfM_21_29-38_Gramelsberger_Rautzenberg_ea_Mind-the-Game_.pdf?sequence=2"
          },
          {
@@ -883,8 +883,8 @@
             "volume":"4(8)",
             "pages":"89-94",
             "city":"",
-            "publisher":""
-            "name":"open access:",
+            "publisher":"",
+            "namex":"open access:",
             "href":"https://social-epistemology.com/2015/08/27/symbol-systems-as-cognitive-and-performative-hybrids-a-reply-to-axel-gelfert-gabriele-gramelsberger/"
          },
          {
@@ -928,8 +928,8 @@
             "volume":"4",
             "pages":"15-21",
             "city":"",
-            "publisher":""
-            "name":"open access:",
+            "publisher":"",
+            "namex":"open access:",
             "href":"https://mediarep.org/bitstream/handle/doc/2696/ZfM_04_31-37_Friedrich_Gramelsberger_Techniken_der_Ueberschreitung_.pdf?sequence=4&isAllowed=y"
          },
          {
@@ -952,8 +952,8 @@
             "pages":"663-667",
             "city":"",
             "publisher":"",
-            "doi":"10.1127/0941-2948/2009/0415"
-            "name":"open access:",
+            "doi":"10.1127/0941-2948/2009/0415",
+            "namex":"open access:",
             "href":"https://www.schweizerbart.de/papers/metz/detail/18/74384"
          },
          {
