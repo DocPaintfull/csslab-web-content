@@ -16,7 +16,7 @@
   "seminars":[
       {
         "term":"Summer term",
-        "type":"Lecture"
+        "type":"Lecture",
         "name":"Philosophy of Computational Sciences",
       },{
         "term":"Summer term",
