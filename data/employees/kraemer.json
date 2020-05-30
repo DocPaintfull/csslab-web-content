@@ -15,10 +15,86 @@
     "publications": {
       "books":
       [
+        {
+        "name": "Menschenwürde und Reality TV – ein Widerspruch?",
+        "authors": "Krämer, Carmen",
+        "year": "2020",
+        "in": "",
+        "volume": "",
+        "pages": "",
+        "city": "Baden-Baden",
+        "publisher": "Nomos",
+        "doi": "",
+        "in_print": true
+      },
+      {
+        "name": "Mensch – Tier – Ethik im interdisziplinären Diskurs",
+        "authors": "Förster, Annette; Kellerwessel, Wulf and Krämer, Carmen (eds)",
+        "year": "2020",
+        "in": "",
+        "volume": "",
+        "pages": "",
+        "city": "Münster",
+        "publisher": "Lit-Verlag",
+        "doi": "",
+        "in_print": false
+      }
         
       ],
       "contributions":
       [
+        {
+          "name": "Can Robots have dignity?",
+          "authors": "Krämer, Carmen",
+          "year": "2020",
+          "in": "Artificial Intelligence",
+          "in_author": "Goecke, Paul Benedikt and Rosenthal-von der Pütten, Astrid Marieke (eds)",
+          "volume": "",
+          "pages": "",
+          "city": "Paderborn",
+          "publisher": "Mentis",
+          "doi": "",
+          "in_print": true
+        },
+        {
+          "name": "Menschenwürde – Flucht – Medien. Reflexionen zu Ziffer 1 des deutschen Pressekodexes im Kontext der Medienberichterstattung über Flucht",
+          "authors": "Krämer, Carmen",
+          "year": "2018",
+          "in": "Migration, Integration, Inklusion. Medienethische Herausforderungen und Potenziale für die digitale Mediengesellschaft",
+          "in_author": "Prinzing, Marlis; Köberer, Nina and Schröder, Michael (eds)",
+          "volume": "",
+          "pages": "151-161",
+          "city": "Baden-Baden",
+          "publisher": "Nomos",
+          "doi": "",
+          "in_print": false
+        },
+        {
+          "name": "Einleitung. Zu den vielfältigen Mensch-Tier-Beziehungen und ihrer Reflexion in der Tierethik und den Human-Animal Studies",
+          "authors": "Förster, Annette; Kellerwessel, Wulf and Krämer, Carmen",
+          "year": "2016",
+          "in": "Mensch – Tier – Ethik im interdisziplinären Diskurs",
+          "in_author": "Förster, Annette; Kellerwessel, Wulf and Krämer, Carmen (eds)",
+          "volume": "",
+          "pages": "7-20",
+          "city": "Münster",
+          "publisher": "Lit-Verlag",
+          "doi": "",
+          "in_print": false
+        },
+        {
+          "name": "Peter Singer und die Anfänge der Tierethik in der Moderne",
+          "authors": "Krämer, Carmen",
+          "year": "2016",
+          "in": "Mensch – Tier – Ethik im interdisziplinären Diskurs",
+          "in_author": "Förster, Annette; Kellerwessel, Wulf and Krämer, Carmen (eds)",
+          "volume": "",
+          "pages": "23-43",
+          "city": "Münster",
+          "publisher": "Lit-Verlag",
+          "doi": "",
+          "in_print": false
+        }
         
       ],
       "reviewed":
@@ -27,6 +103,39 @@
       ],
       "reviews":
       [
+        {
+        "name": "Tierethik – neue Handbücher und Sammelbände zum Stand der internationalen Diskussion",
+        "authors": "Kellerwessel, Wulf; Krämer, Carmen and Paganini, Simone",
+        "year": "2019",
+        "in": "Philosophischer Literaturanzeiger",
+        "volume": "2",
+        "pages": "173-196",
+        "city": "",
+        "publisher": "",
+        "doi": ""
+      },
+      {
+        "name": "Flucht, Immigration und Aufenthalt – Normative Perspektiven",
+        "authors": "Kellerwessel, Wulf and Krämer, Carmen",
+        "year": "2018",
+        "in": "Philosophischer Literaturanzeiger",
+        "volume": "2",
+        "pages": "162-197",
+        "city": "",
+        "publisher": "",
+        "doi": ""
+      },
+      {
+        "name": "Der Begriff der Menschenwürde in der gegenwärtigen Philosophie",
+        "authors": "Kellerwessel, Wulf and Krämer, Carmen",
+        "year": "2015",
+        "in": "Philosophischer Literaturanzeiger",
+        "volume": "3",
+        "pages": "273-312",
+        "city": "",
+        "publisher": "",
+        "doi": ""
+      }
        
       ],
       "misc":
