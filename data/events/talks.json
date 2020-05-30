@@ -20,6 +20,16 @@
     "institution": "RWTH Aachen"
   },
   {
+    "name": "About animals in I’m a Celebrity … Get Me Out of Here",
+    "by": "kraemer",
+    "date": "5 to 6 December",
+    "startDate": "2019-12-05",
+    "endDate": "2019-12-06",
+    "type": "Beitrag zum",
+    "in": "Austro-Canadian Animal and Media Ethics Workshops Thinking Species",
+    "institution": "Innsbruck: Universität Innsbruck"
+  },
+  {
     "name": "Computational Science Studies. Software-Tools for Philosophers",
     "by": "gramelsberger",
     "date": "28 November 2019",
@@ -68,6 +78,16 @@
     "type": "Lecture",
     "in": "Lecture at the Bartlett School of Architecture London",
     "institution": "Bartlett School of Architecture London"
+  },
+  {
+    "name": "Menschenwürde und Reality TV – ein Widerspruch?",
+    "by": "kraemer",
+    "date": "26 to 27 September",
+    "startDate": "2019-09-26",
+    "endDate": "2019-09-27",
+    "type": "Beitrag zur",
+    "in": "Tagung für Praktische Philosophie",
+    "institution": "Salzburg: Universität Salzburg"
   },
   {
     "name": "Towards Wetware Computing",
@@ -278,6 +298,16 @@
       "type": "SLSA 2018",
       "in": "Out of Mind",
       "institution": "University of Toronto"
+    },
+    {
+      "name": "Robots and Dignity",
+      "by": "kraemer",
+      "date": "14 to 16 November",
+      "startDate": "2018-11-14",
+      "endDate": "2018-11-16",
+      "type": "",
+      "in": "IA-Symposium When Robots Think. Interdisciplinary Views on Intelligent Automation",
+      "institution": "Münster: Akademie Franz Hitze Haus "
     },
     {
       "name": "Self-(un-)Obstrusiveness – Embodiment in the Age of Mediatechnicity",
@@ -528,5 +558,26 @@
       "type": "Workshop",
       "in": "Algorithmische Wissenskulturen? Der Einfluss des Computers auf die Wissenschaftsentwicklung",
       "institution": "Deutsches Museum München"
+    },
+    {
+      "name": "Menschenwürde und die Darstellung von Flucht in den Medien",
+      "by": "kraemer",
+      "date": "15 to 17 February 2017",
+      "startDate": "2017-02-15",
+      "endDate": "2017-02-17",
+      "type": "Beitrag zur Jahrestagung des",
+      "in": "Netzwerks Medienethik Integration durch Medien – Aufgabe oder Auslaufmodell? Medienethische Herausforderungen für die digitale Gesellschaft",
+      "institution": "München: Hochschule für Philosophie"
+    },
+    {
+      "name": "Peter Singer und die Anfänge der Tierethik in der Moderne",
+      "by": "kraemer",
+      "date": "12 January 2016",
+      "startDate": "2016-01-12",
+      "endDate": "2016-01-12",
+      "type": "Beitrag zur Ringvorlesung",
+      "in": "Mensch-Tier-Ethik im interdisziplinären Diskurs",
+      "institution": "RWTH Aachen"
     }
+
   ]
