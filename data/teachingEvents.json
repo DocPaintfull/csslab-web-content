@@ -1,5 +1,19 @@
 [
   {
+   "name": "Perspektive Wissen I: Das Tier als Experimentalobjekt",
+   "heldBy": "Prof. Dr. Gabriele Gramelsberger und Dr. Dawid Kasprowicz",
+   "description": "",
+   "type": "Seminar",
+   "semesterTags": "W19 "
+   },
+   {
+   "name": "Zufall - Wahrscheinlichkeit - Kontingenz",
+   "heldBy": "Dr. Dawid Kasprowicz",
+   "description": "",
+   "type": "Seminar",
+   "semesterTags": "W19 "
+   },
+   {
    "name": "Internationale Gerechtigkeit",
    "heldBy": "Prof. Dr. Wulf Kellerwessel",
    "description": "",
@@ -28,10 +42,17 @@
    "semesterTags": "W19 "
    },
    {
-   "name": "Research Colloquium (TST)",
-   "heldBy": "Prof. Dr. Gabriele Gramelsberger",
+   "name": "(Falsche) Fragen der Roboterethik",
+   "heldBy": "Lisa Schüttler",
    "description": "",
-   "type": "Colloquium",
+   "type": "Seminar",
+   "semesterTags": "W19 "
+   },
+   {
+   "name": "Einführung in die Akteur-Netzwerk-Theorie",
+   "heldBy": "Lisa Schüttler",
+   "description": "",
+   "type": "Seminar",
    "semesterTags": "W19 "
    },
    {
@@ -54,8 +75,8 @@
       "description": "",
       "type": "Seminar",
       "semesterTags": "W19 "
-      },
-    {
+     },
+     {
       "name": "Wissenschaftstheorie",
       "heldBy": "Prof. Dr. Gabriele Gramelsberger",
       "description": "",
