@@ -140,7 +140,94 @@
       ],
       "misc":
       [
-        
+        {
+          "name": "Filmgespräch zur Vorstellung „Human Nature: Die Crispr Revolution“",
+          "authors": "Krämer Carmen; Schmitz, Dagmar",
+          "year": "2019",
+          "in": "",
+          "volume": "",
+          "pages": "",
+          "city": "Aachen",
+          "publisher": "Apollo Kino (10.11.)",
+          "doi": ""
+        },
+        {
+          "name": "Peter Singer und die Anfänge der Tierethik in der Moderne",
+          "authors": "Krämer, Carmen",
+          "year": "2019",
+          "in": "Philosophie in der Burg",
+          "volume": "",
+          "pages": "",
+          "city": "Aachen",
+          "publisher": "Burg Frankenberg (10.10.)",
+          "doi": ""
+        },
+        {
+          "name": "Peter Singer und die Anfänge der Tierethik in der Moderne",
+          "authors": "Krämer, Carmen",
+          "year": "2018",
+          "in": "Philosophie in der Burg",
+          "volume": "",
+          "pages": "",
+          "city": "Würselen",
+          "publisher": "Weiterbildungskolleg der StädteRegion Aachen (19.01.)",
+          "doi": ""
+        },
+        {
+          "name": "Peter Singer und die Anfänge der Tierethik in der Moderne",
+          "authors": "Krämer, Carmen",
+          "year": "2018",
+          "in": "Fachkonferenz Philosophie",
+          "volume": "",
+          "pages": "",
+          "city": "Würselen",
+          "publisher": "Weiterbildungskolleg der StädteRegion Aachen (19.01.)",
+          "doi": ""
+        },
+        {
+          "name": "Peter Singer und die Anfänge der Tierethik in der Moderne",
+          "authors": "Krämer, Carmen",
+          "year": "2018",
+          "in": "VHS-Reihe Wissenschaft vor Ort",
+          "volume": "",
+          "pages": "",
+          "city": "Monschau",
+          "publisher": "Himo (20.03.)",
+          "doi": ""
+        },
+        {
+          "name": "Schulprojekt: Ethische Aspekte des Reality TV",
+          "authors": "Krämer, Carmen; Schneider, Britta",
+          "year": "2017",
+          "in": "",
+          "volume": "",
+          "pages": "",
+          "city": "Aachen",
+          "publisher": "Anne-Frank-Gymnasium (11.-13.07.)",
+          "doi": ""
+       },
+       {
+        "name": "Menschenwürde und Reality TV – ein Widerspruch?",
+        "authors": "Krämer, Carmen",
+        "year": "2017",
+        "in": "",
+        "volume": "",
+        "pages": "",
+        "city": "Aachen",
+        "publisher": "LOGOI (07.05.)",
+        "doi": ""
+      },
+      {
+        "name": "Menschenwürde und Reality TV – ein Widerspruch?",
+        "authors": "Krämer, Carmen",
+        "year": "2016",
+        "in": "Reihe Philosophie in der Burg",
+        "volume": "",
+        "pages": "",
+        "city": "Aachen",
+        "publisher": "Burg Frankenberg (06.10.)",
+        "doi": ""
+      }
       ]
     }
   }
