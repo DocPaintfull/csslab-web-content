@@ -1,4 +1,21 @@
 [
+      {
+      "name":"Modeling Trust. An AI lie detector (iBorderCtrl)",
+      "date":"26 June 2020",
+      "startDate":"2020-06-26",
+      "endDate":"2020-06-26",
+      "type":" Interactive Virtual Online Workshop",
+      "organizedBy":"Andreas Kaminski",
+      "description":"The workshop discusses the EU-funded project iBorderCtrl in which computer technology is developed to screen persons who want to immigrate into the EU. iBorderCtrl is a test battery that spans over biometric modules, evaluations of Social Media Data and Risk Based Assessment Tools). One of these modules is an AI-lie detector, named Automatic Deception Detection System (ADDS). The workshop focuses on the ADDS and its implementation on three border locations of the EU (Latvia, Ungary and Greece).",
+      "location":"Human Technology Centre, RWTH Aachen and online on Zoom",
+      "done":"false", 
+      "links":[
+         {
+            "name":"",
+            "href":""
+         }
+      ]
+   },
    {
       "name":"Operator & User Empowerment in Times of AI ",
       "date":"9 July 2020",
