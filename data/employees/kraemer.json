@@ -1,234 +1,222 @@
 {
-    "name": "Carmen Krämer",
-    "ref": "kraemer",
-    "title": "Dr. phil.",
-    "status": "Post-Doc",
-    "cv": "Carmen Krämer, Ph.D., is research assistant at the Chair for Theory of Science and Technology. She studied Literature and Philosophy at RWTH Aachen, Germany and at Hacettepe University in Ankara, Turkey. Her Master’s thesis deals with the topic “On the Ontology of Literary Works”. In the course of working as a journalist for different media institutions for several years, she has confronted different ethical issues. In this vein, her dissertation focused on the question, “Does reality TV hurt human dignity?”. Here she develops an understanding of dignity and examines what this means for considering ethical issues in reality TV-shows. Her next project deals with reflections on media and ethical responsibility. Besides this, she is interested in animal ethics and environmental ethics. Together with Prof. Simone Paganini and Prof. Wulf Kellerwessel, she founded the Centre of Human-Animal Studies Aachen (CHASA).",
-    "img": "kraemer.png",
-    "tel": "",
-    "email": "carmen.kraemer@phil-inst.rwth-aachen.de",
-    "field":"Philosophy and Ethics",
-    "researchInterests": "Media Ethics, Theories of Dignity, Human Rights, Utilitarianism, Animal Ethics, Environmental Ethics.",
-    "projects": [
-    
+  "name": "Carmen Krämer",
+  "ref": "kraemer",
+  "title": "Dr. phil.",
+  "status": "Post-Doc",
+  "cv": "Carmen Krämer, Ph.D., is research assistant at the Chair for Theory of Science and Technology. She studied Literature and Philosophy at RWTH Aachen, Germany and at Hacettepe University in Ankara, Turkey. Her Master’s thesis deals with the topic “On the Ontology of Literary Works”. In the course of working as a journalist for different media institutions for several years, she has confronted different ethical issues. In this vein, her dissertation focused on the question, “Does reality TV hurt human dignity?”. Here she develops an understanding of dignity and examines what this means for considering ethical issues in reality TV-shows. Her next project deals with reflections on media and ethical responsibility. Besides this, she is interested in animal ethics and environmental ethics. Together with Prof. Simone Paganini and Prof. Wulf Kellerwessel, she founded the Centre of Human-Animal Studies Aachen (CHASA).",
+  "img": "kraemer.png",
+  "tel": "",
+  "email": "carmen.kraemer@phil-inst.rwth-aachen.de",
+  "field":"Philosophy and Ethics",
+  "researchInterests": "Media Ethics, Theories of Dignity, Human Rights, Utilitarianism, Animal Ethics, Environmental Ethics.",
+  "projects": [
+  
+  ],
+  "publications": {
+    "books":
+    [
+      {
+      "name": "Menschenwürde und Reality TV – ein Widerspruch?",
+      "authors": "Krämer, Carmen",
+      "year": "2020",
+      "in": "",
+      "volume": "",
+      "pages": "",
+      "city": "Baden-Baden",
+      "publisher": "Nomos",
+      "doi": "",
+      "in_print": true
+    },
+    {
+      "name": "Mensch – Tier – Ethik im interdisziplinären Diskurs",
+      "authors": "Förster, Annette; Kellerwessel, Wulf and Krämer, Carmen (eds)",
+      "year": "2020",
+      "in": "",
+      "volume": "",
+      "pages": "",
+      "city": "Münster",
+      "publisher": "Lit-Verlag",
+      "doi": "",
+      "in_print": false
+    }
+      
     ],
-    "publications": {
-      "books":
-      [
-        {
-        "name": "Menschenwürde und Reality TV – ein Widerspruch?",
+    "contributions":
+    [
+      {
+        "name": "Can Robots have dignity?",
         "authors": "Krämer, Carmen",
         "year": "2020",
-        "in": "",
+        "in": "Artificial Intelligence",
+        "in_author": "Goecke, Paul Benedikt and Rosenthal-von der Pütten, Astrid Marieke (eds)",
         "volume": "",
         "pages": "",
-        "city": "Baden-Baden",
-        "publisher": "Nomos",
+        "city": "Paderborn",
+        "publisher": "Mentis",
         "doi": "",
         "in_print": true
       },
       {
-        "name": "Mensch – Tier – Ethik im interdisziplinären Diskurs",
-        "authors": "Förster, Annette; Kellerwessel, Wulf and Krämer, Carmen (eds)",
-        "year": "2020",
-        "in": "",
+        "name": "Menschenwürde – Flucht – Medien. Reflexionen zu Ziffer 1 des deutschen Pressekodexes im Kontext der Medienberichterstattung über Flucht",
+        "authors": "Krämer, Carmen",
+        "year": "2018",
+        "in": "Migration, Integration, Inklusion. Medienethische Herausforderungen und Potenziale für die digitale Mediengesellschaft",
+        "in_author": "Prinzing, Marlis; Köberer, Nina and Schröder, Michael (eds)",
         "volume": "",
-        "pages": "",
+        "pages": "151-161",
+        "city": "Baden-Baden",
+        "publisher": "Nomos",
+        "doi": "",
+        "in_print": false
+      },
+      {
+        "name": "Einleitung. Zu den vielfältigen Mensch-Tier-Beziehungen und ihrer Reflexion in der Tierethik und den Human-Animal Studies",
+        "authors": "Förster, Annette; Kellerwessel, Wulf and Krämer, Carmen",
+        "year": "2016",
+        "in": "Mensch – Tier – Ethik im interdisziplinären Diskurs",
+        "in_author": "Förster, Annette; Kellerwessel, Wulf and Krämer, Carmen (eds)",
+        "volume": "",
+        "pages": "7-20",
+        "city": "Münster",
+        "publisher": "Lit-Verlag",
+        "doi": "",
+        "in_print": false
+      },
+      {
+        "name": "Peter Singer und die Anfänge der Tierethik in der Moderne",
+        "authors": "Krämer, Carmen",
+        "year": "2016",
+        "in": "Mensch – Tier – Ethik im interdisziplinären Diskurs",
+        "in_author": "Förster, Annette; Kellerwessel, Wulf and Krämer, Carmen (eds)",
+        "volume": "",
+        "pages": "23-43",
         "city": "Münster",
         "publisher": "Lit-Verlag",
         "doi": "",
         "in_print": false
       }
-        
-      ],
-      "contributions":
-      [
-        {
-          "name": "Can Robots have dignity?",
-          "authors": "Krämer, Carmen",
-          "year": "2020",
-          "in": "Artificial Intelligence",
-          "in_author": "Goecke, Paul Benedikt and Rosenthal-von der Pütten, Astrid Marieke (eds)",
-          "volume": "",
-          "pages": "",
-          "city": "Paderborn",
-          "publisher": "Mentis",
-          "doi": "",
-          "in_print": true
-        },
-        {
-          "name": "Menschenwürde – Flucht – Medien. Reflexionen zu Ziffer 1 des deutschen Pressekodexes im Kontext der Medienberichterstattung über Flucht",
-          "authors": "Krämer, Carmen",
-          "year": "2018",
-          "in": "Migration, Integration, Inklusion. Medienethische Herausforderungen und Potenziale für die digitale Mediengesellschaft",
-          "in_author": "Prinzing, Marlis; Köberer, Nina and Schröder, Michael (eds)",
-          "volume": "",
-          "pages": "151-161",
-          "city": "Baden-Baden",
-          "publisher": "Nomos",
-          "doi": "",
-          "in_print": false
-        },
-        {
-          "name": "Einleitung. Zu den vielfältigen Mensch-Tier-Beziehungen und ihrer Reflexion in der Tierethik und den Human-Animal Studies",
-          "authors": "Förster, Annette; Kellerwessel, Wulf and Krämer, Carmen",
-          "year": "2016",
-          "in": "Mensch – Tier – Ethik im interdisziplinären Diskurs",
-          "in_author": "Förster, Annette; Kellerwessel, Wulf and Krämer, Carmen (eds)",
-          "volume": "",
-          "pages": "7-20",
-          "city": "Münster",
-          "publisher": "Lit-Verlag",
-          "doi": "",
-          "in_print": false
-        },
-        {
-          "name": "Peter Singer und die Anfänge der Tierethik in der Moderne",
-          "authors": "Krämer, Carmen",
-          "year": "2016",
-          "in": "Mensch – Tier – Ethik im interdisziplinären Diskurs",
-          "in_author": "Förster, Annette; Kellerwessel, Wulf and Krämer, Carmen (eds)",
-          "volume": "",
-          "pages": "23-43",
-          "city": "Münster",
-          "publisher": "Lit-Verlag",
-          "doi": "",
-          "in_print": false
-        }
-        
-      ],
-      "reviewed":
-      [
-        
-      ],
-      "reviews":
-      [
-        {
-        "name": "Tierethik – neue Handbücher und Sammelbände zum Stand der internationalen Diskussion",
-        "authors": "Kellerwessel, Wulf; Krämer, Carmen and Paganini, Simone",
+      
+    ],
+    "reviewed":
+    [
+      
+    ],
+    "reviews":
+    [
+      {
+      "name": "Tierethik – neue Handbücher und Sammelbände zum Stand der internationalen Diskussion",
+      "authors": "Kellerwessel, Wulf; Krämer, Carmen and Paganini, Simone",
+      "year": "2019",
+      "in": "Philosophischer Literaturanzeiger",
+      "volume": "2",
+      "pages": "173-196",
+      "city": "",
+      "publisher": "",
+      "doi": ""
+    },
+    {
+      "name": "Flucht, Immigration und Aufenthalt – Normative Perspektiven",
+      "authors": "Kellerwessel, Wulf and Krämer, Carmen",
+      "year": "2018",
+      "in": "Philosophischer Literaturanzeiger",
+      "volume": "2",
+      "pages": "162-197",
+      "city": "",
+      "publisher": "",
+      "doi": ""
+    },
+    {
+      "name": "Der Begriff der Menschenwürde in der gegenwärtigen Philosophie",
+      "authors": "Kellerwessel, Wulf and Krämer, Carmen",
+      "year": "2015",
+      "in": "Philosophischer Literaturanzeiger",
+      "volume": "3",
+      "pages": "273-312",
+      "city": "",
+      "publisher": "",
+      "doi": ""
+    }
+     
+    ],
+    "misc":
+    [
+      {
+        "name": "Filmgespräch zur Vorstellung „Human Nature: Die Crispr Revolution“",
+        "authors": "Krämer Carmen; Schmitz, Dagmar",
         "year": "2019",
-        "in": "Philosophischer Literaturanzeiger",
-        "volume": "2",
-        "pages": "173-196",
-        "city": "",
-        "publisher": "",
+        "in": "",
+        "volume": "",
+        "pages": "",
+        "city": "Aachen",
+        "publisher": "Apollo Kino (10.11.)",
         "doi": ""
       },
       {
-        "name": "Flucht, Immigration und Aufenthalt – Normative Perspektiven",
-        "authors": "Kellerwessel, Wulf and Krämer, Carmen",
-        "year": "2018",
-        "in": "Philosophischer Literaturanzeiger",
-        "volume": "2",
-        "pages": "162-197",
-        "city": "",
-        "publisher": "",
-        "doi": ""
-      },
-      {
-        "name": "Der Begriff der Menschenwürde in der gegenwärtigen Philosophie",
-        "authors": "Kellerwessel, Wulf and Krämer, Carmen",
-        "year": "2015",
-        "in": "Philosophischer Literaturanzeiger",
-        "volume": "3",
-        "pages": "273-312",
-        "city": "",
-        "publisher": "",
-        "doi": ""
-      }
-       
-      ],
-      "misc":
-      [
-        {
-          "name": "Filmgespräch zur Vorstellung „Human Nature: Die Crispr Revolution“",
-          "authors": "Krämer Carmen; Schmitz, Dagmar",
-          "year": "2019",
-          "in": "",
-          "volume": "",
-          "pages": "",
-          "city": "Aachen",
-          "publisher": "Apollo Kino (10.11.)",
-          "doi": ""
-        },
-        {
-          "name": "Peter Singer und die Anfänge der Tierethik in der Moderne   ",
-          "authors": "Krämer, Carmen",
-          "year": "2019",
-          "in": "Philosophie in der Burg",
-          "volume": "",
-          "pages": "",
-          "city": "Aachen",
-          "publisher": "Burg Frankenberg (10.10.)",
-          "doi": ""
-        },
-        {
-          "name": "Peter Singer und die Anfänge der Tierethik in der Moderne",
-          "authors": "Krämer, Carmen",
-          "year": "2018",
-          "in": "Philosophie in der Burg",
-          "volume": "",
-          "pages": "",
-          "city": "Würselen",
-          "publisher": "Weiterbildungskolleg der StädteRegion Aachen (19.01.)",
-          "doi": ""
-        },
-        {
-          "name": "Peter Singer und die Anfänge der Tierethik in der Moderne",
-          "authors": "Krämer, Carmen",
-          "year": "2018",
-          "in": "Fachkonferenz Philosophie",
-          "volume": "",
-          "pages": "",
-          "city": "Würselen",
-          "publisher": "Weiterbildungskolleg der StädteRegion Aachen (19.01.)",
-          "doi": ""
-        },
-        {
-          "name": "Peter Singer und die Anfänge der Tierethik in der Moderne",
-          "authors": "Krämer, Carmen",
-          "year": "2018",
-          "in": "VHS-Reihe Wissenschaft vor Ort",
-          "volume": "",
-          "pages": "",
-          "city": "Monschau",
-          "publisher": "Himo (20.03.)",
-          "doi": ""
-        },
-        {
-          "name": "Schulprojekt: Ethische Aspekte des Reality TV",
-          "authors": "Krämer, Carmen; Schneider, Britta",
-          "year": "2017",
-          "in": "",
-          "volume": "",
-          "pages": "",
-          "city": "Aachen",
-          "publisher": "Anne-Frank-Gymnasium (11.-13.07.)",
-          "doi": ""
-       },
-       {
-        "name": "Menschenwürde und Reality TV – ein Widerspruch?",
+        "name": "Peter Singer und die Anfänge der Tierethik in der Moderne",
         "authors": "Krämer, Carmen",
+        "year": "2019",
+        "in": "Vortrag auf Einladung in der Reihe Philosophie in der Burg",
+        "volume": "",
+        "pages": "",
+        "city": "Aachen",
+        "publisher": "Burg Frankenberg (10.10.)",
+        "doi": ""
+      },
+      {
+        "name": "Peter Singer und die Anfänge der Tierethik in der Moderne",
+        "authors": "Krämer, Carmen",
+        "year": "2018",
+        "in": "Vortrag auf Einladung der Fachkonferenz Philosophie",
+        "volume": "",
+        "pages": "",
+        "city": "Würselen",
+        "publisher": "Weiterbildungskolleg der StädteRegion Aachen (19.01.)",
+        "doi": ""
+      },
+      {
+        "name": "Peter Singer und die Anfänge der Tierethik in der Moderne",
+        "authors": "Krämer, Carmen",
+        "year": "2018",
+        "in": "Vortrag auf Einladung in der VHS-Reihe Wissenschaft vor Ort",
+        "volume": "",
+        "pages": "",
+        "city": "Monschau",
+        "publisher": "Himo (20.03.)",
+        "doi": ""
+      },
+      {
+        "name": "Schulprojekt: Ethische Aspekte des Reality TV",
+        "authors": "Krämer, Carmen; Schneider, Britta",
         "year": "2017",
         "in": "",
         "volume": "",
         "pages": "",
         "city": "Aachen",
-        "publisher": "LOGOI (07.05.)",
+        "publisher": "Anne-Frank-Gymnasium (11.-13.07.)",
         "doi": ""
-      },
-      {
-        "name": "Menschenwürde und Reality TV – ein Widerspruch?",
-        "authors": "Krämer, Carmen",
-        "year": "2016",
-        "in": "Reihe Philosophie in der Burg",
-        "volume": "",
-        "pages": "",
-        "city": "Aachen",
-        "publisher": "Burg Frankenberg (06.10.)",
-        "doi": ""
-      }
-      ]
+     },
+     {
+      "name": "Menschenwürde und Reality TV – ein Widerspruch?",
+      "authors": "Krämer, Carmen",
+      "year": "2017",
+      "in": "Vortrag auf Einladung des LOGOI. Institut für Philosophie",
+      "volume": "",
+      "pages": "",
+      "city": "Aachen",
+      "publisher": "LOGOI (07.05.)",
+      "doi": ""
+    },
+    {
+      "name": "Menschenwürde und Reality TV – ein Widerspruch?",
+      "authors": "Krämer, Carmen",
+      "year": "2016",
+      "in": "Vortrag auf Einladung in der Reihe Philosophie in der Burg",
+      "volume": "",
+      "pages": "",
+      "city": "Aachen",
+      "publisher": "Burg Frankenberg (06.10.)",
+      "doi": ""
     }
+    ]
   }
-  
+}
