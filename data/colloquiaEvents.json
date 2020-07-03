@@ -1,5 +1,15 @@
 [
     {
+      "date": "November and December 2019",
+      "name": "Reading Group \"Code Studies\"",
+      "semester": "WS20"
+    },
+    {
+      "date": "October 2019",
+      "name": "Presentatoion \"Neuro Modeling Talk\" (Lisa Schüttler, 10.10. 2019)",
+      "semester": "W20"
+    },
+    {
       "date": "July 2019",
       "name": "Workshop \"Embodied AI / Exbodied Mind\" (4 to 5 July 2019)",
       "semester": "S19"
@@ -7,6 +17,11 @@
     {
       "date": "June 2019",
       "name": "Discussion of the PhD- and PostDoc projects",
+      "semester": "S19"
+    },
+    {
+      "date": "June 2019",
+      "name": "Presentation \"First Code Studies. An example\" (Daniel Maschmann, 07. June 19)
       "semester": "S19"
     },
     {
