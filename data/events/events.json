@@ -35,6 +35,24 @@
    },
 
    {
+      "name":"The status and limits of scientific learning by machine.",
+      "date":"19 November 2020",
+      "startDate":"2020-11-19",
+      "endDate":"",
+      "type":"Online-Lecture",
+      "organizedBy":" Ben Jantzen (Virginia Tech)",
+      "description":"",
+      "location":"RWTH Aachen",
+      "done":"false",
+      "program":"",
+      "links":[
+         {
+            
+         }
+      ]
+   },
+
+   {
       "name":"Effective Altruism",
       "date":"3 November 2020 to 19 January 2021",
       "startDate":"2020-11-03",
