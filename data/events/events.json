@@ -20,7 +20,7 @@
       "name":"Operator & User Empowerment in Times of AI ",
       "date":"9 July 2020",
       "startDate":"2020-07-9",
-      "endDate":"2020-07-9",
+      "endDate":"",
       "type":" Interactive Virtual Online Workshop",
       "organizedBy":"Frank Piller, Gabriele Gramelsberger and Thomas Bergs, RWTH ProdE",
       "description":"The goal of this workshop is to bring stakeholders from industry, society, research, and politics together to discuss the needs and possibilities of future collaborations of humans, AI and machines for Industry 4.0. We want to learn from experiences from different industries and application areas, discuss concepts of operator (user) empowerment in production and other domains, understand the concept of fair use of AI, but also identify open fields for research, development, and policy making.",
@@ -44,7 +44,13 @@
       "description":"Kolloquium in Cooperation with the Research Group \"Modelling Trust\" of the HLRS Stuttgart",
       "location":"RWTH Aachen",
       "done":"false",
-      "program":"Abstract:<br/> There is concern that the methods of machine learning (ML) offer limited support for scientific inference. The worry is that while ML methods are apt for spotting hidden patterns in large, complex datasets, the output of such methods is neither readily interpretable nor accompanied by clear error bounds or degrees of confidence. More broadly, science generally aims at causal knowledge, and the statistical methods of ML are not reliable guides to causal relations. However, if ML is understood broadly to encompass all algorithms that learn from empirical experience, these fears are misguided. In this talk, I outline the remarkable progress over the last three decades in finding algorithmic solutions to a series of scientific inference problems: (1) combining causal knowledge with statistical learning techniques, (2) discovering causal structure, (3) identifying laws of nature, and (4) inventing novel scientifically salient variables. I argue that these advances represent a powerful armamentarium for automated scientific discovery. But this armamentarium is incomplete. I close by indicating an overlooked step in experimental inquiry that remains poorly characterized and consequently cannot yet be automated."
+      "program":"Abstract:<br/> There is concern that the methods of machine learning (ML) offer limited support for scientific inference. The worry is that while ML methods are apt for spotting hidden patterns in large, complex datasets, the output of such methods is neither readily interpretable nor accompanied by clear error bounds or degrees of confidence. More broadly, science generally aims at causal knowledge, and the statistical methods of ML are not reliable guides to causal relations. However, if ML is understood broadly to encompass all algorithms that learn from empirical experience, these fears are misguided. In this talk, I outline the remarkable progress over the last three decades in finding algorithmic solutions to a series of scientific inference problems: (1) combining causal knowledge with statistical learning techniques, (2) discovering causal structure, (3) identifying laws of nature, and (4) inventing novel scientifically salient variables. I argue that these advances represent a powerful armamentarium for automated scientific discovery. But this armamentarium is incomplete. I close by indicating an overlooked step in experimental inquiry that remains poorly characterized and consequently cannot yet be automated.",
+      "links":[
+         {
+            "name":"",
+            "href":""
+         }
+      ]
    },
 
    {
