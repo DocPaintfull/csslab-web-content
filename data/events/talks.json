@@ -5,8 +5,8 @@
     "date": "01 October 2020",
     "startDate": "2020-10-01",
     "endDate": "2020",
-    "type": "Annual Conference Gesellschaft für Medienwissenschaft",
-    "in": "",
+    "type": "Conference",
+    "in": "Jahrestagung Gesellschaft für Medienwissenschaft (GfM)",
     "institution": "Ruhr-Universität Bochum Bochum / Zoom"
   },
   {
@@ -75,8 +75,8 @@
     "date": "21 November 2019",
     "startDate": "2019-11-21",
     "endDate": "2019-11-22",
-    "type": "DFG Symposium Digitalität in den Geisteswissenschaften",
-    "in": "",
+    "type": "Symposium",
+    "in": "DFG Symposium Digitalität in den Geisteswissenschaften",
     "institution": "Leuphana Universität Lüneburg"
   },
   {
