@@ -9,15 +9,21 @@
             ]
         },
         "box1": {
-            "headLine": "Winter Term 2020"
+            "headLine": "Winter Term 2020/2021"
         },
         "box2": {
-            "headLine": "Summer Term 2019"
+            "headLine": "Summer Term 2020"
         },
         "box3": {
-            "headLine": "Winter Term 2018/2019"
+            "headLine": "Winter Term 2019/2020"
         },
         "box4": {
+            "headLine": "Summer Term 2019"
+        },
+        "box5": {
+            "headLine": "Winter Term 2018/2019"
+        },
+        "box6": {
             "headLine": "Summer Term 2018"
         }
     }

@@ -1,5 +1,39 @@
 [
-      {
+   {
+      "name":"Fairness in Machine Learning",
+      "date":"21 January 2021",
+      "startDate":"2021-01-21",
+      "endDate":"2021-01-21",
+      "type":"Online Colloquium",
+      "organizedBy":"Samira Samadi / Max-Planck Institute for intelligent Systems Tübingen",
+      "description":"I will give a general talk on this topic for a broad audience, introducing the issues of bias in machine learning models and how to detect these issues and then conclude with brief discussion on what researchers who work on fairness in machine learning (and more broadly ethics in AI) do to address these issues and to design more ethical machine learning algorithms.",
+      "location":"Human Technology Centre, RWTH Aachen and online on Zoom",
+      "done":"false", 
+      "links":[
+         {
+            "name":"Program",
+            "href":""
+         }
+      ]
+   },
+   {
+      "name":"Explainable Artificial Intelligence and the Problems of Philosophy",
+      "date":"17 December 2020",
+      "startDate":"2020-12-17",
+      "endDate":"2020-12-17",
+      "type":"Online Colloquium",
+      "organizedBy":"Carlos Zednik / TU Eindhoven",
+      "description":"The Black Box Problem arises because machine learning methods yield algorithms whose behavior is difficult to predict, interpret, and control. Explainable Artificial Intelligence (XAI) is dedicated to solving this problem. In the first part of this talk, I will introduce several different XAI methods and evaluate the extent to which they can actually be used to solve the Black Box Problem. In the second part of this talk, I will consider whether these same methods can also be used to solve a variety of more traditional philosophical problems: from philosophy of science, the problem of inferring causal relationships; from ethics, the problem of attributing moral responsibility for the behavior of autonomous systems; and from philosophy of mind, the problem of identifying genuine kinds of machine intelligence.",
+      "location":"Human Technology Centre, RWTH Aachen and online on Zoom",
+      "done":"false", 
+      "links":[
+         {
+            "name":"Program",
+            "href":""
+         }
+      ]
+   },
+   {
       "name":"Modeling Trust. An AI lie detector (iBorderCtrl)",
       "date":"26 June 2020",
       "startDate":"2020-06-26",
