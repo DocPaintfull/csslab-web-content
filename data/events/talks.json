@@ -1,5 +1,15 @@
 [
   {
+    "name": "Immersive Tests: Gasgemische als zeitkritische Medien",
+    "by": "kasprowicz",
+    "date": "01 October 2020",
+    "startDate": "2020-10-01",
+    "endDate": "2020",
+    "type": "Conference",
+    "in": "Jahrestagung Gesellschaft für Medienwissenschaft (GfM)",
+    "institution": "Ruhr-Universität Bochum Bochum / Zoom"
+  },
+  {
     "name": "Medien und Verantwortung in der Wissensgesellschaft. Beitrag zum Workshop Schuldhaftes Nichtwissen",
     "by": "kraemer",
     "date": "03 July 2020",
@@ -58,6 +68,16 @@
     "type": "Colloquium",
     "in": "Colloquium of the RUST Lab",
     "institution": "Ruhr University Bochum"
+  },
+  {
+    "name": "(with Lisa Schüttler) Von der Syntax zur Semantik. ICE-Tools für Programmcodes in den Wissenschaften",
+    "by": "kasprowicz",
+    "date": "21 November 2019",
+    "startDate": "2019-11-21",
+    "endDate": "2019-11-22",
+    "type": "Symposium",
+    "in": "DFG Symposium Digitalität in den Geisteswissenschaften",
+    "institution": "Leuphana Universität Lüneburg"
   },
   {
     "name": "Asymptotik – Finales Anschmiegen an das Unendliche",
@@ -130,7 +150,7 @@
       "institution": "Congress Center Málaga, Spain"
  },
  {  
-    "name": "Computational Science Studies. Software-Tools for Philosophers",
+    "name": "(with Gabriele Gramelsberger) Computational Science Studies. Software-Tools for Philosophers",
     "by": "kasprowicz",
     "date": "28 November 2019",
     "startDate": "2019-11-28",
