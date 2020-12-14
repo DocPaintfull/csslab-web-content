@@ -1,18 +1,19 @@
 [
    {
-      "name":"Fairness in Machine Learning",
-      "date":"21 January 2021",
-      "startDate":"2021-01-21",
-      "endDate":"2021-01-21",
-      "type":"Online Colloquium",
-      "organizedBy":"Samira Samadi / Max-Planck Institute for intelligent Systems Tübingen",
-      "description":"I will give a general talk on this topic for a broad audience, introducing the issues of bias in machine learning models and how to detect these issues and then conclude with brief discussion on what researchers who work on fairness in machine learning (and more broadly ethics in AI) do to address these issues and to design more ethical machine learning algorithms.",
-      "location":"Human Technology Centre, RWTH Aachen and online on Zoom",
-      "done":"false", 
+      "name":"Effective Altruism",
+      "date":"3 November 2020 to 19 January 2021",
+      "startDate":"2020-11-03",
+      "endDate":"2021-01-19",
+      "type":" International Lecture Series",
+      "organizedBy":"Wulf Kellerwessel and the Studentische Eigeninitiative Aachen e.V.",
+      "description":"",
+      "location":"RWTH Aachen",
+      "done":"false",
+      "program":"Program: <br/> Kickoff and Introduction to Effective Altruism (03.11.2020)</br> Fighting Global Poverty: Effective Interventions (10.11.2020)</br> Preventing Animal Suffering (17.11.2020)</br> Social Entrepreneurship: How to Found a Charity? (24.11.2020)</br> Existential Risk and the Future of Humanity (01.12.2020)</br> Catastrophic Climate Change (08.12.2020)</br> Risks from Advanced Artificial Intelligence (15.12.2020)</br> Preventing Global Pandemics (12.01.2021)</br> A Moment of Reflection (19.01.2021)</br>",
       "links":[
          {
-            "name":"Program",
-            "href":""
+            "name":"Detailed Program and Information",
+            "href":"https://www.ea-aachen.org/uni-course"
          }
       ]
    },
@@ -30,6 +31,41 @@
          {
             "name":"Program",
             "href":""
+         }
+      ]
+   },
+   {
+      "name":"Fairness in Machine Learning",
+      "date":"21 January 2021",
+      "startDate":"2021-01-21",
+      "endDate":"2021-01-21",
+      "type":"Online Colloquium",
+      "organizedBy":"Samira Samadi / Max-Planck Institute for intelligent Systems Tübingen",
+      "description":"I will give a general talk on this topic for a broad audience, introducing the issues of bias in machine learning models and how to detect these issues and then conclude with brief discussion on what researchers who work on fairness in machine learning (and more broadly ethics in AI) do to address these issues and to design more ethical machine learning algorithms.",
+      "location":"Human Technology Centre, RWTH Aachen and online on Zoom",
+      "done":"false", 
+      "links":[
+         {
+            "name":"Program",
+            "href":""
+         }
+      ]
+   },
+   {
+      "name":"Infrastructures of Science",
+      "date":"12 to 16 July 2021",
+      "startDate":"2021-07-12",
+      "endDate":"2021-07-16",
+      "type":"IDEA League Summer School 2021",
+      "organizedBy":"Gabriele Gramelsberger together with the Chair for History of Technology at the ETH Zürich",
+      "description":"Archives, collections, labs and machine parks are well known institutions that promote scientific research. From the 19th century on they have been developing into large scale research systems organizing methods, instruments and scientists’ work. In the last decades we are witnessing that sciences have become more and more computer-based. Obviously, data centers, networks and platforms are indispensable facilities for research, they are complementing and reconfiguring traditional technologies. In a historical perspective, digital infrastructures offer an unprecedented generalizability: they stimulate the production and circulation of methodological knowledge across a broad spectrum of academic disciplines. The interdisciplinary Summer School investigates the history and philosophy of digital infrastructures. How do infrastructures affect science? And how do sciences configure their technologies?",
+      "location":"RWTH Aachen, Guesthouse",
+      "done":"false",
+      "program":"Program:<br/>  Welcome, get together, travel to location (Monday, 12th)<br/>Workshop History of Infrastructures, Dr. Daniela Zetti, ETH Zürich, Welcome reception (meet RWTH professors and students) (Tuesday, 13th)<br/>Workshop Data Reproducibility, Prof. Dr. Gabriele Gramelsberger, RWTH Aachen University; Workshop Open Science, Prof. Dr. Catharina Landström, Chalmers University Gothenburg Dr. Andreas Kaminski, HLRS Stuttgart (Wednesday 14th)<br/>Excursion and RWTH LabWalks (Thursday 15th)<br/>Presentations of the group work, final discussion (Friday 16th)<br/>",
+      "links":[
+         {
+            "name":"SiROP (Link noch nicht bekannt)",
+            "href":"https://www.css-lab.rwth-aachen.de/events/lab"
          }
       ]
    },
@@ -83,43 +119,6 @@
          {
             "name":"Website of HLRS Stuttgart",
             "href":"https://www.hlrs.de/home/"
-         }
-      ]
-   },
-
-   {
-      "name":"Effective Altruism",
-      "date":"3 November 2020 to 19 January 2021",
-      "startDate":"2020-11-03",
-      "endDate":"2021-01-19",
-      "type":" International Lecture Series",
-      "organizedBy":"Wulf Kellerwessel and the Studentische Eigeninitiative Aachen e.V.",
-      "description":"",
-      "location":"RWTH Aachen",
-      "done":"false",
-      "program":"Program: <br/> Kickoff and Introduction to Effective Altruism (03.11.2020)</br> Fighting Global Poverty: Effective Interventions (10.11.2020)</br> Preventing Animal Suffering (17.11.2020)</br> Social Entrepreneurship: How to Found a Charity? (24.11.2020)</br> Existential Risk and the Future of Humanity (01.12.2020)</br> Catastrophic Climate Change (08.12.2020)</br> Risks from Advanced Artificial Intelligence (15.12.2020)</br> Preventing Global Pandemics (12.01.2021)</br> A Moment of Reflection (19.01.2021)</br>",
-      "links":[
-         {
-            "name":"Detailed Program and Information",
-            "href":"https://www.ea-aachen.org/uni-course"
-         }
-      ]
-   },
-   {
-      "name":"Infrastructures of Science",
-      "date":"12 to 16 July 2021",
-      "startDate":"2021-07-12",
-      "endDate":"2021-07-16",
-      "type":"IDEA League Summer School 2021",
-      "organizedBy":"Gabriele Gramelsberger together with the Chair for History of Technology at the ETH Zürich",
-      "description":"Archives, collections, labs and machine parks are well known institutions that promote scientific research. From the 19th century on they have been developing into large scale research systems organizing methods, instruments and scientists’ work. In the last decades we are witnessing that sciences have become more and more computer-based. Obviously, data centers, networks and platforms are indispensable facilities for research, they are complementing and reconfiguring traditional technologies. In a historical perspective, digital infrastructures offer an unprecedented generalizability: they stimulate the production and circulation of methodological knowledge across a broad spectrum of academic disciplines. The interdisciplinary Summer School investigates the history and philosophy of digital infrastructures. How do infrastructures affect science? And how do sciences configure their technologies?",
-      "location":"RWTH Aachen, Guesthouse",
-      "done":"false",
-      "program":"Program:<br/>  Welcome, get together, travel to location (Monday, 12th)<br/>Workshop History of Infrastructures, Dr. Daniela Zetti, ETH Zürich, Welcome reception (meet RWTH professors and students) (Tuesday, 13th)<br/>Workshop Data Reproducibility, Prof. Dr. Gabriele Gramelsberger, RWTH Aachen University; Workshop Open Science, Prof. Dr. Catharina Landström, Chalmers University Gothenburg Dr. Andreas Kaminski, HLRS Stuttgart (Wednesday 14th)<br/>Excursion and RWTH LabWalks (Thursday 15th)<br/>Presentations of the group work, final discussion (Friday 16th)<br/>",
-      "links":[
-         {
-            "name":"SiROP (Link noch nicht bekannt)",
-            "href":"https://www.css-lab.rwth-aachen.de/events/lab"
          }
       ]
    },
