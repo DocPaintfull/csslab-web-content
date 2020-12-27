@@ -26,13 +26,7 @@
       "organizedBy":"Carlos Zednik / TU Eindhoven",
       "description":"The Black Box Problem arises because machine learning methods yield algorithms whose behavior is difficult to predict, interpret, and control. Explainable Artificial Intelligence (XAI) is dedicated to solving this problem. In the first part of this talk, I will introduce several different XAI methods and evaluate the extent to which they can actually be used to solve the Black Box Problem. In the second part of this talk, I will consider whether these same methods can also be used to solve a variety of more traditional philosophical problems: from philosophy of science, the problem of inferring causal relationships; from ethics, the problem of attributing moral responsibility for the behavior of autonomous systems; and from philosophy of mind, the problem of identifying genuine kinds of machine intelligence.",
       "location":"Human Technology Centre, RWTH Aachen and online on Zoom",
-      "done":"false", 
-      "links":[
-         {
-            "name":"Program",
-            "href":""
-         }
-      ]
+      "done":"false"
    },
    {
       "name":"Fairness in Machine Learning(Samira Samadi / Max-Planck Institute for intelligent Systems Tübingen)",
@@ -43,13 +37,7 @@
       "organizedBy":"Samira Samadi / Max-Planck Institute for intelligent Systems Tübingen",
       "description":"I will give a general talk on this topic for a broad audience, introducing the issues of bias in machine learning models and how to detect these issues and then conclude with brief discussion on what researchers who work on fairness in machine learning (and more broadly ethics in AI) do to address these issues and to design more ethical machine learning algorithms.",
       "location":"Human Technology Centre, RWTH Aachen and online on Zoom",
-      "done":"false", 
-      "links":[
-         {
-            "name":"Program",
-            "href":""
-         }
-      ]
+      "done":"false"
    },
    {
       "name":"Infrastructures of Science",
@@ -78,13 +66,7 @@
       "organizedBy":"Andreas Kaminski",
       "description":"The workshop discusses the EU-funded project iBorderCtrl in which computer technology is developed to screen persons who want to immigrate into the EU. iBorderCtrl is a test battery that spans over biometric modules, evaluations of Social Media Data and Risk Based Assessment Tools). One of these modules is an AI-lie detector, named Automatic Deception Detection System (ADDS). The workshop focuses on the ADDS and its implementation on three border locations of the EU (Latvia, Ungary and Greece).",
       "location":"Human Technology Centre, RWTH Aachen and online on Zoom",
-      "done":"false", 
-      "links":[
-         {
-            "name":"Program",
-            "href":""
-         }
-      ]
+      "done":"false"
    },
    {
       "name":"Operator & User Empowerment in Times of AI ",
@@ -95,13 +77,7 @@
       "organizedBy":"Frank Piller, Gabriele Gramelsberger and Thomas Bergs, RWTH ProdE",
       "description":"The goal of this workshop is to bring stakeholders from industry, society, research, and politics together to discuss the needs and possibilities of future collaborations of humans, AI and machines for Industry 4.0. We want to learn from experiences from different industries and application areas, discuss concepts of operator (user) empowerment in production and other domains, understand the concept of fair use of AI, but also identify open fields for research, development, and policy making.",
       "location":"RWTH Aachen",
-      "done":"false", 
-      "links":[
-         {
-            "name":"",
-            "href":""
-         }
-      ]
+      "done":"false"
    },
 
    {
