@@ -1,5 +1,23 @@
 [
    {
+      "name":"How to Model Artificial Sociality: A Proposal",
+      "date":"4 February 2021",
+      "startDate":"2021-02-04",
+      "endDate":"2021-02-05",
+      "type":"Online-Colloquium",
+      "organizedBy":"Johanna Seibt",
+      "description":"",
+      "location":"RWTH Aachen",
+      "done":"false",
+      "program":"While the ethical problems of AI and social robotics have been foregrounded during the past decade, this talk addresses the conceptual problems that arise when artificial agents present themselves as social agents. With focus on social robotics in particular, I argue that in the current research situation we first need (philosophical) ontology and then ethics--more precise descriptions of human social interactions with robots will enable us to produce the sort of empirical data that can ground detailed ethical recommendations. I introduce the descriptive framework OASIS (Ontology of Asymmetric Social Interactions) which is based on three constructional ideas: degrees of simulation, levels of sociality, and perspectivalness.  As I try to show, OASIS offere simple, yet sufficiently expressive and precise descriptive tools that can facilitate the interdisciplinary integration of Human-Robot Interaction Research.",
+      "links":[
+         {
+            "name":"Programm",
+            "href":"https://www.css-lab.rwth-aachen.de/teaching/colloquia"
+         }
+      ]
+   },
+   {
       "name":"Kant's Cognitive Architecture",
       "date":"11 February 2021",
       "startDate":"2021-02-11",
