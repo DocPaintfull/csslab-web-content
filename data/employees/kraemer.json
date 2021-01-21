@@ -3,12 +3,12 @@
   "ref": "kraemer",
   "title": "Dr. phil.",
   "status": "Post-Doc",
-  "cv": "Carmen Krämer, Ph.D., is research assistant at the Chair for Theory of Science and Technology. She studied Literature and Philosophy at RWTH Aachen, Germany and at Hacettepe University in Ankara, Turkey. Her Master’s thesis deals with the topic “On the Ontology of Literary Works”. In the course of working as a journalist for different media institutions for several years, she has confronted different ethical issues. In this vein, her dissertation focused on the question, “Does reality TV hurt human dignity?”. Here she develops an understanding of dignity and examines what this means for considering ethical issues in reality TV-shows. Her next project deals with reflections on media and ethical responsibility. Besides this, she is interested in animal ethics and environmental ethics. Together with Prof. Simone Paganini and Prof. Wulf Kellerwessel, she founded the Centre of Human-Animal Studies Aachen (CHASA).",
+  "cv": "Carmen Krämer, Ph.D., is research assistant at the Chair for Theory of Science and Technology. She studied Literature and Philosophy at RWTH Aachen, Germany and at Hacettepe University in Ankara, Turkey. Her Master’s thesis deals with the topic “On the Ontology of Literary Works”. In the course of working as a journalist for different media institutions for several years, she has confronted different ethical issues. In this vein, her dissertation focused on the question, “Does reality TV hurt human dignity?”. Here she develops an understanding of dignity and examines what this means for considering ethical issues in reality TV-shows. Her next project deals with ethical reflections on media, ignorance and knowledge. Besides this, she is interested in animal ethics and environmental ethics. Together with Prof. Simone Paganini and Prof. Wulf Kellerwessel, she founded the Centre of Human-Animal Studies Aachen (CHASA).",
   "img": "kraemer.png",
   "tel": "",
   "email": "carmen.kraemer@phil-inst.rwth-aachen.de",
   "field":"Philosophy and Ethics",
-  "researchInterests": "Media Ethics, Theories of Dignity, Human Rights, Utilitarianism, Animal Ethics, Environmental Ethics.",
+  "researchInterests": "Media Ethics, Theories of Dignity, Human Rights, Social Epistemology, Utilitarianism, Animal Ethics, Environmental Ethics.",
   "projects": [
   
   ],
@@ -25,7 +25,7 @@
       "city": "Baden-Baden",
       "publisher": "Nomos",
       "doi": "",
-      "in_print": true
+      "in_print": false
     },
     {
       "name": "Mensch – Tier – Ethik im interdisziplinären Diskurs",
@@ -44,17 +44,17 @@
     "contributions":
     [
       {
-        "name": "Can Robots have dignity?",
+        "name": "Can Robots Have Dignity?",
         "authors": "Krämer, Carmen",
         "year": "2020",
         "in": "Artificial Intelligence",
         "in_author": "Goecke, Paul Benedikt and Rosenthal-von der Pütten, Astrid Marieke (eds)",
         "volume": "",
-        "pages": "",
+        "pages": "241-253",
         "city": "Paderborn",
         "publisher": "Mentis",
         "doi": "",
-        "in_print": true
+        "in_print": false
       },
       {
         "name": "Menschenwürde – Flucht – Medien. Reflexionen zu Ziffer 1 des deutschen Pressekodexes im Kontext der Medienberichterstattung über Flucht",
@@ -141,13 +141,24 @@
     "misc":
     [
        {
+        "name": "Medienethische Überlegungen zu Fake News und Nichtwissen",
+        "authors": "Krämer, Carmen",
+        "year": "2021",
+        "in": "Leonardo-Vorlesungsreihe der RWTH Aachen zum Thema Fake News – zwischen Fake und Verschwörung",
+        "volume": "",
+        "pages": "",
+        "city": "Aachen",
+        "publisher": "RWTH University (12.01.)",
+        "doi": ""
+      },
+      {
         "name": "Haben Roboter eine Würde?",
         "authors": "Krämer, Carmen",
         "year": "2020",
         "in": "Vortrag auf Einladung der VHS Südkreis Aachen",
         "volume": "",
         "pages": "",
-        "city": "Aachen",
+        "city": "",
         "publisher": "Monschau (04.02.)",
         "doi": ""
       },
