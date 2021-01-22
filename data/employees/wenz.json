@@ -24,12 +24,14 @@
           "name": "John Searle und Robert Brandom",
           "authors": "Wenz, Daniel",
           "year": "2020",
-          "in": "Jan Urbich, Jörg Zimmer: Handbuch Ontologie",
+          "in": "Handbuch Ontologie",
+          "in_author": "Jan Ubrich, Jörg Zimmer",
           "volume": "",
           "pages": "267-276",
           "city": "Stuttgart",
           "publisher": "Metzler",
-          "doi": ""
+          "doi": "",
+          "in_print": false
         }
       ],
       "reviewed":
