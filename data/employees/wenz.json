@@ -58,38 +58,47 @@
           "publisher": "Xenomoi",
           "doi": "",
           "in_print": true
-        }
-      ],
-      "reviewed":
-      [
+        },
         {
           "name": "Wirklichkeit als Reflexionskategorie – Hegels normativer Realismus",
           "authors": "Wenz, Daniel",
           "year": "2016",
           "in": "Ausgehend von Kant. Wegmarken der Klassischen Deutschen Philosophie (Studien zur Phänomenologie und Praktischen Philosophie, Bd. 38)",
+          "in_author": "",
+          "volume": "",
           "pages": "127-146",
           "city": "Würzburg",
-          "publisher": "Ergon-Verlag"
+          "publisher": "Ergon-Verlag",
+          "doi": "",
+          "in_print": false
         },
         {
           "name": "A Sphere of Mediation: Hegel, Reflection and Methodological Constructivism",
           "authors": "Wenz, Daniel",
           "year": "2014",
           "in": "Los aportes del itinerario intelectual de Kant a Hegel",
+          "in_author": "",
+          "volume": "",
           "pages": "1499-1525",
           "city": "Porto Alegre",
-          "publisher": "edipucrs"
+          "publisher": "edipucrs",
+          "doi": "",
+          "in_print": false
         },
         {
           "name": "System und Systemkritik – Witz und Ironie als philosophische Methode beim frühen Friedrich Schlegel",
-          "authors": "Wenz, Daniel and Sticker, Daniel",
+          "authors": "Wenz, Daniel",
           "year": "2013",
           "in": "Philosophisches Jahrbuch",
+          "in_author": "",
           "volume": "1. Halbband 2013",
           "pages": "64-81",
           "city": "Freiburg/München",
-          "publisher": "Karl Alber"
+          "publisher": "Karl Alber",
+          "doi": "",
+          "in_print": false
         }
+        
       ]
     }
 }
