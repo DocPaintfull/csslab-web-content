@@ -19,19 +19,21 @@
 
     ],
     "publications": {
-      "reviewed":
-      [
+      "books":[
         {
           "name": "John Searle und Robert Brandom",
           "authors": "Wenz, Daniel",
-          "year": "2019",
-          "in": "Handbuch Ontologie",
-          "in_author": "Jan Urbich, Jörg Zimmer",
-          "pages": "",
+          "year": "2020",
+          "in": "Jan Urbich, Jörg Zimmer: Handbuch Ontologie",
+          "volume": "",
+          "pages": "267-276",
           "city": "Stuttgart",
           "publisher": "Metzler",
-          "in_print": true
-        },
+          "doi": ""
+        }
+      ],
+      "reviewed":
+      [
         {
           "name": "Wirklichkeit als Reflexionskategorie – Hegels normativer Realismus",
           "authors": "Wenz, Daniel",
