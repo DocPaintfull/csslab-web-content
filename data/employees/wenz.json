@@ -32,6 +32,32 @@
           "publisher": "Metzler",
           "doi": "",
           "in_print": false
+        },
+        {
+          "name": "Hegel's Logical Foundation of the Will: Reconciling Psychology and Social-Ontology",
+          "authors": "Wenz, Daniel",
+          "year": "2020",
+          "in": "The Concept of Will in Classical German Philosophy",
+          "in_author": "Manja Kisner, Jörg Noller",
+          "volume": "",
+          "pages": "203-266",
+          "city": "Berlin/Boston",
+          "publisher": "De Gruyter",
+          "doi": "",
+          "in_print": false
+        },
+        {
+          "name": "Künstliche Intelligenz in mathematischen Beweisen und das Problem der Erklärbarkeit",
+          "authors": "Wenz, Daniel",
+          "year": "2021",
+          "in": "Künstliche Intelligenz. Die große Verheißung",
+          "in_author": "Strasser, Sohst, Stapelfeldt, Steprec",
+          "volume": "",
+          "pages": "",
+          "city": "Berlin",
+          "publisher": "Xenomoi",
+          "doi": "",
+          "in_print": true
         }
       ],
       "reviewed":
