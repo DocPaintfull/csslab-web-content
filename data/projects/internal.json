@@ -16,13 +16,13 @@
     ]
   },
   {
-    "title": "Robot Phenomenology",
-    "description": "How do robots incorporate concepts of the human body?",
-    "by": "Dr. Dawid Kasprowicz",
+    "title": "Automated Reasoning",
+    "description": "How does algorithmic thinking change mathematical thinking? ",
+    "by": "Dr. Daniel Wenz",
     "type": "PostDoc project",
     "startYear": 2018,
-    "endYear": 2022,
-    "ref": "kasprowicz",
+    "endYear": 2021,
+    "ref": "wenz",
     "images": [
       {
         "src": "/favicon.png",
@@ -32,13 +32,13 @@
     ]
   },
   {
-    "title": "Automated Reasoning",
-    "description": "How does algorithmic thinking change mathematical thinking? ",
-    "by": "Dr. Daniel Wenz",
+    "title": "Robot Phenomenology",
+    "description": "How do robots incorporate concepts of the human body?",
+    "by": "Dr. Dawid Kasprowicz",
     "type": "PostDoc project",
     "startYear": 2018,
-    "endYear": 2021,
-    "ref": "wenz",
+    "endYear": 2022,
+    "ref": "kasprowicz",
     "images": [
       {
         "src": "/favicon.png",
