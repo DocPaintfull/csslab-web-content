@@ -1,5 +1,25 @@
 [
   {
+    "name": "(with Dawid Kasprowicz) Von der Syntax zur Semantik. ICE-Tools für Programmcodes in den Wissenschaften",
+    "by": "schuettler",
+    "date": "21 November 2019",
+    "startDate": "2019-11-21",
+    "endDate": "2019-11-22",
+    "type": "Symposium",
+    "in": "DFG Symposium Digitalität in den Geisteswissenschaften",
+    "institution": "Leuphana Universität Lüneburg"
+  },
+  {
+    "name": "(with Dawid Kasprowicz) Coding, Valuing and Knowing: Intersections in the Practice of Programming",
+    "by": "schuettler",
+    "date": "6 to 7 May 2019",
+    "startDate": "2019-05-06",
+    "endDate": "2019-05-07",
+    "type": "Conference",
+    "in": "Critical Issues in Science, Technology and Society Studies",
+    "institution": "Technical University of Graz"
+  },
+  {
     "name": "Der Körper auf Tauchstation. Zu einer Wissensgeschichte der Immersion",
     "by": "kasprowicz",
     "date": "17 November 2020",
