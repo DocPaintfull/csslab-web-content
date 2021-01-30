@@ -14,6 +14,7 @@
           "description": "Are post- or non-monetary economies not only theoretically conceivable, but also simulable? Commons research provides promising inspiration for this question. Elinor Ostrom’s award of the Nobel Prize for Economics in 2009 honored a research that demonstrated the fundamental viability of such commons-economies under specific conditions.<br/><br/> Although agent-based simulations have widespread means in economic research, such simulations generally assume economies to be monetary and market-based. Based on the research group members experience in the implementation of such simulations as well as their historical, (media)theoretical and sociological reflection and analysis, a simulation model of a non-monetary society will be developed for the first time. The aim is to test the possibilities and problems of non-monetary economies – such as new ways of conveying needs and regulating conflicts as well as the inclusion of social reproduction – and to observe, document and reflect the process of designing such simulations (e. g. with regard to the simulation of communicative processes). In view of the current debate about economic and ecological crises, the attempt to simulate other economies has a high social relevance.<br/><br/> In this project, we as an interdisciplinary team (see research group: https://nach-dem-geld.de/partner/) set ourselves the following tasks: (1) to simulate conceptions of a post-money society, (2) to critically accompany their development in an interdisciplinary way, (3) to illuminate the potentials of their methodological effectiveness, and (4) to epistemologically re-evaluate the mediating role of simulation experiments.<br/><br/>The project „Die Gesellschaft nach dem Geld. Eröffnung eines Dialogs“ is sponsored by the Initiative „Originalitätsverdacht? Neue Optionen für die Geistes- und Kulturwissenschaften (Förderlinie 2: Konstellationen)“ by the Volkswagen-Foundation."
       }
     ],
+    "publications": {
     "misc": 
     [
         {
@@ -28,4 +29,5 @@
             "doi": ""
           }
     ]
+}
 }
