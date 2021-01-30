@@ -36,41 +36,6 @@
       ]
    },
    {
-      "name":"Effective Altruism",
-      "date":"3 November 2020 to 19 January 2021",
-      "startDate":"2020-11-03",
-      "endDate":"2021-01-20",
-      "type":" International Lecture Series",
-      "organizedBy":"Wulf Kellerwessel and the Studentische Eigeninitiative Aachen e.V.",
-      "description":"",
-      "location":"RWTH Aachen",
-      "done":"false",
-      "program":"Program: <br/> Kickoff and Introduction to Effective Altruism (03.11.2020)</br> Fighting Global Poverty: Effective Interventions (10.11.2020)</br> Preventing Animal Suffering (17.11.2020)</br> Social Entrepreneurship: How to Found a Charity? (24.11.2020)</br> Existential Risk and the Future of Humanity (01.12.2020)</br> Catastrophic Climate Change (08.12.2020)</br> Risks from Advanced Artificial Intelligence (15.12.2020)</br> Preventing Global Pandemics (12.01.2021)</br> A Moment of Reflection (19.01.2021)</br>",
-      "links":[
-         {
-            "name":"Detailed Program and Information",
-            "href":"https://www.ea-aachen.org/uni-course"
-         }
-      ]
-   },
-   {
-      "name":"Explainable Artificial Intelligence and the Problems of Philosophy(Carlos Zednik / TU Eindhoven)",
-      "date":"17 December 2020",
-      "startDate":"2020-12-17",
-      "endDate":"2020-12-18",
-      "type":"Online Colloquium",
-      "organizedBy":"Carlos Zednik / TU Eindhoven",
-      "description":"The Black Box Problem arises because machine learning methods yield algorithms whose behavior is difficult to predict, interpret, and control. Explainable Artificial Intelligence (XAI) is dedicated to solving this problem. In the first part of this talk, I will introduce several different XAI methods and evaluate the extent to which they can actually be used to solve the Black Box Problem. In the second part of this talk, I will consider whether these same methods can also be used to solve a variety of more traditional philosophical problems: from philosophy of science, the problem of inferring causal relationships; from ethics, the problem of attributing moral responsibility for the behavior of autonomous systems; and from philosophy of mind, the problem of identifying genuine kinds of machine intelligence.",
-      "location":"Human Technology Centre, RWTH Aachen and online on Zoom",
-      "done":"false",
-      "links":[
-         {
-            "name":"Program",
-            "href":"https://www.css-lab.rwth-aachen.de/teaching/colloquia"
-         }
-      ]
-   },
-   {
       "name":"Fairness in Machine Learning(Samira Samadi / Max-Planck Institute for intelligent Systems Tübingen)",
       "date":"21 January 2021",
       "startDate":"2021-01-21",
@@ -106,28 +71,22 @@
       ]
    },
    {
-      "name":"Modeling Trust. An AI lie detector (iBorderCtrl)",
-      "date":"26 June 2020",
-      "startDate":"2020-06-26",
-      "endDate":"2020-06-26",
-      "type":" Interactive Online Workshop",
-      "organizedBy":"Andreas Kaminski",
-      "description":"The workshop discusses the EU-funded project iBorderCtrl in which computer technology is developed to screen persons who want to immigrate into the EU. iBorderCtrl is a test battery that spans over biometric modules, evaluations of Social Media Data and Risk Based Assessment Tools). One of these modules is an AI-lie detector, named Automatic Deception Detection System (ADDS). The workshop focuses on the ADDS and its implementation on three border locations of the EU (Latvia, Ungary and Greece).",
+      "name":"Explainable Artificial Intelligence and the Problems of Philosophy(Carlos Zednik / TU Eindhoven)",
+      "date":"17 December 2020",
+      "startDate":"2020-12-17",
+      "endDate":"2020-12-18",
+      "type":"Online Colloquium",
+      "organizedBy":"Carlos Zednik / TU Eindhoven",
+      "description":"The Black Box Problem arises because machine learning methods yield algorithms whose behavior is difficult to predict, interpret, and control. Explainable Artificial Intelligence (XAI) is dedicated to solving this problem. In the first part of this talk, I will introduce several different XAI methods and evaluate the extent to which they can actually be used to solve the Black Box Problem. In the second part of this talk, I will consider whether these same methods can also be used to solve a variety of more traditional philosophical problems: from philosophy of science, the problem of inferring causal relationships; from ethics, the problem of attributing moral responsibility for the behavior of autonomous systems; and from philosophy of mind, the problem of identifying genuine kinds of machine intelligence.",
       "location":"Human Technology Centre, RWTH Aachen and online on Zoom",
-      "done":"false"
+      "done":"false",
+      "links":[
+         {
+            "name":"Program",
+            "href":"https://www.css-lab.rwth-aachen.de/teaching/colloquia"
+         }
+      ]
    },
-   {
-      "name":"Operator & User Empowerment in Times of AI ",
-      "date":"9 July 2020",
-      "startDate":"2020-07-9",
-      "endDate":"2020-07-9",
-      "type":" Interactive Virtual Online Workshop",
-      "organizedBy":"Frank Piller, Gabriele Gramelsberger and Thomas Bergs, RWTH ProdE",
-      "description":"The goal of this workshop is to bring stakeholders from industry, society, research, and politics together to discuss the needs and possibilities of future collaborations of humans, AI and machines for Industry 4.0. We want to learn from experiences from different industries and application areas, discuss concepts of operator (user) empowerment in production and other domains, understand the concept of fair use of AI, but also identify open fields for research, development, and policy making.",
-      "location":"RWTH Aachen",
-      "done":"false"
-   },
-
    {
       "name":"The status and limits of scientific learning by machine.",
       "date":"19 November 2020",
@@ -143,6 +102,24 @@
          {
             "name":"Website of HLRS Stuttgart",
             "href":"https://www.hlrs.de/home/"
+         }
+      ]
+   },
+   {
+      "name":"Effective Altruism",
+      "date":"3 November 2020 to 19 January 2021",
+      "startDate":"2020-11-03",
+      "endDate":"2021-01-20",
+      "type":" International Lecture Series",
+      "organizedBy":"Wulf Kellerwessel and the Studentische Eigeninitiative Aachen e.V.",
+      "description":"",
+      "location":"RWTH Aachen",
+      "done":"false",
+      "program":"Program: <br/> Kickoff and Introduction to Effective Altruism (03.11.2020)</br> Fighting Global Poverty: Effective Interventions (10.11.2020)</br> Preventing Animal Suffering (17.11.2020)</br> Social Entrepreneurship: How to Found a Charity? (24.11.2020)</br> Existential Risk and the Future of Humanity (01.12.2020)</br> Catastrophic Climate Change (08.12.2020)</br> Risks from Advanced Artificial Intelligence (15.12.2020)</br> Preventing Global Pandemics (12.01.2021)</br> A Moment of Reflection (19.01.2021)</br>",
+      "links":[
+         {
+            "name":"Detailed Program and Information",
+            "href":"https://www.ea-aachen.org/uni-course"
          }
       ]
    },
@@ -175,6 +152,28 @@
       "done":"true"
    },
    {
+      "name":"Operator & User Empowerment in Times of AI ",
+      "date":"9 July 2020",
+      "startDate":"2020-07-9",
+      "endDate":"2020-07-9",
+      "type":" Interactive Virtual Online Workshop",
+      "organizedBy":"Frank Piller, Gabriele Gramelsberger and Thomas Bergs, RWTH ProdE",
+      "description":"The goal of this workshop is to bring stakeholders from industry, society, research, and politics together to discuss the needs and possibilities of future collaborations of humans, AI and machines for Industry 4.0. We want to learn from experiences from different industries and application areas, discuss concepts of operator (user) empowerment in production and other domains, understand the concept of fair use of AI, but also identify open fields for research, development, and policy making.",
+      "location":"RWTH Aachen",
+      "done":"false"
+   },
+   {
+      "name":"Modeling Trust. An AI lie detector (iBorderCtrl)",
+      "date":"26 June 2020",
+      "startDate":"2020-06-26",
+      "endDate":"2020-06-26",
+      "type":" Interactive Online Workshop",
+      "organizedBy":"Andreas Kaminski",
+      "description":"The workshop discusses the EU-funded project iBorderCtrl in which computer technology is developed to screen persons who want to immigrate into the EU. iBorderCtrl is a test battery that spans over biometric modules, evaluations of Social Media Data and Risk Based Assessment Tools). One of these modules is an AI-lie detector, named Automatic Deception Detection System (ADDS). The workshop focuses on the ADDS and its implementation on three border locations of the EU (Latvia, Ungary and Greece).",
+      "location":"Human Technology Centre, RWTH Aachen and online on Zoom",
+      "done":"false"
+   },
+   {
       "name":"Datennaturen",
       "date":"6 to 7 March 2020",
       "startDate":"2020-03-06",
@@ -188,23 +187,6 @@
          {
             "name":"Program",
             "href":"https://walcheturm.ch/agenda/internationale-tagung-datennaturen"
-         }
-      ]
-   },
-   {
-      "name":"Embodied AI/Exbodied Mind: Gesture - Perception - Robotics",
-      "date":"4 to 5 July 2019",
-      "startDate":"2019-07-25",
-      "endDate":"2019-07-26",
-      "type":"Workshop",
-      "organizedBy":"organized by Dawid Kasprowicz together with Prof. Dr. Irene Mittelberg, RWTH Aachen University",
-      "description":"",
-      "location":"German Research School for Simulation Sciences, Schinkelstr. 2a / Room: GRS001 (1095I001)",
-      "done":"true",
-      "links":[
-         {
-            "name":"Program",
-            "href":"../Embodied_AI_Exbodied_Mind_Program_Final.pdf"
          }
       ]
    },
@@ -223,6 +205,23 @@
          {
             "name":"SiROP Link",
             "href":"https://sirop.org/app/f2b21d8d-3a4f-4147-a727-83abeb45859f"
+         }
+      ]
+   },
+   {
+      "name":"Embodied AI/Exbodied Mind: Gesture - Perception - Robotics",
+      "date":"4 to 5 July 2019",
+      "startDate":"2019-07-25",
+      "endDate":"2019-07-26",
+      "type":"Workshop",
+      "organizedBy":"organized by Dawid Kasprowicz together with Prof. Dr. Irene Mittelberg, RWTH Aachen University",
+      "description":"",
+      "location":"German Research School for Simulation Sciences, Schinkelstr. 2a / Room: GRS001 (1095I001)",
+      "done":"true",
+      "links":[
+         {
+            "name":"Program",
+            "href":"../Embodied_AI_Exbodied_Mind_Program_Final.pdf"
          }
       ]
    },
@@ -268,18 +267,6 @@
       "done":"true"
    },
    {
-      "name":"Many Faces of Logic - Evening Lecture",
-      "date":"19 November 2018, 18:00 to 20:00",
-      "startDate":"2018-11-19",
-      "endDate":"2018-11-19",
-      "type":"Evening Lecture",
-      "organizedBy":"organized by Daniel Wenz",
-      "description":"",
-      "program":"Program <br/>From Being to Becoming, Prof. Johan van Benthem, Universities of Amsterdam/Stanford/Tsinghua",
-      "location":"Location: Seminar room 303, Theaterplatz 14, RWTH Aachen University",
-      "done":"true"
-   },
-   {
       "name":"Many Faces of Logic - Workshop",
       "date":"20 November 2018, 10:00 to 18:00",
       "startDate":"2018-11-20",
@@ -289,6 +276,18 @@
       "description":"The aim of this workshop is to introduce the work of Johan van Benthem, its applications, and ongoing developments to an interdisciplinary public. This includes but is not limited to the areas of logic, mathematics and philosophy, as well as of informatics, AI-research, cognitive sciences, theory of learning and every discipline that analyses social dynamics of any kind.",
       "program":"Program<br/>Knowability and Dynamic Epistemic Logic, Dr. Luis Rosa, University of Cologne <br/>Epistemic Protocols in Dynamic Gossip, Dr. Pere Pardo, RUB University of Bochum <br/>Games for Logic, Logic for Games, Prof. Erich Grädel, RWTH Aachen University <br/>Observation and Distinction. Representing Information in Infinite Games, Dr. Dietmar Berwanger, CNRS/ENS Paris-Saclay <br/>Games, Best Actions, and Deontic Logic, Prof. Olivier Roy, University of Bayreuth <br/>Learning Probabilities, Dr. Soroush Rafiee-Rad, University of Bayreuth",
       "location":"Location: Seminar room 213, Eilfschornsteinstr. 15 (1820|213), RWTH Aachen University",
+      "done":"true"
+   },
+   {
+      "name":"Many Faces of Logic - Evening Lecture",
+      "date":"19 November 2018, 18:00 to 20:00",
+      "startDate":"2018-11-19",
+      "endDate":"2018-11-19",
+      "type":"Evening Lecture",
+      "organizedBy":"organized by Daniel Wenz",
+      "description":"",
+      "program":"Program <br/>From Being to Becoming, Prof. Johan van Benthem, Universities of Amsterdam/Stanford/Tsinghua",
+      "location":"Location: Seminar room 303, Theaterplatz 14, RWTH Aachen University",
       "done":"true"
    },
    {
