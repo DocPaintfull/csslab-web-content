@@ -60,6 +60,15 @@
       "books":[
          
          {
+            "name":"Operative Epistemologie. (Re-)Organisation von Anschauung und Erfahrung durch die Formkraft der Mathematik",
+            "authors":"Gramelsberger, Gabriele",
+            "year":"2020",
+            "in":"",
+            "pages":"",
+            "city":"Hamburg",
+            "publisher":"Meiner. Open access: https://meiner.de/operative-epistemologie-15229.html"
+         },
+         {
             "name":"Cultures of Prediction in Atmospheric and Climate Science: Epistemic and Cultural Shifts in Computer-based Modelling and Simulation (Routledge Environmental Humanities)",
             "authors":"Heymann, Matthias, Gramelsberger, Gabriele and Mahony, Martin. (eds.)",
             "year":"2017",
@@ -744,6 +753,21 @@
       ],
       "reviewed":[
          {
+            "name":"ReGenesis. Leben als Laborartefakt.",
+            "authors":"Gramelsberger, Gabriele",
+            "year":"2020",
+            "in":"Deutsche Zeitschrift für Philosophie",
+            "in_author":"",
+            "volume":"68(5)",
+            "pages":"750-767",
+            "city":"",
+            "publisher":"",
+            "doi":"10.1515/dzph-2020-0051",
+            "in_print":false,
+            "namex":"open access:",
+            "href":"https://www.degruyter.com/document/doi/10.1515/dzph-2020-0051/html"
+         },
+         {
             "name":"Synthetic Morphology – A vision of engineering biological form",
             "authors":"Gramelsberger, Gabriele",
             "year":"2020",
@@ -815,7 +839,7 @@
          {
             "name":"Matrizen - Schriftbilder diskontinuierlicher Zeitmodelle",
             "authors":"Gramelsberger, Gabriele",
-            "year":"2020",
+            "year":"2019",
             "in":" Bildwelten des Wissens. Kunsthistorisches Jahrbuch für Bildkritik",
             "volume":"15",
             "pages":"61-69",
