@@ -133,6 +133,62 @@
          }
       ],
       "contributions":[
+           {
+            "authors":"Gramelsberger, Gabriele",
+            "year":"2021",
+            "name":"Hermeneutik der Maschinen und Maschinenalgorithmen",
+            "in_author":"Kablitz, Andreas, Markschies, Christoph, and Strohschneider, Peter (eds.)",
+            "in":"Hermeneutik unter Verdacht",
+            "volume":"",
+            "pages":"(Reihe Text und Textlichkeit)",
+            "city":"Berlin",
+            "publisher":"De Gruyter",
+            "doi":"",
+            "url":"",
+            "in_print":true
+         },  
+         {
+            "authors":"Gramelsberger, Gabriele",
+            "year":"2021",
+            "name":"The illusions of vortex atoms",
+            "in_author":"Rein, Katharina (ed.)",
+            "in":"Illusion in Cultural Practice: Productive Deceptions",
+            "volume":"",
+            "pages":"",
+            "city":"London",
+            "publisher":"Routledge",
+            "doi":"",
+            "url":"",
+            "in_print":true
+         }, 
+         {
+            "authors":"Gramelsberger, Gabriele",
+            "year":"2021",
+            "name":"Die Deklination des Möglichen. Lems transformatives Denken am Beispiel der Chemokratie des Neuroenhancements dekliniert",
+            "in_author":"Rzeszotnik, Jacek (ed.)",
+            "in":"Ein Jahrhundert Lem (1921-2021)",
+            "volume":"",
+            "pages":"35-46",
+            "city":"Wrocław, Dresden",
+            "publisher":"ATUT/Neisse Verlag",
+            "doi":"",
+            "url":"",
+            "in_print":true
+         }, 
+         {
+            "authors":"Gramelsberger, Gabriele",
+            "year":"2021",
+            "name":"Wissenschaftspraxis algorithmischer Wissenskulturen",
+            "in_author":"Seising, Rudolf and Hashagen, Ulf (eds.)",
+            "in":"Algorithmische Wissenskulturen",
+            "volume":"",
+            "pages":"",
+            "city":"Wiesbaden",
+            "publisher":"Springer",
+            "doi":"",
+            "url":"",
+            "in_print":true
+         },
          { 
             "authors":"Gramelsberger, Gabriele",
             "year":"2020",
