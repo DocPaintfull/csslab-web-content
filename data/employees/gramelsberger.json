@@ -136,6 +136,62 @@
          {
             "authors":"Gramelsberger, Gabriele",
             "year":"2020",
+            "name":"Reenacting Science - Wissenschaftsforscher und Künstler in biologischen Laboren",
+            "in_author":"Sick, Andrea (eds.)",
+            "in":"Spektakel. Reenactments in Kunst, Gestaltung, Wissenschaft und Technologie. Salton Digital",
+            "volume":"",
+            "pages":"172-185",
+            "city":"Augsburg",
+            "publisher":"Maro Verlag",
+            "doi":"",
+            "url":"",
+            "in_print":false
+         },
+         {
+            "authors":"Gramelsberger, Gabriele",
+            "year":"2020",
+            "name":"Aware-IT/Care-IT: Die Folgen des technologisch Unbewussten für unser Subjektverständnis",
+            "in_author":"Kaminsky, Carmen, Seelmeyer, Udo, Siebert, Scarles and Werner, Petra (eds.)",
+            "in":"Digitale Technologien zwischen Lenkung und Selbstermächtigung. Interdisziplinäre Perspektiven",
+            "volume":"",
+            "pages":"40-54",
+            "city":"Weinheim",
+            "publisher":"BELTZ Juventa",
+            "doi":"",
+            "url":"",
+            "in_print":false
+         },
+         {
+            "authors":"Gramelsberger, Gabriele",
+            "year":"2020",
+            "name":"Augmenting Human Intellect",
+            "in_author":"Thomas, Paul and Dewes, Tobias (eds.)",
+            "in":"Vergangenheit analysieren - Zukunft gestalten (Aachener Studien zur Wirtschafts-, Sozial- und Technikgeschichte 20)",
+            "volume":"",
+            "pages":"51-64",
+            "city":"Düren",
+            "publisher":"Shaker Verlag",
+            "doi":"",
+            "url":"",
+            "in_print":false
+         },
+         {
+            "authors":"Gramelsberger, Gabriele",
+            "year":"2020",
+            "name":"Virtuelles Wetter, virtuelles Klima",
+            "in_author":"Kasprowicz, Dawid and Rieger, Stefan (eds.)",
+            "in":"Handbuch Virtualität",
+            "volume":"",
+            "pages":"265-277",
+            "city":"Heidelberg, Berlin",
+            "publisher":"Springer VS Verlag für Sozialwissenschaften",
+            "doi":"",
+            "url":"",
+            "in_print":false
+         },
+         {
+            "authors":"Gramelsberger, Gabriele",
+            "year":"2020",
             "name":"Emotion Mark-up Language – Die Maschinenlesbarkeit menschlicher Expressivität",
             "in_author":"Heßler, Martina (ed.)",
             "in":"Technikemotionen (Reihe Geschichte der technischen Kultur)",
@@ -163,17 +219,17 @@
          },
          {
             "authors":"Gramelsberger, Gabriele",
-            "year":"2020",
+            "year":"2021",
             "name":"GeoMIP Szenarien - Der wissenschaftliche Umgang mit dem künstlichen Klima",
             "in_author":"Büttner, Urs and Müller, Dorit. (eds.)",
-            "in":"Künstliches Klima: Zur Imaginationsgeschichte des Climate Engineering, (Special Issue for Zeitschrift Dritte Natur)",
+            "in":"Dritte Natur (Special Issue: Künstliches Klima: Zur Imaginationsgeschichte des Climate Engineering)",
             "volume":"",
-            "pages":"",
+            "pages":"102-112",
             "city":"Berlin",
             "publisher":"Matthes & Seitz",
             "doi":"",
             "url":"",
-            "in_print":true
+            "in_print":false
          },
          {
             "authors":"Gramelsberger, Gabriele",
@@ -312,8 +368,8 @@
             "authors":"Gramelsberger, Gabriele",
             "year":"2016",
             "name":"Figurationen des Phänomenotechnischen",
-            "in_author":"",
-            "in":" Jahrbuch Technikphilosophie 2016, (edited by Gerhard Gamm, Petra Gehring, Andreas Kaminski, Alfred Nordmann, Christoph Hubig)",
+            "in_author":"Gamm, Gerhard,Gehring, Petra, Kaminski, Andreas, Nordmann, Alfred and Hubig, Christoph (eds.)",
+            "in":" Jahrbuch Technikphilosophie 2016",
             "volume":"",
             "pages":"157-168",
             "city":"Zürich, Berlin",
@@ -1084,6 +1140,17 @@
          }
       ],
       "popularJournals":[
+          {
+            "name":"Standpunkt: Neue Abhängigkeiten",
+            "authors":"Gramelsberger, Gabriele",
+            "year":"2020",
+            "in":" Lehre & Forschung",
+            "volume":"9",
+            "pages":"",
+            "city":"",
+            "publisher":"",
+            "doi":""
+         },
          {
             "name":"Datengetriebene Forschung. Ein Beitrag aus wissenschaftsphilosophischer Perspektive",
             "authors":"Gramelsberger, Gabriele and Müller, Mathias",
