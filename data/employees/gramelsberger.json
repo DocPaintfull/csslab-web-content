@@ -133,7 +133,7 @@
          }
       ],
       "contributions":[
-         {
+         { 
             "authors":"Gramelsberger, Gabriele",
             "year":"2020",
             "name":"Reenacting Science - Wissenschaftsforscher und Künstler in biologischen Laboren",
@@ -146,8 +146,8 @@
             "doi":"",
             "url":"",
             "in_print":false
-         },
-         {
+        }, 
+        {
             "authors":"Gramelsberger, Gabriele",
             "year":"2020",
             "name":"Aware-IT/Care-IT: Die Folgen des technologisch Unbewussten für unser Subjektverständnis",
@@ -809,7 +809,22 @@
       ],
       "reviewed":[
          {
-            "name":"ReGenesis. Leben als Laborartefakt.",
+            "name":"Wissenschaftslabore als artifizielle Zeitkonfigurationsräume. Techniken der Dehnung, Transformation und Aufhebung von Zeit",
+            "authors":"Gramelsberger, Gabriele, Friedrich, Alexander and Waltenspül, Sarine",
+            "year":"2021",
+            "in":"Jahrbuch für Technikphilosophie 2021 (Sonderheft: Zeit und Technik)",
+            "in_author":"",
+            "volume":"",
+            "pages":"",
+            "city":"Baden Baden",
+            "publisher":"Nomos",
+            "doi":"",
+            "in_print":true,
+            "namex":"",
+            "href":""
+         },
+         {
+            "name":"ReGenesis. Leben als Laborartefakt",
             "authors":"Gramelsberger, Gabriele",
             "year":"2020",
             "in":"Deutsche Zeitschrift für Philosophie",
