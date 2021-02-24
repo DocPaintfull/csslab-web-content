@@ -24,7 +24,8 @@
         "box5": {
             "headLine": "CSS Graduate Projects",
             "content": "During their studies for the Master’s in Governance of Technology and Innovation (GovTec), students have the opportunity to work at the CSS Lab. They can conduct a 10-week graduate project (third semester) and a case study for the Master’s thesis (fourth semester).",
-            "subline": "Information on these graduate projects will be provided soon."
+            "subline": "Information on these graduate projects will be provided soon.",
+            "link": "govtec"
         }
     }
 }
