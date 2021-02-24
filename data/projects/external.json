@@ -1,6 +1,6 @@
 [
   {
-    "title": "Neuro Modelling Talk",
+    "title": "Neuro Modelling Talk(completed)",
     "description": "The goal is to develop a conceptual framework for understanding generalization in neuroscientific modelling, because generalization is a major challenge for contemporary Computational Neuroscience and Neuromorphic Computing. Without generalization comparability of models can't be achieved, in turn, reproducibility of results isn't possible, and it is difficult to give guidance to the design of neuromorphic systems. Furthermore, without generalization of models scaling-up complexity isn't possible (complexity barrier), thus, hindering progress in knowledge. Therefore, we want to conceptionally explore generalization and evaluate new ideas on generalization about their practical feasibility.",
     "fundedBy": "DGF Initiative of Excellence / ERS RWTH Aachen University",
     "collaborators": "Prof. Dr. Gabriele Gramelsberger and Lisa Schüttler, RWTH Aachen University; Prof. Dr. Markus Diesmann, Dr. Johanna Senk, Dr. Tom Tetzlaff and Dr. Sache van Albada, Institute of Neuroscience and Medicine (INM-6) at the Research Centre Jülich",
@@ -27,7 +27,7 @@
     "collaborators": "Prof. Dr. Gabriele Gramelsberger, RWTH Theory of Science and Technology; Prof. Dr. Sven Komma and Dr. Ilona Cwielong, RWTH Institute of Educational Science; PD Dr. Malte Persike, RWTH CLS Center für Lehr- und Lernservices",
     "publicationInfo": "",
     "startYear": 2019,
-    "endYear": 2020,
+    "endYear": 2021,
     "images": [
       {
         "src": "https://www.rwth-aachen.de/global/show_picture.asp?id=aaaaaaaaaaagazb",
@@ -36,7 +36,7 @@
     ]
   },
   {
-    "title": "Mind the Game!",
+    "title": "Mind the Game!(completed)",
     "description": "Artificial Intelligence (AI) dominates the discourse on future society. While most of the smart cars, robots, and algorithms discussed by the broader public have yet to be developed in academic and industrial labs, the massive exposure of users to AI in computer games is part of everyday experience for millions. Thus, our main hypothesis is that AI is not a future technology, but has long since invaded the living rooms of our society today, opening up an unexplored 'sociointelligent space'. Mind the Game! explores this socio-intelligent space of AI in games that interact with users theoretically, empirically, and technologically.",
     "fundedBy": "Volkswagen Foundation",
     "collaborators": "Prof. Dr. Markus Rautzenberg (PI), Folkwang University of the Arts; Prof. Dr. Gabriele Gramelsberger (Co-PI), RWTH Aachen University; Dr. Serjoscha Wiemer, University of Paderborn; Dr. Matthias Fuchs, Leuphana University Lüneburg; Kay Bennemann, Ubisoft Blue Byte Düsseldorf",
@@ -95,7 +95,7 @@
     ]
   },
   {
-    "title": "Computer Signals. Art and Biology in the Age of Digital Experimentation II",
+    "title": "Computer Signals. Art and Biology in the Age of Digital Experimentation II(completed)",
     "description": "In this project, an international research group of biologists, artists, philosophers and historians of science explores aspects of producing and processing data in the biosciences. Computer Signals II is based on the examples of two working groups in the biosciences, one on Helgoland, the other in Austin, Texas. The project concretizes their various research questions from the perspective of art, thereby lending crucial impetus to the overall project: How can the materiality of digital data processing be captured and represented? How can the formative involvement of digital devices and their infrastructures in the acquisition of knowledge be shifted into human perception, and how can their contribution be made tangible, i.e., accessible to human experience?",
     "collaborators": "Prof. Hannes Rickli (PI), Dr. Birk Weiberg, Valentina Vucic, all ZHdK Zürich University of Arts; Prof. Dr. Hans Hofmann, Texas University Austin; Prof. Dr. Philipp Fischer, Alfred-Wegener-Institute Helgoland; Prof. Dr. Christoph Hoffmann, University of Lucerne; Prof. Dr. Hans-Jörg Rheinberger, Max-Planck-Institute of History of Science; Prof. Dr. Gabriele Gramelsberger, RWTH Aachen University",
     "fundedBy": "Swiss National Science Foundation",
