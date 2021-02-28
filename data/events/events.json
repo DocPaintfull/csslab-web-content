@@ -1,5 +1,17 @@
 [
    {
+      "name":"Algorithmic Regimes",
+      "date":"1 February 2021",
+      "startDate":"2021-02-01",
+      "endDate":"2021-02-02",
+      "type":"Associated Online-Workshop",
+      "organizedBy":"Bianca Prietl (Linz), Juliane Jark, Hendrik Heuer (Bremen), Paola Lopez (Wien)",
+      "description":"",
+      "location":"RWTH Aachen",
+      "done":"true",
+      "program":"The planned network \"Algorithmic Regimes: Interactions, Methods and Politics\" aims to examine the current changes in scientific and non-scientific practices of knowledge production caused by the dissemination and rise of algorithmic, (big) data-driven systems. We call theses systems ʽalgorithmic regimesʼ. These current changes involve shifts in the methodology and epistemology of knowledge production, especially in the ways in which scientific knowledge and non-scientific knowledge are entangled and/or distinguished. The interdisciplinary network approaches the emerging ʽalgorithmic regimesʼ by focusing on media practices like coding, algorithm-design and -use to ask how these practices reshape, extend but also complicate the understanding of scientific and non-scientific knowledge production in an era of algorithmic big data-analysis."
+   },
+   {
       "name":"How to Model Artificial Sociality: A Proposal",
       "date":"4 February 2021",
       "startDate":"2021-02-04",
@@ -55,7 +67,7 @@
    {
       "name":"Infrastructures of Science",
       "date":"September 2021",
-      "startDate":"September 2021",
+      "startDate":"2021-09-01",
       "endDate":"",
       "type":"IDEA League Summer School 2021",
       "organizedBy":"Gabriele Gramelsberger together with the Chair for History of Technology at the ETH Zürich",
