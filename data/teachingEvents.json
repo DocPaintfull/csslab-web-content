@@ -1,6 +1,111 @@
 [
    {
-   "name": "Introduction to Science & Technology Studies ",
+   "name": "Politische Philosophie",
+   "heldBy": "Prof. Dr. Wulf Kellerwessel",
+   "description": "",
+   "type": "Lecture",
+   "semesterTags": "W20 "
+   },
+   {
+   "name": "Einführung in die Ethik",
+   "heldBy": "Prof. Dr. Wulf Kellerwessel",
+   "description": "",
+   "type": "Seminar",
+   "semesterTags": "W20 "
+   },
+   {
+   "name": "Argumentation und Interpretation",
+   "heldBy": "Prof. Dr. Wulf Kellerwessel",
+   "description": "",
+   "type": "Lecture",
+   "semesterTags": "W20 "
+   },
+   {
+   "name": "Amartya Sen - Die Idee der Gerechtigkeit",
+   "heldBy": "Prof. Dr. Wulf Kellerwessel",
+   "description": "",
+   "type": "Seminar",
+   "semesterTags": "W20 "
+   },
+   {
+   "name": "Säkulares Naturrecht",
+   "heldBy": "PD Dr. Jan-Hendrick Heinrichs",
+   "description": "",
+   "type": "Seminar",
+   "semesterTags": "W20 "
+   },
+   {
+   "name": "Perspektive Wissen I - Haushalt und Technik",
+   "heldBy": "Dr. Dawid Kasprowicz",
+   "description": "",
+   "type": "Seminar",
+   "semesterTags": "W20 "
+   },
+   {
+   "name": "Frauen in der Philosophie",
+   "heldBy": "Lisa Schüttler",
+   "description": "",
+   "type": "Seminar",
+   "semesterTags": "W20 "
+   },
+   {
+   "name": "Einführung in Hegels Wissenschaft der Logik",
+   "heldBy": "Dr. Daniel Wenz",
+   "description": "",
+   "type": "Seminar",
+   "semesterTags": "W20 "
+   },
+   {
+   "name": "Was ist Zeit?",
+   "heldBy": "Dr. Daniel Wenz",
+   "description": "",
+   "type": "Seminar",
+   "semesterTags": "W20 "
+   },
+   {
+   "name": "Kant: Über Gemeinsanspruch: Das mag in der Theorie richtig sein, taugt aber nicht für die Praxis",
+   "heldBy": "Apl. Prof. Dr. Reinhold Beil",
+   "description": "",
+   "type": "Seminar",
+   "semesterTags": "W20 "
+   },
+   {
+   "name": "Medienethik - über Fake News, Meinungsfreiheit und Menschenwürde",
+   "heldBy": "Dr. Carmen Krämer",
+   "description": "",
+   "type": "Seminar",
+   "semesterTags": "W20 "
+   },
+   {
+   "name": "Tierethik",
+   "heldBy": "Dr. Carmen Krämer",
+   "description": "",
+   "type": "Seminar",
+   "semesterTags": "W20 "
+   },
+   {
+   "name": "Einführung in die Wissenschafts- und Technikphilosophie",
+   "heldBy": "Prof. Dr. Gabriele Gramelsberger",
+   "description": "",
+   "type": "Lecture",
+   "semesterTags": "W20 "
+   },
+   {
+   "name": "Theorien des Forschens",
+   "heldBy": "Prof. Dr. Gabriele Gramelsberger",
+   "description": "",
+   "type": "Seminar",
+   "semesterTags": "W20 "
+   },
+   {
+   "name": "Einführung in die Erkenntnistheorie",
+   "heldBy": "Prof. Dr. Gabriele Gramelsberger",
+   "description": "",
+   "type": "Seminar",
+   "semesterTags": "W20 "
+   },
+   {
+   "name": "Introduction to Science & Technology Studies",
    "heldBy": "Prof. Dr. Gabriele Gramelsberger and Prof. Dr. Stefan Böschen",
    "description": "",
    "type": "Seminar",
