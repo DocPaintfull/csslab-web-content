@@ -1,5 +1,19 @@
 [
    {
+   "name": "Introduction to Science & Technology Studies ",
+   "heldBy": "Prof. Dr. Gabriele Gramelsberger and Prof. Dr. Stefan Böschen",
+   "description": "",
+   "type": "Seminar",
+   "semesterTags": "W20 "
+   },
+   {
+   "name": "Research Colloquium (TST/HLRS)",
+   "heldBy": "Prof. Dr. Gabriele Gramelsberger and Dr. Andreas Kaminski",
+   "description": "",
+   "type": "Colloquium",
+   "semesterTags": "W20 "
+   },
+   {
    "name": "Visualität - Materialität - Protokoll: Eckpunkte der Wissensproduktion",
    "heldBy": "Prof. Dr. Gabriele Gramelsberger and Dr. Dawid Kasprowicz",
    "description": "",
