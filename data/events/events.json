@@ -7,7 +7,7 @@
       "type":"Online-Lecture",
       "organizedBy":"Uwe Ehret, Erwin Zehe, Jan Cermat / Karlsruhe Institute of Technology",
       "description":"",
-      "location":"RWTH Aachen (Accredidation under dawid.kasprowicz@humtec.rwth-aachen.de)",
+      "location":"RWTH Aachen (Registration under dawid.kasprowicz@humtec.rwth-aachen.de)",
       "done":"false",
       "program":"In this talk, we present the perspectives of three earth scientists on the uses, benefits and limitations of  machine learning (ML) approaches applied to their discipline. Jan Cermak provides an optimistic view based on successful applications of ML approaches for exploiting big data in remote sensing and atmospheric modelling. Uwe Ehret acknowledges the recent success of ML approaches in hydrological modelling, but argues that further development of ML models should be based on rigorous out-of-sample evaluation, and with a focus on interpretability and parsimony. Erwin Zehe, physicist by training, offers a sceptical view, making the case for reasoning and modelling based on first principles"
    },
