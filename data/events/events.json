@@ -1,4 +1,16 @@
-[
+[ 
+    {
+      "name":"Probabilistische Gestik: Zur sozialen Dimension von Algorithmen in Mensch-Roboter-Interaktionen",
+      "date":"28.09.-02.10. 2021",
+      "startDate":"2021-09-28",
+      "endDate":"2021-10-02",
+      "type":"Online-Conference",
+      "organizedBy":"Dawid Kasprowicz and Gabriele Gramelsberger (Aachen), Panel organized by Irene Mittelberg and Daniel Schüller (Aachen)",
+      "description":"",
+      "location":"TU Chemnitz / Online",
+      "done":"false",
+      "program":"program"
+   },
    {
       "name":"Scoring Society. Methods, Interactions, Politics",
       "date":"01.09.-03.09. 2021",
@@ -9,7 +21,7 @@
       "description":"",
       "location":"University Paderborn / Online",
       "done":"false",
-      "program":"false"
+      "program":"program"
    },
    {
       "name":"Cultivating epistemic routines for navigating toxic epistemic environments",
