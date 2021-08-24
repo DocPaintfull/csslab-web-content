@@ -1,16 +1,4 @@
 [ 
-    {
-      "name":"Probabilistische Gestik: Zur sozialen Dimension von Algorithmen in Mensch-Roboter-Interaktionen",
-      "date":"28.09.-02.10. 2021",
-      "startDate":"2021-09-28",
-      "endDate":"2021-10-02",
-      "type":"Online-Talk",
-      "organizedBy":"Dawid Kasprowicz and Gabriele Gramelsberger (Aachen), Panel organized by Irene Mittelberg and Daniel Schüller (Aachen)",
-      "description":"In den letzten fünfzehn Jahren sind nonverbale Kommunikationstechniken zu einem Kernelement in der Modellierung von Mensch-Roboter-Interaktionen geworden. Dies liegt zum einen an dem vermehrten Einsatz von leichten, mobilen Robotern in industriellen Produktionsprozessen sowie an einem regen Diskurs um das Aussehen und die Responsivität so genannter Social Robots (Alač 2016). Zum andern setzt dies aber eine zunehmende Algorithmisierung der besagten nonverbalen, multimodalen Kommunikationstechniken voraus. Denn an Vorstellungen und Leitlinien darüber, wie ein Roboter mit seinem menschlichen Partner kollaborieren sollte, wie vertrauensvolle und damit sichere Interkationen aussehen sollten, mangelt es nicht. Dagegen wird die Frage nach den körpersemiotischen und computertechnischen Dimensionen solcher Vertrauenskonstruktionen selten gestellt. Technisch setzt dies erstens die Diskretisierung von Gesten und Körperbewegungen voraus, die beim Annotieren der Bewegungsdaten vorgenommen wird und einen typischen (und damit erwartbaren) Bewegungsablauf ermöglichen soll. Zweitens müssen diese Abläufe von den Robotern „gelesen“ und mit Wahrscheinlichkeiten versehen werden (in sog. Data-Clustering Models).  Hierbei wird den Modellen und ihren Algorithmen selbst eine soziale Bedeutung zugeschrieben (Kasprowicz 2021), sollen diese doch eine verlässliche Probabilistik des sozial-adäquaten Verhaltens gegenüber dem Menschen gewährleisten (Mead und Matarić 2017). Die Interaktionsmodelle und Algorithmen werden damit zu Agenten einer multimodalen Kommunikation. Damit sehen sich Mensch-Roboter-Interaktionen zwei körpersemiotischen Feldern gegenüber: Zum einen eine Semio-Typisierung non-verbalen Kommunizierens, die in standardisierten Gesten und ihren Bedeutungen mündet. Zum anderen eine Sozio-Typisierung von Gesten durch algorithmische Verfahren der Clusterbildung, die zugleich die menschlichen Erwartungshaltungen für das gestische Kommunizieren mitschärfen (Gramelsberger 2020). Daran schließend wird im Vortrag der Fragestellung nachgegangen, wie sich virtualisierte Körperzeichen von der Semio-Typisierung zur Sozio-Typisierung verdichten. Wie lässt sich das neue Wechselspiel von sichtbarer Bewegung und probabilistischer Gestik zeichentheoretisch erfassen? Der Vortrag geht diesen Fragen anhand ausgewählter Beispiele aus der Mensch-Roboter-Interaktion und dem Affective Computing nach.",  
-      "location":"TU Chemnitz / Online-Conference of the Deutsche Gesellschaft für Semiotik (DGS)",
-      "done":"false",
-      "program":"program"
-   },
    {
       "name":"Scoring Society. Methods, Interactions, Politics",
       "date":"01.09.-03.09. 2021",
