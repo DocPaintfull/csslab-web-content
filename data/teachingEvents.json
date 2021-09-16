@@ -21,6 +21,13 @@
     "semesterTags": "S21"
     },
   {
+    "name": "Philosophy of Computational Sciences",
+    "heldBy": "Prof. Dr. Gabriele Gramelsberger",
+    "description": "",
+    "type": "Vorlesung",
+    "semesterTags": "S21"
+    },
+  {
     "name": "Wissenschaft und Technik",
     "heldBy": "Prof. Dr. Gabriele Gramelsberger",
     "description": "",
@@ -77,15 +84,8 @@
     "semesterTags": "S21"
     },
   {
-    "name": "Philosophy of Computational Sciences",
-    "heldBy": "Prof. Dr. Gabriele Gramelsberger",
-    "description": "",
-    "type": "Vorlesung",
-    "semesterTags": "S21"
-    },
-  {
-    "name": "Theorien der Moderne. Oder: Unsere 'Zeit in Gedanken gefasst'",
-    "heldBy": "J. Kippenhan",
+    "name": "Medizinethik",
+    "heldBy": "Prof. Dr. Wulf Kellerwessel",
     "description": "",
     "type": "Seminar",
     "semesterTags": "S21"
@@ -93,6 +93,13 @@
   {
     "name": "Das Fundament der Rationalität? - Der Satz vom Widerspruch",
     "heldBy": "Dr. Daniel Wenz",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S21"
+    },
+  {
+    "name": "Theorien der Moderne. Oder: Unsere 'Zeit in Gedanken gefasst'",
+    "heldBy": "J. Kippenhan",
     "description": "",
     "type": "Seminar",
     "semesterTags": "S21"
@@ -107,13 +114,6 @@
   {
     "name": "Theorien der Subjektivität",
     "heldBy": "R. Breil",
-    "description": "",
-    "type": "Seminar",
-    "semesterTags": "S21"
-    },
-  {
-    "name": "Medizinethik",
-    "heldBy": "Prof. Dr. Wulf Kellerwessel",
     "description": "",
     "type": "Seminar",
     "semesterTags": "S21"
