@@ -1,4 +1,130 @@
 [
+  {
+    "name": "Konsumentenethik",
+    "heldBy": "Dr. Carmen Krämer",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S21"
+    },
+  {
+    "name": "Ethik der Mensch-Tier-Beziehung",
+    "heldBy": "Dr. Carmen Krämer",
+    "description": "",
+    "type": "Lektürekurs",
+    "semesterTags": "S21"
+    },
+  {
+    "name": "Modeling for Policy",
+    "heldBy": "Prof. Dr. Gabriele Gramelsberger",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S21"
+    },
+  {
+    "name": "Wissenschaft und Technik",
+    "heldBy": "Prof. Dr. Gabriele Gramelsberger",
+    "description": "",
+    "type": "Lecture",
+    "semesterTags": "S21"
+    },
+  {
+    "name": "Kolloquium Philosophie",
+    "heldBy": "Prof. Dr. Gabriele Gramelsberger",
+    "description": "Colloquium",
+    "type": "",
+    "semesterTags": "S21"
+    },
+  {
+    "name": "Was sind angewandte Wissenschaften?",
+    "heldBy": "Prof. Dr. Gabriele Gramelsberger, Dr. Dawid Kasprowicz",
+    "description": "",
+    "type": "Lecture",
+    "semesterTags": "S21"
+    },
+    {
+      "name": "Technikphilosophie bei Martin Heidegger",
+      "heldBy": "Dr. Dawid Kasprowicz",
+      "description": "",
+      "type": "Seminar",
+      "semesterTags": "S21"
+      },
+  {
+    "name": "Michael Thompson: Leben und Handeln",
+    "heldBy": "Dr. Daniel Wenz",
+    "description": "",
+    "type": "Lektürekurs",
+    "semesterTags": "S21"
+    },
+  {
+    "name": "Sandel über Gerechtigkeit - Theorie und Anwendung",
+    "heldBy": "Prof. Dr. Wulf Kellerwessel",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S21"
+    },
+  {
+    "name": "Politische Philosophie, Rechts- und Sozialphilosophie: Menschenrechte und ihre philosophische Begründung",
+    "heldBy": "Prof. Dr. Wulf Kellerwessel",
+    "description": "",
+    "type": "Lecture",
+    "semesterTags": "S21"
+    },
+  {
+    "name": "Tierethik und Tierrechtstheorien",
+    "heldBy": "Prof. Dr. Wulf Kellerwessel",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S21"
+    },
+  {
+    "name": "Philosophy of Computational Sciences",
+    "heldBy": "Prof. Dr. Gabriele Gramelsberger",
+    "description": "",
+    "type": "Vorlesung",
+    "semesterTags": "S21"
+    },
+  {
+    "name": "Theorien der Moderne. Oder: Unsere 'Zeit in Gedanken gefasst'",
+    "heldBy": "J. Kippenhan",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S21"
+    },
+  {
+    "name": "Das Fundament der Rationalität? - Der Satz vom Widerspruch",
+    "heldBy": "Dr. Daniel Wenz",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S21"
+    },
+  {
+    "name": "Die Krankheit zum Tode",
+    "heldBy": "R. Lüthe",
+    "description": "",
+    "type": "Lektürekurs",
+    "semesterTags": "S21"
+    },
+  {
+    "name": "Theorien der Subjektivität",
+    "heldBy": "R. Breil",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S21"
+    },
+  {
+    "name": "Medizinethik",
+    "heldBy": "Prof. Dr. Wulf Kellerwessel",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S21"
+    },
+  {
+    "name": "Mentale Repräsentation",
+    "heldBy": "J. Heinrichs",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S21"
+    },
    {
    "name": "Politische Philosophie",
    "heldBy": "Prof. Dr. Wulf Kellerwessel",
