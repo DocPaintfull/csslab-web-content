@@ -1,5 +1,17 @@
 [ 
    {
+      "name":"Understanding climate change with statistical downscaling and machine learning",
+      "date":"18 November (4-6 p.m.)",
+      "startDate":"2021-11-18",
+      "endDate":"2021-11-19",
+      "type":"Online Lecture",
+      "organizedBy":"Vincent Lam (Bern University)",
+      "description":"",
+      "location":"RWTH Aachen (Registration under daniel.wenz@humtec.rwth-aachen.de)",
+      "done":"false",
+      "program":"Machine learning methods have recently created high expectations in the climate modelling context in view of addressing climate change, but they are often considered as non-physics-based ‘black boxes’ that may not provide any understanding. However, in many ways, understanding seems indispensable to appropriately evaluate climate models and to build confidence in climate projections. Relying on two case studies, we compare how machine learning and standard statistical techniques affect our ability to understand the climate system. For that purpose, we put five evaluative criteria of understanding to work: intelligibility, representational accuracy, empirical accuracy, coherence with background knowledge, and assessment of the domain of validity.We argue that the two families of methods are part of the same continuum where these various criteria of understanding come in degrees, and that therefore machine learning methods do not necessarily constitute a radical departure from standard statistical tools, as far as understanding is concerned."
+   },
+   {
       "name":"Scoring Society. Methods, Interactions, Politics",
       "date":"01.09.-03.09. 2021",
       "startDate":"2021-09-01",
