@@ -12,13 +12,13 @@
       "program":""
    },
    {
-      "name":"TBA",
+      "name":"The artificial intelligence revolution in science?",
       "date":"27 January 2022 (4-6 p.m.)",
       "startDate":"2022-01-27",
       "endDate":"2022-01-28",
       "type":"Online-Colloquium",
       "organizedBy":"Domink Gersdorfer (Stuttgart)",
-      "description":"",
+      "description":"The use of machine learning and other second-wave AI techniques  in scientific research has become very successful lately. One often cited example is AlphaFold, which determines the three-dimensional structure of proteins. Such undertakings have led many commentators to claim that we are in the midst of a scientific revolution. Some even go so far as to consider the possibility of fully automated science in the near future and argue that these developments will render traditional, theory based science a relic of the past. These claims raise several questions: What kinds of AI are employed in science? What is meant by 'revolution'? And which parts of science are considered? My talk will therefore be divided into three parts, each of which will address one of the questions: The first part will examine, what makes second-wave AI so successful compared to GOFAI (Good Old-Fashioned Artificial Intelligence) and where it falls short. Further the key differences between the different types of AI will be elaborated in order to understand better where and how AI can be utilized in science. The second part addresses the areas of the research process where AI is used, such as in developing new hypotheses and searching for patterns in Big Data, as well as the differences and similarities between disciplines that use AI. The goal is to comprehend the scope of AI in science: How much of the research process can be covered by AI? The final part will address the question of whether the use of AI science justifies the revolutionary rhetoric that accompanies it. For this, the notion of scientific revolution will be considered from Kuhnian and post-Kuhnian perspectives. These will then be applied to the considerations elaborated in parts one and two with respect to scope and potential applications in order to make a classification and assessment of the AI revolution in science.",
       "location":"RWTH Aachen",
       "done":"false",
       "program":""
