@@ -1,5 +1,12 @@
 [
   {
+    "name": "Die Suche nach Gewissheit. Oder: Woran können wir uns halten?",
+    "heldBy": "J. Kippenhan",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W21"
+  },
+  {
     "name": "Modeling for Policy",
     "heldBy": "PD Dr. Andreas Kaminski",
     "description": "",
@@ -125,559 +132,559 @@
     "type": "Seminar",
     "semesterTags": "S21"
   },
-   {
-   "name": "Politische Philosophie",
-   "heldBy": "Prof. Dr. Wulf Kellerwessel",
-   "description": "",
-   "type": "Lecture",
-   "semesterTags": "W20 "
-   },
-   {
-   "name": "Einführung in die Ethik",
-   "heldBy": "Prof. Dr. Wulf Kellerwessel",
-   "description": "",
-   "type": "Seminar",
-   "semesterTags": "W20 "
-   },
-   {
-   "name": "Argumentation und Interpretation",
-   "heldBy": "Prof. Dr. Wulf Kellerwessel",
-   "description": "",
-   "type": "Lecture",
-   "semesterTags": "W20 "
-   },
-   {
-   "name": "Amartya Sen - Die Idee der Gerechtigkeit",
-   "heldBy": "Prof. Dr. Wulf Kellerwessel",
-   "description": "",
-   "type": "Seminar",
-   "semesterTags": "W20 "
-   },
-   {
-   "name": "Säkulares Naturrecht",
-   "heldBy": "PD Dr. Jan-Hendrick Heinrichs",
-   "description": "",
-   "type": "Seminar",
-   "semesterTags": "W20 "
-   },
-   {
-   "name": "Perspektive Wissen I - Haushalt und Technik",
-   "heldBy": "Dr. Dawid Kasprowicz",
-   "description": "",
-   "type": "Seminar",
-   "semesterTags": "W20 "
-   },
-   {
-   "name": "Frauen in der Philosophie",
-   "heldBy": "Lisa Schüttler",
-   "description": "",
-   "type": "Seminar",
-   "semesterTags": "W20 "
-   },
-   {
-   "name": "Einführung in Hegels Wissenschaft der Logik",
-   "heldBy": "Dr. Daniel Wenz",
-   "description": "",
-   "type": "Seminar",
-   "semesterTags": "W20 "
-   },
-   {
-   "name": "Was ist Zeit?",
-   "heldBy": "Dr. Daniel Wenz",
-   "description": "",
-   "type": "Seminar",
-   "semesterTags": "W20 "
-   },
-   {
-   "name": "Kant: Über Gemeinsanspruch: Das mag in der Theorie richtig sein, taugt aber nicht für die Praxis",
-   "heldBy": "Apl. Prof. Dr. Reinhold Beil",
-   "description": "",
-   "type": "Seminar",
-   "semesterTags": "W20 "
-   },
-   {
-   "name": "Medienethik - über Fake News, Meinungsfreiheit und Menschenwürde",
-   "heldBy": "Dr. Carmen Krämer",
-   "description": "",
-   "type": "Seminar",
-   "semesterTags": "W20 "
-   },
-   {
-   "name": "Tierethik",
-   "heldBy": "Dr. Carmen Krämer",
-   "description": "",
-   "type": "Seminar",
-   "semesterTags": "W20 "
-   },
-   {
-   "name": "Einführung in die Wissenschafts- und Technikphilosophie",
-   "heldBy": "Prof. Dr. Gabriele Gramelsberger",
-   "description": "",
-   "type": "Lecture",
-   "semesterTags": "W20 "
-   },
-   {
-   "name": "Theorien des Forschens",
-   "heldBy": "Prof. Dr. Gabriele Gramelsberger",
-   "description": "",
-   "type": "Seminar",
-   "semesterTags": "W20 "
-   },
-   {
-   "name": "Einführung in die Erkenntnistheorie",
-   "heldBy": "Prof. Dr. Gabriele Gramelsberger",
-   "description": "",
-   "type": "Seminar",
-   "semesterTags": "W20 "
-   },
-   {
-   "name": "Introduction to Science & Technology Studies",
-   "heldBy": "Prof. Dr. Gabriele Gramelsberger and Prof. Dr. Stefan Böschen",
-   "description": "",
-   "type": "Seminar",
-   "semesterTags": "W20 "
-   },
-   {
-   "name": "Research Colloquium (TST/HLRS)",
-   "heldBy": "Prof. Dr. Gabriele Gramelsberger and Dr. Andreas Kaminski",
-   "description": "",
-   "type": "Colloquium",
-   "semesterTags": "W20 "
-   },
-   {
-   "name": "Visualität - Materialität - Protokoll: Eckpunkte der Wissensproduktion",
-   "heldBy": "Prof. Dr. Gabriele Gramelsberger and Dr. Dawid Kasprowicz",
-   "description": "",
-   "type": "Lecture",
-   "semesterTags": "S20 "
-   },
-   {
-   "name": "Philosophy of Computational Sciences",
-   "heldBy": "Dr. Andreas Kaminski",
-   "description": "",
-   "type": "Lecture",
-   "semesterTags": "S20 "
-   },
-   {
-   "name": "Wissenschaft und Technik",
-   "heldBy": "Dr. Andreas Kaminski",
-   "description": "",
-   "type": "Lecture",
-   "semesterTags": "S20 "
-   },
-   {
-   "name": "Theoretische Philosophie",
-   "heldBy": "Dr. Andreas Kaminski",
-   "description": "",
-   "type": "Seminar",
-   "semesterTags": "S20 "
-   },
-   {
-   "name": "Modelling for Policy",
-   "heldBy": "Dr. Andreas Kaminski",
-   "description": "",
-   "type": "Seminar",
-   "semesterTags": "S20 "
-   },
-   {
-   "name": "Hans Blumenberg: Geistesgeschichte der Technik",
-   "heldBy": "Dr. Dawid Kasprowicz",
-   "description": "",
-   "type": "Seminar",
-   "semesterTags": "S20 "
-   },
-   {
-   "name": "Tierethik und Tierrechtstheorien",
-   "heldBy": "Prof. Dr. Wulf Kellerwessel",
-   "description": "",
-   "type": "Seminar",
-   "semesterTags": "S20 "
-   },  
-   {
-   "name": "Medizinethik",
-   "heldBy": "Prof. Dr. Wulf Kellerwessel",
-   "description": "",
-   "type": "Seminar",
-   "semesterTags": "S20 "
-   },
-   {
-   "name": "Politische Philosophie, Rechts- und Sozialphilosophie: Menschenrechte und ihre philosophische Begründung",
-   "heldBy": "Prof. Dr. Wulf Kellerwessel",
-   "description": "",
-   "type": "Lecture",
-   "semesterTags": "S20 "
-   },
-   {
-   "name": "Michael Sandel über angewandte Ethik",
-   "heldBy": "Prof. Dr. Wulf Kellerwessel",
-   "description": "",
-   "type": "Seminar",
-   "semesterTags": "S20 "
-   },
-   {
-   "name": "Peter Singers Präferenzutilitarismus",
-   "heldBy": "Dr. Carmen Krämer",
-   "description": "",
-   "type": "Seminar",
-   "semesterTags": "S20 "
-   },
-   {
-   "name": "Herbert Marcuse: Der eindimensionale Mensch",
-   "heldBy": "Lisa Schüttler",
-   "description": "",
-   "type": "Seminar",
-   "semesterTags": "S20 "
-   },
-   {
-   "name": "Die Gödelschen Unvollständigkeitssätze",
-   "heldBy": "Dr. Daniel Wenz",
-   "description": "",
-   "type": "Seminar",
-   "semesterTags": "S20 "
-   },
-   {
-   "name": "Perspektive Wissen I: Das Tier als Experimentalobjekt",
-   "heldBy": "Prof. Dr. Gabriele Gramelsberger und Dr. Dawid Kasprowicz",
-   "description": "",
-   "type": "Seminar",
-   "semesterTags": "W19 "
-   },
-   {
-   "name": "Zufall - Wahrscheinlichkeit - Kontingenz",
-   "heldBy": "Dr. Dawid Kasprowicz",
-   "description": "",
-   "type": "Seminar",
-   "semesterTags": "W19 "
-   },
-   {
-   "name": "Internationale Gerechtigkeit",
-   "heldBy": "Prof. Dr. Wulf Kellerwessel",
-   "description": "",
-   "type": "Seminar",
-   "semesterTags": "W19 "
-   },
-   {
-   "name": "Politische Philosophie im 20. Jahrhundert: Liberalismus und Kommunitarismus",
-   "heldBy": "Prof. Dr. Wulf Kellerwessel",
-   "description": "",
-   "type": "Lecture",
-   "semesterTags": "W19 "
-   },
-   {
-   "name": "Praktische Philosophie: Einführung in die Ethik",
-   "heldBy": "Prof. Dr. Wulf Kellerwessel",
-   "description": "",
-   "type": "Lecture",
-   "semesterTags": "W19 "
-   },
-   {
-   "name": "Argumentation und Interpretation: Argumentationstheorie",
-   "heldBy": "Prof. Dr. Wulf Kellerwessel",
-   "description": "",
-   "type": "Lecture",
-   "semesterTags": "W19 "
-   },
-   {
-   "name": "(Falsche) Fragen der Roboterethik",
-   "heldBy": "Lisa Schüttler",
-   "description": "",
-   "type": "Seminar",
-   "semesterTags": "W19 "
-   },
-   {
-   "name": "Einführung in die Akteur-Netzwerk-Theorie",
-   "heldBy": "Lisa Schüttler",
-   "description": "",
-   "type": "Seminar",
-   "semesterTags": "W19 "
-   },
-   {
+  {
+    "name": "Politische Philosophie",
+    "heldBy": "Prof. Dr. Wulf Kellerwessel",
+    "description": "",
+    "type": "Lecture",
+    "semesterTags": "W20 "
+  },
+  {
+    "name": "Einführung in die Ethik",
+    "heldBy": "Prof. Dr. Wulf Kellerwessel",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W20 "
+  },
+  {
+    "name": "Argumentation und Interpretation",
+    "heldBy": "Prof. Dr. Wulf Kellerwessel",
+    "description": "",
+    "type": "Lecture",
+    "semesterTags": "W20 "
+  },
+  {
+    "name": "Amartya Sen - Die Idee der Gerechtigkeit",
+    "heldBy": "Prof. Dr. Wulf Kellerwessel",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W20 "
+  },
+  {
+    "name": "Säkulares Naturrecht",
+    "heldBy": "PD Dr. Jan-Hendrick Heinrichs",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W20 "
+  },
+  {
+    "name": "Perspektive Wissen I - Haushalt und Technik",
+    "heldBy": "Dr. Dawid Kasprowicz",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W20 "
+  },
+  {
+    "name": "Frauen in der Philosophie",
+    "heldBy": "Lisa Schüttler",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W20 "
+  },
+  {
+    "name": "Einführung in Hegels Wissenschaft der Logik",
+    "heldBy": "Dr. Daniel Wenz",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W20 "
+  },
+  {
+    "name": "Was ist Zeit?",
+    "heldBy": "Dr. Daniel Wenz",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W20 "
+  },
+  {
+    "name": "Kant: Über Gemeinsanspruch: Das mag in der Theorie richtig sein, taugt aber nicht für die Praxis",
+    "heldBy": "Apl. Prof. Dr. Reinhold Beil",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W20 "
+  },
+  {
+    "name": "Medienethik - über Fake News, Meinungsfreiheit und Menschenwürde",
+    "heldBy": "Dr. Carmen Krämer",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W20 "
+  },
+  {
+    "name": "Tierethik",
+    "heldBy": "Dr. Carmen Krämer",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W20 "
+  },
+  {
+    "name": "Einführung in die Wissenschafts- und Technikphilosophie",
+    "heldBy": "Prof. Dr. Gabriele Gramelsberger",
+    "description": "",
+    "type": "Lecture",
+    "semesterTags": "W20 "
+  },
+  {
+    "name": "Theorien des Forschens",
+    "heldBy": "Prof. Dr. Gabriele Gramelsberger",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W20 "
+  },
+  {
+    "name": "Einführung in die Erkenntnistheorie",
+    "heldBy": "Prof. Dr. Gabriele Gramelsberger",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W20 "
+  },
+  {
+    "name": "Introduction to Science & Technology Studies",
+    "heldBy": "Prof. Dr. Gabriele Gramelsberger and Prof. Dr. Stefan Böschen",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W20 "
+  },
+  {
+    "name": "Research Colloquium (TST/HLRS)",
+    "heldBy": "Prof. Dr. Gabriele Gramelsberger and Dr. Andreas Kaminski",
+    "description": "",
+    "type": "Colloquium",
+    "semesterTags": "W20 "
+  },
+  {
+    "name": "Visualität - Materialität - Protokoll: Eckpunkte der Wissensproduktion",
+    "heldBy": "Prof. Dr. Gabriele Gramelsberger and Dr. Dawid Kasprowicz",
+    "description": "",
+    "type": "Lecture",
+    "semesterTags": "S20 "
+  },
+  {
+    "name": "Philosophy of Computational Sciences",
+    "heldBy": "Dr. Andreas Kaminski",
+    "description": "",
+    "type": "Lecture",
+    "semesterTags": "S20 "
+  },
+  {
+    "name": "Wissenschaft und Technik",
+    "heldBy": "Dr. Andreas Kaminski",
+    "description": "",
+    "type": "Lecture",
+    "semesterTags": "S20 "
+  },
+  {
+    "name": "Theoretische Philosophie",
+    "heldBy": "Dr. Andreas Kaminski",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S20 "
+  },
+  {
+    "name": "Modelling for Policy",
+    "heldBy": "Dr. Andreas Kaminski",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S20 "
+  },
+  {
+    "name": "Hans Blumenberg: Geistesgeschichte der Technik",
+    "heldBy": "Dr. Dawid Kasprowicz",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S20 "
+  },
+  {
+    "name": "Tierethik und Tierrechtstheorien",
+    "heldBy": "Prof. Dr. Wulf Kellerwessel",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S20 "
+  },
+  {
+    "name": "Medizinethik",
+    "heldBy": "Prof. Dr. Wulf Kellerwessel",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S20 "
+  },
+  {
+    "name": "Politische Philosophie, Rechts- und Sozialphilosophie: Menschenrechte und ihre philosophische Begründung",
+    "heldBy": "Prof. Dr. Wulf Kellerwessel",
+    "description": "",
+    "type": "Lecture",
+    "semesterTags": "S20 "
+  },
+  {
+    "name": "Michael Sandel über angewandte Ethik",
+    "heldBy": "Prof. Dr. Wulf Kellerwessel",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S20 "
+  },
+  {
+    "name": "Peter Singers Präferenzutilitarismus",
+    "heldBy": "Dr. Carmen Krämer",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S20 "
+  },
+  {
+    "name": "Herbert Marcuse: Der eindimensionale Mensch",
+    "heldBy": "Lisa Schüttler",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S20 "
+  },
+  {
+    "name": "Die Gödelschen Unvollständigkeitssätze",
+    "heldBy": "Dr. Daniel Wenz",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S20 "
+  },
+  {
+    "name": "Perspektive Wissen I: Das Tier als Experimentalobjekt",
+    "heldBy": "Prof. Dr. Gabriele Gramelsberger und Dr. Dawid Kasprowicz",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W19 "
+  },
+  {
+    "name": "Zufall - Wahrscheinlichkeit - Kontingenz",
+    "heldBy": "Dr. Dawid Kasprowicz",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W19 "
+  },
+  {
+    "name": "Internationale Gerechtigkeit",
+    "heldBy": "Prof. Dr. Wulf Kellerwessel",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W19 "
+  },
+  {
+    "name": "Politische Philosophie im 20. Jahrhundert: Liberalismus und Kommunitarismus",
+    "heldBy": "Prof. Dr. Wulf Kellerwessel",
+    "description": "",
+    "type": "Lecture",
+    "semesterTags": "W19 "
+  },
+  {
+    "name": "Praktische Philosophie: Einführung in die Ethik",
+    "heldBy": "Prof. Dr. Wulf Kellerwessel",
+    "description": "",
+    "type": "Lecture",
+    "semesterTags": "W19 "
+  },
+  {
+    "name": "Argumentation und Interpretation: Argumentationstheorie",
+    "heldBy": "Prof. Dr. Wulf Kellerwessel",
+    "description": "",
+    "type": "Lecture",
+    "semesterTags": "W19 "
+  },
+  {
+    "name": "(Falsche) Fragen der Roboterethik",
+    "heldBy": "Lisa Schüttler",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W19 "
+  },
+  {
+    "name": "Einführung in die Akteur-Netzwerk-Theorie",
+    "heldBy": "Lisa Schüttler",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W19 "
+  },
+  {
     "name": "Einführung in die Wissenschafts- und Technikphilosophie",
     "heldBy": "Prof. Dr. Gabriele Gramelsberger",
     "description": "",
     "type": "Lecture",
     "semesterTags": "W19 "
-    },
-    {
-     "name": "Theorien des Forschens",
-     "heldBy": "Prof. Dr. Gabriele Gramelsberger",
-     "description": "",
-     "type": "Seminar",
-     "semesterTags": "W19 "
-     },
-     {
-      "name": "Einführung in die Erkenntnistheorie",
-      "heldBy": "Prof. Dr. Gabriele Gramelsberger",
-      "description": "",
-      "type": "Seminar",
-      "semesterTags": "W19 "
-     },
-     {
-      "name": "Wissenschaftstheorie",
-      "heldBy": "Prof. Dr. Gabriele Gramelsberger",
-      "description": "",
-      "type": "Lecture",
-      "semesterTags": "S19 "
-    },
-    {
-      "name": "Philosophie Neuronaler Netze & Machine Learning",
-      "heldBy": "Prof. Dr. Gabriele Gramelsberger",
-      "description": "",
-      "type": "Seminar",
-      "semesterTags": "S19 "
-    },
-    {
-      "name": "Research Colloquium",
-      "heldBy": "TST",
-      "description": "",
-      "type": "Colloquium",
-      "semesterTags": "S18 W18 S19 W19"
-    },
-    {
-      "name": "Ludwik Fleck und Thomas Kuhn",
-      "heldBy": "Prof. Dr. Gabriele Gramelsberger",
-      "description": "",
-      "type": "Seminar",
-      "semesterTags": "S19"
-    },
-    {
-      "name": "Hilary Putnam: Reason, Truth and History",
-      "heldBy": "Dr. Daniel Wenz, Prof. Dr. Gabriele Gramelsberger",
-      "description": "",
-      "type": "Seminar",
-      "semesterTags": "S19"
-    },
-    {
-      "name": "Philosophie des Internets",
-      "heldBy": "Dr. Dawid Kasprowicz",
-      "description": "",
-      "type": "Seminar",
-      "semesterTags": "S19"
-    },
-    {
-      "name": "McLuhan Medienphilosophie",
-      "heldBy": "Dr. Dawid Kasprowicz",
-      "description": "",
-      "type": "Seminar",
-      "semesterTags": "S19"
-    },
-    {
-      "name": "Erkenntnis und Computer",
-      "heldBy": "Lisa Schüttler",
-      "description": "",
-      "type": "Seminar",
-      "semesterTags": "S19"
-    },
-    {
-      "name": "Menschenrechte und ihre philosophische Begründung",
-      "heldBy": "Prof. Dr. Wulf Kellerwessel",
-      "description": "",
-      "type": "Lecture",
-      "semesterTags": "S19"
-    },
-    {
-      "name": "Michael Sandels Ethik",
-      "heldBy": "Prof. Dr. Wulf Kellerwessel",
-      "description": "",
-      "type": "Seminar",
-      "semesterTags": "S19"
-    },
-    {
-      "name": "Einführung in die Argumentationstheorie und Logik 2",
-      "heldBy": "Prof. Dr. Wulf Kellerwessel",
-      "description": "",
-      "type": "Seminar",
-      "semesterTags": "S19 S18"
-    },
-    {
-      "name": "Einführung in die analytische Sprachphilosophie",
-      "heldBy": "Prof. Dr. Wulf Kellerwessel",
-      "description": "",
-      "type": "Seminar",
-      "semesterTags": "S19"
-    },
+  },
+  {
+    "name": "Theorien des Forschens",
+    "heldBy": "Prof. Dr. Gabriele Gramelsberger",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W19 "
+  },
+  {
+    "name": "Einführung in die Erkenntnistheorie",
+    "heldBy": "Prof. Dr. Gabriele Gramelsberger",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W19 "
+  },
+  {
+    "name": "Wissenschaftstheorie",
+    "heldBy": "Prof. Dr. Gabriele Gramelsberger",
+    "description": "",
+    "type": "Lecture",
+    "semesterTags": "S19 "
+  },
+  {
+    "name": "Philosophie Neuronaler Netze & Machine Learning",
+    "heldBy": "Prof. Dr. Gabriele Gramelsberger",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S19 "
+  },
+  {
+    "name": "Research Colloquium",
+    "heldBy": "TST",
+    "description": "",
+    "type": "Colloquium",
+    "semesterTags": "S18 W18 S19 W19"
+  },
+  {
+    "name": "Ludwik Fleck und Thomas Kuhn",
+    "heldBy": "Prof. Dr. Gabriele Gramelsberger",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S19"
+  },
+  {
+    "name": "Hilary Putnam: Reason, Truth and History",
+    "heldBy": "Dr. Daniel Wenz, Prof. Dr. Gabriele Gramelsberger",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S19"
+  },
+  {
+    "name": "Philosophie des Internets",
+    "heldBy": "Dr. Dawid Kasprowicz",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S19"
+  },
+  {
+    "name": "McLuhan Medienphilosophie",
+    "heldBy": "Dr. Dawid Kasprowicz",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S19"
+  },
+  {
+    "name": "Erkenntnis und Computer",
+    "heldBy": "Lisa Schüttler",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S19"
+  },
+  {
+    "name": "Menschenrechte und ihre philosophische Begründung",
+    "heldBy": "Prof. Dr. Wulf Kellerwessel",
+    "description": "",
+    "type": "Lecture",
+    "semesterTags": "S19"
+  },
+  {
+    "name": "Michael Sandels Ethik",
+    "heldBy": "Prof. Dr. Wulf Kellerwessel",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S19"
+  },
+  {
+    "name": "Einführung in die Argumentationstheorie und Logik 2",
+    "heldBy": "Prof. Dr. Wulf Kellerwessel",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S19 S18"
+  },
+  {
+    "name": "Einführung in die analytische Sprachphilosophie",
+    "heldBy": "Prof. Dr. Wulf Kellerwessel",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S19"
+  },
 
-    {
-      "name": "Modell- und Simulationstheorie",
-      "heldBy": "Prof. Dr. Gabriele Gramelsberger",
-      "description": "",
-      "type": "Lecture",
-      "semesterTags": "W18 "
-    },
-    {
-      "name": "Einführung in die Argumentationstheorie und Logik 1",
-      "heldBy": "Prof. Dr. Gabriele Gramelsberger",
-      "description": "",
-      "type": "Seminar",
-      "semesterTags": "W18 "
-    },
-    {
-      "name": "Einführung in die Erkenntnistheorie",
-      "heldBy": "Prof. Dr. Gabriele Gramelsberger",
-      "description": "",
-      "type": "Seminar",
-      "semesterTags": "W18 "
-    },
-    {
-      "name": "Robert Brandom",
-      "heldBy": "Dr. Daniel Wenz, Prof. Dr. Gabriele Gramelsberger",
-      "description": "",
-      "type": "Seminar",
-      "semesterTags": "W18 "
-    },
-    {
-      "name": "Maurice Merleau-Ponty: Phänomenologie der Wahrnehmung",
-      "heldBy": "Dr. Dawid Kasprowicz",
-      "description": "",
-      "type": "Seminar",
-      "semesterTags": "W18 "
-    },
-    {
-      "name": "Embodiment: Einführung in die Philosophie der Verkörperung",
-      "heldBy": "Dr. Dawid Kasprowicz",
-      "description": "",
-      "type": "Seminar",
-      "semesterTags": "W18 "
-    },
-    {
-      "name": "Technik in Ethik und Philosophie",
-      "heldBy": "Lisa Schüttler",
-      "description": "",
-      "type": "Seminar",
-      "semesterTags": "W18 "
-    },
-    {
-      "name": "Politische Philosophie des 20. Jahrhunderts: Liberalismus und Kommunitarismus",
-      "heldBy": "Prof. Dr. Wulf Kellerwessel",
-      "description": "",
-      "type": "Lecture",
-      "semesterTags": "W18 "
-    },
-    {
-      "name": "Einführung in die Ethik",
-      "heldBy": "Prof. Dr. Wulf Kellerwessel",
-      "description": "",
-      "type": "Lecture",
-      "semesterTags": "W18 "
-    },
-    {
-      "name": "Höffe: Demokratie im Zeitalter der Globalisierung",
-      "heldBy": "Prof. Dr. Wulf Kellerwessel",
-      "description": "",
-      "type": "Seminar",
-      "semesterTags": "W18 "
-    },
-    {
-      "name": "Politische Philosophie der Neuzeit",
-      "heldBy": "Prof. Dr. Wulf Kellerwessel",
-      "description": "",
-      "type": "Seminar",
-      "semesterTags": "W18 "
-    },
+  {
+    "name": "Modell- und Simulationstheorie",
+    "heldBy": "Prof. Dr. Gabriele Gramelsberger",
+    "description": "",
+    "type": "Lecture",
+    "semesterTags": "W18 "
+  },
+  {
+    "name": "Einführung in die Argumentationstheorie und Logik 1",
+    "heldBy": "Prof. Dr. Gabriele Gramelsberger",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W18 "
+  },
+  {
+    "name": "Einführung in die Erkenntnistheorie",
+    "heldBy": "Prof. Dr. Gabriele Gramelsberger",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W18 "
+  },
+  {
+    "name": "Robert Brandom",
+    "heldBy": "Dr. Daniel Wenz, Prof. Dr. Gabriele Gramelsberger",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W18 "
+  },
+  {
+    "name": "Maurice Merleau-Ponty: Phänomenologie der Wahrnehmung",
+    "heldBy": "Dr. Dawid Kasprowicz",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W18 "
+  },
+  {
+    "name": "Embodiment: Einführung in die Philosophie der Verkörperung",
+    "heldBy": "Dr. Dawid Kasprowicz",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W18 "
+  },
+  {
+    "name": "Technik in Ethik und Philosophie",
+    "heldBy": "Lisa Schüttler",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W18 "
+  },
+  {
+    "name": "Politische Philosophie des 20. Jahrhunderts: Liberalismus und Kommunitarismus",
+    "heldBy": "Prof. Dr. Wulf Kellerwessel",
+    "description": "",
+    "type": "Lecture",
+    "semesterTags": "W18 "
+  },
+  {
+    "name": "Einführung in die Ethik",
+    "heldBy": "Prof. Dr. Wulf Kellerwessel",
+    "description": "",
+    "type": "Lecture",
+    "semesterTags": "W18 "
+  },
+  {
+    "name": "Höffe: Demokratie im Zeitalter der Globalisierung",
+    "heldBy": "Prof. Dr. Wulf Kellerwessel",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W18 "
+  },
+  {
+    "name": "Politische Philosophie der Neuzeit",
+    "heldBy": "Prof. Dr. Wulf Kellerwessel",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W18 "
+  },
 
-    {
-      "name": "Einführung in die Wissenschafts- und Technikphilosophie des frühen 20. Jahrhunderts",
-      "heldBy": "Prof. Dr. Gabriele Gramelsberger",
-      "description": "",
-      "type": "Lecture",
-      "semesterTags": "S18 "
-    },
-    {
-      "name": "Historische Epistemologie",
-      "heldBy": "Prof. Dr. Gabriele Gramelsberger, Lisa Schüttler",
-      "description": "",
-      "type": "Seminar",
-      "semesterTags": "S18 "
-    },
-    {
-      "name": "Philosophie des Gefühls – Affective Computing",
-      "heldBy": "Prof. Dr. Gabriele Gramelsberger",
-      "description": "",
-      "type": "Seminar",
-      "semesterTags": "S18 "
-    },
-    {
-      "name": "Science, Technology & Society",
-      "heldBy": "Dr. Nils Martens, Prof. Dr. Gabriele Gramelsberger",
-      "description": "",
-      "type": "Seminar",
-      "semesterTags": "S18 "
-    },
-    {
-      "name": "Texte zur Mathematikphilosophie",
-      "heldBy": "Dr. Daniel Wenz, Prof. Dr. Gabriele Gramelsberger",
-      "description": "",
-      "type": "Seminar",
-      "semesterTags": "S18 "
-    },
-    {
-      "name": "Arthur Schopenhauer",
-      "heldBy": "Dr. Dawid Kasprowicz",
-      "description": "",
-      "type": "Seminar",
-      "semesterTags": "S18 "
-    },
-    {
-      "name": "Wirklichkeit, Technik, Mensch: Annäherung an Hans Blumenberg",
-      "heldBy": "Dr. Dawid Kasprowicz",
-      "description": "",
-      "type": "Seminar",
-      "semesterTags": "S18 "
-    },
-    {
-      "name": "Menschenrechte",
-      "heldBy": "Prof. Dr. Wulf Kellerwessel",
-      "description": "",
-      "type": "Lecture",
-      "semesterTags": "S18 "
-    },
-    {
-      "name": "Wittgenstein: \"Philosophische Untersuchungen\" und \"Über Gewissheit\"",
-      "heldBy": "Prof. Dr. Wulf Kellerwessel",
-      "description": "",
-      "type": "Seminar",
-      "semesterTags": "S18 "
-    },
-    {
-      "name": "Amartya Sen: Die Idee der Gerechtigkeit",
-      "heldBy": "Prof. Dr. Wulf Kellerwessel",
-      "description": "",
-      "type": "Seminar",
-      "semesterTags": "S18 "
-    },
-    {
-      "name": "Immanuel Kant: Kritik der reinen Vernunft",
-      "heldBy": "Prof. Dr. Gabriele Gramelsberger",
-      "description": "",
-      "type": "Lecture",
-      "semesterTags": "W17 "
-    },
-    {
-      "name": "Einführung in die Argumentationstheorie und Logik 1",
-      "heldBy": "Prof. Dr. Gabriele Gramelsberger",
-      "description": "",
-      "type": "Seminar",
-      "semesterTags": "W17 "
-    },
-    {
-      "name": "Einführung in die Erkenntnistheorie",
-      "heldBy": "Prof. Dr. Gabriele Gramelsberger",
-      "description": "",
-      "type": "Seminar",
-      "semesterTags": "W17 "
-    },
-    {
-      "name": "Philosophie des Geistes",
-      "heldBy": "Prof. Dr. Gabriele Gramelsberger",
-      "description": "",
-      "type": "Seminar",
-      "semesterTags": "W17 "
-    },
-    {
-      "name": "Klassische Texte der Metaphysik",
-      "heldBy": "Dr. Christoph Diel",
-      "description": "",
-      "type": "Seminar",
-      "semesterTags": "W17 "
-    }
-  ]
+  {
+    "name": "Einführung in die Wissenschafts- und Technikphilosophie des frühen 20. Jahrhunderts",
+    "heldBy": "Prof. Dr. Gabriele Gramelsberger",
+    "description": "",
+    "type": "Lecture",
+    "semesterTags": "S18 "
+  },
+  {
+    "name": "Historische Epistemologie",
+    "heldBy": "Prof. Dr. Gabriele Gramelsberger, Lisa Schüttler",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S18 "
+  },
+  {
+    "name": "Philosophie des Gefühls – Affective Computing",
+    "heldBy": "Prof. Dr. Gabriele Gramelsberger",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S18 "
+  },
+  {
+    "name": "Science, Technology & Society",
+    "heldBy": "Dr. Nils Martens, Prof. Dr. Gabriele Gramelsberger",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S18 "
+  },
+  {
+    "name": "Texte zur Mathematikphilosophie",
+    "heldBy": "Dr. Daniel Wenz, Prof. Dr. Gabriele Gramelsberger",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S18 "
+  },
+  {
+    "name": "Arthur Schopenhauer",
+    "heldBy": "Dr. Dawid Kasprowicz",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S18 "
+  },
+  {
+    "name": "Wirklichkeit, Technik, Mensch: Annäherung an Hans Blumenberg",
+    "heldBy": "Dr. Dawid Kasprowicz",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S18 "
+  },
+  {
+    "name": "Menschenrechte",
+    "heldBy": "Prof. Dr. Wulf Kellerwessel",
+    "description": "",
+    "type": "Lecture",
+    "semesterTags": "S18 "
+  },
+  {
+    "name": "Wittgenstein: \"Philosophische Untersuchungen\" und \"Über Gewissheit\"",
+    "heldBy": "Prof. Dr. Wulf Kellerwessel",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S18 "
+  },
+  {
+    "name": "Amartya Sen: Die Idee der Gerechtigkeit",
+    "heldBy": "Prof. Dr. Wulf Kellerwessel",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S18 "
+  },
+  {
+    "name": "Immanuel Kant: Kritik der reinen Vernunft",
+    "heldBy": "Prof. Dr. Gabriele Gramelsberger",
+    "description": "",
+    "type": "Lecture",
+    "semesterTags": "W17 "
+  },
+  {
+    "name": "Einführung in die Argumentationstheorie und Logik 1",
+    "heldBy": "Prof. Dr. Gabriele Gramelsberger",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W17 "
+  },
+  {
+    "name": "Einführung in die Erkenntnistheorie",
+    "heldBy": "Prof. Dr. Gabriele Gramelsberger",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W17 "
+  },
+  {
+    "name": "Philosophie des Geistes",
+    "heldBy": "Prof. Dr. Gabriele Gramelsberger",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W17 "
+  },
+  {
+    "name": "Klassische Texte der Metaphysik",
+    "heldBy": "Dr. Christoph Diel",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W17 "
+  }
+]
