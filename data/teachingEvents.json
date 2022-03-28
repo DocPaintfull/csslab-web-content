@@ -1,5 +1,117 @@
 [
   {
+    "name": "",
+    "heldBy": "",
+    "description": "",
+    "type": "",
+    "semesterTags": "S22"
+  },
+  {
+    "name": "BA PLuS",
+    "heldBy": "Prof. Dr. Gabriele Gramelsberger",
+    "description": "",
+    "type": "Bachelorkolloquium",
+    "semesterTags": "S22"
+  },
+  {
+    "name": "Klassische Texte der politischen Philosophie der Neuzeit: Hobbes, Locke, Rousseau",
+    "heldBy": "Prof. Dr. Wulf Kellerwessel",
+    "description": "",
+    "type": "Lektürekurs",
+    "semesterTags": "S22"
+  },
+  {
+    "name": "Modelling for Policy",
+    "heldBy": "PD Dr. Andreas Kaminski",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S22"
+  },
+  {
+    "name": "Einführung in die Phänomenologie",
+    "heldBy": "Prof. Dr. Gabriele Gramelsberger, Dr. Dawid Kasprowicz",
+    "description": "",
+    "type": "Vorlesung",
+    "semesterTags": "S22"
+  },
+  {
+    "name": "Grenzen des Begriffs - Zur Aktualität der Erkenntnistheorie des klassischen Idealismus",
+    "heldBy": "A. Guzmán Olmos",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S22"
+  },
+  {
+    "name": "Wissenschaft und Technik",
+    "heldBy": "PD Dr. Andreas Kaminski",
+    "description": "",
+    "type": "Vorlesung",
+    "semesterTags": "S22"
+  },
+  {
+    "name": "David Hume - Eine Untersuchung über den menschlichen Verstand",
+    "heldBy": "Dr. Daniel Wenz",
+    "description": "",
+    "type": "Lektürekurs",
+    "semesterTags": "S22"
+  },
+  {
+    "name": "Angewandte Ethik: Sandel über Gerechtigkeit",
+    "heldBy": "Prof. Dr. Wulf Kellerwessel",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S22"
+  },
+  {
+    "name": "Philosophie",
+    "heldBy": "Prof. Dr. Gabriele Gramelsberger, PD Dr. Andreas Kaminski",
+    "description": "",
+    "type": "Colloquium",
+    "semesterTags": "S22"
+  },
+  {
+    "name": "Philosophy of Computational Sciences",
+    "heldBy": "PD Dr. Andreas Kaminski",
+    "description": "",
+    "type": "Vorlesung",
+    "semesterTags": "S22"
+  },
+  {
+    "name": "Immanuel Kant's Philosophie der Mathematik: Aktuelle Perspektiven",
+    "heldBy": "Dr. Daniel Wenz",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S22"
+  },
+  {
+    "name": "Ausgewählte Kapitel aus Kants Kritik der Urteilskraft",
+    "heldBy": "R. Lüthe",
+    "description": "",
+    "type": "Lektürekurs",
+    "semesterTags": "S22"
+  },
+  {
+    "name": "Kant: Prolegomena",
+    "heldBy": "R. Breil",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S22"
+  },
+  {
+    "name": "Werde vollkommen! Perfektionismus zwischen Frühaufklärung und Gegenwart",
+    "heldBy": "J. Heinrichs",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S22"
+  },
+  {
+    "name": "Was ist Kommunikation? Versuch der Bestimmung ihres Begriffs",
+    "heldBy": "J. Kippenhan",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S22"
+  },
+  {
     "name": "Theorien zu Raum und Zeit",
     "heldBy": "R. Breil",
     "description": "",
