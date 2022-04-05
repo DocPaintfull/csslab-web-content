@@ -4,7 +4,7 @@
     "description": "What are the duties and virtues of knowledge in the context of media?",
     "by": "Dr. Carmen Krämer",
     "type": "PostDoc project",
-    "startYear": 2020 ,
+    "startYear": 2020,
     "endYear": 2023,
     "ref": "kraemer",
     "images": [
@@ -22,6 +22,22 @@
     "type": "PostDoc project",
     "startYear": 2018,
     "endYear": 2021,
+    "ref": "wenz",
+    "images": [
+      {
+        "src": "/favicon.png",
+        "alt": "CSS-Lab Logo",
+        "href": "/"
+      }
+    ]
+  },
+  {
+    "title": "What do computers 'know' about mathematical objects?",
+    "description": "",
+    "by": "Dr. Daniel Wenz",
+    "type": "PostDoc project",
+    "startYear": 2018,
+    "endYear": 2023,
     "ref": "wenz",
     "images": [
       {
