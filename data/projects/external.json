@@ -21,6 +21,37 @@
     ]
   },
   {
+    "title": "Society after Money. A Simulation.",
+    "description": "Can we simulate post-monetary, or even non-monetary economies? Research on the commons has particularly inspired our approach to a society after money. Elinor Ostrom’s Nobel Prize for Economics in 2009 made clear that commons economies are possible, albeit locally restricted. Using agent-based modelling, we are experimenting with scaling up such local commons economies. This international research group of media scientists, economists and philosophers explores the collision of digital technology with the entity money.",
+    "collaborators": "Prof. Dr. Jens Schröter (PI), Dr. Hanno Pahl, University of Bonn; Prof. Dr. Manuel Scholz Wäckerle, WU Vienna University of Economics and Business; Dr. Stefan Meretz, Commons-Institute Bonn; Prof. Dr. Gabriele Gramelsberger, Tobias Dumschat, RWTH Aachen University",
+    "fundedBy": "Volkswagen Foundation",
+    "startYear": 2019,
+    "endYear": 2022,
+    "link": "https://nach-dem-geld.de/",
+    "images": [
+      {
+        "src": "https://www.volkswagenstiftung.de/profiles/vwst/theme/volkswagen/images/logo.svg",
+        "alt": "Volkswagen Foundation Logo",
+        "href": "https://www.volkswagenstiftung.de/en"
+      }
+    ]
+  },
+  {
+    "title": "Digital Literacy",
+    "description": "If science and engineering become increasingly computational, how can computational knowledge and skills be communicated to B.A. and M.A. students? Based on interviews we explore the digital literacy of researchers, lecturers and students in mechanical engineering. Together with the RWTH Faculty of Mechanical Engineering our goal is to develop a digital literacy indicator for teaching in engineering.",
+    "fundedBy": "ESF RWTH Aachen University",
+    "collaborators": "Prof. Dr. Gabriele Gramelsberger, RWTH Theory of Science and Technology; Prof. Dr. Sven Komma and Dr. Ilona Cwielong, RWTH Institute of Educational Science; PD Dr. Malte Persike, RWTH CLS Center für Lehr- und Lernservices",
+    "publicationInfo": "",
+    "startYear": 2019,
+    "endYear": 2021,
+    "images": [
+      {
+        "src": "https://www.rwth-aachen.de/global/show_picture.asp?id=aaaaaaaaaaagazb",
+        "alt": "RWTH Logo"
+      }
+    ]
+  },
+  {
     "title": "Neuro Modelling Talk(completed)",
     "description": "The goal is to develop a conceptual framework for understanding generalization in neuroscientific modelling, because generalization is a major challenge for contemporary Computational Neuroscience and Neuromorphic Computing. Without generalization comparability of models can't be achieved, in turn, reproducibility of results isn't possible, and it is difficult to give guidance to the design of neuromorphic systems. Furthermore, without generalization of models scaling-up complexity isn't possible (complexity barrier), thus, hindering progress in knowledge. Therefore, we want to conceptionally explore generalization and evaluate new ideas on generalization about their practical feasibility.",
     "fundedBy": "DGF Initiative of Excellence / ERS RWTH Aachen University",
@@ -38,21 +69,6 @@
         "src": "https://www.rwth-aachen.de/global/show_picture.asp?id=aaaaaaaaaaagazb",
         "alt": "RWTH Logo",
         "href": "https://www.rwth-aachen.de/cms/root/Forschung/Angebote-fuer-Forschende/~ohy/ERS-Angebote/?lidx=1"
-      }
-    ]
-  },
-  {
-    "title": "Digital Literacy",
-    "description": "If science and engineering become increasingly computational, how can computational knowledge and skills be communicated to B.A. and M.A. students? Based on interviews we explore the digital literacy of researchers, lecturers and students in mechanical engineering. Together with the RWTH Faculty of Mechanical Engineering our goal is to develop a digital literacy indicator for teaching in engineering.",
-    "fundedBy": "ESF RWTH Aachen University",
-    "collaborators": "Prof. Dr. Gabriele Gramelsberger, RWTH Theory of Science and Technology; Prof. Dr. Sven Komma and Dr. Ilona Cwielong, RWTH Institute of Educational Science; PD Dr. Malte Persike, RWTH CLS Center für Lehr- und Lernservices",
-    "publicationInfo": "",
-    "startYear": 2019,
-    "endYear": 2021,
-    "images": [
-      {
-        "src": "https://www.rwth-aachen.de/global/show_picture.asp?id=aaaaaaaaaaagazb",
-        "alt": "RWTH Logo"
       }
     ]
   },
@@ -75,22 +91,6 @@
         "src": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Ubisoft_2017.svg/1200px-Ubisoft_2017.svg.png",
         "alt": "Ubisoft Logo",
         "href": "https://www.ubisoft.com"
-      }
-    ]
-  },
-  {
-    "title": "Society after Money. A Simulation.",
-    "description": "Can we simulate post-monetary, or even non-monetary economies? Research on the commons has particularly inspired our approach to a society after money. Elinor Ostrom’s Nobel Prize for Economics in 2009 made clear that commons economies are possible, albeit locally restricted. Using agent-based modelling, we are experimenting with scaling up such local commons economies. This international research group of media scientists, economists and philosophers explores the collision of digital technology with the entity money.",
-    "collaborators": "Prof. Dr. Jens Schröter (PI), Dr. Hanno Pahl, University of Bonn; Prof. Dr. Manuel Scholz Wäckerle, WU Vienna University of Economics and Business; Dr. Stefan Meretz, Commons-Institute Bonn; Prof. Dr. Gabriele Gramelsberger, Tobias Dumschat, RWTH Aachen University",
-    "fundedBy": "Volkswagen Foundation",
-    "startYear": 2019,
-    "endYear": 2022,
-    "link": "https://nach-dem-geld.de/",
-    "images": [
-      {
-        "src": "https://www.volkswagenstiftung.de/profiles/vwst/theme/volkswagen/images/logo.svg",
-        "alt": "Volkswagen Foundation Logo",
-        "href": "https://www.volkswagenstiftung.de/en"
       }
     ]
   },
