@@ -160,9 +160,9 @@
     "link": "https://www.geisteswissenschaften.fu-berlin.de/en/v/embodiedinformation/index.html",
     "images": [
       {
-        "src": "https://www.bmbf.de/site/img/sprite.svg.svg-logo-en.png",
+        "src": "https://www.bmbf.de/SiteGlobals/Frontend/Images/icons/_common/logo.svg?__blob=normal&v=5",
         "alt": "BMBF Logo",
-        "href": "https://www.bmbf.de/en/index.html"
+        "href": "https://www.bmbf.de/bmbf/de/home/home_node.html"
       }
     ]
   },
@@ -178,9 +178,9 @@
     "link": "",
     "images": [
       {
-        "src": "https://www.bmbf.de/site/img/sprite.svg.svg-logo-en.png",
+        "src": "https://www.bmbf.de/SiteGlobals/Frontend/Images/icons/_common/logo.svg?__blob=normal&v=5",
         "alt": "BMBF Logo",
-        "href": "https://www.bmbf.de/en/index.html"
+        "href": "https://www.bmbf.de/bmbf/de/home/home_node.html"
       }
     ]
   }
