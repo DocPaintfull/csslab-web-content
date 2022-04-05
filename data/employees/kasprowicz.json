@@ -307,15 +307,15 @@
     ],
     "reviewed": [
       {
-        "name": "Ästhetik als Unschärfe – Günther Anders und die Frage nach dem Film als Kunst.",
+        "name": "Ästhetik als Unschärfe – Günther Anders und die Frage nach dem Film als Kunst",
         "authors": "Kasprowicz, Dawid",
         "year": "2022",
         "in": "Friedrich, Alexander; Gehring, Petra; Hubig, Christoph; Kaminski, Andreas; Nordmann, Alfred (eds.). Technik und Werk. Jahrbuch für Technikphilosophie.",
         "volume": "8",
         "pages": "",
         "city": "Baden Baden",
-        "publisher": "true",
-        "in_print": false
+        "publisher": "Nomos",
+        "in_print": true
       },
       {
         "name": "New Labor, Old Questions: Practices of Collaboration with Robots",
@@ -410,7 +410,7 @@
     ],
     "misc": [
       {
-        "name": "Digital Liveliness and Virtuality. ",
+        "name": "Digital Liveliness and Virtuality",
         "authors": "Kasprowicz, Dawid",
         "year": "2021",
         "in": "Online-Talk with Martina Leeker, Esther Hamburg and Michael Straeubig. The respectfull Nettheaterchannel (13.12. 2021)",
@@ -462,7 +462,8 @@
         "pages": "",
         "city": "Frankfurt a.M.",
         "publisher": "Künstlerhaus Muosonturm (27.04-03.05.)",
-        "doi": ""
+        "doi": "",
+        "url": "https://www.youtube.com/watch?v=EbVm2QVMwt0"
       }
     ]
   }
