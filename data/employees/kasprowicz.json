@@ -3,11 +3,11 @@
   "ref": "kasprowicz",
   "title": "Dr. phil.",
   "status": "Post-Doc",
-  "cv": "Dr. Dawid Kasprowicz is a research assistant at the Chair for Theory of Science and Technology. From 2005 to 2012 he studied media studies and philosophy at Ruhr University Bochum and at the Université du Littoral Côte d’Opale in Dunkerque, France. He graduated with a Master’s thesis on Bernard Stiegler’s concept of psychopower. From 2013 to 2016, he was a PhD student at the \"Media Cultures of Computer Simulation\" Institute for Advanced Study in Lüneburg; afterwards he was a research assistant at the chair for philosophy of digital media in Witten-Herdecke until spring 2018. He was awarded a doctorate by Leuphana University Lüneburg in April 2018. In his PhD thesis he develops a history of knowledge based on the concept of immersion. His main research fields include: Theory and history of embodiment, the concept of models and simulations in robotics, and theory of science with a focus on computational sciences.",
+  "cv": "Dr. Dawid Kasprowicz is a research assistant at the Chair for Theory of Science and Technology. From 2005 to 2012 he studied media studies and philosophy at Ruhr University Bochum and at the Université du Littoral Côte d’Opale in Dunkerque, France. He graduated with a Master’s thesis on Bernard Stiegler’s concept of psychopower. From 2013 to 2016, he was a PhD student at the \" Media Cultures of Computer Simulation \" Institute for Advanced Study at the Leuphana University Lüneburg where he also awarded a doctorate in April 2018. In his PhD thesis he develops a history of knowledge based on the concept of immersion. Since April 2021, he coordinates the fellow program at the Institute for Advanced Study on \" Cultures of Research \", also at the RWTH Aachen University. In his teaching, he combines approaches from phenomenology with questions from philosophy of science and technology. ",
   "img": "kasprowicz.jpg",
   "tel": "+49 241 80 25510",
   "email": "dawid.kasprowicz@humtec.rwth-aachen.de",
-  "field":"Philosophy and Media Studies of Computational Sciences/Head of CSS-Lab",
+  "field": "Philosophy and Media Studies of Computational Sciences/Head of CSS-Lab",
   "researchInterests": "Theory and history of embodiment; epistemology of human-robot collaborations; phenomenology; philosophy of digital media.",
   "projects": [
     {
@@ -16,8 +16,7 @@
     }
   ],
   "publications": {
-    "books":
-    [
+    "books": [
       {
         "name": "Handbuch Virtualität",
         "authors": "Kasprowicz, Dawid and Stefan Rieger (eds.)",
@@ -29,7 +28,8 @@
         "publisher": "Springer",
         "doi": "",
         "in_print": false
-      },{
+      },
+      {
         "name": "Der Körper auf Tauchstation. Zu einer Wissensgeschichte der Immersion. (Reihe Wissenschafts- und Technikforschung, 19)",
         "authors": "Kasprowicz, Dawid",
         "year": "2019",
@@ -74,8 +74,7 @@
         "doi": ""
       }
     ],
-    "contributions":
-    [
+    "contributions": [
       {
         "name": "Achtung! Hunde auf der Fahrbahn. Reinforcement Learning und die Modellierung autonomer Agenten",
         "authors": "Kasprowicz, Dawid",
@@ -302,9 +301,8 @@
         "doi": ""
       }
     ],
-    "reviewed":
-    [
-       {
+    "reviewed": [
+      {
         "name": "New Labor, Old Questions: Practices of Collaboration with Robots",
         "authors": "Kasprowicz, Dawid",
         "year": "2021",
@@ -348,8 +346,7 @@
         "in_print": false
       }
     ],
-    "reviews":
-    [
+    "reviews": [
       {
         "name": "Die Wiederkehr der Zaubermaschinen. Drei Bücher zur viel diskutierten Disziplin des \"machine learning\"",
         "authors": "Kasprowicz, Dawid",
@@ -396,8 +393,7 @@
         "doi": ""
       }
     ],
-    "misc":
-    [
+    "misc": [
       {
         "name": "Abschalten – Eintauchen – Auftauchen: Besseres Leben durch Immersion. Beitrag zur Mimikry: Wellness Retrotopia (07.02. 2020)",
         "authors": "Kasprowicz, Dawid",
@@ -409,7 +405,7 @@
         "publisher": "Theater am Neumarkt (06.-16.02.)",
         "doi": ""
       },
-       {
+      {
         "name": "Art & Algorithm: Embodiment und algorithmisierte Körper. Beitrag zur Performance 'Open your Body for Big Data' von Martina Leeker",
         "authors": "Kasprowicz, Dawid",
         "year": "2018",
