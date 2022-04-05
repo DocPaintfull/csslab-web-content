@@ -1,5 +1,26 @@
 [
   {
+    "title": "Biological Transformation of Technical Systems utilizing Antifragility Management",
+    "description": "Antifragility can be observed in Nature as the increase in capability to thrive as a result of stressors, e.g., shocks, noise, faults. Antifragility differs from the concepts of resiliency (ability to recover from failure) and robustness (ability to resist failure). In this project we explore the possibility of transferring antifragile mechanisms from biology to engineering. ",
+    "collaborators": "Dr. Daniel Trauth, Marco Becker M.Sc., RWTH Laboratory for Machine Tools and Production Engineering (WZL); Prof. Dr. Ulrich Schwaneberg, Dr. Mehdi Davari and Dr. Tetiana Kurkina, RWTH Institute for Biotechnology; Dr. Dawid Kasprowicz and Prof. Dr. Gabriele Gramelsberger, RWTH Theory of Science and Technology",
+    "fundedBy": "DFG Initiative of Excellence / ERS RWTH",
+    "startYear": 2020,
+    "endYear": 2021,
+    "link": "",
+    "images": [
+      {
+        "src": "https://www.dfg.de/includes/images/layout/dfg_logo_schriftzug.svg",
+        "alt": "DFG Initiative of Excellence Logo",
+        "href": "https://www.dfg.de/en/"
+      },
+      {
+        "src": "https://www.rwth-aachen.de/global/show_picture.asp?id=aaaaaaaaaaagazb",
+        "alt": "RWTH Logo",
+        "href": "https://www.rwth-aachen.de/cms/root/Forschung/Angebote-fuer-Forschende/~ohy/ERS-Angebote/?lidx=1"
+      }
+    ]
+  },
+  {
     "title": "Neuro Modelling Talk(completed)",
     "description": "The goal is to develop a conceptual framework for understanding generalization in neuroscientific modelling, because generalization is a major challenge for contemporary Computational Neuroscience and Neuromorphic Computing. Without generalization comparability of models can't be achieved, in turn, reproducibility of results isn't possible, and it is difficult to give guidance to the design of neuromorphic systems. Furthermore, without generalization of models scaling-up complexity isn't possible (complexity barrier), thus, hindering progress in knowledge. Therefore, we want to conceptionally explore generalization and evaluate new ideas on generalization about their practical feasibility.",
     "fundedBy": "DGF Initiative of Excellence / ERS RWTH Aachen University",
@@ -74,43 +95,6 @@
     ]
   },
   {
-    "title": "Biological Transformation of Technical Systems utilizing Antifragility Management",
-    "description": "Antifragility can be observed in Nature as the increase in capability to thrive as a result of stressors, e.g., shocks, noise, faults. Antifragility differs from the concepts of resiliency (ability to recover from failure) and robustness (ability to resist failure). In this project we explore the possibility of transferring antifragile mechanisms from biology to engineering. ",
-    "collaborators": "Dr. Daniel Trauth, Marco Becker M.Sc., RWTH Laboratory for Machine Tools and Production Engineering (WZL); Prof. Dr. Ulrich Schwaneberg, Dr. Mehdi Davari and Dr. Tetiana Kurkina, RWTH Institute for Biotechnology; Dr. Dawid Kasprowicz and Prof. Dr. Gabriele Gramelsberger, RWTH Theory of Science and Technology",
-    "fundedBy": "DFG Initiative of Excellence / ERS RWTH",
-    "startYear": 2020,
-    "endYear": 2021,
-    "link": "",
-    "images": [
-      {
-        "src": "https://www.dfg.de/includes/images/layout/dfg_logo_schriftzug.svg",
-        "alt": "DFG Initiative of Excellence Logo",
-        "href": "https://www.dfg.de/en/"
-      },
-      {
-        "src": "https://www.rwth-aachen.de/global/show_picture.asp?id=aaaaaaaaaaagazb",
-        "alt": "RWTH Logo",
-        "href": "https://www.rwth-aachen.de/cms/root/Forschung/Angebote-fuer-Forschende/~ohy/ERS-Angebote/?lidx=1"
-      }
-    ]
-  },
-  {
-    "title": "Computer Signals. Art and Biology in the Age of Digital Experimentation II(completed)",
-    "description": "In this project, an international research group of biologists, artists, philosophers and historians of science explores aspects of producing and processing data in the biosciences. Computer Signals II is based on the examples of two working groups in the biosciences, one on Helgoland, the other in Austin, Texas. The project concretizes their various research questions from the perspective of art, thereby lending crucial impetus to the overall project: How can the materiality of digital data processing be captured and represented? How can the formative involvement of digital devices and their infrastructures in the acquisition of knowledge be shifted into human perception, and how can their contribution be made tangible, i.e., accessible to human experience?",
-    "collaborators": "Prof. Hannes Rickli (PI), Dr. Birk Weiberg, Valentina Vucic, all ZHdK Zürich University of Arts; Prof. Dr. Hans Hofmann, Texas University Austin; Prof. Dr. Philipp Fischer, Alfred-Wegener-Institute Helgoland; Prof. Dr. Christoph Hoffmann, University of Lucerne; Prof. Dr. Hans-Jörg Rheinberger, Max-Planck-Institute of History of Science; Prof. Dr. Gabriele Gramelsberger, RWTH Aachen University",
-    "fundedBy": "Swiss National Science Foundation",
-    "startYear": 2017,
-    "endYear": 2020,
-    "link": "https://www.zhdk.ch/en/researchproject/544365",
-    "images": [
-      {
-        "src": "/snf_logo_en.gif",
-        "alt": "Swiss National Science Foundation Logo",
-        "href": "http://www.snf.ch/en/Pages/default.aspx"
-      }
-    ]
-  },
-  {
     "title": "NRW Digital Fellowship 2017 (completed)",
     "description": "The CSS Lab as a lab for teaching Computational Science Studies has been partly funded by the NRW Digital Fellowship; in particular, the development of ICE Isomorphic Comment Extractor and ICA Isomorphic Class Analyzer, the CSS Lab website as well as the development and communication of the GovTec Master's modules Knowledge Theory of Research, Modelling for Innovation and Practice. The CSS Lab provides a digital environment for computational science studies for Master students as well as PhD students.",
     "fundedBy": "Stifterverband and the NRW Ministry of Research",
@@ -128,6 +112,22 @@
         "src": "https://www.mkw.nrw/themes/custom/mkw_theme/source/images/logo.png",
         "alt": "NRW Ministry of Research Logo",
         "href": "https://www.rwth-aachen.de/cms/root/Forschung/Angebote-fuer-Forschende/~ohy/ERS-Angebote/?lidx=1"
+      }
+    ]
+  },
+  {
+    "title": "Computer Signals. Art and Biology in the Age of Digital Experimentation II(completed)",
+    "description": "In this project, an international research group of biologists, artists, philosophers and historians of science explores aspects of producing and processing data in the biosciences. Computer Signals II is based on the examples of two working groups in the biosciences, one on Helgoland, the other in Austin, Texas. The project concretizes their various research questions from the perspective of art, thereby lending crucial impetus to the overall project: How can the materiality of digital data processing be captured and represented? How can the formative involvement of digital devices and their infrastructures in the acquisition of knowledge be shifted into human perception, and how can their contribution be made tangible, i.e., accessible to human experience?",
+    "collaborators": "Prof. Hannes Rickli (PI), Dr. Birk Weiberg, Valentina Vucic, all ZHdK Zürich University of Arts; Prof. Dr. Hans Hofmann, Texas University Austin; Prof. Dr. Philipp Fischer, Alfred-Wegener-Institute Helgoland; Prof. Dr. Christoph Hoffmann, University of Lucerne; Prof. Dr. Hans-Jörg Rheinberger, Max-Planck-Institute of History of Science; Prof. Dr. Gabriele Gramelsberger, RWTH Aachen University",
+    "fundedBy": "Swiss National Science Foundation",
+    "startYear": 2017,
+    "endYear": 2020,
+    "link": "https://www.zhdk.ch/en/researchproject/544365",
+    "images": [
+      {
+        "src": "/snf_logo_en.gif",
+        "alt": "Swiss National Science Foundation Logo",
+        "href": "http://www.snf.ch/en/Pages/default.aspx"
       }
     ]
   },
