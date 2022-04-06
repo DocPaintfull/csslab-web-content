@@ -1,5 +1,53 @@
 [
   {
+    "title": "Retrospective code-analysis for Open Science (WiRCA): Separating technical code from scientific code automatically for scientific programming in ordert to ease the evaluation of Open Science research software.",
+    "description": "Most of temporary scientific research depends essentially on the employment of complex software, although scientists are usually not trained in programming and software engineering. From the perspective of Philosophy of Science (PoS) the increase in scientific software as research tools is of epistemic and analytic interest; and for Software Engineering (SE) the analysis and improvement of the architecture and algorithmic structure of software projects is important. Thus, both disciplines focus on the analysis of code and share the conjoint interest in the development of new domain-specific methods for the analysis of scientific (open) software projects.",
+    "collaborators": "Prof. Dr. Bernhard Rumpe, Chair for Software Engineering, Prof. Dr. Gabriele Gramelsberger, Chair for Philosophy of Science and Technology, both RWTH Aachen University",
+    "fundedBy": "Funding Institution: DFG",
+    "startYear": 2022,
+    "endYear": 2025,
+    "link": "",
+    "images": [
+      {
+        "src": "https://www.dfg.de/includes/images/layout/dfg_logo_schriftzug.svg",
+        "alt": "DFG Initiative of Excellence Logo",
+        "href": "https://www.dfg.de/en/"
+      }
+    ]
+  },
+  {
+    "title": "Aux limites de l’expérience: Vers une phénoménologie de la science informatisée",
+    "description": "The concept of experience is mostly taken for granted in philosophy of science and rarely undergoes a deeper study. The project argues that especially with the increasing use of computer simulations and machine learning, the concept of experience becomes crucial to understand the new interactions of scientists and their technological environments. To analyze this, an extension and rereading of Husserls concept of scientific experience will be developed.",
+    "collaborators": "Prof. Dr. Natalie Depraz, Université de Rouen, Normandie and Husserl-Archive ENS Paris, Dr.   wid Kasprowicz, RWTH Aachen University. ",
+    "fundedBy": "",
+    "startYear": 2021,
+    "endYear": 2021,
+    "link": "",
+    "images": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/DAAD_Logo.svg/1200px-DAAD_Logo.svg.png",
+        "alt": "DAAD Logo",
+        "href": "https://www.daad.de/en/"
+      }
+    ]
+  },
+  {
+    "title": "Society after Money. A Simulation.",
+    "description": "Can we simulate post-monetary, or even non-monetary economies? Research on the commons has particularly inspired our approach to a society after money. Elinor Ostrom’s Nobel Prize for Economics in 2009 made clear that commons economies are possible, albeit locally restricted. Using agent-based modelling, we are experimenting with scaling up such local commons economies. This international research group of media scientists, economists and philosophers explores the collision of digital technology with the entity money.",
+    "collaborators": "Prof. Dr. Jens Schröter (PI), Dr. Hanno Pahl, University of Bonn; Prof. Dr. Manuel Scholz Wäckerle, WU Vienna University of Economics and Business; Dr. Stefan Meretz, Commons-Institute Bonn; Prof. Dr. Gabriele Gramelsberger, Tobias Dumschat, RWTH Aachen University",
+    "fundedBy": "Volkswagen Foundation",
+    "startYear": 2019,
+    "endYear": 2022,
+    "link": "https://nach-dem-geld.de/",
+    "images": [
+      {
+        "src": "https://www.volkswagenstiftung.de/profiles/vwst/theme/volkswagen/images/logo.svg",
+        "alt": "Volkswagen Foundation Logo",
+        "href": "https://www.volkswagenstiftung.de/en"
+      }
+    ]
+  },
+  {
     "title": "Biological Transformation of Technical Systems utilizing Antifragility Management",
     "description": "Antifragility can be observed in Nature as the increase in capability to thrive as a result of stressors, e.g., shocks, noise, faults. Antifragility differs from the concepts of resiliency (ability to recover from failure) and robustness (ability to resist failure). In this project we explore the possibility of transferring antifragile mechanisms from biology to engineering. ",
     "collaborators": "Dr. Daniel Trauth, Marco Becker M.Sc., RWTH Laboratory for Machine Tools and Production Engineering (WZL); Prof. Dr. Ulrich Schwaneberg, Dr. Mehdi Davari and Dr. Tetiana Kurkina, RWTH Institute for Biotechnology; Dr. Dawid Kasprowicz and Prof. Dr. Gabriele Gramelsberger, RWTH Theory of Science and Technology",
@@ -17,22 +65,6 @@
         "src": "https://www.rwth-aachen.de/global/show_picture.asp?id=aaaaaaaaaaagazb",
         "alt": "RWTH Logo",
         "href": "https://www.rwth-aachen.de/cms/root/Forschung/Angebote-fuer-Forschende/~ohy/ERS-Angebote/?lidx=1"
-      }
-    ]
-  },
-  {
-    "title": "Society after Money. A Simulation.",
-    "description": "Can we simulate post-monetary, or even non-monetary economies? Research on the commons has particularly inspired our approach to a society after money. Elinor Ostrom’s Nobel Prize for Economics in 2009 made clear that commons economies are possible, albeit locally restricted. Using agent-based modelling, we are experimenting with scaling up such local commons economies. This international research group of media scientists, economists and philosophers explores the collision of digital technology with the entity money.",
-    "collaborators": "Prof. Dr. Jens Schröter (PI), Dr. Hanno Pahl, University of Bonn; Prof. Dr. Manuel Scholz Wäckerle, WU Vienna University of Economics and Business; Dr. Stefan Meretz, Commons-Institute Bonn; Prof. Dr. Gabriele Gramelsberger, Tobias Dumschat, RWTH Aachen University",
-    "fundedBy": "Volkswagen Foundation",
-    "startYear": 2019,
-    "endYear": 2022,
-    "link": "https://nach-dem-geld.de/",
-    "images": [
-      {
-        "src": "https://www.volkswagenstiftung.de/profiles/vwst/theme/volkswagen/images/logo.svg",
-        "alt": "Volkswagen Foundation Logo",
-        "href": "https://www.volkswagenstiftung.de/en"
       }
     ]
   },
