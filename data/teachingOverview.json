@@ -11,16 +11,16 @@
             "content": "Teaching in philosophy covers the full spectrum of theoretical philosophy, with a focus on theory of (computational) science and technology. We link theory of science and technology to continental philosophy. Further, we collaborate in our seminars and lectures with colleagues from engineering and science.",
             "link": "philosophy"
         },
-        "box3": {
-            "headLine": "Colloquium",
-            "content": "The colloquium of the Chair for Theory of Science and Technology (TST) addresses a variety of topics related to theory of (computational) science and technology for Master’s and PhD students as well as postdocs. It discusses the literature of the workshops organised by the CSS Lab, and hosts the reading group on code studies organized by Dr. Dawid Kasprowicz and Jennifer Schaffrath. The colloquium takes place on Thursdays during the lecture period from 14:30 to 16:00. Location: CSS Lab (room 410), Theaterplatz 14, RWTH Aachen University. Accreditation is required.",
-            "link": "colloquia"
-        },
-        "box4": {
-            "headLine": "Colloquium (GovTec)",
-            "content": "The Master’s program in Governance of Technology and Innovation (GovTec) will be launched in the winter term 2019/2020. It is an interdisciplinary Master’s program in Philosophy and Sociology of Science and Technology with links to Science and Technology Studies (STS). The Master’s program addresses theoretical as well as practical aspects of developing and implementing technology and innovation. It investigates the role of technology and innovation as drivers for today’s society.",
-            "link": "govtec"
-        },
+      "box3": {
+        "headLine": "TST-HLRS Colloquium",
+        "content": "The TST-HLRS colloquium is organized by the Chair for Theory of Science and Technology (TST) and the Philosophy of Science & Technology of Computer Simulation Department (headed by Dr. Andreas Kaminski) of the High Performance Computing Center Stuttgart (HLRS). In the colloquium, PhD-Students and Postdocs present their current research projects and international speakers are invited to give talks on current topics in the philosophy of computational sciences and technology.",
+        "link": "colloquia"
+      },
+      "box4": {
+        "headLine": "GovTec Colloquium",
+        "content": "The Master’s program in Governance of Technology and Innovation (GovTec) was launched in the winter term 2019/2020. It is an interdisciplinary Master’s program in Philosophy and Sociology of Science and Technology with links to Science and Technology Studies (STS). The Master’s program addresses theoretical as well as practical aspects of developing and implementing technology and innovation. It investigates the role of technology and innovation as drivers for today’s society and its challenges.",
+        "link": "govtec"
+      },
         "box5": {
             "headLine": "CSS Graduate Projects",
             "content": "During their studies for the Master’s in Governance of Technology and Innovation (GovTec), students have the opportunity to work at the CSS Lab. They can conduct a 10-week graduate project (third semester) and a case study for the Master’s thesis (fourth semester).",
