@@ -1,12 +1,24 @@
 [
   {
-    "title": "The Ethics of Knowledge in Media",
-    "description": "What are the duties and virtues of knowledge in the context of media?",
-    "by": "Dr. Carmen Krämer",
+    "title": "At the Limits of Experience: Towards a Phenomenological Perspective in the Philosophy of Science",
+    "description": "",
+    "by": "Dr. Dawid Kasprowicz",
     "type": "PostDoc project",
-    "startYear": 2020,
-    "endYear": 2023,
-    "ref": "kraemer",
+    "ref": "kasprowicz",
+    "images": [
+      {
+        "src": "/favicon.png",
+        "alt": "CSS-Lab Logo",
+        "href": "/"
+      }
+    ]
+  },
+  {
+    "title": "What do computers „know“ about mathematical objects?",
+    "description": "",
+    "by": "Dr. Daniel Wenz",
+    "type": "PostDoc project",
+    "ref": "wenz",
     "images": [
       {
         "src": "/favicon.png",
