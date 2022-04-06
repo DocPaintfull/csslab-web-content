@@ -3,11 +3,11 @@
     "content": {
         "blueBox": {
             "headLine": "Mission",
-            "content": [
-                "The colloquium of the Chair for Theory of Science and Technology (TST) addresses a variety of topics related to the theory of (computational) science and technology for Master’s and PhD students as well as postdocs. From 2019/2020 on the colloquium is conjointly organized together with the Philosophy of Science & Technology of Computer Simulation Department (headed by Dr. Andreas Kaminski) of the High Performance Computing Center Stuttgart (HLRS). As part of the TST/HLRS Colloquium the reading group on code studies is organized by Dr. Dawid Kasprowicz and Jennifer Schaffrath.",
-                "The colloquium takes place on Thursdays during the lecture period from 3 to 6 p.m., in case of guest lectures (events) from 4 to 6 p.m. Location: Online via Zoom or CSS Lab (room 410), Theaterplatz 14, RWTH Aachen University. Accreditation is required under: dawid.kasprowicz@humtec.rwth-aachen.de."
-                
-            ]
+          "content": [
+            "The colloquium of the Chair for Theory of Science and Technology (TST) addresses a variety of topics related to the theory of (computational) science and technology for Master and PhD-students as well as postdocs. From 2019/2020 on the colloquium is conjointly organized together with the Philosophy of Science & Technology of Computer Simulation Department (headed by Dr. Andreas Kaminski) of the High Performance Computing Center Stuttgart (HLRS). International speakers are also invited for talks and workshops.",
+            "The colloquium takes place on Thursdays during the lecture period from 3 to 6 p.m., in case of guest lectures from 4 to 6 p.m. Location: Online via Zoom or in the CSS Lab (room 410), Theaterplatz 14, RWTH Aachen University. Accreditation is required under: daniel.wenz@humtec.rwth-aachen.de"
+
+          ]
         },
         "box1": {
             "headLine": "Winter Term 2020/2021"
