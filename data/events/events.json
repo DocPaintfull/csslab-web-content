@@ -1,419 +1,432 @@
-[ 
-   {
-      "name":"L'énaction et l'enactivisme: Les concepts fondamentaux et les approches courantes",
-      "date":"9 December 2021",
-      "startDate":"2021-12-09",
-      "endDate":"2021-12-10",
-      "type":"Talk",
-      "organizedBy":"Dawid Kasprowicz",
-      "description":"Talk at the Journée d'études \"L’enaction, genèse d’un concept, interactions phénoménologiques et arborescence de ses usages contemporains\"",
-      "location":"Université de Rouen",
-      "done":"false",
-      "program":""
-   },
-   {
-      "name":"The artificial intelligence revolution in science?",
-      "date":"27 January 2022 (4-6 p.m.)",
-      "startDate":"2022-01-27",
-      "endDate":"2022-01-28",
-      "type":"Online-Colloquium",
-      "organizedBy":"Domink Gersdorfer (Stuttgart)",
-      "description":"The use of machine learning and other second-wave AI techniques  in scientific research has become very successful lately. One often cited example is AlphaFold, which determines the three-dimensional structure of proteins. Such undertakings have led many commentators to claim that we are in the midst of a scientific revolution. Some even go so far as to consider the possibility of fully automated science in the near future and argue that these developments will render traditional, theory based science a relic of the past. These claims raise several questions: What kinds of AI are employed in science? What is meant by 'revolution'? And which parts of science are considered? My talk will therefore be divided into three parts, each of which will address one of the questions: The first part will examine, what makes second-wave AI so successful compared to GOFAI (Good Old-Fashioned Artificial Intelligence) and where it falls short. Further the key differences between the different types of AI will be elaborated in order to understand better where and how AI can be utilized in science. The second part addresses the areas of the research process where AI is used, such as in developing new hypotheses and searching for patterns in Big Data, as well as the differences and similarities between disciplines that use AI. The goal is to comprehend the scope of AI in science: How much of the research process can be covered by AI? The final part will address the question of whether the use of AI science justifies the revolutionary rhetoric that accompanies it. For this, the notion of scientific revolution will be considered from Kuhnian and post-Kuhnian perspectives. These will then be applied to the considerations elaborated in parts one and two with respect to scope and potential applications in order to make a classification and assessment of the AI revolution in science.",
-      "location":"RWTH Aachen",
-      "done":"false",
-      "program":""
-   },
-   {
-      "name":"Deceptive AI",
-      "date":"13 January 2022 (4-6 p.m.)",
-      "startDate":"2022-01-13",
-      "endDate":"2022-01-14",
-      "type":"Online-Colloquium",
-      "organizedBy":"Prof. Dr. Wally Smith and Peta Masters (University of Melbourne)",
-      "description":"What does it mean for a machine to deceive? \nDeception is inherent in many conceptions of Artificial Intelligence, from Turing’s original formulation of whether a machine can think, to dystopian visions of machines outwitting their human creators. We consider what it means for a machine to deceive, and describe various forms of deceptive AI that have been implemented and studied. To gain perspective on their significance, we categorize the methods they use according to recognizably human deceits: imitating, obfuscating, tricking, calculating and framing. While these developments demonstrate that some aspects of deceptive behaviour can indeed be delegated to machines, AI systems still fall short of sophisticated human deception. To explore this gap we present an analysis of techniques used by stage magicians to deceive their audiences, and consider whether and how machines might come to be truly deceptive in similar ways.",
-      "location":"RWTH Aachen",
-      "done":"false",
-      "program":""
-   },
-   {
-      "name":"Formal Representations of Doxastic Suspension",
-      "date":"2 December 2021 (4-6 p.m.)",
-      "startDate":"2021-12-02",
-      "endDate":"2021-12-03",
-      "type":"Online-Colloquium",
-      "organizedBy":"Alexandra Zinke (Stuttgart)",
-      "description":"",
-      "location":"RWTH Aachen",
-      "done":"false",
-      "program":""
-   },
-   {
-      "name":"Understanding climate change with statistical downscaling and machine learning",
-      "date":"18 November (4-6 p.m.)",
-      "startDate":"2021-11-18",
-      "endDate":"2021-11-19",
-      "type":"Online Lecture",
-      "organizedBy":"Vincent Lam (Bern University)",
-      "description":"",
-      "location":"RWTH Aachen (Registration under daniel.wenz@humtec.rwth-aachen.de)",
-      "done":"false",
-      "program":"Machine learning methods have recently created high expectations in the climate modelling context in view of addressing climate change, but they are often considered as non-physics-based ‘black boxes’ that may not provide any understanding. However, in many ways, understanding seems indispensable to appropriately evaluate climate models and to build confidence in climate projections. Relying on two case studies, we compare how machine learning and standard statistical techniques affect our ability to understand the climate system. For that purpose, we put five evaluative criteria of understanding to work: intelligibility, representational accuracy, empirical accuracy, coherence with background knowledge, and assessment of the domain of validity.We argue that the two families of methods are part of the same continuum where these various criteria of understanding come in degrees, and that therefore machine learning methods do not necessarily constitute a radical departure from standard statistical tools, as far as understanding is concerned."
-   },
-   {
-      "name":"Scoring Society. Methods, Interactions, Politics",
-      "date":"01.09.-03.09. 2021",
-      "startDate":"2021-09-01",
-      "endDate":"2021-09-03",
-      "type":"Online-Symposium",
-      "organizedBy":"Jutta Weber (Paderborn), Marcus Burkhardt (Siegen) and Dawid Kasprowicz (RWTH Aachen)",
-      "description":"",
-      "location":"University Paderborn / Online",
-      "done":"false",
-      "program":""
-   },
-   {
-      "name":"Cultivating epistemic routines for navigating toxic epistemic environments",
-      "date":"17 June (4-6 p.m.)",
-      "startDate":"2021-06-17",
-      "endDate":"2021-06-19",
-      "type":"Online-Lecture",
-      "organizedBy":"Axel Gelfert / TU Berlin",
-      "description":"",
-      "location":"RWTH Aachen",
-      "done":"false",
-      "program":"Much ink has been spilt on the nefarious aspects of creating and disseminating fake news, its adverse effects on the public sphere and the violation of trust it engenders. Yet, given that the socio-epistemic dynamics that underlie fake news are here to stay, it is equally important to think about how we can navigate treacherous informational environments. I argue that this requires the cultivation of epistemic routines that reduce our exposure to misleading and deceptive information, while at the same time continuing to allow us to partake in the collective growth of knowledge. Shifting the focus to epistemic routines steers a middle path between two purported solutions that have received much attention: viz., between emphasizing the individual’s responsibility to ‘think critically and check one’s sources’ and advocating technological tweaks (such as automated fact-checking). While epistemic agents ought to be held responsible for the epistemic routines they commit themselves to, there is also a collective need for making the predictable effects of such choices transparent to individuals, wherever this is technologically possible."
-   },
-   {
-      "name":"Ampliative Deductive Proof in Mathematical Practice: Lessons from Kant and Frege",
-      "date":"20 May (4-6 p.m.)",
-      "startDate":"2021-05-20",
-      "endDate":"2021-05-21",
-      "type":"Online-Lecture",
-      "organizedBy":"Danielle Macbeth / Haverford College",
-      "description":"",
-      "location":"RWTH Aachen (Registration under dawid.kasprowicz@humtec.rwth-aachen.de)",
-      "done":"false",
-      "program":"Mathematicians in their practice appear to establish fully contentful, non-trivial truths that extend our knowledge. And at least in some cases they do so through a course of deductive reasoning from the contents of concepts, from definitions. Building on the work of Kant and Frege, I aim to clarify how this works, how it is that by deductive reasoning on the basis of definitions of mathematical concepts one can discover substantive and novel mathematical truths."
-   },
-   {
-      "name":"The optimist, the curious and the sceptic: Three earth scientist perspectives on machine learning",
-      "date":"15 April 2021 (4-6 p.m.)",
-      "startDate":"2021-04-15",
-      "endDate":"2021-04-16",
-      "type":"Online-Lecture",
-      "organizedBy":"Uwe Ehret, Erwin Zehe, Jan Cermat / Karlsruhe Institute of Technology",
-      "description":"",
-      "location":"RWTH Aachen (Registration under dawid.kasprowicz@humtec.rwth-aachen.de)",
-      "done":"false",
-      "program":"In this talk, we present the perspectives of three earth scientists on the uses, benefits and limitations of  machine learning (ML) approaches applied to their discipline. Jan Cermak provides an optimistic view based on successful applications of ML approaches for exploiting big data in remote sensing and atmospheric modelling. Uwe Ehret acknowledges the recent success of ML approaches in hydrological modelling, but argues that further development of ML models should be based on rigorous out-of-sample evaluation, and with a focus on interpretability and parsimony. Erwin Zehe, physicist by training, offers a sceptical view, making the case for reasoning and modelling based on first principles"
-   },
-   {
-      "name":"Algorithmic Regimes",
-      "date":"1 February 2021",
-      "startDate":"2021-02-01",
-      "endDate":"2021-02-02",
-      "type":"Associated Online-Workshop",
-      "organizedBy":"Bianca Prietl (Linz), Juliane Jark, Hendrik Heuer (Bremen), Paola Lopez (Wien)",
-      "description":"",
-      "location":"RWTH Aachen",
-      "done":"true",
-      "program":"The planned network \"Algorithmic Regimes: Interactions, Methods and Politics\" aims to examine the current changes in scientific and non-scientific practices of knowledge production caused by the dissemination and rise of algorithmic, (big) data-driven systems. We call theses systems 'algorithmic regimes'. These current changes involve shifts in the methodology and epistemology of knowledge production, especially in the ways in which scientific knowledge and non-scientific knowledge are entangled and/or distinguished. The interdisciplinary network approaches the emerging 'algorithmic regimes' by focusing on media practices like coding, algorithm-design and -use to ask how these practices reshape, extend but also complicate the understanding of scientific and non-scientific knowledge production in an era of algorithmic big data-analysis."
-   },
-   {
-      "name":"How to Model Artificial Sociality: A Proposal",
-      "date":"4 February 2021",
-      "startDate":"2021-02-04",
-      "endDate":"2021-02-05",
-      "type":"Online-Colloquium",
-      "organizedBy":"Johanna Seibt / Aarhus University",
-      "description":"",
-      "location":"RWTH Aachen",
-      "done":"false",
-      "program":"While the ethical problems of AI and social robotics have been foregrounded during the past decade, this talk addresses the conceptual problems that arise when artificial agents present themselves as social agents. With focus on social robotics in particular, I argue that in the current research situation we first need (philosophical) ontology and then ethics--more precise descriptions of human social interactions with robots will enable us to produce the sort of empirical data that can ground detailed ethical recommendations. I introduce the descriptive framework OASIS (Ontology of Asymmetric Social Interactions) which is based on three constructional ideas: degrees of simulation, levels of sociality, and perspectivalness.  As I try to show, OASIS offere simple, yet sufficiently expressive and precise descriptive tools that can facilitate the interdisciplinary integration of Human-Robot Interaction Research.",
-      "links":[
-         {
-            "name":"Programm",
-            "href":"https://www.css-lab.rwth-aachen.de/teaching/colloquia"
-         }
-      ]
-   },
-   {
-      "name":"Kant's Cognitive Architecture",
-      "date":"11 February 2021",
-      "startDate":"2021-02-11",
-      "endDate":"2021-02-12",
-      "type":"Online-Colloquium",
-      "organizedBy":"Richard Evans / Imperial College London and Google Deep Mind",
-      "description":"In this talk, I will describe a machine implementation of assimilative apperception that is based on Kant’s discussion of the \"synthetic unity of apperception\" in the Critique of Pure Reason. Imagine a machine, equipped with various sensors. Perhaps it has some light sensors, perhaps a microphone, perhaps some touch sensors. The machine receives a stream of sensory input, and must \"make sense\" of this stream. – But what does it mean, exactly, for a robot to “make sense” of the sensory stream? In machine learning, this is called the \"unsupervised learning problem\", and it is still relatively under-explored and misunderstood. I will argue that the answer to this contemporary question lies, hiding in plain sight, in the first half of the First Critique. Our computer agent assimilates information by constructing a theory that explains the sensory stream and that satisfies four unity conditions. First, the objects must be unified in space. Second, the predicates must be unified in the \"space of reasons\" by featuring in mutual incompatibility relations. Third, the various propositions must be unified into a \"moment\" (a consistent and complete cluster of propositions that together represent a single slice of time). The fourth and final unity condition is that moments must be unified into a sequence by causal rules. Apperceiving a sensory sequence means constructing a theory that explains the sequence and satisfies the four unity conditions. This is a form of program synthesis, but it is unsupervised program synthesis. In this talk, I will not focus on the gory technical details of the unsupervised program synthesis system, but on the general architecture, the underlying Kantian principles that inspired the architecture, and on a diverse range of experiments which show the versatility of the approach.",
-      "location":"RWTH Aachen",
-      "done":"false",
-      "program":"",
-      "links":[
-         {
-            "name":"Programm",
-            "href":"https://www.css-lab.rwth-aachen.de/teaching/colloquia"
-         }
-      ]
-   },
-   {
-      "name":"Fairness in Machine Learning(Samira Samadi / Max-Planck Institute for intelligent Systems Tübingen)",
-      "date":"21 January 2021",
-      "startDate":"2021-01-21",
-      "endDate":"2021-01-21",
-      "type":"Online Colloquium",
-      "organizedBy":"Samira Samadi / Max-Planck Institute for intelligent Systems Tübingen",
-      "description":"I will give a general talk on this topic for a broad audience, introducing the issues of bias in machine learning models and how to detect these issues and then conclude with brief discussion on what researchers who work on fairness in machine learning (and more broadly ethics in AI) do to address these issues and to design more ethical machine learning algorithms.",
-      "location":"Human Technology Centre, RWTH Aachen and online on Zoom",
-      "done":"false",
-      "links":[
-         {
-            "name":"Program",
-            "href":"https://www.css-lab.rwth-aachen.de/teaching/colloquia"
-         }
-      ]
-   },
-   {
-      "name":"Explainable Artificial Intelligence and the Problems of Philosophy(Carlos Zednik / TU Eindhoven)",
-      "date":"17 December 2020",
-      "startDate":"2020-12-17",
-      "endDate":"2020-12-18",
-      "type":"Online Colloquium",
-      "organizedBy":"Carlos Zednik / TU Eindhoven",
-      "description":"The Black Box Problem arises because machine learning methods yield algorithms whose behavior is difficult to predict, interpret, and control. Explainable Artificial Intelligence (XAI) is dedicated to solving this problem. In the first part of this talk, I will introduce several different XAI methods and evaluate the extent to which they can actually be used to solve the Black Box Problem. In the second part of this talk, I will consider whether these same methods can also be used to solve a variety of more traditional philosophical problems: from philosophy of science, the problem of inferring causal relationships; from ethics, the problem of attributing moral responsibility for the behavior of autonomous systems; and from philosophy of mind, the problem of identifying genuine kinds of machine intelligence.",
-      "location":"Human Technology Centre, RWTH Aachen and online on Zoom",
-      "done":"false",
-      "links":[
-         {
-            "name":"Program",
-            "href":"https://www.css-lab.rwth-aachen.de/teaching/colloquia"
-         }
-      ]
-   },
-   {
-      "name":"The status and limits of scientific learning by machine.",
-      "date":"19 November 2020",
-      "startDate":"2020-11-19",
-      "endDate":"2020-11-19",
-      "type":"Online-Lecture",
-      "organizedBy":" Ben Jantzen/ Virginia Tech",
-      "description":"Kolloquium in Cooperation with the Research Group \"Modelling Trust\" of the HLRS Stuttgart",
-      "location":"RWTH Aachen",
-      "done":"false",
-      "program":"Abstract:<br/> There is concern that the methods of machine learning (ML) offer limited support for scientific inference. The worry is that while ML methods are apt for spotting hidden patterns in large, complex datasets, the output of such methods is neither readily interpretable nor accompanied by clear error bounds or degrees of confidence. More broadly, science generally aims at causal knowledge, and the statistical methods of ML are not reliable guides to causal relations. However, if ML is understood broadly to encompass all algorithms that learn from empirical experience, these fears are misguided. In this talk, I outline the remarkable progress over the last three decades in finding algorithmic solutions to a series of scientific inference problems: (1) combining causal knowledge with statistical learning techniques, (2) discovering causal structure, (3) identifying laws of nature, and (4) inventing novel scientifically salient variables. I argue that these advances represent a powerful armamentarium for automated scientific discovery. But this armamentarium is incomplete. I close by indicating an overlooked step in experimental inquiry that remains poorly characterized and consequently cannot yet be automated.",
-      "links":[
-         {
-            "name":"Website of HLRS Stuttgart",
-            "href":"https://www.hlrs.de/home/"
-         }
-      ]
-   },
-   {
-      "name":"Effective Altruism",
-      "date":"3 November 2020 to 19 January 2021",
-      "startDate":"2020-11-03",
-      "endDate":"2021-01-20",
-      "type":" International Lecture Series",
-      "organizedBy":"Wulf Kellerwessel and the Studentische Eigeninitiative Aachen e.V.",
-      "description":"",
-      "location":"RWTH Aachen",
-      "done":"false",
-      "program":"Program: <br/> Kickoff and Introduction to Effective Altruism (03.11.2020)</br> Fighting Global Poverty: Effective Interventions (10.11.2020)</br> Preventing Animal Suffering (17.11.2020)</br> Social Entrepreneurship: How to Found a Charity? (24.11.2020)</br> Existential Risk and the Future of Humanity (01.12.2020)</br> Catastrophic Climate Change (08.12.2020)</br> Risks from Advanced Artificial Intelligence (15.12.2020)</br> Preventing Global Pandemics (12.01.2021)</br> A Moment of Reflection (19.01.2021)</br>",
-      "links":[
-         {
-            "name":"Detailed Program and Information",
-            "href":"https://www.ea-aachen.org/uni-course"
-         }
-      ]
-   },
-   {
-      "name":"Semiotic Complexities Theory & Analysis",
-      "date":"will be postponed",
-      "startDate":"2020-07-02",
-      "endDate":"2020-07-04",
-      "type":"International Conference",
-      "organizedBy":"Irene Mittelberg, Geert Brône, Kurt Feyaerts, Paul Sambre, Gabriele Gramelsberger, Martin Thiering in Zusammenarbeit mit der International Association for Cognitive Semiotics",
-      "description":"Cognitive semiotics is the study of meaning-making, both in language and by means of other sign vehicles, as well as in perception, and in action. Cognitive semiotics investigates the properties of our meaningful interactions with our surroundings in all domains. We integrate perspectives, methods and insights from cognitive science, cognitive linguistics and semiotics, placing signs and sign use (in the broadest sense) into the wider context of cognitive, social, and neurobiological processes, using experimental methods, as well as classical text analysis and theory.",
-      "location":"RWTH Aachen, Super C",
-      "done":"false",
-      "links":[
-         {
-            "name":"Program",
-            "href":"https://iacs4.signges.de/"
-         }
-      ]
-   },
-   {
-      "name":"Nachwuchstagung \"Künstliche Intelligenz und Weltverstehen\"",
-      "date":"30 September to 2 October 2020",
-      "startDate":"2020-09-30",
-      "endDate":"2020-10-02",
-      "type":"Conference",
-      "organizedBy":"Martin Carrier, Julia Engelschalt, Rainer Godel, Gabriele Gramelsberger, Franz Kather, Carsten Reinhardt, Christian Vater in Zusammenarbeit mit dem Leopoldina-Zentrum für Wissenschaftsforschung und INSIST Interdisciplinary Network for Studies Investigating Science and Technology",
-      "description":"Künstliche Intelligenz verändert unsere Welt. Sie steht im Zentrum tiefgreifender technischer und medialer Veränderungen. Ihre vielfältigen Anwendungsmöglichkeiten haben schon jetzt Auswirkungen auf zahlreiche Lebensbereiche, von Politik und Wirtschaft über die Wissenschaft bis in die Alltagswelt hinein. Künstliche Intelligenz formt dabei unser Handeln in der Welt ebenso wie unsere Vorstellungen von der Welt—und nicht zuletzt von uns selbst. Welche Möglichkeiten, aber auch Herausforderungen ergeben sich aus den Veränderungen, die die KI mit sich bringt? Welche praktischen, sozialen, rechtlichen und ethischen Fragen müssen im Umgang mit KI bedacht und womöglich neu verhandelt werden? Und: Wie kann die Wissenschafts- und Technikforschung zu einer gesamtgesellschaftlichen Reflexion über KI beitragen? Diesen und anderen Fragen geht die gemeinsame Tagung des Leopoldina-Zentrums für Wissenschaftsforschung und der Nachwuchsinitiative INSIST nach und bietet in verschiedenen Formaten Raum zur Diskussion über die Rolle Künstlicher Intelligenzen in gegenwärtigen und zukünftigen Gesellschaften.",
-      "location":"Leopoldina-Zentrums für Wissenschaftsforschung, Emil-Abderhalden-Straße 36, 06108 Halle (Saale), Lesesaal",
-      "done":"true"
-   },
-   {
-      "name":"Operator & User Empowerment in Times of AI ",
-      "date":"9 July 2020",
-      "startDate":"2020-07-9",
-      "endDate":"2020-07-9",
-      "type":" Interactive Virtual Online Workshop",
-      "organizedBy":"Frank Piller, Gabriele Gramelsberger and Thomas Bergs, RWTH ProdE",
-      "description":"The goal of this workshop is to bring stakeholders from industry, society, research, and politics together to discuss the needs and possibilities of future collaborations of humans, AI and machines for Industry 4.0. We want to learn from experiences from different industries and application areas, discuss concepts of operator (user) empowerment in production and other domains, understand the concept of fair use of AI, but also identify open fields for research, development, and policy making.",
-      "location":"RWTH Aachen",
-      "done":"false"
-   },
-   {
-      "name":"Modeling Trust. An AI lie detector (iBorderCtrl)",
-      "date":"26 June 2020",
-      "startDate":"2020-06-26",
-      "endDate":"2020-06-26",
-      "type":" Interactive Online Workshop",
-      "organizedBy":"Andreas Kaminski",
-      "description":"The workshop discusses the EU-funded project iBorderCtrl in which computer technology is developed to screen persons who want to immigrate into the EU. iBorderCtrl is a test battery that spans over biometric modules, evaluations of Social Media Data and Risk Based Assessment Tools). One of these modules is an AI-lie detector, named Automatic Deception Detection System (ADDS). The workshop focuses on the ADDS and its implementation on three border locations of the EU (Latvia, Ungary and Greece).",
-      "location":"Human Technology Centre, RWTH Aachen and online on Zoom",
-      "done":"false"
-   },
-   {
-      "name":"Datennaturen",
-      "date":"6 to 7 March 2020",
-      "startDate":"2020-03-06",
-      "endDate":"2020-03-07",
-      "type":"Workshop",
-      "organizedBy":"Gabriele Gramelsberger in Zusammenarbeit mit der Computer Signals Research Group",
-      "description":"Daten sind nie einfach gegeben, sondern werden in vielfältigen Prozeduren hergestellt, berechnet und verteilt. Dies gilt insbesondere auch im digitalen Datenraum, der entgegen der Annahme, das Prozessieren von Daten sei eine rein logisch-mathematische Angelegenheit, auf massiven Infrastrukturen aufbaut und den Daten damit einen physischen Körper anhaftet.  Die interdisziplinär angelegte Tagung Datennaturen versteht Daten selbst als Organismen, die bestimmte Lebensbedingungen benötigen und einem Lebenszyklus (data life cycle) unterworfen sind. Sie geht von Praktiken der Datenherstellung und der Datenarbeit anhand konkreter Beispiele aus. Die darin auftauchenden «Naturen» von Daten als deren stoffliche und genealogische Beschaffenheit, ihre technisch-infrastrukturellen Bedingtheiten von Herstellung und Prozessierung sowie ihren Eigensinn im Zusammenspiel der Akteure diskutiert sie im erweiterten Kreis mit Biologen, Wissenschaftsforschenden, Künstlerinnen sowie Kunst- und Medienwissenschaftlerinnen.",
-      "location":"Kunstraum Walcheturm, Zürich",
-      "done":"true",
-      "links":[
-         {
-            "name":"Program",
-            "href":"https://walcheturm.ch/agenda/internationale-tagung-datennaturen"
-         }
-      ]
-   },
-   {
-      "name":"Infrastructures of Science",
-      "date":"15 to 19 July 2019",
-      "startDate":"2019-07-15",
-      "endDate":"2019-07-19",
-      "type":"IDEA League Summer School 2019",
-      "organizedBy":"organized by Gabriele Gramelsberger together with the Chair for History of Technology at the ETH Züric",
-      "description":"Archives, collections, labs and machine parks are well known institutions that promote scientific research. From the 19th century on they have been developing into large scale research systems organizing methods, instruments and scientists’ work. In the last decades we are witnessing that sciences have become more and more computer-based. Obviously, data centers, networks and platforms are indispensable facilities for research, they are complementing and reconfiguring traditional technologies. In a historical perspective, digital infrastructures offer an unprecedented generalizability: they stimulate the production and circulation of methodological knowledge across a broad spectrum of academic disciplines. The interdisciplinary Summer School investigates the history and philosophy of digital infrastructures. How do infrastructures affect science? And how do sciences configure their technologies?",
-      "program":"Program<br/>Welcome, get together, travel to location (Monday, 15th)<br/>Workshop Sciences and the Internet, Dr. Daniela Zetti, ETH Zürich; Workshop Politics of Data Centers, Prof. Dr. David Gugerli and Dr. Ricky Wichum, ETH Zürich (Tuesday, 16th)<br/>Excursion and ETH LabWalks (Wednesday 17th)<br/>Workshop Open Science, Prof. Dr. Catharina Landström, Chalmers University Gothenburg; Workshop Data Reproducibility, Prof. Dr. Gabriele Gramelsberger, RWTH Aachen University, Dr. Andreas Kaminski, HLRS Stuttgart (Thursday 18th)<br/>Presentations of the group work, final discussion, goodbye dinner (Friday 19th)",
-      "location":"Location: ETH Zürich, resort at the nearby mountains",
-      "done":"true",
-      "links":[
-         {
-            "name":"SiROP Link",
-            "href":"https://sirop.org/app/f2b21d8d-3a4f-4147-a727-83abeb45859f"
-         }
-      ]
-   },
-   {
-      "name":"Embodied AI/Exbodied Mind: Gesture - Perception - Robotics",
-      "date":"4 to 5 July 2019",
-      "startDate":"2019-07-25",
-      "endDate":"2019-07-26",
-      "type":"Workshop",
-      "organizedBy":"organized by Dawid Kasprowicz together with Prof. Dr. Irene Mittelberg, RWTH Aachen University",
-      "description":"",
-      "location":"German Research School for Simulation Sciences, Schinkelstr. 2a / Room: GRS001 (1095I001)",
-      "done":"true",
-      "links":[
-         {
-            "name":"Program",
-            "href":"../Embodied_AI_Exbodied_Mind_Program_Final.pdf"
-         }
-      ]
-   },
-   {
-      "name":"Machine Learning in Research",
-      "date":"16 May 2019, 14:00 to 18:00",
-      "startDate":"2019-05-16",
-      "endDate":"2019-05-16",
-      "type":"Workshop",
-      "organizedBy":"organized by Lisa Schüttler",
-      "description":"Der Workshop soll Experten zusammenbringen, die Machine Learning in ihren jeweiligen Forschungsgebieten einsetzen, und somit eine neue, interdisziplinäre Sichtweise eröffnen. Kurzvorträge der eingeladenen Experten gehen einer Podiumsdiskussion voraus, in der die Gefahren und Chancen des Einsatzes von Machine Learning in der Forschung in reflexiver, philosophischer Form thematisiert werden.",
-      "location":"Location: Seminar room 303, Theaterplatz 14, RWTH Aachen University",
-      "done":"false",
-      "links":[
-         {
-            "name":"Program",
-            "href":"../Workshop_ML_in_der_Forschung_SS_19.pdf"
-         }
-      ]
-   },
-   {
-      "name":"Code Studies",
-      "date":"14 December 2018",
-      "startDate":"2018-12-14",
-      "endDate":"2018-12-14",
-      "type":"Workshop",
-      "description":"",
-      "organizedBy":"follow-up workshop of the EASST 2018 panel; organized by Dawid Kasprowicz",
-      "program":"Program<br/> CSS-Lab Tools, Lukas Böhres, RWTH Aachen University. <br/>Panel on Computer-Methoden in der Sozial- und Wissenschaftsforschung, Dr. Marcus Burckhardt and Nikolaus Pöchhacker, University of Siegen; Dr. Katharina Kinder-Kurlanda, GESIS Cologne. <br/>Panel on Human-Machine Interaction im Machine Learning, Hendrik Heuer, University of Bremen; Dr. Simon Egbert, University of Hamburg; Dawid Kasprowicz, RWTH Aachen University. <br/>Panel on Politiken der Wissensproduktion mit Algorithmen, Dr. Bianca Prietl, TU Darmstadt, Goda Klumbyte, University of Kassel; Prof. Dr. Jutta Weber, University of Paderborn",
-      "location":"Location: Seminar room 407, Theaterplatz 14, RWTH Aachen University",
-      "done":"true"
-   },
-   {
-      "name":"Philosophy and Physics",
-      "date":"6 December 2018, 16:00 to 19:00",
-      "startDate":"2018-12-06",
-      "endDate":"2018-12-06",
-      "type":"Workshop",
-      "organizedBy":"organized together with the DFG Research Group 'Epistemology of LHC'",
-      "description":"",
-      "program":"Program <br/>The Higgs Boson, the Naturalness Principle, and the Lack of New Physics at the LHC, Dr. Joshua Rosaler, Physics Department, RWTH Aachen University <br/>'The new conception of the postulates': the Bohr-Kramers-Slater 'interpretation' of the (old) quantum theory, Daniel Jon Mitchell, Physics Department, RWTH Aachen University <br/>Dark Matter & Modified Gravity, Dr. Niels Martens, Physics Department, RWTH Aachen University",
-      "location":"Location: Seminar room 303, Theaterplatz 14, RWTH Aachen University",
-      "done":"true"
-   },
-   {
-      "name":"Many Faces of Logic - Workshop",
-      "date":"20 November 2018, 10:00 to 18:00",
-      "startDate":"2018-11-20",
-      "endDate":"2018-11-20",
-      "type":"Workshop",
-      "organizedBy":"organized by Daniel Wenz",
-      "description":"The aim of this workshop is to introduce the work of Johan van Benthem, its applications, and ongoing developments to an interdisciplinary public. This includes but is not limited to the areas of logic, mathematics and philosophy, as well as of informatics, AI-research, cognitive sciences, theory of learning and every discipline that analyses social dynamics of any kind.",
-      "program":"Program<br/>Knowability and Dynamic Epistemic Logic, Dr. Luis Rosa, University of Cologne <br/>Epistemic Protocols in Dynamic Gossip, Dr. Pere Pardo, RUB University of Bochum <br/>Games for Logic, Logic for Games, Prof. Erich Grädel, RWTH Aachen University <br/>Observation and Distinction. Representing Information in Infinite Games, Dr. Dietmar Berwanger, CNRS/ENS Paris-Saclay <br/>Games, Best Actions, and Deontic Logic, Prof. Olivier Roy, University of Bayreuth <br/>Learning Probabilities, Dr. Soroush Rafiee-Rad, University of Bayreuth",
-      "location":"Location: Seminar room 213, Eilfschornsteinstr. 15 (1820|213), RWTH Aachen University",
-      "done":"true"
-   },
-   {
-      "name":"Many Faces of Logic - Evening Lecture",
-      "date":"19 November 2018, 18:00 to 20:00",
-      "startDate":"2018-11-19",
-      "endDate":"2018-11-19",
-      "type":"Evening Lecture",
-      "organizedBy":"organized by Daniel Wenz",
-      "description":"",
-      "program":"Program <br/>From Being to Becoming, Prof. Johan van Benthem, Universities of Amsterdam/Stanford/Tsinghua",
-      "location":"Location: Seminar room 303, Theaterplatz 14, RWTH Aachen University",
-      "done":"true"
-   },
-   {
-      "name":"Code Studies",
-      "date":"23 February 2018, 14:00 to 18:00",
-      "startDate":"2018-02-23",
-      "endDate":"2018-02-23",
-      "type":"Workshop",
-      "organizedBy":"organized by Gabriele Gramelsberger together with Dr. Daniela Zetti, ETH Zürich",
-      "description":"",
-      "program":"Program<br/>Topic Modelling, Dr. Daniela Zetti and Dr. Ricky Wichum, ETH Zürich <br/>Computational Science Studies, Prof. Dr. Gabriele Gramelsberger and Dawid Kasprowicz, RWTH Aachen University",
-      "location":"Location: CSS-Lab (410), Theaterplatz 14, RWTH Aachen University",
-      "done":"true"
-   },
-   {
-      "name":"Digital Humanities. Zukunft der Geisteswissenschaften?",
-      "date":"15 December 2017, 14:00 to 18:00",
-      "startDate":"2017-12-15",
-      "endDate":"2017-12-15",
-      "type":"Workshop",
-      "organizedBy":"organized together with Prof. Dr. Stella Neumann, Chair of English Linguistics, RWTH Aachen University",
-      "description":"",
-      "program":"Program<br/>'DH' versus auxiliäre Digitalität, Prof. Dr. Petra Gehring, TU Darmstadt <br/>Models, predictions, data - an (un)problematic relationship?, Prof. Dr. Erich Steiner, University of the Saarland",
-      "location":"Location: Pausenhalle, Eifschornsteinstrasse 16, Institute of Philosophy, RWTH Aachen University",
-      "done":"true"
-   }
+[
+
+  {
+    "name": "Covariant Extensions: Erfahrungswissenschaften und digitalisierte Wissenschaft.",
+    "date": "28 June 2022",
+    "startDate": "2022-06-28",
+    "endDate": "2022-07-02",
+    "type": "Talk",
+    "organizedBy": "Dawid Kasprowicz",
+    "description": "Summer School Phänomenologie der digitalen Welt",
+    "location": "Fernuniversität Hagen",
+    "done": "false",
+    "program": ""
+  },
+  {
+    "name": "L'énaction et l'enactivisme: Les concepts fondamentaux et les approches courantes",
+    "date": "9 December 2021",
+    "startDate": "2021-12-09",
+    "endDate": "2021-12-10",
+    "type": "Talk",
+    "organizedBy": "Dawid Kasprowicz",
+    "description": "Talk at the Journée d'études \"L’enaction, genèse d’un concept, interactions phénoménologiques et arborescence de ses usages contemporains\"",
+    "location": "Université de Rouen",
+    "done": "false",
+    "program": ""
+  },
+  {
+    "name": "The artificial intelligence revolution in science?",
+    "date": "27 January 2022 (4-6 p.m.)",
+    "startDate": "2022-01-27",
+    "endDate": "2022-01-28",
+    "type": "Online-Colloquium",
+    "organizedBy": "Domink Gersdorfer (Stuttgart)",
+    "description": "The use of machine learning and other second-wave AI techniques  in scientific research has become very successful lately. One often cited example is AlphaFold, which determines the three-dimensional structure of proteins. Such undertakings have led many commentators to claim that we are in the midst of a scientific revolution. Some even go so far as to consider the possibility of fully automated science in the near future and argue that these developments will render traditional, theory based science a relic of the past. These claims raise several questions: What kinds of AI are employed in science? What is meant by 'revolution'? And which parts of science are considered? My talk will therefore be divided into three parts, each of which will address one of the questions: The first part will examine, what makes second-wave AI so successful compared to GOFAI (Good Old-Fashioned Artificial Intelligence) and where it falls short. Further the key differences between the different types of AI will be elaborated in order to understand better where and how AI can be utilized in science. The second part addresses the areas of the research process where AI is used, such as in developing new hypotheses and searching for patterns in Big Data, as well as the differences and similarities between disciplines that use AI. The goal is to comprehend the scope of AI in science: How much of the research process can be covered by AI? The final part will address the question of whether the use of AI science justifies the revolutionary rhetoric that accompanies it. For this, the notion of scientific revolution will be considered from Kuhnian and post-Kuhnian perspectives. These will then be applied to the considerations elaborated in parts one and two with respect to scope and potential applications in order to make a classification and assessment of the AI revolution in science.",
+    "location": "RWTH Aachen",
+    "done": "false",
+    "program": ""
+  },
+  {
+    "name": "Deceptive AI",
+    "date": "13 January 2022 (4-6 p.m.)",
+    "startDate": "2022-01-13",
+    "endDate": "2022-01-14",
+    "type": "Online-Colloquium",
+    "organizedBy": "Prof. Dr. Wally Smith and Peta Masters (University of Melbourne)",
+    "description": "What does it mean for a machine to deceive? \nDeception is inherent in many conceptions of Artificial Intelligence, from Turing’s original formulation of whether a machine can think, to dystopian visions of machines outwitting their human creators. We consider what it means for a machine to deceive, and describe various forms of deceptive AI that have been implemented and studied. To gain perspective on their significance, we categorize the methods they use according to recognizably human deceits: imitating, obfuscating, tricking, calculating and framing. While these developments demonstrate that some aspects of deceptive behaviour can indeed be delegated to machines, AI systems still fall short of sophisticated human deception. To explore this gap we present an analysis of techniques used by stage magicians to deceive their audiences, and consider whether and how machines might come to be truly deceptive in similar ways.",
+    "location": "RWTH Aachen",
+    "done": "false",
+    "program": ""
+  },
+  {
+    "name": "Formal Representations of Doxastic Suspension",
+    "date": "2 December 2021 (4-6 p.m.)",
+    "startDate": "2021-12-02",
+    "endDate": "2021-12-03",
+    "type": "Online-Colloquium",
+    "organizedBy": "Alexandra Zinke (Stuttgart)",
+    "description": "",
+    "location": "RWTH Aachen",
+    "done": "false",
+    "program": ""
+  },
+  {
+    "name": "Understanding climate change with statistical downscaling and machine learning",
+    "date": "18 November (4-6 p.m.)",
+    "startDate": "2021-11-18",
+    "endDate": "2021-11-19",
+    "type": "Online Lecture",
+    "organizedBy": "Vincent Lam (Bern University)",
+    "description": "",
+    "location": "RWTH Aachen (Registration under daniel.wenz@humtec.rwth-aachen.de)",
+    "done": "false",
+    "program": "Machine learning methods have recently created high expectations in the climate modelling context in view of addressing climate change, but they are often considered as non-physics-based ‘black boxes’ that may not provide any understanding. However, in many ways, understanding seems indispensable to appropriately evaluate climate models and to build confidence in climate projections. Relying on two case studies, we compare how machine learning and standard statistical techniques affect our ability to understand the climate system. For that purpose, we put five evaluative criteria of understanding to work: intelligibility, representational accuracy, empirical accuracy, coherence with background knowledge, and assessment of the domain of validity.We argue that the two families of methods are part of the same continuum where these various criteria of understanding come in degrees, and that therefore machine learning methods do not necessarily constitute a radical departure from standard statistical tools, as far as understanding is concerned."
+  },
+  {
+    "name": "Scoring Society. Methods, Interactions, Politics",
+    "date": "01.09.-03.09. 2021",
+    "startDate": "2021-09-01",
+    "endDate": "2021-09-03",
+    "type": "Online-Symposium",
+    "organizedBy": "Jutta Weber (Paderborn), Marcus Burkhardt (Siegen) and Dawid Kasprowicz (RWTH Aachen)",
+    "description": "",
+    "location": "University Paderborn / Online",
+    "done": "false",
+    "program": ""
+  },
+  {
+    "name": "Cultivating epistemic routines for navigating toxic epistemic environments",
+    "date": "17 June (4-6 p.m.)",
+    "startDate": "2021-06-17",
+    "endDate": "2021-06-19",
+    "type": "Online-Lecture",
+    "organizedBy": "Axel Gelfert / TU Berlin",
+    "description": "",
+    "location": "RWTH Aachen",
+    "done": "false",
+    "program": "Much ink has been spilt on the nefarious aspects of creating and disseminating fake news, its adverse effects on the public sphere and the violation of trust it engenders. Yet, given that the socio-epistemic dynamics that underlie fake news are here to stay, it is equally important to think about how we can navigate treacherous informational environments. I argue that this requires the cultivation of epistemic routines that reduce our exposure to misleading and deceptive information, while at the same time continuing to allow us to partake in the collective growth of knowledge. Shifting the focus to epistemic routines steers a middle path between two purported solutions that have received much attention: viz., between emphasizing the individual’s responsibility to ‘think critically and check one’s sources’ and advocating technological tweaks (such as automated fact-checking). While epistemic agents ought to be held responsible for the epistemic routines they commit themselves to, there is also a collective need for making the predictable effects of such choices transparent to individuals, wherever this is technologically possible."
+  },
+  {
+    "name": "Ampliative Deductive Proof in Mathematical Practice: Lessons from Kant and Frege",
+    "date": "20 May (4-6 p.m.)",
+    "startDate": "2021-05-20",
+    "endDate": "2021-05-21",
+    "type": "Online-Lecture",
+    "organizedBy": "Danielle Macbeth / Haverford College",
+    "description": "",
+    "location": "RWTH Aachen (Registration under dawid.kasprowicz@humtec.rwth-aachen.de)",
+    "done": "false",
+    "program": "Mathematicians in their practice appear to establish fully contentful, non-trivial truths that extend our knowledge. And at least in some cases they do so through a course of deductive reasoning from the contents of concepts, from definitions. Building on the work of Kant and Frege, I aim to clarify how this works, how it is that by deductive reasoning on the basis of definitions of mathematical concepts one can discover substantive and novel mathematical truths."
+  },
+  {
+    "name": "The optimist, the curious and the sceptic: Three earth scientist perspectives on machine learning",
+    "date": "15 April 2021 (4-6 p.m.)",
+    "startDate": "2021-04-15",
+    "endDate": "2021-04-16",
+    "type": "Online-Lecture",
+    "organizedBy": "Uwe Ehret, Erwin Zehe, Jan Cermat / Karlsruhe Institute of Technology",
+    "description": "",
+    "location": "RWTH Aachen (Registration under dawid.kasprowicz@humtec.rwth-aachen.de)",
+    "done": "false",
+    "program": "In this talk, we present the perspectives of three earth scientists on the uses, benefits and limitations of  machine learning (ML) approaches applied to their discipline. Jan Cermak provides an optimistic view based on successful applications of ML approaches for exploiting big data in remote sensing and atmospheric modelling. Uwe Ehret acknowledges the recent success of ML approaches in hydrological modelling, but argues that further development of ML models should be based on rigorous out-of-sample evaluation, and with a focus on interpretability and parsimony. Erwin Zehe, physicist by training, offers a sceptical view, making the case for reasoning and modelling based on first principles"
+  },
+  {
+    "name": "Algorithmic Regimes",
+    "date": "1 February 2021",
+    "startDate": "2021-02-01",
+    "endDate": "2021-02-02",
+    "type": "Associated Online-Workshop",
+    "organizedBy": "Bianca Prietl (Linz), Juliane Jark, Hendrik Heuer (Bremen), Paola Lopez (Wien)",
+    "description": "",
+    "location": "RWTH Aachen",
+    "done": "true",
+    "program": "The planned network \"Algorithmic Regimes: Interactions, Methods and Politics\" aims to examine the current changes in scientific and non-scientific practices of knowledge production caused by the dissemination and rise of algorithmic, (big) data-driven systems. We call theses systems 'algorithmic regimes'. These current changes involve shifts in the methodology and epistemology of knowledge production, especially in the ways in which scientific knowledge and non-scientific knowledge are entangled and/or distinguished. The interdisciplinary network approaches the emerging 'algorithmic regimes' by focusing on media practices like coding, algorithm-design and -use to ask how these practices reshape, extend but also complicate the understanding of scientific and non-scientific knowledge production in an era of algorithmic big data-analysis."
+  },
+  {
+    "name": "How to Model Artificial Sociality: A Proposal",
+    "date": "4 February 2021",
+    "startDate": "2021-02-04",
+    "endDate": "2021-02-05",
+    "type": "Online-Colloquium",
+    "organizedBy": "Johanna Seibt / Aarhus University",
+    "description": "",
+    "location": "RWTH Aachen",
+    "done": "false",
+    "program": "While the ethical problems of AI and social robotics have been foregrounded during the past decade, this talk addresses the conceptual problems that arise when artificial agents present themselves as social agents. With focus on social robotics in particular, I argue that in the current research situation we first need (philosophical) ontology and then ethics--more precise descriptions of human social interactions with robots will enable us to produce the sort of empirical data that can ground detailed ethical recommendations. I introduce the descriptive framework OASIS (Ontology of Asymmetric Social Interactions) which is based on three constructional ideas: degrees of simulation, levels of sociality, and perspectivalness.  As I try to show, OASIS offere simple, yet sufficiently expressive and precise descriptive tools that can facilitate the interdisciplinary integration of Human-Robot Interaction Research.",
+    "links": [
+      {
+        "name": "Programm",
+        "href": "https://www.css-lab.rwth-aachen.de/teaching/colloquia"
+      }
+    ]
+  },
+  {
+    "name": "Kant's Cognitive Architecture",
+    "date": "11 February 2021",
+    "startDate": "2021-02-11",
+    "endDate": "2021-02-12",
+    "type": "Online-Colloquium",
+    "organizedBy": "Richard Evans / Imperial College London and Google Deep Mind",
+    "description": "In this talk, I will describe a machine implementation of assimilative apperception that is based on Kant’s discussion of the \"synthetic unity of apperception\" in the Critique of Pure Reason. Imagine a machine, equipped with various sensors. Perhaps it has some light sensors, perhaps a microphone, perhaps some touch sensors. The machine receives a stream of sensory input, and must \"make sense\" of this stream. – But what does it mean, exactly, for a robot to “make sense” of the sensory stream? In machine learning, this is called the \"unsupervised learning problem\", and it is still relatively under-explored and misunderstood. I will argue that the answer to this contemporary question lies, hiding in plain sight, in the first half of the First Critique. Our computer agent assimilates information by constructing a theory that explains the sensory stream and that satisfies four unity conditions. First, the objects must be unified in space. Second, the predicates must be unified in the \"space of reasons\" by featuring in mutual incompatibility relations. Third, the various propositions must be unified into a \"moment\" (a consistent and complete cluster of propositions that together represent a single slice of time). The fourth and final unity condition is that moments must be unified into a sequence by causal rules. Apperceiving a sensory sequence means constructing a theory that explains the sequence and satisfies the four unity conditions. This is a form of program synthesis, but it is unsupervised program synthesis. In this talk, I will not focus on the gory technical details of the unsupervised program synthesis system, but on the general architecture, the underlying Kantian principles that inspired the architecture, and on a diverse range of experiments which show the versatility of the approach.",
+    "location": "RWTH Aachen",
+    "done": "false",
+    "program": "",
+    "links": [
+      {
+        "name": "Programm",
+        "href": "https://www.css-lab.rwth-aachen.de/teaching/colloquia"
+      }
+    ]
+  },
+  {
+    "name": "Fairness in Machine Learning(Samira Samadi / Max-Planck Institute for intelligent Systems Tübingen)",
+    "date": "21 January 2021",
+    "startDate": "2021-01-21",
+    "endDate": "2021-01-21",
+    "type": "Online Colloquium",
+    "organizedBy": "Samira Samadi / Max-Planck Institute for intelligent Systems Tübingen",
+    "description": "I will give a general talk on this topic for a broad audience, introducing the issues of bias in machine learning models and how to detect these issues and then conclude with brief discussion on what researchers who work on fairness in machine learning (and more broadly ethics in AI) do to address these issues and to design more ethical machine learning algorithms.",
+    "location": "Human Technology Centre, RWTH Aachen and online on Zoom",
+    "done": "false",
+    "links": [
+      {
+        "name": "Program",
+        "href": "https://www.css-lab.rwth-aachen.de/teaching/colloquia"
+      }
+    ]
+  },
+  {
+    "name": "Explainable Artificial Intelligence and the Problems of Philosophy(Carlos Zednik / TU Eindhoven)",
+    "date": "17 December 2020",
+    "startDate": "2020-12-17",
+    "endDate": "2020-12-18",
+    "type": "Online Colloquium",
+    "organizedBy": "Carlos Zednik / TU Eindhoven",
+    "description": "The Black Box Problem arises because machine learning methods yield algorithms whose behavior is difficult to predict, interpret, and control. Explainable Artificial Intelligence (XAI) is dedicated to solving this problem. In the first part of this talk, I will introduce several different XAI methods and evaluate the extent to which they can actually be used to solve the Black Box Problem. In the second part of this talk, I will consider whether these same methods can also be used to solve a variety of more traditional philosophical problems: from philosophy of science, the problem of inferring causal relationships; from ethics, the problem of attributing moral responsibility for the behavior of autonomous systems; and from philosophy of mind, the problem of identifying genuine kinds of machine intelligence.",
+    "location": "Human Technology Centre, RWTH Aachen and online on Zoom",
+    "done": "false",
+    "links": [
+      {
+        "name": "Program",
+        "href": "https://www.css-lab.rwth-aachen.de/teaching/colloquia"
+      }
+    ]
+  },
+  {
+    "name": "The status and limits of scientific learning by machine.",
+    "date": "19 November 2020",
+    "startDate": "2020-11-19",
+    "endDate": "2020-11-19",
+    "type": "Online-Lecture",
+    "organizedBy": " Ben Jantzen/ Virginia Tech",
+    "description": "Kolloquium in Cooperation with the Research Group \"Modelling Trust\" of the HLRS Stuttgart",
+    "location": "RWTH Aachen",
+    "done": "false",
+    "program": "Abstract:<br/> There is concern that the methods of machine learning (ML) offer limited support for scientific inference. The worry is that while ML methods are apt for spotting hidden patterns in large, complex datasets, the output of such methods is neither readily interpretable nor accompanied by clear error bounds or degrees of confidence. More broadly, science generally aims at causal knowledge, and the statistical methods of ML are not reliable guides to causal relations. However, if ML is understood broadly to encompass all algorithms that learn from empirical experience, these fears are misguided. In this talk, I outline the remarkable progress over the last three decades in finding algorithmic solutions to a series of scientific inference problems: (1) combining causal knowledge with statistical learning techniques, (2) discovering causal structure, (3) identifying laws of nature, and (4) inventing novel scientifically salient variables. I argue that these advances represent a powerful armamentarium for automated scientific discovery. But this armamentarium is incomplete. I close by indicating an overlooked step in experimental inquiry that remains poorly characterized and consequently cannot yet be automated.",
+    "links": [
+      {
+        "name": "Website of HLRS Stuttgart",
+        "href": "https://www.hlrs.de/home/"
+      }
+    ]
+  },
+  {
+    "name": "Effective Altruism",
+    "date": "3 November 2020 to 19 January 2021",
+    "startDate": "2020-11-03",
+    "endDate": "2021-01-20",
+    "type": " International Lecture Series",
+    "organizedBy": "Wulf Kellerwessel and the Studentische Eigeninitiative Aachen e.V.",
+    "description": "",
+    "location": "RWTH Aachen",
+    "done": "false",
+    "program": "Program: <br/> Kickoff and Introduction to Effective Altruism (03.11.2020)</br> Fighting Global Poverty: Effective Interventions (10.11.2020)</br> Preventing Animal Suffering (17.11.2020)</br> Social Entrepreneurship: How to Found a Charity? (24.11.2020)</br> Existential Risk and the Future of Humanity (01.12.2020)</br> Catastrophic Climate Change (08.12.2020)</br> Risks from Advanced Artificial Intelligence (15.12.2020)</br> Preventing Global Pandemics (12.01.2021)</br> A Moment of Reflection (19.01.2021)</br>",
+    "links": [
+      {
+        "name": "Detailed Program and Information",
+        "href": "https://www.ea-aachen.org/uni-course"
+      }
+    ]
+  },
+  {
+    "name": "Semiotic Complexities Theory & Analysis",
+    "date": "will be postponed",
+    "startDate": "2020-07-02",
+    "endDate": "2020-07-04",
+    "type": "International Conference",
+    "organizedBy": "Irene Mittelberg, Geert Brône, Kurt Feyaerts, Paul Sambre, Gabriele Gramelsberger, Martin Thiering in Zusammenarbeit mit der International Association for Cognitive Semiotics",
+    "description": "Cognitive semiotics is the study of meaning-making, both in language and by means of other sign vehicles, as well as in perception, and in action. Cognitive semiotics investigates the properties of our meaningful interactions with our surroundings in all domains. We integrate perspectives, methods and insights from cognitive science, cognitive linguistics and semiotics, placing signs and sign use (in the broadest sense) into the wider context of cognitive, social, and neurobiological processes, using experimental methods, as well as classical text analysis and theory.",
+    "location": "RWTH Aachen, Super C",
+    "done": "false",
+    "links": [
+      {
+        "name": "Program",
+        "href": "https://iacs4.signges.de/"
+      }
+    ]
+  },
+  {
+    "name": "Nachwuchstagung \"Künstliche Intelligenz und Weltverstehen\"",
+    "date": "30 September to 2 October 2020",
+    "startDate": "2020-09-30",
+    "endDate": "2020-10-02",
+    "type": "Conference",
+    "organizedBy": "Martin Carrier, Julia Engelschalt, Rainer Godel, Gabriele Gramelsberger, Franz Kather, Carsten Reinhardt, Christian Vater in Zusammenarbeit mit dem Leopoldina-Zentrum für Wissenschaftsforschung und INSIST Interdisciplinary Network for Studies Investigating Science and Technology",
+    "description": "Künstliche Intelligenz verändert unsere Welt. Sie steht im Zentrum tiefgreifender technischer und medialer Veränderungen. Ihre vielfältigen Anwendungsmöglichkeiten haben schon jetzt Auswirkungen auf zahlreiche Lebensbereiche, von Politik und Wirtschaft über die Wissenschaft bis in die Alltagswelt hinein. Künstliche Intelligenz formt dabei unser Handeln in der Welt ebenso wie unsere Vorstellungen von der Welt—und nicht zuletzt von uns selbst. Welche Möglichkeiten, aber auch Herausforderungen ergeben sich aus den Veränderungen, die die KI mit sich bringt? Welche praktischen, sozialen, rechtlichen und ethischen Fragen müssen im Umgang mit KI bedacht und womöglich neu verhandelt werden? Und: Wie kann die Wissenschafts- und Technikforschung zu einer gesamtgesellschaftlichen Reflexion über KI beitragen? Diesen und anderen Fragen geht die gemeinsame Tagung des Leopoldina-Zentrums für Wissenschaftsforschung und der Nachwuchsinitiative INSIST nach und bietet in verschiedenen Formaten Raum zur Diskussion über die Rolle Künstlicher Intelligenzen in gegenwärtigen und zukünftigen Gesellschaften.",
+    "location": "Leopoldina-Zentrums für Wissenschaftsforschung, Emil-Abderhalden-Straße 36, 06108 Halle (Saale), Lesesaal",
+    "done": "true"
+  },
+  {
+    "name": "Operator & User Empowerment in Times of AI ",
+    "date": "9 July 2020",
+    "startDate": "2020-07-9",
+    "endDate": "2020-07-9",
+    "type": " Interactive Virtual Online Workshop",
+    "organizedBy": "Frank Piller, Gabriele Gramelsberger and Thomas Bergs, RWTH ProdE",
+    "description": "The goal of this workshop is to bring stakeholders from industry, society, research, and politics together to discuss the needs and possibilities of future collaborations of humans, AI and machines for Industry 4.0. We want to learn from experiences from different industries and application areas, discuss concepts of operator (user) empowerment in production and other domains, understand the concept of fair use of AI, but also identify open fields for research, development, and policy making.",
+    "location": "RWTH Aachen",
+    "done": "false"
+  },
+  {
+    "name": "Modeling Trust. An AI lie detector (iBorderCtrl)",
+    "date": "26 June 2020",
+    "startDate": "2020-06-26",
+    "endDate": "2020-06-26",
+    "type": " Interactive Online Workshop",
+    "organizedBy": "Andreas Kaminski",
+    "description": "The workshop discusses the EU-funded project iBorderCtrl in which computer technology is developed to screen persons who want to immigrate into the EU. iBorderCtrl is a test battery that spans over biometric modules, evaluations of Social Media Data and Risk Based Assessment Tools). One of these modules is an AI-lie detector, named Automatic Deception Detection System (ADDS). The workshop focuses on the ADDS and its implementation on three border locations of the EU (Latvia, Ungary and Greece).",
+    "location": "Human Technology Centre, RWTH Aachen and online on Zoom",
+    "done": "false"
+  },
+  {
+    "name": "Datennaturen",
+    "date": "6 to 7 March 2020",
+    "startDate": "2020-03-06",
+    "endDate": "2020-03-07",
+    "type": "Workshop",
+    "organizedBy": "Gabriele Gramelsberger in Zusammenarbeit mit der Computer Signals Research Group",
+    "description": "Daten sind nie einfach gegeben, sondern werden in vielfältigen Prozeduren hergestellt, berechnet und verteilt. Dies gilt insbesondere auch im digitalen Datenraum, der entgegen der Annahme, das Prozessieren von Daten sei eine rein logisch-mathematische Angelegenheit, auf massiven Infrastrukturen aufbaut und den Daten damit einen physischen Körper anhaftet.  Die interdisziplinär angelegte Tagung Datennaturen versteht Daten selbst als Organismen, die bestimmte Lebensbedingungen benötigen und einem Lebenszyklus (data life cycle) unterworfen sind. Sie geht von Praktiken der Datenherstellung und der Datenarbeit anhand konkreter Beispiele aus. Die darin auftauchenden «Naturen» von Daten als deren stoffliche und genealogische Beschaffenheit, ihre technisch-infrastrukturellen Bedingtheiten von Herstellung und Prozessierung sowie ihren Eigensinn im Zusammenspiel der Akteure diskutiert sie im erweiterten Kreis mit Biologen, Wissenschaftsforschenden, Künstlerinnen sowie Kunst- und Medienwissenschaftlerinnen.",
+    "location": "Kunstraum Walcheturm, Zürich",
+    "done": "true",
+    "links": [
+      {
+        "name": "Program",
+        "href": "https://walcheturm.ch/agenda/internationale-tagung-datennaturen"
+      }
+    ]
+  },
+  {
+    "name": "Infrastructures of Science",
+    "date": "15 to 19 July 2019",
+    "startDate": "2019-07-15",
+    "endDate": "2019-07-19",
+    "type": "IDEA League Summer School 2019",
+    "organizedBy": "organized by Gabriele Gramelsberger together with the Chair for History of Technology at the ETH Züric",
+    "description": "Archives, collections, labs and machine parks are well known institutions that promote scientific research. From the 19th century on they have been developing into large scale research systems organizing methods, instruments and scientists’ work. In the last decades we are witnessing that sciences have become more and more computer-based. Obviously, data centers, networks and platforms are indispensable facilities for research, they are complementing and reconfiguring traditional technologies. In a historical perspective, digital infrastructures offer an unprecedented generalizability: they stimulate the production and circulation of methodological knowledge across a broad spectrum of academic disciplines. The interdisciplinary Summer School investigates the history and philosophy of digital infrastructures. How do infrastructures affect science? And how do sciences configure their technologies?",
+    "program": "Program<br/>Welcome, get together, travel to location (Monday, 15th)<br/>Workshop Sciences and the Internet, Dr. Daniela Zetti, ETH Zürich; Workshop Politics of Data Centers, Prof. Dr. David Gugerli and Dr. Ricky Wichum, ETH Zürich (Tuesday, 16th)<br/>Excursion and ETH LabWalks (Wednesday 17th)<br/>Workshop Open Science, Prof. Dr. Catharina Landström, Chalmers University Gothenburg; Workshop Data Reproducibility, Prof. Dr. Gabriele Gramelsberger, RWTH Aachen University, Dr. Andreas Kaminski, HLRS Stuttgart (Thursday 18th)<br/>Presentations of the group work, final discussion, goodbye dinner (Friday 19th)",
+    "location": "Location: ETH Zürich, resort at the nearby mountains",
+    "done": "true",
+    "links": [
+      {
+        "name": "SiROP Link",
+        "href": "https://sirop.org/app/f2b21d8d-3a4f-4147-a727-83abeb45859f"
+      }
+    ]
+  },
+  {
+    "name": "Embodied AI/Exbodied Mind: Gesture - Perception - Robotics",
+    "date": "4 to 5 July 2019",
+    "startDate": "2019-07-25",
+    "endDate": "2019-07-26",
+    "type": "Workshop",
+    "organizedBy": "organized by Dawid Kasprowicz together with Prof. Dr. Irene Mittelberg, RWTH Aachen University",
+    "description": "",
+    "location": "German Research School for Simulation Sciences, Schinkelstr. 2a / Room: GRS001 (1095I001)",
+    "done": "true",
+    "links": [
+      {
+        "name": "Program",
+        "href": "../Embodied_AI_Exbodied_Mind_Program_Final.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Machine Learning in Research",
+    "date": "16 May 2019, 14:00 to 18:00",
+    "startDate": "2019-05-16",
+    "endDate": "2019-05-16",
+    "type": "Workshop",
+    "organizedBy": "organized by Lisa Schüttler",
+    "description": "Der Workshop soll Experten zusammenbringen, die Machine Learning in ihren jeweiligen Forschungsgebieten einsetzen, und somit eine neue, interdisziplinäre Sichtweise eröffnen. Kurzvorträge der eingeladenen Experten gehen einer Podiumsdiskussion voraus, in der die Gefahren und Chancen des Einsatzes von Machine Learning in der Forschung in reflexiver, philosophischer Form thematisiert werden.",
+    "location": "Location: Seminar room 303, Theaterplatz 14, RWTH Aachen University",
+    "done": "false",
+    "links": [
+      {
+        "name": "Program",
+        "href": "../Workshop_ML_in_der_Forschung_SS_19.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Code Studies",
+    "date": "14 December 2018",
+    "startDate": "2018-12-14",
+    "endDate": "2018-12-14",
+    "type": "Workshop",
+    "description": "",
+    "organizedBy": "follow-up workshop of the EASST 2018 panel; organized by Dawid Kasprowicz",
+    "program": "Program<br/> CSS-Lab Tools, Lukas Böhres, RWTH Aachen University. <br/>Panel on Computer-Methoden in der Sozial- und Wissenschaftsforschung, Dr. Marcus Burckhardt and Nikolaus Pöchhacker, University of Siegen; Dr. Katharina Kinder-Kurlanda, GESIS Cologne. <br/>Panel on Human-Machine Interaction im Machine Learning, Hendrik Heuer, University of Bremen; Dr. Simon Egbert, University of Hamburg; Dawid Kasprowicz, RWTH Aachen University. <br/>Panel on Politiken der Wissensproduktion mit Algorithmen, Dr. Bianca Prietl, TU Darmstadt, Goda Klumbyte, University of Kassel; Prof. Dr. Jutta Weber, University of Paderborn",
+    "location": "Location: Seminar room 407, Theaterplatz 14, RWTH Aachen University",
+    "done": "true"
+  },
+  {
+    "name": "Philosophy and Physics",
+    "date": "6 December 2018, 16:00 to 19:00",
+    "startDate": "2018-12-06",
+    "endDate": "2018-12-06",
+    "type": "Workshop",
+    "organizedBy": "organized together with the DFG Research Group 'Epistemology of LHC'",
+    "description": "",
+    "program": "Program <br/>The Higgs Boson, the Naturalness Principle, and the Lack of New Physics at the LHC, Dr. Joshua Rosaler, Physics Department, RWTH Aachen University <br/>'The new conception of the postulates': the Bohr-Kramers-Slater 'interpretation' of the (old) quantum theory, Daniel Jon Mitchell, Physics Department, RWTH Aachen University <br/>Dark Matter & Modified Gravity, Dr. Niels Martens, Physics Department, RWTH Aachen University",
+    "location": "Location: Seminar room 303, Theaterplatz 14, RWTH Aachen University",
+    "done": "true"
+  },
+  {
+    "name": "Many Faces of Logic - Workshop",
+    "date": "20 November 2018, 10:00 to 18:00",
+    "startDate": "2018-11-20",
+    "endDate": "2018-11-20",
+    "type": "Workshop",
+    "organizedBy": "organized by Daniel Wenz",
+    "description": "The aim of this workshop is to introduce the work of Johan van Benthem, its applications, and ongoing developments to an interdisciplinary public. This includes but is not limited to the areas of logic, mathematics and philosophy, as well as of informatics, AI-research, cognitive sciences, theory of learning and every discipline that analyses social dynamics of any kind.",
+    "program": "Program<br/>Knowability and Dynamic Epistemic Logic, Dr. Luis Rosa, University of Cologne <br/>Epistemic Protocols in Dynamic Gossip, Dr. Pere Pardo, RUB University of Bochum <br/>Games for Logic, Logic for Games, Prof. Erich Grädel, RWTH Aachen University <br/>Observation and Distinction. Representing Information in Infinite Games, Dr. Dietmar Berwanger, CNRS/ENS Paris-Saclay <br/>Games, Best Actions, and Deontic Logic, Prof. Olivier Roy, University of Bayreuth <br/>Learning Probabilities, Dr. Soroush Rafiee-Rad, University of Bayreuth",
+    "location": "Location: Seminar room 213, Eilfschornsteinstr. 15 (1820|213), RWTH Aachen University",
+    "done": "true"
+  },
+  {
+    "name": "Many Faces of Logic - Evening Lecture",
+    "date": "19 November 2018, 18:00 to 20:00",
+    "startDate": "2018-11-19",
+    "endDate": "2018-11-19",
+    "type": "Evening Lecture",
+    "organizedBy": "organized by Daniel Wenz",
+    "description": "",
+    "program": "Program <br/>From Being to Becoming, Prof. Johan van Benthem, Universities of Amsterdam/Stanford/Tsinghua",
+    "location": "Location: Seminar room 303, Theaterplatz 14, RWTH Aachen University",
+    "done": "true"
+  },
+  {
+    "name": "Code Studies",
+    "date": "23 February 2018, 14:00 to 18:00",
+    "startDate": "2018-02-23",
+    "endDate": "2018-02-23",
+    "type": "Workshop",
+    "organizedBy": "organized by Gabriele Gramelsberger together with Dr. Daniela Zetti, ETH Zürich",
+    "description": "",
+    "program": "Program<br/>Topic Modelling, Dr. Daniela Zetti and Dr. Ricky Wichum, ETH Zürich <br/>Computational Science Studies, Prof. Dr. Gabriele Gramelsberger and Dawid Kasprowicz, RWTH Aachen University",
+    "location": "Location: CSS-Lab (410), Theaterplatz 14, RWTH Aachen University",
+    "done": "true"
+  },
+  {
+    "name": "Digital Humanities. Zukunft der Geisteswissenschaften?",
+    "date": "15 December 2017, 14:00 to 18:00",
+    "startDate": "2017-12-15",
+    "endDate": "2017-12-15",
+    "type": "Workshop",
+    "organizedBy": "organized together with Prof. Dr. Stella Neumann, Chair of English Linguistics, RWTH Aachen University",
+    "description": "",
+    "program": "Program<br/>'DH' versus auxiliäre Digitalität, Prof. Dr. Petra Gehring, TU Darmstadt <br/>Models, predictions, data - an (un)problematic relationship?, Prof. Dr. Erich Steiner, University of the Saarland",
+    "location": "Location: Pausenhalle, Eifschornsteinstrasse 16, Institute of Philosophy, RWTH Aachen University",
+    "done": "true"
+  }
 ]
