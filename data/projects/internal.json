@@ -14,20 +14,6 @@
     ]
   },
   {
-    "title": "What do computers „know“ about mathematical objects?",
-    "description": "",
-    "by": "Dr. Daniel Wenz",
-    "type": "PostDoc project",
-    "ref": "wenz",
-    "images": [
-      {
-        "src": "/favicon.png",
-        "alt": "CSS-Lab Logo",
-        "href": "/"
-      }
-    ]
-  },
-  {
     "title": "Automated Reasoning",
     "description": "How does algorithmic thinking change mathematical thinking? ",
     "by": "Dr. Daniel Wenz",
@@ -44,7 +30,7 @@
     ]
   },
   {
-    "title": "What do computers 'know' about mathematical objects?",
+    "title": "What do computers „know“ about mathematical objects?",
     "description": "",
     "by": "Dr. Daniel Wenz",
     "type": "PostDoc project",
