@@ -2,44 +2,48 @@
 {
     "headLine": "Lecturers at the Chair of Philosophy of Science and Technology",
     "content": {
-        "usualLecturers": [
-            {
-                "name": "Prof. Dr. habil. Gabriele Gramelsberger",
-                "topics": "theoretical philosophy, theory of science, philosophy of technology, model and simulation theory, logic"
-            },
-            {
-                "name": "Apl. Prof. Dr. habil. Wulf Kellerwessel",
-                "topics": "practical philosophy, political philosophy, philosophy of language, ethics"
-            },
-            {
-                "name": "Apl. Professor Dr. phil. Reinhold Breil",
-                "topics": "theoretical philosophy, modern philosophy"
-            },
-            {
-                "name": "Prof. em. Dr. habil. Rudolf Lüthe",
-                "topics": "theoretical philosophy, modern philosophy"
-            },
-            {
-                "name": "Prof. em. Dr. habil. Wolfgang Kuhlmann",
-                "topics": "discourse theory, political philosophy"
-            },
-            {
-                "name": "Privatdozent Dr. Jan-Hendrik Heinrichs (Forschungszentrum Jülich)",
-                "topics": "philosophy of mind, neuro ethics"
-            },
-            {
-                "name": "PD Dr. Andreas Kaminski",
-                "topics": "theoretical philosophy, philosophy of science and technology, social epistemology"
-            },
-            {
-                "name": "Dr. Dawid Kasprowicz",
-                "topics": "theoretical philosophy, phenomenology, philosophy of technology"
-            },
-            {
-                "name": "Dr. Daniel Wenz",
-                "topics": "analytic philosophy, logic"
-            }
-        ],
+      "usualLecturers": [
+        {
+          "name": "Prof. Dr. habil. Gabriele Gramelsberger",
+          "topics": "theoretical philosophy, theory of science, philosophy of technology, model and simulation theory, logic"
+        },
+        {
+          "name": "Apl. Prof. Dr. habil. Wulf Kellerwessel",
+          "topics": "practical philosophy, political philosophy, philosophy of language, ethics"
+        },
+        {
+          "name": "Apl. Professor Dr. phil. Reinhold Breil",
+          "topics": "theoretical philosophy, modern philosophy"
+        },
+        {
+          "name": "Prof. em. Dr. habil. Rudolf Lüthe",
+          "topics": "theoretical philosophy, modern philosophy"
+        },
+        {
+          "name": "Prof. em. Dr. habil. Wolfgang Kuhlmann",
+          "topics": "discourse theory, political philosophy"
+        },
+        {
+          "name": "Privatdozent Dr. Jan-Hendrik Heinrichs (Forschungszentrum Jülich)",
+          "topics": "philosophy of mind, neuro ethics"
+        },
+        {
+          "name": "PD Dr. Andreas Kaminski",
+          "topics": "theoretical philosophy, philosophy of science and technology, social epistemology"
+        },
+        {
+          "name": "Dr. Dawid Kasprowicz",
+          "topics": "theoretical philosophy, phenomenology, philosophy of technology"
+        },
+        {
+          "name": "Dr. Daniel Wenz",
+          "topics": "analytic philosophy, logic"
+        },
+        {
+          "name": "Ana Maria Guzmán Olmos",
+          "topics": "Contemporary Realism and Post-Kantian Metaphysics, Epistemology, Philosophy of Technology, Philosophy of Political Action"
+        }
+      ],
         "associateLecturers": [
             {
                 "name": "Dr. Niels Martin(2018-2019)",
