@@ -1,5 +1,30 @@
 [
   {
+    "date": "September 2022",
+    "name": "IDEA L. summer school “Infrastrctures of Science“ + retreat",
+    "semester": "S22"
+  },
+  {
+    "date": "June 2022",
+    "name": "KHK-lecture: Gabriele Gramelsberger (c:o/re) / Markus Rautzenberg (Folkwang University Essen): Mind the Game! AI and Computer Games.",
+    "semester": "S22"
+  },
+  {
+    "date": "May 2022",
+    "name": "Internal meeting Stuttgart: tba",
+    "semester": "S22"
+  },
+  {
+    "date": "May 2022",
+    "name": "KHK-lecture: Kim Guldstrand Larsen (Aalborg University): tba.",
+    "semester": "S22"
+  },
+  {
+    "date": "April 2022",
+    "name": "Internal meeting Aachen: Dawid Kasprowicz: “At the limits of experience: Towards phenomenological approach in philosophy of science II.“ Daniel Wenz: The truth of being: “A pragmatist reading of Heideggers Kehre“ ",
+    "semester": "S22"
+  },
+  {
     "date": "December 2021",
     "name": "Dawid Kasprowicz: At the limits of experience (Paper discussion); Presentation by Daniel Wenz; Project-Presentation by Ana María Guzmán Olmos; (all Aachen) (16 December 2021)",
     "semester": "W22"
@@ -124,86 +149,86 @@
     "name": "Project-Presentations I: Daniel Wenz (Paper-Diskussion), Tobias Dumschat (Project-Presentations \"Gesellschaft nach dem Geld\")(5 November 2020)",
     "semester": "W21"
   },
-    {
-      "date": "Nov and Dec 2019",
-      "name": "Reading Group \"Code Studies\"",
-      "semester": "W20"
-    },
-    {
-      "date": "October 2019",
-      "name": "Presentatoion \"Neuro Modeling Talk\" (Lisa Schüttler) (10.10. 2019)",
-      "semester": "W20"
-    },
-    
-    {
-      "date": "July 2019",
-      "name": "Workshop \"Embodied AI / Exbodied Mind\" (4 to 5 July 2019)",
-      "semester": "S19"
-    },
-    {
-      "date": "June 2019",
-      "name": "Discussion of the PhD- and PostDoc projects",
-      "semester": "S19"
-    },
-    {
-      "date": "June 2019",
-      "name": "Presentation \"First Code Studies.\" (Daniel Maschmann) (07. June 19)",
-      "semester": "S19"
-    },
-    {
-      "date": "May 2019",
-      "name": "Workshop \"Machine Learning in Research\" (16 May 2019)",
-      "semester": "S19"
-    },
-    {
-      "date": "April 2019",
-      "name": "Reading Group \"Code Studies\"",
-      "semester": "S19"
-    },
+  {
+    "date": "Nov and Dec 2019",
+    "name": "Reading Group \"Code Studies\"",
+    "semester": "W20"
+  },
+  {
+    "date": "October 2019",
+    "name": "Presentatoion \"Neuro Modeling Talk\" (Lisa Schüttler) (10.10. 2019)",
+    "semester": "W20"
+  },
 
-    {
-      "date": "January 2019",
-      "name": "Reading Group \"Code Studies\"",
-      "semester": "W18"
-    },
-    {
-      "date": "December 2018",
-      "name": "Workshop \"Philosophy and Physics\" (Dr. Joshua Rosaler, Dr. Daniel Jon Mitchell, Dr. Niels Martens, all DFG Research Group \"Epistemology of LHC,\" Physics Department, RWTH Aachen University) (6 December 2018)",
-      "semester": "W18"
-    },
-    {
-      "date": "December 2018",
-      "name": "Workshop \"Computational Science Studies\" (follow-up workshop of the EASST 2018 panel) (14 December 2018)",
-      "semester": "W18"
-    },
-    {
-      "date": "November 2018",
-      "name": "Workshop \"Many Faces of Logic. Discussions with Johan van Benthem\" (19 to 20 November 2018)",
-      "semester": "W18"
-    },
-    {
-      "date": "October 2018",
-      "name": "Reading Group \"Code Studies\"",
-      "semester": "W18"
-    },
-    {
-      "date": "July 2018",
-      "name": "Reading Group \"Code Studies\"",
-      "semester": "S18"
-    },
-    {
-      "date": "June 2018",
-      "name": "Reading Group \"Code Studies\"",
-      "semester": "S18"
-    },
-    {
-      "date": "May 2018",
-      "name": "Live Coding (Frederic Kerksieck), Programming Languages (Lukas Böhres), Applied Logic (Daniel Wenz), Digital Humanities (Jennifer Schaffrath)",
-      "semester": "S18"
-    },
-    {
-      "date": "April 2018",
-      "name": "Series of presentations on Programming (Lukas Böhres, Frederic Kerksieck)",
-      "semester": "S18"
-    }
-  ]
+  {
+    "date": "July 2019",
+    "name": "Workshop \"Embodied AI / Exbodied Mind\" (4 to 5 July 2019)",
+    "semester": "S19"
+  },
+  {
+    "date": "June 2019",
+    "name": "Discussion of the PhD- and PostDoc projects",
+    "semester": "S19"
+  },
+  {
+    "date": "June 2019",
+    "name": "Presentation \"First Code Studies.\" (Daniel Maschmann) (07. June 19)",
+    "semester": "S19"
+  },
+  {
+    "date": "May 2019",
+    "name": "Workshop \"Machine Learning in Research\" (16 May 2019)",
+    "semester": "S19"
+  },
+  {
+    "date": "April 2019",
+    "name": "Reading Group \"Code Studies\"",
+    "semester": "S19"
+  },
+
+  {
+    "date": "January 2019",
+    "name": "Reading Group \"Code Studies\"",
+    "semester": "W18"
+  },
+  {
+    "date": "December 2018",
+    "name": "Workshop \"Philosophy and Physics\" (Dr. Joshua Rosaler, Dr. Daniel Jon Mitchell, Dr. Niels Martens, all DFG Research Group \"Epistemology of LHC,\" Physics Department, RWTH Aachen University) (6 December 2018)",
+    "semester": "W18"
+  },
+  {
+    "date": "December 2018",
+    "name": "Workshop \"Computational Science Studies\" (follow-up workshop of the EASST 2018 panel) (14 December 2018)",
+    "semester": "W18"
+  },
+  {
+    "date": "November 2018",
+    "name": "Workshop \"Many Faces of Logic. Discussions with Johan van Benthem\" (19 to 20 November 2018)",
+    "semester": "W18"
+  },
+  {
+    "date": "October 2018",
+    "name": "Reading Group \"Code Studies\"",
+    "semester": "W18"
+  },
+  {
+    "date": "July 2018",
+    "name": "Reading Group \"Code Studies\"",
+    "semester": "S18"
+  },
+  {
+    "date": "June 2018",
+    "name": "Reading Group \"Code Studies\"",
+    "semester": "S18"
+  },
+  {
+    "date": "May 2018",
+    "name": "Live Coding (Frederic Kerksieck), Programming Languages (Lukas Böhres), Applied Logic (Daniel Wenz), Digital Humanities (Jennifer Schaffrath)",
+    "semester": "S18"
+  },
+  {
+    "date": "April 2018",
+    "name": "Series of presentations on Programming (Lukas Böhres, Frederic Kerksieck)",
+    "semester": "S18"
+  }
+]
