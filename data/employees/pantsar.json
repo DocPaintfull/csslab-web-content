@@ -14,39 +14,7 @@
     ],
     "publications": {
         "reviewed":[
-            {
-            "name": "From Maximal Intersubjectivity to Objectivity: An Argument from the Development of Arithmetical Cognition",
-            "authors": "",
-            "year": "",
-            "in": "",
-            "volume": "",
-            "pages": "",
-            "city": "",
-            "publisher": "",
-            "in_print": false
-            },
-            {
-                "name": "On Radical Enactivist Accounts of Arithmetical Cognition",
-                "authors": "",
-                "year": "",
-                "in": "",
-                "volume": "",
-                "pages": "",
-                "city": "",
-                "publisher": "",
-                "in_print": true
-                },
-                {
-                    "name": "On the Development of Geometric Cognition: Beyond Nature vs. Nurture",
-                    "authors": "",
-                    "year": "2021",
-                    "in": "",
-                    "volume": "",
-                    "pages": "",
-                    "city": "",
-                    "publisher": "",
-                    "in_print": true
-                    }
+            
         ]
     }
 }
