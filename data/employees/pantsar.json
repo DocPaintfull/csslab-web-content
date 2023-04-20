@@ -22,6 +22,41 @@
                 "city": "",
                 "publisher": "Springer",
                 "in_print": true
+            },
+            {
+                "name": "On Radical Enactivist Accounts of Arithmetical Cognition",
+                "authors": "Pantsar, Markus",
+                "year": "2022",
+                "in": "Ergo",
+                "volume": "",
+                "pages": "",
+                "city": "",
+                "publisher": "",
+                "in_print": true
+            },
+            {
+                "name": "On the Development of Geometric Cognition: Beyond Nature vs. Nurture",
+                "authors": "Pantsar, Markus",
+                "year": "2021",
+                "in": "Philosophical Psychology",
+                "volume": "35",
+                "pages": "595-616",
+                "city": "",
+                "publisher": "",
+                "in_print": false
+            },
+            {
+                "name": "On What Ground Do Thin Objects Exist? In Search of the Cognitive Foundations of Number Concepts",
+                "authors": "Pantsar, Markus",
+                "year": "2021",
+                "in": "Theoria",
+                "volume": "",
+                "pages": "1-16",
+                "city": "",
+                "publisher": "",
+                "doi": "doi:10.1111/theo.12366",
+                "url": "http://www.markuspantsar.fi/wp-content/uploads/2021/11/Pantsar-2021-On-What-Ground-Do-Thin-Objects-Exist.pdf",
+                "in_print": false
             }
         ]  
     }
