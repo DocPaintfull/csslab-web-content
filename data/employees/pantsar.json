@@ -292,6 +292,34 @@
                 "url": "http://www.markuspantsar.fi/wp-content/uploads/2020/01/Pantsar-2011-Mit%C3%A4-G%C3%B6delin-ep%C3%A4t%C3%A4ydellisyysteoreemoista-voidaan-p%C3%A4%C3%A4tell%C3%A4-filosofiassa.pdf",
                 "in_print": false
             }
-        ]  
+        ],
+        "books": [
+            {
+                "name": "Truth, Proof and Gödelian Arguments: A Defence of Tarskian Truth in Mathematics",
+                "authors": "Pantsar, Markus",
+                "year": "2009",
+                "in": "",
+                "volume": "23",
+                "pages": "",
+                "city": "University of Helsinki",
+                "publisher": "",
+                "doi": "",
+                "url": "http://www.markuspantsar.fi/wp-content/uploads/2020/01/Pantsar-2009-Truth-Proof-and-G%C3%B6delian-Arguments.pdf",
+                "in_print": false
+              },
+              {
+                "name": "Synthese Special Issue: Mathematical Cognition and Enculturation",
+                "authors": "Pantsar, Markus with Catarina Dutilh Novaes",
+                "year": "",
+                "in": "",
+                "volume": "",
+                "pages": "",
+                "city": "",
+                "publisher": "",
+                "doi": "",
+                "url": "http://www.markuspantsar.fi/wp-content/uploads/2020/01/Pantsar-2019-Mathematical-Cognition-and-Enculturation-Introduction.pdf",
+                "in_print": false
+              }
+        ]
     }
 }
