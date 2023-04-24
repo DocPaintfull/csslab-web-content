@@ -320,6 +320,58 @@
                 "url": "http://www.markuspantsar.fi/wp-content/uploads/2020/01/Pantsar-2019-Mathematical-Cognition-and-Enculturation-Introduction.pdf",
                 "in_print": false
               }
+        ],
+        "reviews": [
+            {
+                "name": "Numbers and the Making of Us (extended book review with Paula Quinon)",
+                "authors": "Caleb Everett",
+                "year": "2018",
+                "in": "Journal of Numerical Cognition",
+                "volume": "",
+                "pages": "",
+                "city": "",
+                "publisher": "",
+                "url": "http://www.markuspantsar.fi/wp-content/uploads/2020/01/Pantsar-Quinon-2018-Book-review-Everett-Numbers-and-the-Making-of-Us.pdf",
+                "doi": ""
+              },
+              {
+                "name": "Naturalizing Logico-Mathematical Knowledge",
+                "authors": "Sorin Bangu (ed.)",
+                "year": "2018",
+                "in": "The Philosophical Quarterly",
+                "volume": "",
+                "pages": "",
+                "city": "",
+                "publisher": "",
+                "url": "http://www.markuspantsar.fi/wp-content/uploads/2020/01/Pantsar-2018-Book-review-Bangu-ed.-Naturalizing-Logico-Mathematical-Knowledge.pdf",
+                "doi": "10.1093/pq/pqy051"
+              }
+        ],
+        "misc": [
+            {
+                "name": "Arguments against strong artificial intelligence, Master’s thesis in theoretical philosophy",
+                "authors": "Pantsar, Markus",
+                "year": "2004",
+                "in": "",
+                "volume": "",
+                "pages": "",
+                "city": "University of Helsinki",
+                "publisher": "",
+                "url": "",
+                "doi": ""
+              },
+              {
+                "name": "Gödel’s Incompleteness Theorems, Laudatur thesis in mathematics",
+                "authors": "Pantsar, Markus",
+                "year": "2004",
+                "in": "",
+                "volume": "",
+                "pages": "",
+                "city": "University of Helsinki",
+                "publisher": "",
+                "url": "",
+                "doi": ""
+              }
         ]
     }
 }
