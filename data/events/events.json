@@ -1,5 +1,65 @@
 [
   {
+    "name": "The seductions of Clarity",
+    "date": "11 November 2022 (5-7 p.m.)",
+    "startDate": "2022-11-11",
+    "endDate": "2022-11-12",
+    "type": "",
+    "organizedBy": "Prof. Christopher Thi Nguyen (Bern University) ",
+    "description": "The feeling of clarity can be dangerously seductive. It is the feeling associated with understanding things. And we use that feeling, in the rough-and-tumble of daily life, as a signal that we have investigated a matter sufficiently. The sense of clarity functions as a thought-terminating heuristic. In that case, our use of clarity creates significant cognitive vulnerability, which hostile forces can try to exploit. If an epistemic manipulator can imbue a belief system with an exaggerated sense of clarity, then they can induce us to terminate our inquiries too early – before we spot the flaws in the system. How might the sense of clarity be faked? Let’s first consider the object of imitation: genuine understanding. Genuine understanding grants cognitive facility. When we understand something, we categorize its aspects more easily; we see more connections between its disparate elements; we can generate new explanations; and we can communicate our understanding. In order to encourage us to accept a system of thought, then, an epistemic manipulator will want the system to provide its users with an exaggerated sensation of cognitive facility. The system should provide its users with the feeling that they can easily and powerfully create categorizations, generate explanations, and communicate their understanding. And manipulators have a significant advantage in imbuing their systems with a pleasurable sense of clarity, since they are freed from the burdens of accuracy and reliability.",
+    "location": "",
+    "done": "true",
+    "program": ""
+  },
+  {
+    "name": "Machinehermeneutics",
+    "date": "12 January 2023 (4-6 p.m.)",
+    "startDate": "2023-01-12",
+    "endDate": "2023-01-13",
+    "type": "",
+    "organizedBy": "Prof. Thomas Bedorf (Hagen University) ",
+    "description": "",
+    "location": "RWTH Aachen",
+    "done": "true",
+    "program": ""
+  },
+  {
+    "name": "Explaining AI Through the Scientific Perspective",
+    "date": "26 January 2023 (4-6 p.m.)",
+    "startDate": "2023-01-26",
+    "endDate": "2023-01-27",
+    "type": "",
+    "organizedBy": "Prof. Lena Kästner (Bayreuth University)",
+    "description": "Modern artificial intelligence (AI) systems are often complex and opaque. At the same time, they are becoming increasingly prevalent in our lives. As a result, there is an increasing demand to make AI systems explainableand their behaviour intelligible. Recent work primarily approaches this problem by employing specific explainability methods to aid in-context understanding. We think, however, that important desiderata such as safety and reliability might be best satisfied through the increase of expert understanding with respect to how AI systems work. We suggest this requires research from the scientific perspective. This approach starts from the premise that once AI systems become sufficiently complex, they are best investigated and explained through the same lens as biological organisms. Accordingly, this work seeks to characterise the functional structure that emerges in AI systems through training. As we will describe, researchers pursuing this approach adopt strategies for discovery that have proved successful in the life sciences, such as pattern recognition, functional decomposition, localization, and systematic manipulation. In this talk, we discuss the promises and limitations of the scientific approach to understanding AI systems. We contend that uncovering their emergent structure plays an important and underappreciated role in solving the explainability problem in AI.",
+    "location": "",
+    "done": "true",
+    "program": ""
+  },
+  {
+    "name": "What an Algorithm is",
+    "date": "13 April 2023 (4-6 p.m.)",
+    "startDate": "2023-04-13",
+    "endDate": "2023-04-14",
+    "type": "",
+    "organizedBy": "Prof. Robin K. Hill (University of Wyoming)",
+    "description": "The algorithm, a building block of computer science, is defined from an intuitive and pragmatic point of view, through a methodological lens of philosophy rather than that of formal computation. The treatment extracts properties of abstraction, control, structure, finiteness, effective mechanism, and imperativity, and intentional aspects of goal and preconditions. The focus on the algorithm as a robust conceptual object obviates issues of correctness and minimality. Neither the articulation of an algorithm nor the dynamic process constitute the algorithm itself. Analysis for implications in computer science and philosophy reveals unexpected results, new questions, and new perspectives on current questions, including the relationship between our informally construed algorithms and Turing machines. Exploration in terms of current computational and philosophical thinking invites further developments.",
+    "location": "",
+    "done": "true",
+    "program": ""
+  },
+    {
+  "name": "Heidegger's Philosophy of Science",
+  "date": "25. May 2023 (5-7 p.m.)",
+  "startDate": "2023-05-25",
+  "endDate": "2023-05-26",
+  "type": "",
+  "organizedBy": "Prof. Patricia Glazebrook (Washington State University)",
+  "description": "Although a great deal of attention is paid to Heidegger’s later critique of technology, no one has systematically studied how he understood “science.” Many [..] will be surprised to learn [...] that Heidegger developed the essentials of a fairly sophisticated philosophy of science, one that in many ways invites comparison with that of Thomas Kuhn.",
+  "location": "",
+  "done": "true",
+  "program": ""
+},
+  {
     "name": "Philosophy of Science of the Kyoto-School",
     "date": "06. July (10-12 a.m.)",
     "startDate": "2023-06-06",
