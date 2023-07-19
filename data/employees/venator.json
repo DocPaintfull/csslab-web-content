@@ -1,10 +1,10 @@
 {
-    "name": "Thomas Rowland",
-    "ref": "rowland",
+    "name": "Thomas Venator",
+    "ref": "venator",
     "title": "",
     "status": "PhD candidate",
-    "cv": "Thomas Rowland is a PhD candidate at the Chair for Theory of Science and Technology. In conjunction with his Philosophy bachelor at Leuven University (2015-2018) he worked with the European Parliament, detecting and resolving cases of fraud in the European Regional Development Fund. At Leiden University (2018-2021) he completed a Masters in Political Science as well as a Masters in Political Philosophy, with both theses establishing various interrelations of aesthetics, identity, and nationalism. There he also led seminars in ‘Scientific Methodology’, an introductory course to Philosophy of Science for physics, chemistry and biology Masters students, addressing topics like science’s proper place in society, the epistemic value of evidence, and the nature of scientific progress. In his PhD project, Thomas explores the digitalisation of science with a close examination of geology and geological modelling; combining philosophy of science, code studies, and modelling analysis.",
-    "img": "image-soon.png",
+    "cv": "Thomas Venator is a PhD candidate at the Chair for Theory of Science and Technology. In conjunction with his Philosophy bachelor at Leuven University (2015-2018) he worked with the European Parliament, detecting and resolving cases of fraud in the European Regional Development Fund. At Leiden University (2018-2021) he completed a Masters in Political Science as well as a Masters in Political Philosophy, with both theses establishing various interrelations of aesthetics, identity, and nationalism. There he also led seminars in ‘Scientific Methodology’, an introductory course to Philosophy of Science for physics, chemistry and biology Masters students, addressing topics like science’s proper place in society, the epistemic value of evidence, and the nature of scientific progress. In his PhD project, Thomas explores the digitalisation of science with a close examination of geology and geological modelling; combining philosophy of science, code studies, and modelling analysis.",
+    "img": "venator.jpg",
     "field": "",
     "researchInterests": "Science, Technology & Society; Philosophy of Time; Aesthetics; Politics; Metaphysics.",
     "email": "thomas.rowland@humtec.rwth-aachen.de",
@@ -15,7 +15,7 @@
             "description": "If considered at all, geology is often thought of as merely applied physics, or deemed less 'scientific' due to its strong background in, and dependence on, Field Science. This project clarifies the nature of geology, and explores the widespread digital lurch that geology - and various other scientific fields - have featured in recent decades. <br><br> By first establishing the research logic of 'Classical Geology' (17th-19th century), the foundation is set for a subsequent analysis of geological modelling possibilities, which is followed by a study of GemPy code (a 3D geological modelling tool also developed in Aachen). The project then concludes with a comparative reconstruction of the logic of research of 'Digital Geology' that builds upon each prior point. <br><br> In this way, the project develops a philosophy of (digital) geology, and conceptually develops software tools for scientific code analysis, developed between the Computational Science Studies Lab and the Chair for Software Engineering."
         },
         {
-            "name": "Thomas Rowland: \"Towards a Philosophy of (Digital) Geology\"",
+            "name": "Thomas Venator: \"Towards a Philosophy of (Digital) Geology\"",
             "description": "In the rare occasion that it is considered directly, the scientific field of geology is often thought of as merely applied physics, or is deemed less 'scientific' due to its strong background in Field Science. My project aims to clarify the nature of geology, and explore the widespread digital lurch geology has featured in recent decades, with a combined approach of philosophy of science, code studies, and modelling analysis. In this presentation, I summarise my progress with the first step of this project: '(Re-)constructing the research logic of classical geology'. I will give a brief clarification of what is meant by 'Classical Geology' and argue that its research logic is distinguished by a pained, yet almost pure, curiosity of the world and its natural processes, offering 4 note-worthy findings relating to this first step, then (roughly) outlining 6 working hypotheses that may be fruitful in the future steps. At this early stage of the project, I draw great inspiration from Robert Frodeman, the brightest mind within Philosophy of (Non-Digital) Geology, and follow him in discussing the possibility of geology having the unique ability to bridge humanities and sciences; as well as topics like \"metaphysics of nature\" (Robert Elliot) and the \"Assymetry of Overdetermination\" (David Lewis.; also Carol Cleland.), which I find important to identify as the philosophical foundation that I am operating upon."
         }
 
@@ -23,7 +23,7 @@
     "publications": [
         {
             "name": "Of Fasces and Fascists: On the Role of Aesthetics in the Development of 20th-Century Italian Fascist Ideology.",
-            "authors": "Rowland, Thomas",
+            "authors": "Venator, Thomas",
             "year": "2021",
             "in": "",
             "volume": "",
@@ -35,7 +35,7 @@
           },
           {
             "name": "Investigating the Interrelation of Identity and Nation: The Flemish case. ",
-            "authors": "Rowland, Thomas",
+            "authors": "Venator, Thomas",
             "year": "2019",
             "in": "",
             "volume": "",
