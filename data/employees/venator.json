@@ -1,6 +1,6 @@
 {
     "name": "Thomas Venator",
-    "ref": "venator",
+    "ref": "rowland",
     "title": "",
     "status": "PhD candidate",
     "cv": "Thomas Venator is a PhD candidate at the Chair for Theory of Science and Technology. In conjunction with his Philosophy bachelor at Leuven University (2015-2018) he worked with the European Parliament, detecting and resolving cases of fraud in the European Regional Development Fund. At Leiden University (2018-2021) he completed a Masters in Political Science as well as a Masters in Political Philosophy, with both theses establishing various interrelations of aesthetics, identity, and nationalism. There he also led seminars in ‘Scientific Methodology’, an introductory course to Philosophy of Science for physics, chemistry and biology Masters students, addressing topics like science’s proper place in society, the epistemic value of evidence, and the nature of scientific progress. In his PhD project, Thomas explores the digitalisation of science with a close examination of geology and geological modelling; combining philosophy of science, code studies, and modelling analysis.",
@@ -23,7 +23,7 @@
     "publications": [
         {
             "name": "Of Fasces and Fascists: On the Role of Aesthetics in the Development of 20th-Century Italian Fascist Ideology.",
-            "authors": "Venator, Thomas",
+            "authors": "Rowland, Thomas",
             "year": "2021",
             "in": "",
             "volume": "",
@@ -35,7 +35,7 @@
           },
           {
             "name": "Investigating the Interrelation of Identity and Nation: The Flemish case. ",
-            "authors": "Venator, Thomas",
+            "authors": "Rowland, Thomas",
             "year": "2019",
             "in": "",
             "volume": "",
