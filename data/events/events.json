@@ -1,5 +1,77 @@
 [
   {
+    "name": "1. Colloquium WS2023/4",
+    "date": "2. November 2023 (3-6 p.m.)",
+    "startDate": "2023-11-2",
+    "endDate": "2023-11-3",
+    "type": "Dissertation, Habilitation",
+    "organizedBy": "",
+    "description": "",
+    "location": "",
+    "done": "false",
+    "program": ""
+  },
+  {
+    "name": "2. Colloquium WS2023/4",
+    "date": "23. November 2023 (3-6 p.m.)",
+    "startDate": "2023-11-23",
+    "endDate": "2023-11-24",
+    "type": "Dissertation, Habilitation",
+    "organizedBy": "",
+    "description": "",
+    "location": "",
+    "done": "false",
+    "program": ""
+  },
+  {
+    "name": "Zur Frage, warum Technik- und Digitalethik ungenügend sind.",
+    "date": "14. December 2023 (4-6 p.m.)",
+    "startDate": "2023-12-14",
+    "endDate": "2023-12-15",
+    "type": "",
+    "organizedBy": "Jonne Maas",
+    "description": "",
+    "location": "Delft",
+    "done": "false",
+    "program": ""
+  },
+  {
+    "name": "Lecture: Guiseppe Primiero, titel forthcomming",
+    "date": "11. January 2024 (4-6 p.m.)",
+    "startDate": "2024-01-11",
+    "endDate": "2024-01-12",
+    "type": "",
+    "organizedBy": "",
+    "description": "",
+    "location": "Milan",
+    "done": "false",
+    "program": ""
+  },
+  {
+    "name": "3. Colloquium WS2023/4",
+    "date": "18. January 2024 (3-6 p.m.)",
+    "startDate": "2024-01-18",
+    "endDate": "2024-01-19",
+    "type": "Dissertation, Habilitation",
+    "organizedBy": "",
+    "description": "",
+    "location": "",
+    "done": "false",
+    "program": ""
+  },
+  {
+    "name": "CSS-HLRS-Darmstadt",
+    "date": "25.-26. January 2024",
+    "startDate": "2024-01-25",
+    "endDate": "2024-01-26",
+    "type": "Colloquium",
+    "organizedBy": "",
+    "description": "",
+    "location": "Darmstadt",
+    "done": "false",
+    "program": ""
+  },
+  {
     "name": "Artificial Intelligence: The Brand That Wouldn't Die.",
     "date": "13. June (5-6:30 p.m.)",
     "startDate": "2023-06-13",
