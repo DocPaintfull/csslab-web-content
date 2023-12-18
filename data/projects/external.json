@@ -41,7 +41,7 @@
     "link": "https://nach-dem-geld.de/",
     "images": [
       {
-        "src": "https://www.volkswagenstiftung.de/profiles/vwst/theme/volkswagen/images/logo.svg",
+        "src": "https://www.volkswagenstiftung.de/themes/VWS/media/images/logo-vwstiftung-dark.svg",
         "alt": "Volkswagen Foundation Logo",
         "href": "https://www.volkswagenstiftung.de/en"
       }
@@ -131,7 +131,7 @@
     "link": "https://www.mindthegame.de",
     "images": [
       {
-        "src": "https://www.volkswagenstiftung.de/profiles/vwst/theme/volkswagen/images/logo.svg",
+        "src": "https://www.volkswagenstiftung.de/themes/VWS/media/images/logo-vwstiftung-dark.svg",
         "alt": "Volkswagen Foundation Logo",
         "href": "https://www.volkswagenstiftung.de/en"
       },
