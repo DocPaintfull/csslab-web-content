@@ -1,5 +1,21 @@
 [
   {
+    "title": "Towards a Philosophy of (Digital) Geology",
+    "description": "",
+    "by": "Thomas Venetor, MPhil",
+    "type": "PhD project",
+    "startYear": 2021,
+    "endYear": 2025,
+    "ref": "venetor",
+    "images": [
+      {
+        "src": "/favicon.png",
+        "alt": "CSS-Lab Logo",
+        "href": "https://www.css-lab.rwth-aachen.de/team/venator"
+      }
+    ]
+  },
+  {
     "title": "At the Limits of Experience: Towards a Phenomenological Perspective in the Philosophy of Science",
     "description": "",
     "by": "Dr. Dawid Kasprowicz",
