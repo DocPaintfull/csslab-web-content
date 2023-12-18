@@ -11,6 +11,22 @@
     "tel": "",
     "projects": [ ],
     "publications":{
+        "contributions":[
+            {
+                "authors":"Pantsar, Markus",
+                "year":"2023",
+                "name":"From Maximal Intersubjectivity to Objectivity: An Argument from the Development of Arithmetical Cognition",
+                "in_author":"",
+                "in":"Topoi",
+                "volume":"42(1)",
+                "pages":"271-281",
+                "city":"",
+                "publisher":"",
+                "doi":"",
+                "url":"https://link.springer.com/article/10.1007/s11245-022-09842-w",
+                "in_print":true
+             }
+        ],
         "reviewed":[
             {
                 "name": "From Maximal Intersubjectivity to Objectivity: An Argument from the Development of Arithmetical Cognition",
