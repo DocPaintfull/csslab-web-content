@@ -1,6 +1,36 @@
 [
   {
-    "authors": "",
+    "authors": "editors of the book series: Gabriele Gramelsberger, Jörg Noller",
+    "year": "",
+    "name": "Philosophy & Digitality",
+    "in_author": "",
+    "in": "",
+    "volume": "",
+    "pages": "",
+    "city": "",
+    "publisher": "Brill/Mentis Sigma",
+    "doi": "",
+    "url": "https://journals.ub.uni-koeln.de/index.php/phidi/index",
+    "in_print": false,
+    "ref": ""
+  },
+  {
+    "authors": "editors of the book series: Gabriele Gramelsberger, Jörg Noller",
+    "year": "",
+    "name": "Philosophia digitalis",
+    "in_author": "",
+    "in": "",
+    "volume": "",
+    "pages": "",
+    "city": "",
+    "publisher": "Brill/Mentis Sigma",
+    "doi": "",
+    "url": "https://brill.com/display/serial/PHIDI",
+    "in_print": false,
+    "ref": ""
+  },
+  {
+    "authors": "editors of the book series: Stefan Böschen, Gabriele Gramelsberger, Jörg Niewöhner, Heike Weber",
     "year": "",
     "name": "Wissenschafts- und Technikforschung (Science and Technology Studies)",
     "in_author": "",
@@ -10,7 +40,7 @@
     "city": "",
     "publisher": "Nomos/Edition Sigma",
     "doi": "",
-    "url": "https://www.sigma.nomos.de/wissenschafts-und-technikforschung/",
+    "url": "https://www.nomos-elibrary.de/buchreihe/B001050400/wissenschafts-und-technikforschung?qReihe=B001050400&qReiheNr=B001050400",
     "in_print": false,
     "ref": ""
   }
