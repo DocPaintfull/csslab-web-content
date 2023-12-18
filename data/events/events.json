@@ -1,5 +1,65 @@
 [
   {
+    "name": "Computersignale. Kunst und Biologie im Zeitalter ihres digitalen Experimentierens",
+    "date": "16-17. Feb. 2024",
+    "startDate": "2024-02-16",
+    "endDate": "2024-02-17",
+    "type": "Meeting and workshop of the research group",
+    "organizedBy": "Gabriele Gramelsberger, CSS Lab / KHK \"Cultures of Research\"",
+    "description": "(Hannes Rickli (ZHdK Zürich), Valentin Vuksic (ZHdK Zürich), Hans-Jörg Rheinberger (MPI for History of Science Berlin), Phillip Fischer (Alfred Wegener Institute Helgoland), Hans Hofmann (University of Texas at Austin), Christoph Hoffmann (University of Lucerne), Gabriele Gramelsberger (RWTH Aachen University)",
+    "location": "Kate Hamburger Kolleg \"Cultures of Research\", Theaterstrasse 75, Aachen",
+    "done": "",
+    "program": ""
+  },
+  {
+    "name": "Neuroscientific Modelling",
+    "date": "03-04. April 2024",
+    "startDate": "2024-04-03",
+    "endDate": "2024-04-04",
+    "type": "Workshop",
+    "organizedBy": "Hans Plesser, University of Oslos, and Markus Diesmann, Forschungszentrum Julich",
+    "description": "",
+    "location": "Kate Hamburger Kolleg \"Cultures of Research\", Theaterstrasse 75, Aachen",
+    "done": "",
+    "program": ""
+  },
+  {
+    "name": "Lifelikeness and Beyond",
+    "date": "22-26. April 2024",
+    "startDate": "2024-04-12",
+    "endDate": "2024-04-26",
+    "type": "International Conference",
+    "organizedBy": "Ana Maria Guzman, CSS Lab / KHK \"Cultures of Research\"",
+    "description": "",
+    "location": "SuperC, Templergraben 57, Aachen, RWTH Aachen University",
+    "done": "",
+    "program": ""
+  },
+  {
+    "name": "Philosophy of Mathematics and Computation",
+    "date": "16-17. May 2024",
+    "startDate": "2024-05-16",
+    "endDate": "2024-05-17",
+    "type": "Workshop",
+    "organizedBy": "Markus Pantsar, Gabriele Gramelsberger, both CSS Lab / KHK \"Cultures of Research\"",
+    "description": "",
+    "location": "Kate Hamburger Kolleg \"Cultures of Research\", Theaterstrasse 75, Aachen",
+    "done": "",
+    "program": ""
+  },
+  {
+    "name": "The Origin of Concepts: Philosophical analyses and historical accounts",
+    "date": "23-24. May 2024",
+    "startDate": "2024-05-23",
+    "endDate": "2024-05-24",
+    "type": "Workshop",
+    "organizedBy": "Ruth Lorand, Giora Hon, both Haifa University",
+    "description": "",
+    "location": "Kate Hamburger Kolleg \"Cultures of Research\", Theaterstrasse 75, Aachen",
+    "done": "",
+    "program": ""
+  },
+  {
     "name": "Niklas Kirchner: TBA",
     "date": "30. November 2023",
     "startDate": "2023-11-30",
