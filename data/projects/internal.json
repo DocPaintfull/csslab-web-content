@@ -1,5 +1,21 @@
 [
   {
+    "title": "Social Epistemology ",
+    "description": "",
+    "by": "Gudrun Rhode, MPhil",
+    "type": "PhD project",
+    "startYear": 2021,
+    "endYear": 2025,
+    "ref": "rhode",
+    "images": [
+      {
+        "src": "/favicon.png",
+        "alt": "CSS-Lab Logo",
+        "href": "/"
+      }
+    ]
+  },
+  {
     "title": "Towards a Philosophy of (Digital) Geology",
     "description": "",
     "by": "Thomas Venator, MPhil",
