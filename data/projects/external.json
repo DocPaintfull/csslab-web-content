@@ -1,5 +1,20 @@
 [
   {
+    "title": "Towards an agency-based philosophy of (advanced) technology ",
+    "collaborators": "",
+    "fundedBy": "DFG",
+    "startYear": 2024,
+    "endYear": 2026,
+    "link": "",
+    "images": [
+      {
+        "src": "",
+        "alt": "",
+        "href": "https://www.css-lab.rwth-aachen.de/research/projects"
+      }
+    ]
+  },
+  {
     "title": "Retrospective code-analysis for Open Science (WiRCA): Separating technical code from scientific code automatically for scientific programming in ordert to ease the evaluation of Open Science research software.",
     "description": "Most of temporary scientific research depends essentially on the employment of complex software, although scientists are usually not trained in programming and software engineering. From the perspective of Philosophy of Science (PoS) the increase in scientific software as research tools is of epistemic and analytic interest; and for Software Engineering (SE) the analysis and improvement of the architecture and algorithmic structure of software projects is important. Thus, both disciplines focus on the analysis of code and share the conjoint interest in the development of new domain-specific methods for the analysis of scientific (open) software projects.",
     "collaborators": "Prof. Dr. Bernhard Rumpe, Chair for Software Engineering, Prof. Dr. Gabriele Gramelsberger, Chair for Philosophy of Science and Technology, both RWTH Aachen University",
