@@ -1,5 +1,21 @@
 [
   {
+    "title": "Agency & Technology",
+    "description": "",
+    "by": "Prof. Dr. Anna Laktionova",
+    "type": "Research project",
+    "startYear": 2022,
+    "endYear": 2026,
+    "ref": "",
+    "images": [
+      {
+        "src": "/favicon.png",
+        "alt": "CSS-Lab Logo",
+        "href": "https://khk.rwth-aachen.de/prof-ana-laktionova/"
+      }
+    ]
+  },
+  {
     "title": "Within Nature: Hegel's Local Determination of Thought",
     "description": "",
     "by": "Ana María Guzmán. MPhil",
