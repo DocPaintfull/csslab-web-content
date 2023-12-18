@@ -21,6 +21,19 @@
     "publications": {
       "contributions":[
         {
+          "name": "Künstliche Intelligenz in mathematischen Beweisen und das Problem der Erklärbarkeit",
+          "authors": "Wenz, Daniel ",
+          "year": "2020",
+          "in": "Künstliche Intelligenz. Die große Verheißung",
+          "in_author": "ed. by Anna Strasser, Wolfgang Sohst, Ralf Stapelfeldt, Katja Stepec",
+          "volume": "",
+          "pages": "154-168",
+          "city": "Berlin",
+          "publisher": "Xenomoi",
+          "doi": "",
+          "in_print": false
+        },
+        {
           "name": "John Searle und Robert Brandom",
           "authors": "Wenz, Daniel",
           "year": "2020",

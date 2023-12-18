@@ -133,11 +133,53 @@
       ],
       "contributions":[
          {
+            "authors":"Gramelsberger, Gabriele ",
+            "year":"2021",
+            "name":"Lem goes Reality. Lems 'Vorwort im Nachinein' von 1982 als Antwort im Voraus",
+            "in_author":"Friedrich, Alexander, Gall, Alfred, Gehring, Petra, Loew, Peter Oliver and Pörzgen, Yvonne (eds.)",
+            "in":"Kosmos Lem: Das literarische Werk und philosophische Denken von Stanislaw Lem",
+            "volume":"",
+            "pages":"145-152",
+            "city":"Wiesbaden",
+            "publisher":"Harrassowitz Verlag",
+            "doi":"",
+            "url":"",
+            "in_print":false
+         },
+         {
+            "authors":"Böschen, Stefan, Backhaus, Julia, de la Varga, Ana, John, Stefan, Gramelsberger, Gabriele",
+            "year":"2021",
+            "name":"Reallabore. Simulierte Experimente - Simulierte Demokratie?",
+            "in_author":"Braun, Kathrin and Kropp, Cordula (eds.)",
+            "in":"digitaler Gesellschaft. Neukonfigurationen zwischen Robotern, Algorithmen und Usern",
+            "volume":"",
+            "pages":"277-302",
+            "city":"Bielefeld",
+            "publisher":"transcript",
+            "doi":"",
+            "url":"",
+            "in_print":false
+         },
+         {
+            "authors":"Rautzenberg, Markus, Nohr, Rolf F., Pias, Claus, Gramelsberger, Gabriele",
+            "year":"2021",
+            "name":"Spielförmige Emergenz. Für eine Neubestimmung der Spielwissenschaften",
+            "in_author":"",
+            "in":"Paidia. Zeitschrift für Computerspielforschung",
+            "volume":"",
+            "pages":"",
+            "city":"",
+            "publisher":"",
+            "doi":"",
+            "url":"https://www.paidia.de/spielfoermige-emergenz-fuer-eine-neubestimmung-der-spielwissenschaften/",
+            "in_print":false
+         },
+         {
             "authors":"Gramelsberger, Gabriele",
             "year":"2022",
             "name":"Interview",
             "in_author":"with contributions by Esther Boldt, Rosi Braidotti, Tim Etchells, Gabriele Gramelsberger, Ingrid LaFleur, and Luiza Prado De O. Martins",
-            "in":"Radical Proximity – Agency",
+            "in":"Radical Proximity - Agency",
             "volume":"Vol. 1",
             "pages":"",
             "city":"Essen",
@@ -334,13 +376,13 @@
             "name":"Hermeneutik der Maschinen und Maschinenalgorithmen",
             "in_author":"Kablitz, Andreas, Markschies, Christoph, and Strohschneider, Peter (eds.)",
             "in":"Hermeneutik unter Verdacht",
-            "volume":"",
-            "pages":"(Reihe Text und Textlichkeit)",
+            "volume":"(Reihe Text und Textlichkeit)",
+            "pages":"37-48",
             "city":"Berlin",
             "publisher":"De Gruyter",
             "doi":"",
             "url":"",
-            "in_print":true
+            "in_print":false
          },  
          {
             "authors":"Gramelsberger, Gabriele",
@@ -349,12 +391,12 @@
             "in_author":"Rein, Katharina (ed.)",
             "in":"Illusion in Cultural Practice: Productive Deceptions",
             "volume":"",
-            "pages":"",
+            "pages":"189-203",
             "city":"London",
             "publisher":"Routledge",
             "doi":"",
             "url":"",
-            "in_print":true
+            "in_print":false
          }, 
          {
             "authors":"Gramelsberger, Gabriele",
@@ -363,26 +405,12 @@
             "in_author":"Rzeszotnik, Jacek (ed.)",
             "in":"Ein Jahrhundert Lem (1921-2021)",
             "volume":"",
-            "pages":"35-46",
+            "pages":"23-43",
             "city":"Wrocław, Dresden",
             "publisher":"ATUT/Neisse Verlag",
             "doi":"",
             "url":"",
-            "in_print":true
-         }, 
-         {
-            "authors":"Gramelsberger, Gabriele",
-            "year":"2021",
-            "name":"Wissenschaftspraxis algorithmischer Wissenskulturen",
-            "in_author":"Seising, Rudolf and Hashagen, Ulf (eds.)",
-            "in":"Algorithmische Wissenskulturen",
-            "volume":"",
-            "pages":"",
-            "city":"Wiesbaden",
-            "publisher":"Springer",
-            "doi":"",
-            "url":"",
-            "in_print":true
+            "in_print":false
          },
          { 
             "authors":"Gramelsberger, Gabriele",
