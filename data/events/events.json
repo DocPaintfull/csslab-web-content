@@ -1,9 +1,61 @@
 [
   {
+    "name": "Explainable AI – Explanations in AI",
+    "date": "02-03. Feb. 2022",
+    "startDate": "2022-02-02",
+    "endDate": "2022-02-03",
+    "type": "Workshop",
+    "organizedBy": "Markus Pantsar, CSS Lab",
+    "description": "",
+    "location": "Kate Hamburger Kolleg \"Cultures of Research\", Theaterstrasse 75, Aachen",
+    "done": "",
+    "program": "",
+    "url": ""
+  },
+  {
+    "name": "Explainable AI – Explanations in AI",
+    "date": "02-03. Feb. 2022",
+    "startDate": "2022-02-02",
+    "endDate": "2022-02-03",
+    "type": "Workshop",
+    "organizedBy": "Markus Pantsar, CSS Lab",
+    "description": "",
+    "location": "Kate Hamburger Kolleg \"Cultures of Research\", Theaterstrasse 75, Aachen",
+    "done": "",
+    "program": "",
+    "url": ""
+  },
+  {
+    "name": "Trajectories of Technology",
+    "date": "05-09. Sep. 2022",
+    "startDate": "2022-09-05",
+    "endDate": "2022-09-09",
+    "type": "IDEA League summer school",
+    "organizedBy": "Gabriele Gramelsberger CSS Lab / KHK \"Cultures of Research\", and Daniela Zetti, ETH Zürich",
+    "description": "",
+    "location": "guesthouse of the RWTH Aachen University",
+    "done": "",
+    "program": "",
+    "url": ""
+  },
+  {
+    "name": "Prinzipien der neuronalen Informationsverarbeitung. Geometrie - Dynamik - Wissen",
+    "date": "27-28. Nov. 2022",
+    "startDate": "2022-10-27",
+    "endDate": "2022-10-28",
+    "type": "Workshop",
+    "organizedBy": "Gabriele Gramelsberger, RWTH Aachen University, and Markus Diesmann, Computational and Systems Neuroscience Jülich",
+    "description": "",
+    "location": "Kate Hamburger Kolleg \"Cultures of Research\", Theaterstrasse 75, Aachen",
+    "done": "",
+    "program": "",
+    "url": ""
+  },
+  {
     "name": "Autonomy in the Digital Age: Rethinking Relationships between Humans, Technology and Society",
     "date": "20-21. Nov. 2022",
-    "startDate": "2023-02-27",
-    "endDate": "2023-02-29",
+    "startDate": "2022-02-27",
+    "endDate": "2022-02-29",
     "type": "International conference",
     "organizedBy": "Caja Thimm and Maximilian Mayer, both University of Bonn, together with Frank Piller and Gabriele Gramelsberger, RWTH Aachen University",
     "description": "",
@@ -342,7 +394,7 @@
     "startDate": "2021-02-01",
     "endDate": "2021-02-02",
     "type": "Associated Online-Workshop",
-    "organizedBy": "Bianca Prietl (Linz), Juliane Jark, Hendrik Heuer (Bremen), Paola Lopez (Wien)",
+    "organizedBy": "Dawid Kasprowicz, Daniel Wenz, Gabriele Gramelsberger, CSS Lab",
     "description": "",
     "location": "RWTH Aachen",
     "done": "true",
@@ -488,9 +540,9 @@
     "startDate": "2020-07-9",
     "endDate": "2020-07-9",
     "type": " Interactive Virtual Online Workshop",
-    "organizedBy": "Frank Piller, Gabriele Gramelsberger and Thomas Bergs, RWTH ProdE",
+    "organizedBy": "Frank Piller, RWTH Innovation Management, Thomas Bergs, RWTH WZL, Gabriele Gramelsberger, CSS Lab",
     "description": "The goal of this workshop is to bring stakeholders from industry, society, research, and politics together to discuss the needs and possibilities of future collaborations of humans, AI and machines for Industry 4.0. We want to learn from experiences from different industries and application areas, discuss concepts of operator (user) empowerment in production and other domains, understand the concept of fair use of AI, but also identify open fields for research, development, and policy making.",
-    "location": "RWTH Aachen",
+    "location": "TIME, Kackertstrasse 7, Aachen",
     "done": "false"
   },
   {
@@ -499,7 +551,7 @@
     "startDate": "2020-06-26",
     "endDate": "2020-06-26",
     "type": " Interactive Online Workshop",
-    "organizedBy": "Andreas Kaminski",
+    "organizedBy": "Andreas Kaminski, CSS Lab",
     "description": "The workshop discusses the EU-funded project iBorderCtrl in which computer technology is developed to screen persons who want to immigrate into the EU. iBorderCtrl is a test battery that spans over biometric modules, evaluations of Social Media Data and Risk Based Assessment Tools). One of these modules is an AI-lie detector, named Automatic Deception Detection System (ADDS). The workshop focuses on the ADDS and its implementation on three border locations of the EU (Latvia, Ungary and Greece).",
     "location": "Human Technology Centre, RWTH Aachen and online on Zoom",
     "done": "false"
@@ -527,10 +579,10 @@
     "startDate": "2019-07-15",
     "endDate": "2019-07-19",
     "type": "IDEA League Summer School 2019",
-    "organizedBy": "organized by Gabriele Gramelsberger together with the Chair for History of Technology at the ETH Züric",
+    "organizedBy": "Daniela Zetti, ETH Zürich, and Gabriele Gramelsberger, CSS Lab",
     "description": "Archives, collections, labs and machine parks are well known institutions that promote scientific research. From the 19th century on they have been developing into large scale research systems organizing methods, instruments and scientists’ work. In the last decades we are witnessing that sciences have become more and more computer-based. Obviously, data centers, networks and platforms are indispensable facilities for research, they are complementing and reconfiguring traditional technologies. In a historical perspective, digital infrastructures offer an unprecedented generalizability: they stimulate the production and circulation of methodological knowledge across a broad spectrum of academic disciplines. The interdisciplinary Summer School investigates the history and philosophy of digital infrastructures. How do infrastructures affect science? And how do sciences configure their technologies?",
-    "program": "Program<br/>Welcome, get together, travel to location (Monday, 15th)<br/>Workshop Sciences and the Internet, Dr. Daniela Zetti, ETH Zürich; Workshop Politics of Data Centers, Prof. Dr. David Gugerli and Dr. Ricky Wichum, ETH Zürich (Tuesday, 16th)<br/>Excursion and ETH LabWalks (Wednesday 17th)<br/>Workshop Open Science, Prof. Dr. Catharina Landström, Chalmers University Gothenburg; Workshop Data Reproducibility, Prof. Dr. Gabriele Gramelsberger, RWTH Aachen University, Dr. Andreas Kaminski, HLRS Stuttgart (Thursday 18th)<br/>Presentations of the group work, final discussion, goodbye dinner (Friday 19th)",
-    "location": "Location: ETH Zürich, resort at the nearby mountains",
+    "program": "Welcome, get together, travel to location (Monday, 15th)<br/>Workshop Sciences and the Internet, Dr. Daniela Zetti, ETH Zürich; Workshop Politics of Data Centers, Prof. Dr. David Gugerli and Dr. Ricky Wichum, ETH Zürich (Tuesday, 16th)<br/>Excursion and ETH LabWalks (Wednesday 17th)<br/>Workshop Open Science, Prof. Dr. Catharina Landström, Chalmers University Gothenburg; Workshop Data Reproducibility, Prof. Dr. Gabriele Gramelsberger, RWTH Aachen University, Dr. Andreas Kaminski, HLRS Stuttgart (Thursday 18th)<br/>Presentations of the group work, final discussion, goodbye dinner (Friday 19th)",
+    "location": "Location: ETH Zürich",
     "done": "true",
     "links": [
       {
@@ -562,9 +614,9 @@
     "startDate": "2019-05-16",
     "endDate": "2019-05-16",
     "type": "Workshop",
-    "organizedBy": "organized by Lisa Schüttler",
+    "organizedBy": "Gabriele Gramelsberger, CSS Lab",
     "description": "Der Workshop soll Experten zusammenbringen, die Machine Learning in ihren jeweiligen Forschungsgebieten einsetzen, und somit eine neue, interdisziplinäre Sichtweise eröffnen. Kurzvorträge der eingeladenen Experten gehen einer Podiumsdiskussion voraus, in der die Gefahren und Chancen des Einsatzes von Machine Learning in der Forschung in reflexiver, philosophischer Form thematisiert werden.",
-    "location": "Location: Seminar room 303, Theaterplatz 14, RWTH Aachen University",
+    "location": "HumTec, Theaterplatz 14, Aachen",
     "done": "false",
     "links": [
       {
@@ -591,10 +643,10 @@
     "startDate": "2018-12-06",
     "endDate": "2018-12-06",
     "type": "Workshop",
-    "organizedBy": "organized together with the DFG Research Group 'Epistemology of LHC'",
+    "organizedBy": "Gabriele Gramelsberger, CSS Lab, and the DFG Research Group \"Epistemology of LHC\", Physics Department, RWTH Aachen University",
     "description": "",
     "program": "Program <br/>The Higgs Boson, the Naturalness Principle, and the Lack of New Physics at the LHC, Dr. Joshua Rosaler, Physics Department, RWTH Aachen University <br/>'The new conception of the postulates': the Bohr-Kramers-Slater 'interpretation' of the (old) quantum theory, Daniel Jon Mitchell, Physics Department, RWTH Aachen University <br/>Dark Matter & Modified Gravity, Dr. Niels Martens, Physics Department, RWTH Aachen University",
-    "location": "Location: Seminar room 303, Theaterplatz 14, RWTH Aachen University",
+    "location": "HumTec, Theaterplatz 14, Aachen",
     "done": "true"
   },
   {
@@ -634,15 +686,27 @@
     "done": "true"
   },
   {
+    "name": "Computational Science Studies",
+    "date": "14 December 2018, 14:00 to 18:00",
+    "startDate": "2018-12-14",
+    "endDate": "2018-12-14",
+    "type": "follow-up workshop of the EASST 2018 panel ",
+    "organizedBy": "Gabriele Gramelsberger, CSS Lab, and Jutta Weber, University of Padernborn",
+    "description": "",
+    "program": "",
+    "location": "HumTec, Theaterplatz 14, Aachen",
+    "done": "true"
+  },
+  {
     "name": "Digital Humanities. Zukunft der Geisteswissenschaften?",
     "date": "15 December 2017, 14:00 to 18:00",
     "startDate": "2017-12-15",
     "endDate": "2017-12-15",
     "type": "Workshop",
-    "organizedBy": "organized together with Prof. Dr. Stella Neumann, Chair of English Linguistics, RWTH Aachen University",
+    "organizedBy": "Gabriele Gramelsberger, CSS Lab, and Stella Neumann, RWTH English Linguistics",
     "description": "",
     "program": "Program<br/>'DH' versus auxiliäre Digitalität, Prof. Dr. Petra Gehring, TU Darmstadt <br/>Models, predictions, data - an (un)problematic relationship?, Prof. Dr. Erich Steiner, University of the Saarland",
-    "location": "Location: Pausenhalle, Eifschornsteinstrasse 16, Institute of Philosophy, RWTH Aachen University",
+    "location": "Institute for Philosophy, Eilfschornsteinstrasse 16, Aachen",
     "done": "true"
   }
 ]
