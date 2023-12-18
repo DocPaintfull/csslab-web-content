@@ -3,15 +3,15 @@
     "title": "Towards an agency-based philosophy of (advanced) technology ",
     "description": "Most of temporary scientific research depends essentially on the employment of complex software, although scientists are usually not trained in programming and software engineering. From the perspective of Philosophy of Science (PoS) the increase in scientific software as research tools is of epistemic and analytic interest; and for Software Engineering (SE) the analysis and improvement of the architecture and algorithmic structure of software projects is important. Thus, both disciplines focus on the analysis of code and share the conjoint interest in the development of new domain-specific methods for the analysis of scientific (open) software projects.",
     "collaborators": "Prof. Dr. Anna Laktionova, Kate Hamburger Kolleg \"Cultures of Research\", RWTH Aachen University (in collaboration with Prof. Dr. Carl Mitcham, Colorado School of Mines)",
-    "fundedBy": "DFG",
+    "fundedBy": "DFG Walter Benjamin Program",
     "startYear": 2024,
     "endYear": 2026,
     "link": "",
     "images": [
       {
-        "src": "",
-        "alt": "",
-        "href": ""
+        "src": "https://www.dfg.de/includes/images/layout/dfg_logo_schriftzug.svg",
+        "alt": "DFG Initiative of Excellence Logo",
+        "href": "https://www.dfg.de/en/"
       }
     ]
   },
