@@ -1,6 +1,16 @@
 [
   {
     "date": "January 2024",
+    "name": "Colloquium CSS-HLRS-Darmstadt",
+    "semester": "W24"
+  },
+  {
+    "date": "January 2024",
+    "name": "Presentations: Dissertation/Habilitation 3. Colloquium WS2023/24",
+    "semester": "W24"
+  },
+  {
+    "date": "January 2024",
     "name": "Lecture: Trustworthiness Ranking with Uncertain Information",
     "semester": "W24"
   },
