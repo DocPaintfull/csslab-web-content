@@ -1,5 +1,95 @@
 [
   {
+    "name": "Machine Learning. An Emerging Experimental Culture in Science",
+    "by": "gramelsberger",
+    "date": "2 February 2022",
+    "startDate": "2022-02-02",
+    "endDate": "2022-02-02",
+    "type": "Workshop",
+    "in": "Explainable AI Explanations in AI",
+    "institution": "Käte Hamburger Kolleg Aachen"
+  },
+  {
+    "name": "Modelle - Kulturtechniken des Konjekturalen",
+    "by": "gramelsberger",
+    "date": "10 February 2022",
+    "startDate": "2022-02-10",
+    "endDate": "2022-02-10",
+    "type": "ZfW Lecture Series",
+    "in": "Kulturtechnik Modell",
+    "institution": "University of Münster"
+  },
+  {
+    "name": "Prospektive Performanz. Versuch einer Philosophie der Prognostik",
+    "by": "gramelsberger",
+    "date": "25 February 2022",
+    "startDate": "2022-02-25",
+    "endDate": "2022-02-25",
+    "type": "Conference",
+    "in": "Zukunftswissen Energie",
+    "institution": "Ruhr-University of Bochum"
+  },
+  {
+    "name": "Maschinenrationalität",
+    "by": "gramelsberger",
+    "date": "29 March 2022",
+    "startDate": "2022-03-29",
+    "endDate": "2022-03-29",
+    "type": "Conference",
+    "in": "Synthesis: Linien philosophischer Digitalisierungsforschung",
+    "institution": "Center of Advanced Internet Studies Bochum"
+  },
+  {
+    "name": "KI-Geschichte entlang der jeweils im Fokus stehenden Spiele",
+    "by": "gramelsberger",
+    "date": "14 May 2022",
+    "startDate": "2022-05-14",
+    "endDate": "2022-05-14",
+    "type": "Conference",
+    "in": "Was war Künstliche Intelligenz? Konturen eines Forschungsfeldes 1975-2000 in Deutschland",
+    "institution": "HU Berlin"
+  },
+  {
+    "name": "Algorithmizität. Eine philosophische Perspektive",
+    "by": "gramelsberger",
+    "date": "10 June 2022",
+    "startDate": "2022-06-10",
+    "endDate": "2022-06-10",
+    "type": "(Keynote). Conference",
+    "in": "Algorithmizität als Kultur des Verstehens? Digitale Erkenntnisprozesse in den Humanities",
+    "institution": "Leibniz-Zentrum für Literatur- und Kulturforschung, Berlin"
+  },
+  {
+    "name": "Zur Wissenschaftskritik des Engineering of Science",
+    "by": "gramelsberger",
+    "date": "26 June 2022",
+    "startDate": "2022-06-26",
+    "endDate": "2022-06-26",
+    "type": "Workshop",
+    "in": "Wissenschaftskritik",
+    "institution": "Institute of Philosoph, KIT Karlsruhe"
+  },
+  {
+    "name": "Reproducibility Expectations & Issues in Computer-based Simulation sui generis",
+    "by": "gramelsberger",
+    "date": "2 July 2022",
+    "startDate": "2022-07-02",
+    "endDate": "2022-07-02",
+    "type": "(together with Andreas Kaminski). SPSP Conference 2022",
+    "in": "Society for Philosophy of Science in Practice",
+    "institution": "University of Gent"
+  },
+  {
+    "name": "Computational Science Studies. Methoden, Ansätze, Problem- und Fragestellungen",
+    "by": "gramelsberger",
+    "date": "7 July 2022",
+    "startDate": "2022-07-07",
+    "endDate": "2022-07-07",
+    "type": "Conference",
+    "in": "Wissenschaftsforschung im Fokus Potentiale und neue Perspektiven",
+    "institution": "Volkswagen-Foundation Hannover"
+  },
+  {
     "name": "Computer Signals I & II (2012-2020). Artists, philosophers, and historians in biological labs",
     "by": "gramelsberger",
     "date": "24. April 2023",
