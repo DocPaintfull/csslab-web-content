@@ -1,5 +1,155 @@
 [
   {
+    "name": "Computer Signals I & II (2012-2020). Artists, philosophers, and historians in biological labs",
+    "by": "gramelsberger",
+    "date": "24. April 2023",
+    "startDate": "2023-04-24",
+    "endDate": "2023-04-24",
+    "type": "Workshop",
+    "in": "Matter. Non-Matter. Anti-Matter - Interdisciplinarity in curatorial networks",
+    "institution": "Center for Art and Media Karlsruhe (ZKM)"
+  },
+  {
+    "name": "Herausforderungen von Digital Humanities in der Zukunft",
+    "by": "gramelsberger",
+    "date": "31 March 2023",
+    "startDate": "2023-03-31",
+    "endDate": "2023-03-31",
+    "type": "Workshop Digitale Forschung in der Theologie",
+    "in": "Erkenntnisweisen - Methoden - Gegenstand",
+    "institution": "RWTH Aachen University"
+  },
+  {
+    "name": "Berlin Group & Vienna Circle. Varieties and commonalities in early philosophy of science",
+    "by": "gramelsberger",
+    "date": "6 May 2023",
+    "startDate": "2023-05-06",
+    "endDate": "2023-05-06",
+    "type": "International Conference",
+    "in": "European Traditions of Philosophy of Science: Unexpected Varieties",
+    "institution": "Institute for Philosophy, University of Bucharest"
+  },
+  {
+    "name": "Computational Science Studies. Methoden, Ansätze, Problem- und Fragestellungen",
+    "by": "gramelsberger",
+    "date": "7 July 2022",
+    "startDate": "2023-07-07",
+    "endDate": "2023-07-07",
+    "type": "Conference",
+    "in": "Wissenschaftsforschung im Fokus Potentiale und neue Perspektiven",
+    "institution": "Volkswagen-Foundation Hannover"
+  },
+  {
+    "name": "Computational Science Studies",
+    "by": "gramelsberger",
+    "date": "17 May 2023",
+    "startDate": "2023-05-17",
+    "endDate": "2023-05-17",
+    "type": "Workshop",
+    "in": "Research Software Engineering",
+    "institution": "RWTH Aachen University"
+  },
+  {
+    "name": "Projektion, Invertierung, Perspektive. Bauersfelds Modell II als Vorwegnahme des modernen Simulationsverständnisses",
+    "by": "gramelsberger",
+    "date": "5 June 2023",
+    "startDate": "2023-06-05",
+    "endDate": "2023-06-05",
+    "type": "Colloquium",
+    "in": "Planetare Perspektiven",
+    "institution": "Research Center of the Deutsches Museum Munich"
+  },
+  {
+    "name": "Wendepunkte als Gegenstand der Erkenntnistheorie",
+    "by": "gramelsberger",
+    "date": "9 June 2023",
+    "startDate": "2023-06-09",
+    "endDate": "2023-06-09",
+    "type": "",
+    "in": "Interdisziplinäre Akademie Vom Umgang mit Wendepunkten. Politische, gesellschaftliche und erkenntnistheoretische Perspektiven. Max Weber-Programm Bayern / Studienstiftung des deutschen Volkes",
+    "institution": "Akademie für Politische Bildung in Tutzing am Starnberger See"
+  },
+  {
+    "name": "Affective Infrastructure. Towards the Naturalization of the Digital",
+    "by": "gramelsberger",
+    "date": "18 September 2023",
+    "startDate": "2023-09-18",
+    "endDate": "2023-09-18",
+    "type": "Workshop Ethics of Emotion Computing",
+    "in": "Natur- und Ingenieurwissenschaftliches Kolleg IX",
+    "institution": "Digital Society Initiative (DSI), University of Zurich"
+  },
+  {
+    "name": "Philosophie des Digitalen",
+    "by": "gramelsberger",
+    "date": "20 September 2023",
+    "startDate": "2023-09-20",
+    "endDate": "2023-09-20",
+    "type": "",
+    "in": "Natur- und Ingenieurwissenschaftliches Kolleg IX",
+    "institution": "Studienstiftung des deutschen Volkes, Cologne"
+  },
+  {
+    "name": "Life from Scratch",
+    "by": "gramelsberger",
+    "date": "25 October 2023",
+    "startDate": "2023-10-25",
+    "endDate": "2023-10-25",
+    "type": "Lecture series Lifelikeness",
+    "in": "",
+    "institution": "Kate Hamburger Kolleg Aachen"
+  },
+  {
+    "name": "Philosophy of the Digital",
+    "by": "gramelsberger",
+    "date": "6 November 2023",
+    "startDate": "2023-11-06",
+    "endDate": "2023-11-06",
+    "type": "Research Seminar",
+    "in": "",
+    "institution": "Centre of Philosophy (CFUL), University of Lisbon"
+  },
+  {
+    "name": "History of Philosophy of Science - The Berlin Group and its Legacy",
+    "by": "gramelsberger",
+    "date": "7 November 2023",
+    "startDate": "2023-11-07",
+    "endDate": "2023-11-07",
+    "type": "Permanent Seminar of Philosophy of Sciences",
+    "in": "",
+    "institution": "Centre of Philosophy (CFUL), University of Lisbon"
+  },
+  {
+    "name": "Panoptikon der Daten",
+    "by": "gramelsberger",
+    "date": "15 November 2023",
+    "startDate": "2023-11-15",
+    "endDate": "2023-11-15",
+    "type": "",
+    "in": "Philosophie kontrovers",
+    "institution": "Hans Böckler Stiftung, Düsseldorf"
+  },
+  {
+    "name": "Philosophie des Digitalen. Digitalisierung und Digitalität hinterfragt",
+    "by": "gramelsberger",
+    "date": "15 November 2023",
+    "startDate": "2023-11-15",
+    "endDate": "2023-11-15",
+    "type": "",
+    "in": "Philosophie kontrovers",
+    "institution": "Institute of Philosophy, University of Cologne"
+  },
+  {
+    "name": "Philosophie des Digitalen - Zeichen- und Werkzeuge der Operationalisierung des Geistes",
+    "by": "gramelsberger",
+    "date": "17 November 2023",
+    "startDate": "2023-11-17",
+    "endDate": "2023-11-17",
+    "type": "Lecture series Werkzeug",
+    "in": "Zur Praxis computergestützter Forschung in den Geistes- und Kulturwissenschaften",
+    "institution": "Humboldt University Berlin"
+  },
+  {
     "name": "Autonomie des Maschinellen",
     "by": "gramelsberger",
     "date": "22 September 2022",
