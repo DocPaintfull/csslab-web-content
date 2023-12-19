@@ -1,5 +1,55 @@
 [
   {
+    "name": "Autonomie des Maschinellen",
+    "by": "gramelsberger",
+    "date": "22 September 2022",
+    "startDate": "2022-09-22",
+    "endDate": "2022-09-22",
+    "type": "Conference",
+    "in": "Data Society (50th Anniversary of the University of Paderborn)",
+    "institution": "University of Paderborn"
+  },
+  {
+    "name": "Superhuman AI. Out-performing des Menschen durch seine Maschinen?",
+    "by": "gramelsberger",
+    "date": "24 September 2022",
+    "startDate": "2022-09-24",
+    "endDate": "2022-09-24",
+    "type": "Annual Meeting 2022 of the Görres-Gesellschaft",
+    "in": "Sektion Philosophy",
+    "institution": "RWTH Aachen University"
+  },
+  {
+    "name": "Die Aktualität von Kant in der Neurowissenschaft",
+    "by": "gramelsberger",
+    "date": "28 October 2022",
+    "startDate": "2022-10-28",
+    "endDate": "2022-10-28",
+    "type": "Workshop",
+    "in": "Prinzipien der neuronalen Informationsverarbeitung",
+    "institution": "Käte Hamburger Kolleg Aachen"
+  },
+  {
+    "name": "Digital twin, metaverse and computer-based simulation",
+    "by": "gramelsberger",
+    "date": "4 November 2022",
+    "startDate": "2022-11-04",
+    "endDate": "2022-11-04",
+    "type": "International Conference",
+    "in": "Are You a Model?",
+    "institution": "TU Darmstadt"
+  },
+  {
+    "name": "Struktur und Signatur des Digitalen",
+    "by": "gramelsberger",
+    "date": "3 December 2022",
+    "startDate": "2022-12-03",
+    "endDate": "2022-12-03",
+    "type": "Conference",
+    "in": "Was ist Philosophie des Digitalen?",
+    "institution": "University of Konstanz"
+  },
+  {
     "name": "Industrial Metaverse and its associated technologies",
     "by": "gramelsberger",
     "date": "6 December 2023",
@@ -9,7 +59,6 @@
     "in": "Siemens RIE Aachen Arc Annual Conference",
     "institution": "RWTH Aachen University"
   },
-
   {
       "name": "John von Neumanns 'linguistic turn' des Coding und seine Folgen für die Wissenschaft",
       "by": "gramelsberger",
