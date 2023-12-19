@@ -1,5 +1,105 @@
 [
   {
+    "name": "Philosophical Considerations on Machine Learning in Scientific Research",
+    "by": "gramelsberger",
+    "date": "19 January 2021",
+    "startDate": "2021-01-19",
+    "endDate": "2021-01-19",
+    "type": "I2SoS-Colloquium",
+    "in": "",
+    "institution": "Institute for Interdisciplinary Studies of Science (I2SoS), University of Bielefeld"
+  },
+  {
+    "name": "Die Extrapolation möglicher Zukünfte: Prognosemodelle in der Klimaforschung",
+    "by": "gramelsberger",
+    "date": "5 February 2021",
+    "startDate": "2021-02-05",
+    "endDate": "2021-02-05",
+    "type": "Annual Conference",
+    "in": "Vorausschauen, Vorausdenken, Vorausberechnen",
+    "institution": "Internationales Kolleg für Geisteswissenschaftliche Forschung, FAU Nürnberg"
+  },
+  {
+    "name": "Maschinenrationale Sozialität. Kritik der in maschinelle Lernverfahren eingeschrieben Sozialität",
+    "by": "gramelsberger",
+    "date": "3 March 2021",
+    "startDate": "2021-03-03",
+    "endDate": "2021-03-03",
+    "type": "Conference",
+    "in": "Von Menschen und Maschinen. Mensch-Maschine-Interaktionen in digitale Kulturen",
+    "institution": "Univesity of Hagen"
+  },
+  {
+    "name": "Save the Code! Die Geschichte wissenschaftlicher Software erforschen",
+    "by": "gramelsberger",
+    "date": "8 June 2021",
+    "startDate": "2021-06-08",
+    "endDate": "2021-06-08",
+    "type": "Wissenschaftshistorisches Seminar",
+    "in": "",
+    "institution": "Deutsche Akademie der Naturforscher Leopoldina Halle"
+  },
+  {
+    "name": "The Curls of Water. Digital water, discrete flow, and curly eddies",
+    "by": "gramelsberger",
+    "date": "18 June 2021",
+    "startDate": "2021-06-18",
+    "endDate": "2021-06-18",
+    "type": "(Keynote). Conference",
+    "in": "Waterworlds. Reflecting on Multiple Waters",
+    "institution": "Philipps University Magdeburg"
+  },
+  {
+    "name": "Using machine learning for tackling the cloud parametrization deadlock in climate models",
+    "by": "gramelsberger",
+    "date": "26 August 2021",
+    "startDate": "2021-08-26",
+    "endDate": "2021-08-26",
+    "type": "Workshop",
+    "in": "Integrated History and Philosophy of Climate Data",
+    "institution": "Oeschger Centre for Climate Change Research, University of Bern"
+  },
+  {
+    "name": "Probabilistische Gestik: Zur sozialen Dimension von Algorithmen in Mensch-Roboter-Interaktionen",
+    "by": "gramelsberger",
+    "date": "9 September 2021",
+    "startDate": "2021-09-09",
+    "endDate": "2021-09-09",
+    "type": "(together with Dawid Kasprowicz)",
+    "in": "16. International Congress of the German Society of Semtiotics",
+    "institution": "TU Chemnitz"
+  },
+  {
+    "name": "Superhuman AI",
+    "by": "gramelsberger",
+    "date": "30 September 2021",
+    "startDate": "2021-09-30",
+    "endDate": "2021-09-30",
+    "type": "Conference",
+    "in": "Infrastrukturen der Autonomie",
+    "institution": "Alexander von Humboldt Institut für Internet Berlin"
+  },
+  {
+    "name": "Prototyping future ontologies. Model cascades as tools for backward chaining possible futures",
+    "by": "gramelsberger",
+    "date": "4 October 2021",
+    "startDate": "2021-10-04",
+    "endDate": "2021-10-04",
+    "type": "LMET Conference 2021",
+    "in": "The Modelling of Energy Transition",
+    "institution": "University of Münster"
+  },
+  {
+    "name": "Collaborating with Machines. Researchers meet ML-Algorithms",
+    "by": "gramelsberger",
+    "date": "23 November 2021",
+    "startDate": "2021-11-23",
+    "endDate": "2021-11-23",
+    "type": "Lecture Series of the DFG Collaborative Research Center 1187",
+    "in": "Learning (in) Digital",
+    "institution": "University of Siegen"
+  },
+  {
     "name": "Machine Learning. An Emerging Experimental Culture in Science",
     "by": "gramelsberger",
     "date": "2 February 2022",
