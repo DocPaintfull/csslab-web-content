@@ -76,34 +76,6 @@
     ],
     "contributions": [
       {
-        "name": "Understanding and Analysing Science's Algorithmic Regimes: A Primer in Computational Science Code Studies",
-        "authors": "Gramelsberger, Gabriele, Wenz, Daniel and Kasprowicz, Dawid",
-        "year": "2024",
-        "in": "Algorithmic Regimes: Methods, Interactions, and Politics",
-        "in_author": "Jarke, J., B. Prietl, S. Egbert, Y. Boeva, H. Heuer, and M. Arnold (eds.)",
-        "volume": "",
-        "pages": "",
-        "city": "Amsterdam",
-        "publisher": "Amsterdam University Press",
-        "doi": "",
-        "in_print": "true",
-        "url": ""
-      },
-      {
-        "name": "Towards antifragile manufacturing: Concepts from nature and complex human-made systems to gain from stressors and volatility",
-        "authors": "Becker, Marco, Kasprowicz, Dawid, Kurkina, Tetiana, Davari, Mehdi D., Gipperich, Marius, Gramelsberger, Gabriele, Bergs, Thomas, Schwaneberg, Ulrich, Trauth, Daniel",
-        "year": "2024",
-        "in": "Transformation towards Sustainability - A Novel Interdisciplinary Framework from RWTH Aachen University",
-        "in_author": "(Peter Letmathe, Christine Roll, Almut Balleer, et al (eds.)",
-        "volume": "",
-        "pages": "",
-        "city": "Cham",
-        "publisher": "Springer",
-        "doi": "",
-        "in_print": "true",
-        "url": ""
-      },
-      {
         "name": "Virtualität",
         "authors": "Kasprowicz, Dawid and Rieger, Stefan",
         "year": "2023",
@@ -358,6 +330,30 @@
       }
     ],
     "reviewed": [
+      {
+        "name": "Understanding and Analysing Science's Algorithmic Regimes: A Primer in Computational Science Code Studies",
+        "authors": "Gramelsberger, Gabriele, Wenz, Daniel and Kasprowicz, Dawid",
+        "year": "2024",
+        "in": "Algorithmic Regimes: Methods, Interactions, and Politics",
+        "in_author": "Jarke, J., B. Prietl, S. Egbert, Y. Boeva, H. Heuer, and M. Arnold (eds.)",
+        "volume": "",
+        "pages": "",
+        "city": "Amsterdam",
+        "publisher": "Amsterdam University Press",
+        "in_print": "true"
+      },
+      {
+        "name": "Towards antifragile manufacturing: Concepts from nature and complex human-made systems to gain from stressors and volatility",
+        "authors": "Becker, Marco, Kasprowicz, Dawid, Kurkina, Tetiana, Davari, Mehdi D., Gipperich, Marius, Gramelsberger, Gabriele, Bergs, Thomas, Schwaneberg, Ulrich, Trauth, Daniel",
+        "year": "2024",
+        "in": "Transformation towards Sustainability - A Novel Interdisciplinary Framework from RWTH Aachen University",
+        "in_author": "(Peter Letmathe, Christine Roll, Almut Balleer, et al (eds.)",
+        "volume": "",
+        "pages": "",
+        "city": "Cham",
+        "publisher": "Springer",
+        "in_print": "true"
+      },
       {
         "name": "Ästhetik als Unschärfe – Günther Anders und die Frage nach dem Film als Kunst",
         "authors": "Kasprowicz, Dawid",
