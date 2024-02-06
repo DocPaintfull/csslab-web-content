@@ -137,7 +137,7 @@
                 "doi": "10.1007/s13194-024-00569-6",
                 "publisher": "",
                 "url": "http://www.markuspantsar.fi/wp-content/uploads/2024/01/Pantsar-2024-Theorem-proving-in-artificial-neural-networks-new-frontiers-in-mathematical-AI.pdf",
-                "in_print": true
+                "in_print": false
             },
             {
                 "name": "Why Do Numbers Exist? A Psychologist Constructivist Account",
@@ -202,7 +202,7 @@
                 "doi": "10.1007/s11245-022-09842-w",
                 "publisher": "Springer",
                 "url": "http://www.markuspantsar.fi/wp-content/uploads/2023/06/Pantsar-2023-From-Maximal-Intersubjectivity-to-Objectivity.pdf",
-                "in_print": true
+                "in_print": false
             },
             {
                 "name": "On Radical Enactivist Accounts of Arithmetical Cognition",
@@ -214,7 +214,7 @@
                 "city": "",
                 "publisher": "",
                 "url": "https://journals.publishing.umich.edu/ergo/article/id/3120/",
-                "in_print": true
+                "in_print": false
             },
             {
                 "name": "On the Development of Geometric Cognition: Beyond Nature vs. Nurture",
@@ -253,7 +253,7 @@
                 "publisher": "",
                 "doi": "10.1093/philmat/nkab010",
                 "url": "http://www.markuspantsar.fi/wp-content/uploads/2021/03/objectivity-without-objects-final.pdf",
-                "in_print": false
+                "in_print": true
             },
             {
                 "name": "Bootstrapping of Integer Concepts: the Stronger Deviant‑interpretation Challenge (and How to Solve It)",
@@ -318,7 +318,7 @@
                 "publisher": "",
                 "doi": "",
                 "url": "http://www.markuspantsar.fi/wp-content/uploads/2020/01/Buijsman-Pantsar-2020-Complexity-of-Mental-Integer-Addition.pdf",
-                "in_print": false
+                "in_print": true
             },
             {
                 "name": "The Enculturated Move From Proto-Arithmetic to Arithmetic",
