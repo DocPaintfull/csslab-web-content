@@ -127,6 +127,66 @@
         ],
         "reviewed":[
             {
+                "name": "Theorem Proving in Artificial Neural Networks: New Frontiers in Mathematical AI",
+                "authors": "Pantsar, Markus",
+                "year": "2024",
+                "in": "European Journal for Philosophy of Science",
+                "volume": "14",
+                "pages": "4",
+                "city": "",
+                "doi": "10.1007/s13194-024-00569-6",
+                "publisher": "",
+                "in_print": true
+            },
+            {
+                "name": "Why Do Numbers Exist? A Psychologist Constructivist Account",
+                "authors": "Pantsar, Markus",
+                "year": "2024",
+                "in": "Inquiry",
+                "volume": "",
+                "pages": "",
+                "city": "",
+                "doi": "doi: 10.1080/0020174X.2024.2305386",
+                "publisher": "",
+                "in_print": true
+            },
+            {
+                "name": "Peirce’s Philosophy of Notations and the Trade-offs in Comparing Numeral Symbol Systems",
+                "authors": "Pantsar, Markus with Frederik Stjernfelt",
+                "year": "2023",
+                "in": "Cognitive Semiotics",
+                "volume": "",
+                "pages": "",
+                "city": "",
+                "doi": "10.1515/cogsem-2023-2007",
+                "publisher": "",
+                "in_print": true
+            },
+            {
+                "name": "On Radical Enactivist Accounts of Arithmetical Cognition",
+                "authors": "Pantsar, Markus",
+                "year": "2023",
+                "in": "Ergo",
+                "volume": "9",
+                "pages": "57",
+                "city": "",
+                "doi": "doi.org/10.3998/ergo.3120",
+                "publisher": "",
+                "in_print": false
+            },
+            {
+                "name": "Developing Artificial Human-Like Arithmetical Intelligence (and Why)",
+                "authors": "Pantsar, Markus",
+                "year": "2023",
+                "in": "Minds and Machines",
+                "volume": "",
+                "pages": "1-18",
+                "city": "",
+                "doi": "10.1007/s11023-023-09636-y",
+                "publisher": "",
+                "in_print": false
+            },
+            {
                 "name": "From Maximal Intersubjectivity to Objectivity: An Argument from the Development of Arithmetical Cognition",
                 "authors": "Pantsar, Markus",
                 "year": "2022",
