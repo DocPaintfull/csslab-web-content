@@ -432,7 +432,43 @@
         ],
         "misc": [
             {
-                "name": "Arguments against strong artificial intelligence, Master’s thesis in theoretical philosophy",
+                "name": "Blog entry: “On Radical Enactivist Accounts of Arithmetical Cognition",
+                "authors": "Pantsar, Markus",
+                "year": "2023",
+                "in": "Ergo Blog",
+                "volume": "",
+                "pages": "",
+                "city": "",
+                "publisher": "",
+                "url": "https://ergoblog.org/markus-pantsar-on-radical-enactivist-accounts-of-arithmetical-cognition/",
+                "doi": ""
+              },
+              {
+                "name": "Twitter and the Aphoristic (Re)turn in Thought, Knowledge and Education",
+                "authors": "Pantsar, Markus with Fuller, S., Gorman, D., Dusek, V., Babich, B., Basbøll, T. & Rider, S.",
+                "year": "2022",
+                "in": "Educational Philosophy and Theory",
+                "volume": "",
+                "pages": "",
+                "city": "",
+                "publisher": "",
+                "url": "",
+                "doi": "10.1080/00131857.2022.2132937"
+              },
+            {
+                "name": "Mathematical Cognition and Enculturation: Introduction to the Synthese Special Issue",
+                "authors": "Pantsar, Markus",
+                "year": "2020",
+                "in": "Synthese",
+                "volume": "197",
+                "pages": "3647-3655",
+                "city": "",
+                "publisher": "",
+                "url": "",
+                "doi": "10.1007/s11229-019-02478-1"
+              },
+            {
+                "name": "Thesis - Arguments against strong artificial intelligence, Master’s thesis in theoretical philosophy",
                 "authors": "Pantsar, Markus",
                 "year": "2004",
                 "in": "",
@@ -444,7 +480,7 @@
                 "doi": ""
               },
               {
-                "name": "Gödel’s Incompleteness Theorems, Laudatur thesis in mathematics",
+                "name": "Thesis - Gödel’s Incompleteness Theorems, Laudatur thesis in mathematics",
                 "authors": "Pantsar, Markus",
                 "year": "2004",
                 "in": "",
