@@ -411,6 +411,19 @@
         ],
         "books": [
             {
+                "name": "Numerical Cognition and the Epistemology of Arithmetic",
+                "authors": "Pantsar, Markus",
+                "year": "2024",
+                "in": "",
+                "volume": "",
+                "pages": "",
+                "city": "",
+                "publisher": "Cambridge University Press",
+                "doi": "",
+                "url": "",
+                "in_print": false
+              },
+            {
                 "name": "Truth, Proof and Gödelian Arguments: A Defence of Tarskian Truth in Mathematics",
                 "authors": "Pantsar, Markus",
                 "year": "2009",
