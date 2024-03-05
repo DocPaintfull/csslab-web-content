@@ -76,6 +76,19 @@
     ],
     "contributions": [
       {
+        "name": "Understanding and Analysing Science's Algorithmic Regimes: A Primer in Computational Science Code Studies",
+        "authors": "Gramelsberger, Gabriele, Wenz, Daniel and Kasprowicz, Dawid",
+        "year": "2024",
+        "in": "Algorithmic Regimes: Methods, Interactions, and Politics",
+        "in_author": "Jarke, J., B. Prietl, S. Egbert, Y. Boeva, H. Heuer, and M. Arnold (eds.)",
+        "volume": "",
+        "pages": "57-78",
+        "city": "Amsterdam",
+        "publisher": "Amsterdam University Press",
+        "in_print": "false",
+        "url": "https://www.jstor.org/stable/jj.11895528"
+      },
+      {
         "name": "Virtualität",
         "authors": "Kasprowicz, Dawid and Rieger, Stefan",
         "year": "2023",
@@ -330,18 +343,6 @@
       }
     ],
     "reviewed": [
-      {
-        "name": "Understanding and Analysing Science's Algorithmic Regimes: A Primer in Computational Science Code Studies",
-        "authors": "Gramelsberger, Gabriele, Wenz, Daniel and Kasprowicz, Dawid",
-        "year": "2024",
-        "in": "Algorithmic Regimes: Methods, Interactions, and Politics",
-        "in_author": "Jarke, J., B. Prietl, S. Egbert, Y. Boeva, H. Heuer, and M. Arnold (eds.)",
-        "volume": "",
-        "pages": "",
-        "city": "Amsterdam",
-        "publisher": "Amsterdam University Press",
-        "in_print": "true"
-      },
       {
         "name": "Towards antifragile manufacturing: Concepts from nature and complex human-made systems to gain from stressors and volatility",
         "authors": "Becker, Marco, Kasprowicz, Dawid, Kurkina, Tetiana, Davari, Mehdi D., Gipperich, Marius, Gramelsberger, Gabriele, Bergs, Thomas, Schwaneberg, Ulrich, Trauth, Daniel",
