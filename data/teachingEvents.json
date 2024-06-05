@@ -1,5 +1,145 @@
 [
   {
+    "name": "Gerechtigkeit und Fairness",
+    "heldBy": "Jan-Hendrik Heinrichs",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W22"
+  },
+  {
+    "name": "Transzendentalphilosophie als systematische Philosophie. Kant und der Neukantianismus",
+    "heldBy": "Reinhold Breil",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W22"
+  },
+  {
+    "name": "Politische Philosophie im 20. Jahrhundert: Liberalismus und Kommunitarismus",
+    "heldBy": "Wulf Kellerwessel",
+    "description": "",
+    "type": "Vorlesung",
+    "semesterTags": "W22"
+  },
+  {
+    "name": "Einführung in die Ethik",
+    "heldBy": "Wulf Kellerwessel",
+    "description": "",
+    "type": "Vorlesung",
+    "semesterTags": "W22"
+  },
+  {
+    "name": "Argumentation und Interpretation: Argumentationstheorie",
+    "heldBy": "Wulf Kellerwessel",
+    "description": "",
+    "type": "Vorlesung",
+    "semesterTags": "W22"
+  },
+  {
+    "name": "Praktische Philosophie zu Seminar Internationale Gerechtigkeit",
+    "heldBy": "Wulf Kellerwessel",
+    "description": "",
+    "type": "Übung",
+    "semesterTags": "W22"
+  },
+  {
+    "name": "Internationale Gerechtigkeit",
+    "heldBy": "Wulf Kellerwessel",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W22"
+  },
+  {
+    "name": "Theoretische Philosophie zu Seminar Vertiefung Theoretische Philosophie",
+    "heldBy": "Ana Maria Guzmán Olmos",
+    "description": "",
+    "type": "Übung",
+    "semesterTags": "W22"
+  },
+  {
+    "name": "Die Logik der Natur",
+    "heldBy": "Ana Maria Guzmán Olmos",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W22"
+  },
+  {
+    "name": "Einführung in die Philosophie des Embodiment",
+    "heldBy": "Dawid Norbert Kasprowicz",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W22"
+  },
+  {
+    "name": "Vertiefung Theoretische Philosophie",
+    "heldBy": "Gabriele Gramelsberger, Daniel Wenz",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W22"
+  },
+  {
+    "name": "Platon - zwischen Naturphilosophie und Wissenschaftstheorie",
+    "heldBy": "Daniel Wenz",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W22"
+  },
+  {
+    "name": "Die Grenzen des Denkens",
+    "heldBy": "Daniel Wenz",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W22"
+  },
+  {
+    "name": "Theorien des Forschens",
+    "heldBy": "Markus Pantsar",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W22"
+  },
+  {
+    "name": "Introduction to the Philosophy of Science and Technology",
+    "heldBy": "Markus Pantsar",
+    "description": "",
+    "type": "Lecture",
+    "semesterTags": "W22"
+  },
+  {
+    "name": "Vertiefung Theoretische Philosophie",
+    "heldBy": "Gabriele Gramelsberger",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W22"
+  },
+  {
+    "name": "Einführung in die Erkenntnistheorie",
+    "heldBy": "Gabriele Gramelsberger",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W22"
+  },
+  {
+    "name": "Forschungskolloquium Philosophie",
+    "heldBy": "Gabriele Gramelsberger",
+    "description": "",
+    "type": "Colloquium",
+    "semesterTags": "W22"
+  },
+  {
+    "name": "Einführungsworkshop GovTec",
+    "heldBy": "Stefan Karl Josef Böschen, Gabriele Gramelsberger",
+    "description": "",
+    "type": "Workshop",
+    "semesterTags": "W22"
+  },
+  {
+    "name": "Blockseminar STS-Methoden",
+    "heldBy": "Stefan Karl Josef Böschen, Gabriele Gramelsberger",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "WS22"
+  },
+  {
     "name": "BA PLuS",
     "heldBy": "Prof. Dr. Gabriele Gramelsberger",
     "description": "",
