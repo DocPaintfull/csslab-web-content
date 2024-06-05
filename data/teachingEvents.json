@@ -3,6 +3,272 @@
     "name": "Bachelorkolloquium BA PLuS",
     "heldBy": "Gabriele Gramelsberger, Wulf Kellerwessel",
     "description": "",
+    "type": "Seminar",
+    "semesterTags": "S24"
+  },
+  {
+    "name": "Big Data, Big Responsibility",
+    "heldBy": "Stefan Karl Josef Böschen, Gabriele Gramelsberger",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S24"
+  },
+  {
+    "name": "Forschungskolloquium Philosophie",
+    "heldBy": "Gabriele Gramelsberger",
+    "description": "",
+    "type": "Kolloquium",
+    "semesterTags": "S24"
+  },
+  {
+    "name": "GovTec Masterseminar",
+    "heldBy": "Stefan Karl Josef Böschen, Gabriele Gramelsberger",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S24"
+  },
+  {
+    "name": "Perspektiven verantwortlicher Technikgestaltung in dynamischen Umwelten",
+    "heldBy": "Stefan Karl Josef Böschen, Gabriele Gramelsberger",
+    "description": "",
+    "type": "Ringvorlesung",
+    "semesterTags": "S24"
+  },
+  {
+    "name": "Modelling for Policy",
+    "heldBy": "Markus Pantsar",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S24"
+  },
+  {
+    "name": "Philosophy of Computational Sciences",
+    "heldBy": "Markus Pantsar",
+    "description": "",
+    "type": "Vorlesung",
+    "semesterTags": "S24"
+  },
+  {
+    "name": "Wissenschaft und Technik",
+    "heldBy": "Daniel Wenz",
+    "description": "",
+    "type": "Vorlesung/Seminar",
+    "semesterTags": "S24"
+  },
+  {
+    "name": "Philosophie des Digitalen",
+    "heldBy": "Daniel Wenz",
+    "description": "",
+    "type": "Vorlesung/Seminar",
+    "semesterTags": "S24"
+  },
+  {
+    "name": "Ontologie der Technik: Maschine, technische und digitale Objekte",
+    "heldBy": "Ana Maria Guzmán Olmos",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S24"
+  },
+  {
+    "name": "John Stuart und Harriet Taylor-Mill: \"Über die Freiheit\".\"Betrachtungen über die Repräsentativregierung\" und \"Die Hörigkeit der Frau\"",
+    "heldBy": "Wulf Kellerwessel",
+    "description": "",
+    "type": "Lektürekurs",
+    "semesterTags": "S24"
+  },
+  {
+    "name": "Politische Philosophie der Neuzeit - von Hobbes bis Kant",
+    "heldBy": "Wulf Kellerwessel",
+    "description": "",
+    "type": "Lektürekurs",
+    "semesterTags": "S24"
+  },
+  {
+    "name": "Der Begriff \"Rasse\" und das Thema \"Rassismus\" in der Philosophie",
+    "heldBy": "Wulf Kellerwessel",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S24"
+  },
+  {
+    "name": "Politische Philosophie; \"Menschenrechte und ihre philosophische Begründung\"",
+    "heldBy": "Wulf Kellerwessel",
+    "description": "",
+    "type": "Vorlesung",
+    "semesterTags": "S24"
+  },
+  {
+    "name": "Projekt \"Leonardo\" Soziale Gerechtigkeit – Angewandte Ethik, Politische Philosophie und nachhaltige Gesellschaftsentwicklung",
+    "heldBy": "Wulf Kellerwessel",
+    "description": "",
+    "type": "Vorlesung",
+    "semesterTags": "S24"
+  },
+  {
+    "name": "Kausalität und Freiheit: Die aktuelle Bedeutung von Kants Antinomienlehre für eine Theorie der Wissenschaften",
+    "heldBy": "Reinhold Breil",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S24"
+  },
+  {
+    "name": "Verantwortung in Wissenschaft und Entwicklung",
+    "heldBy": "Jan-Hendrik Heinrichs",
+    "description": "",
+    "type": "Lektürekurs",
+    "semesterTags": "S24"
+  },
+  {
+    "name": "Das Subjekt. Entfaltung und Hinterfragung eines Begriffs, der die Moderne bestimmt",
+    "heldBy": "Jürgen Kippenhan",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S24"
+  },
+  {
+    "name": "Blockseminar STS-Methoden",
+    "heldBy": "Stefan Karl Josef Böschen, Gabriele Gramelsberger",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W23"
+  },
+  {
+    "name": "Einführungsworkshop GovTec",
+    "heldBy": "Stefan Karl Josef Böschen, Gabriele Gramelsberger",
+    "description": "",
+    "type": "Workshop",
+    "semesterTags": "W23"
+  },
+  {
+    "name": "Forschungskolloquium Philosophie",
+    "heldBy": "Gabriele Gramelsberger",
+    "description": "",
+    "type": "Kolloquium",
+    "semesterTags": "W23"
+  },
+  {
+    "name": "GovTec Masterseminar",
+    "heldBy": "Stefan Karl Josef Böschen, Gabriele Gramelsberger",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W23"
+  },
+  {
+    "name": "Introduction to the Philosophy of Science and Technology",
+    "heldBy": "Markus Pantsar",
+    "description": "",
+    "type": "Lecture",
+    "semesterTags": "W23"
+  },
+  {
+    "name": "Theorien des Forschens",
+    "heldBy": "Markus Pantsar",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W23"
+  },
+  {
+    "name": "Einführung in die Erkenntnistheorie",
+    "heldBy": "Daniel Wenz",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W23"
+  },
+  {
+    "name": "Vertiefung Theoretische Philosophie",
+    "heldBy": "Daniel Wenz",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W23"
+  },
+  {
+    "name": "Messprobleme in den Wissenschaften",
+    "heldBy": "Dawid Norbert Kasprowicz",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W23"
+  },
+  {
+    "name": "Was ist Leben?",
+    "heldBy": "Ana Maria Guzmán Olmos",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W23"
+  },
+  {
+    "name": "Theoretische Philosophie zu Seminar Vertiefung Theoretische Philosophie",
+    "heldBy": "Ana Maria Guzmán Olmos",
+    "description": "",
+    "type": "Übung",
+    "semesterTags": "W23"
+  },
+  {
+    "name": "Projekt \"Leonardo\" Engineering Life: Vorstellungen von Lebensnähe",
+    "heldBy": "Ana Maria Guzmán Olmos",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W23"
+  },
+  {
+    "name": "Umwelt- und Klimaethik",
+    "heldBy": "Wulf Kellerwessel",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W23"
+  },
+  {
+    "name": "Praktische Philosophie zu Seminar Umwelt- und Klimaethik",
+    "heldBy": "Wulf Kellerwessel",
+    "description": "",
+    "type": "Übung",
+    "semesterTags": "W23"
+  },
+  {
+    "name": "Argumentation und Interpretation: Argumentationstheorie",
+    "heldBy": "Wulf Kellerwessel",
+    "description": "",
+    "type": "Vorlesung",
+    "semesterTags": "W23"
+  },
+  {
+    "name": "Einführung in die Ethik",
+    "heldBy": "Wulf Kellerwessel",
+    "description": "",
+    "type": "Vorlesung",
+    "semesterTags": "W23"
+  },
+  {
+    "name": "Politische Philosophie im 20. Jahrhundert: Liberalismus und Kommunitarismus",
+    "heldBy": "Wulf Kellerwessel",
+    "description": "",
+    "type": "Vorlesung",
+    "semesterTags": "W23"
+  },
+  {
+    "name": "Projekt \"Leonardo\" Welche Rolle spielen Tiere in der Ethik? Tiere – Moral – Rechte",
+    "heldBy": "Wulf Kellerwessel",
+    "description": "",
+    "type": "Vorlesung",
+    "semesterTags": "W23"
+  },
+  {
+    "name": "Positionen der Wissenschaftstheorie",
+    "heldBy": "Reinhold Breil",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W23"
+  },
+  {
+    "name": "Instrumentalisierungen der Wissenschaften",
+    "heldBy": "Jan-Hendrik Heinrichs",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W23"
+  },
+  {
+    "name": "Bachelorkolloquium BA PLuS",
+    "heldBy": "Gabriele Gramelsberger, Wulf Kellerwessel",
+    "description": "",
     "type": "Kolloquium",
     "semesterTags": "S23"
   },
@@ -87,7 +353,7 @@
     "name": "Demokratie im Zeitalter der Globalisierung",
     "heldBy": "Wulf Kellerwessel",
     "description": "",
-    "type": "Seminar Höffe",
+    "type": "Seminar",
     "semesterTags": "S23"
   },
   {
