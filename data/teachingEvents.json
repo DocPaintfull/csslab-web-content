@@ -1,16 +1,212 @@
 [
   {
-    "name": "Gerechtigkeit und Fairness",
+    "name": "Bachelorkolloquium BA PLuS",
+    "heldBy": "Gabriele Gramelsberger, Wulf Kellerwessel",
+    "description": "",
+    "type": "Kolloquium",
+    "semesterTags": "S23"
+  },
+  {
+    "name": "Big Data, Big Responsibility",
+    "heldBy": "Stefan Karl Josef Böschen, Gabriele Gramelsberger",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S23"
+  },
+  {
+    "name": "Forschungskolloquium",
+    "heldBy": "Gabriele Gramelsberger",
+    "description": "",
+    "type": "Kolloquium",
+    "semesterTags": "S23"
+  },
+  {
+    "name": "GovTec Masterseminar",
+    "heldBy": "Stefan Karl Josef Böschen, Gabriele Gramelsberger",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S23"
+  },
+  {
+    "name": "Philosophie",
+    "heldBy": "Gabriele Gramelsberger, Andreas Michael Kaminski",
+    "description": "",
+    "type": "Kolloquium",
+    "semesterTags": "S23"
+  },
+  {
+    "name": "Perspektiven verantwortlicher Technikgestaltung in dynamischen Umwelten",
+    "heldBy": "Stefan Karl Josef Böschen, Gabriele Gramelsberger, Saskia Kathi Nagel, Astrid Marieke Rosenthal von der Pütten",
+    "description": "",
+    "type": "Ringvorlesung",
+    "semesterTags": "S23"
+  },
+  {
+    "name": "Was sind wissenschaftliche Revolutionen? Thomas S. Kuhn und sein Erbe",
+    "heldBy": "Gabriele Gramelsberger, Dawid Norbert Kasprowicz",
+    "description": "",
+    "type": "Vorlesung",
+    "semesterTags": "S23"
+  },
+  {
+    "name": "Wissenschaft und Technik",
+    "heldBy": "Gabriele Gramelsberger, Daniel Wenz",
+    "description": "",
+    "type": "Vorlesung",
+    "semesterTags": "S23"
+  },
+  {
+    "name": "Modelling for Policy",
+    "heldBy": "Markus Pantsar",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S23"
+  },
+  {
+    "name": "Philosophy of Computational Sciences",
+    "heldBy": "Markus Pantsar",
+    "description": "",
+    "type": "Vorlesung",
+    "semesterTags": "S23"
+  },
+  {
+    "name": "Ludwig Wittgenstein - Tractatus logico-philosophicus",
+    "heldBy": "Daniel Wenz",
+    "description": "",
+    "type": "Lektürekurs",
+    "semesterTags": "S23"
+  },
+  {
+    "name": "Feministische Perspektiven auf Technik und Wissenschaft",
+    "heldBy": "Ana Maria Guzmán Olmos",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S23"
+  },
+  {
+    "name": "Demokratie im Zeitalter der Globalisierung",
+    "heldBy": "Wulf Kellerwessel",
+    "description": "",
+    "type": "Seminar Höffe",
+    "semesterTags": "S23"
+  },
+  {
+    "name": "Politische Philosophie der Neuzeit: Hobbes, Locke, Rousseau",
+    "heldBy": "Wulf Kellerwessel",
+    "description": "",
+    "type": "Lektürekurs",
+    "semesterTags": "S23"
+  },
+  {
+    "name": "Angewandte Ethik \"Sandel über Gerechtigkeit - Theorie und Anwendung\"",
+    "heldBy": "Wulf Kellerwessel",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S23"
+  },
+  {
+    "name": "Politische Philosophie, Rechts- und Sozialphilosophie: Menschenrechte und ihre philosophische Begründung",
+    "heldBy": "Wulf Kellerwessel",
+    "description": "",
+    "type": "Vorlesung",
+    "semesterTags": "S23"
+  },
+  {
+    "name": "Projekt \"Leonardo\"",
+    "heldBy": "Wulf Kellerwessel",
+    "description": "",
+    "type": "Vorlesung",
+    "semesterTags": "S23"
+  },
+  {
+    "name": "Transzendentalphilosophie als systematische Philosophie. Aktualität: Hönigswald, Cramer, Wagner",
+    "heldBy": "Reinhold Breil",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S23"
+  },
+  {
+    "name": "Gegenwartstheorien der Gerechtigkeit",
     "heldBy": "Jan-Hendrik Heinrichs",
+    "description": "",
+    "type": "Lektürekurs",
+    "semesterTags": "S23"
+  },
+  {
+    "name": "Über Sinn und Unsinn. Überlegungen zum herausfordernden Verhältnis von Glauben und Wissen",
+    "heldBy": "Jürgen Kippenhan",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S23"
+  },
+  {
+    "name": "Blockseminar STS-Methoden",
+    "heldBy": "Stefan Karl Josef Böschen, Gabriele Gramelsberger",
     "description": "",
     "type": "Seminar",
     "semesterTags": "W22"
   },
   {
-    "name": "Transzendentalphilosophie als systematische Philosophie. Kant und der Neukantianismus",
-    "heldBy": "Reinhold Breil",
+    "name": "Vertiefung Theoretische Philosophie",
+    "heldBy": "Gabriele Gramelsberger",
     "description": "",
     "type": "Seminar",
+    "semesterTags": "W22"
+  },
+  {
+    "name": "Einführung in die Erkenntnistheorie",
+    "heldBy": "Gabriele Gramelsberger",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W22"
+  },
+  {
+    "name": "Forschungskolloquium Philosophie",
+    "heldBy": "Gabriele Gramelsberger",
+    "description": "",
+    "type": "Colloquium",
+    "semesterTags": "W22"
+  },
+  {
+    "name": "Einführungsworkshop GovTec",
+    "heldBy": "Stefan Karl Josef Böschen, Gabriele Gramelsberger",
+    "description": "",
+    "type": "Workshop",
+    "semesterTags": "W22"
+  },
+  {
+    "name": "Vertiefung Theoretische Philosophie",
+    "heldBy": "Gabriele Gramelsberger, Daniel Wenz",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W22"
+  },
+  {
+    "name": "Platon - zwischen Naturphilosophie und Wissenschaftstheorie",
+    "heldBy": "Daniel Wenz",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W22"
+  },
+  {
+    "name": "Die Grenzen des Denkens",
+    "heldBy": "Daniel Wenz",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W22"
+  },
+  {
+    "name": "Theorien des Forschens",
+    "heldBy": "Markus Pantsar",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W22"
+  },
+  {
+    "name": "Introduction to the Philosophy of Science and Technology",
+    "heldBy": "Markus Pantsar",
+    "description": "",
+    "type": "Lecture",
     "semesterTags": "W22"
   },
   {
@@ -70,74 +266,18 @@
     "semesterTags": "W22"
   },
   {
-    "name": "Vertiefung Theoretische Philosophie",
-    "heldBy": "Gabriele Gramelsberger, Daniel Wenz",
+    "name": "Gerechtigkeit und Fairness",
+    "heldBy": "Jan-Hendrik Heinrichs",
     "description": "",
     "type": "Seminar",
     "semesterTags": "W22"
   },
   {
-    "name": "Platon - zwischen Naturphilosophie und Wissenschaftstheorie",
-    "heldBy": "Daniel Wenz",
+    "name": "Transzendentalphilosophie als systematische Philosophie. Kant und der Neukantianismus",
+    "heldBy": "Reinhold Breil",
     "description": "",
     "type": "Seminar",
     "semesterTags": "W22"
-  },
-  {
-    "name": "Die Grenzen des Denkens",
-    "heldBy": "Daniel Wenz",
-    "description": "",
-    "type": "Seminar",
-    "semesterTags": "W22"
-  },
-  {
-    "name": "Theorien des Forschens",
-    "heldBy": "Markus Pantsar",
-    "description": "",
-    "type": "Seminar",
-    "semesterTags": "W22"
-  },
-  {
-    "name": "Introduction to the Philosophy of Science and Technology",
-    "heldBy": "Markus Pantsar",
-    "description": "",
-    "type": "Lecture",
-    "semesterTags": "W22"
-  },
-  {
-    "name": "Vertiefung Theoretische Philosophie",
-    "heldBy": "Gabriele Gramelsberger",
-    "description": "",
-    "type": "Seminar",
-    "semesterTags": "W22"
-  },
-  {
-    "name": "Einführung in die Erkenntnistheorie",
-    "heldBy": "Gabriele Gramelsberger",
-    "description": "",
-    "type": "Seminar",
-    "semesterTags": "W22"
-  },
-  {
-    "name": "Forschungskolloquium Philosophie",
-    "heldBy": "Gabriele Gramelsberger",
-    "description": "",
-    "type": "Colloquium",
-    "semesterTags": "W22"
-  },
-  {
-    "name": "Einführungsworkshop GovTec",
-    "heldBy": "Stefan Karl Josef Böschen, Gabriele Gramelsberger",
-    "description": "",
-    "type": "Workshop",
-    "semesterTags": "W22"
-  },
-  {
-    "name": "Blockseminar STS-Methoden",
-    "heldBy": "Stefan Karl Josef Böschen, Gabriele Gramelsberger",
-    "description": "",
-    "type": "Seminar",
-    "semesterTags": "WS22"
   },
   {
     "name": "BA PLuS",
