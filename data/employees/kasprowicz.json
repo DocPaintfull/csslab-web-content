@@ -76,6 +76,20 @@
     ],
     "contributions": [
       {
+        "name": "Kasprowicz, Dawid",
+        "authors": "",
+        "year": "2024",
+        "in": "Handbuch Medientheorien im 21. Jahrhundert.",
+        "in_author": "(ed. by C. Ernst, K. Krtilova, J. Schröter & A. Sudmann)",
+        "volume": "",
+        "pages": "",
+        "city": "Wiesbaden",
+        "publisher": "Springer",
+        "in_print": false,
+        "url": "https://link.springer.com/referenceworkentry/10.1007/978-3-658-38128-8_12-1",
+        "doi": "10.1007/978-3-658-38128-8_12-1"
+      },
+      {
         "name": "Understanding and Analysing Science's Algorithmic Regimes: A Primer in Computational Science Code Studies",
         "authors": "Gramelsberger, Gabriele, Wenz, Daniel and Kasprowicz, Dawid",
         "year": "2024",
@@ -344,6 +358,19 @@
     ],
     "reviewed": [
       {
+        "name": "Software in science is ubiquitous yet overlooked",
+        "authors": "Hocquet, A., Wieber, F., Gramelsberger, G., Hinsen, K., Diesmann, M., Pasquini Santos, F., Landström, C., Peters, B., Kasprowicz, D., Borrelli, A., Roth, P., Lee, C. A. L., Olteanu, A., & Böschen, S.",
+        "year": "2024",
+        "in": "Nature Computational Science",
+        "in_author": "",
+        "volume": "",
+        "pages": "",
+        "city": "",
+        "publisher": "",
+        "in_print": false,
+        "url": "https://www.nature.com/articles/s43588-024-00651-2"
+      },
+      {
         "name": "Towards antifragile manufacturing: Concepts from nature and complex human-made systems to gain from stressors and volatility",
         "authors": "Becker, Marco, Kasprowicz, Dawid, Kurkina, Tetiana, Davari, Mehdi D., Gipperich, Marius, Gramelsberger, Gabriele, Bergs, Thomas, Schwaneberg, Ulrich, Trauth, Daniel",
         "year": "2024",
@@ -459,6 +486,18 @@
       }
     ],
     "misc": [
+      {
+        "name": "Discussion with Sonja Fizek and Hannes Bajohr",
+        "authors": "Kasprowicz, Dawid",
+        "year": "2024",
+        "in": "The Space Between. Web-Site Project of the Folkwang University Essen",
+        "volume": "",
+        "pages": "",
+        "city": "",
+        "publisher": "",
+        "doi": "",
+        "url": "https://www.the-space-between.de/programme/autoplay"
+      },
       {
         "name": "Digital Liveliness and Virtuality",
         "authors": "Kasprowicz, Dawid",
