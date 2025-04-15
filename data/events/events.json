@@ -6,10 +6,10 @@
     "endDate": "2024-01-12",
     "type": "Guest Lecture",
     "organizedBy": "Guiseppe Primiero (Milan)",
-    "description": "",
+    "description": "Trustworthiness assessment of information sources is a useful alternative to automated fact-checking for the detection of disinformation online. In cases like experts' debates, the use of trustworthiness metrics on sources is a useful proxy for establishing the truthfulness of contents. In this talk I shall present recent work [1,2] on an algorithmic model for automatically generating a dynamic trustworthiness hierarchy among information sources based on a logical framework for agent-based trust evaluation [3] and enhanced by several parameters, including fact-checking. The method is a helpful tool for laypeople to navigate experts’ debates, which can also be supported by graphical aids. Current work is devoted to a probabilistic extension to model debates where the ability to reach information depends on its frequency, determining uncertainty in the value of trust associated to its source and a level of confidence in the resulting hierarchy.<br /><br /> [1] Davide Ceolin, Francesca Doneda, Giuseppe Primiero: Computable Trustworthiness Ranking of Medical Experts in Italy during the SARS-CoV-19 Pandemic. GoodIT 2021: 271-276 <br /><br /> [2] G. Primiero, D. Ceolin & F. Doneda (2023) A computational model for assessing experts’ trustworthiness, Journal of Experimental & Theoretical Artificial Intelligence, DOI: 10.1080/0952813X.2023.2183272 <br /><br /> [3] Giuseppe Primiero: A logic of negative trust. J. Appl. Non Class. Logics 30(3): 193-222 (2020)",
     "location": "RWTH Aachen (online)",
     "done": "",
-    "program": "Trustworthiness assessment of information sources is a useful alternative to automated fact-checking for the detection of disinformation online. In cases like experts' debates, the use of trustworthiness metrics on sources is a useful proxy for establishing the truthfulness of contents. In this talk I shall present recent work [1,2] on an algorithmic model for automatically generating a dynamic trustworthiness hierarchy among information sources based on a logical framework for agent-based trust evaluation [3] and enhanced by several parameters, including fact-checking. The method is a helpful tool for laypeople to navigate experts’ debates, which can also be supported by graphical aids. Current work is devoted to a probabilistic extension to model debates where the ability to reach information depends on its frequency, determining uncertainty in the value of trust associated to its source and a level of confidence in the resulting hierarchy.<br /><br /> [1] Davide Ceolin, Francesca Doneda, Giuseppe Primiero: Computable Trustworthiness Ranking of Medical Experts in Italy during the SARS-CoV-19 Pandemic. GoodIT 2021: 271-276 <br /><br /> [2] G. Primiero, D. Ceolin & F. Doneda (2023) A computational model for assessing experts’ trustworthiness, Journal of Experimental & Theoretical Artificial Intelligence, DOI: 10.1080/0952813X.2023.2183272 <br /><br /> [3] Giuseppe Primiero: A logic of negative trust. J. Appl. Non Class. Logics 30(3): 193-222 (2020)",
+    "program": "",
     "url": ""
   },
   {
@@ -299,10 +299,10 @@
     "endDate": "2021-11-19",
     "type": "Online Lecture",
     "organizedBy": "Vincent Lam (Bern University)",
-    "description": "",
+    "description": "Machine learning methods have recently created high expectations in the climate modelling context in view of addressing climate change, but they are often considered as non-physics-based ‘black boxes’ that may not provide any understanding. However, in many ways, understanding seems indispensable to appropriately evaluate climate models and to build confidence in climate projections. Relying on two case studies, we compare how machine learning and standard statistical techniques affect our ability to understand the climate system. For that purpose, we put five evaluative criteria of understanding to work: intelligibility, representational accuracy, empirical accuracy, coherence with background knowledge, and assessment of the domain of validity.We argue that the two families of methods are part of the same continuum where these various criteria of understanding come in degrees, and that therefore machine learning methods do not necessarily constitute a radical departure from standard statistical tools, as far as understanding is concerned.",
     "location": "RWTH Aachen (Registration under daniel.wenz@humtec.rwth-aachen.de)",
     "done": "false",
-    "program": "Machine learning methods have recently created high expectations in the climate modelling context in view of addressing climate change, but they are often considered as non-physics-based ‘black boxes’ that may not provide any understanding. However, in many ways, understanding seems indispensable to appropriately evaluate climate models and to build confidence in climate projections. Relying on two case studies, we compare how machine learning and standard statistical techniques affect our ability to understand the climate system. For that purpose, we put five evaluative criteria of understanding to work: intelligibility, representational accuracy, empirical accuracy, coherence with background knowledge, and assessment of the domain of validity.We argue that the two families of methods are part of the same continuum where these various criteria of understanding come in degrees, and that therefore machine learning methods do not necessarily constitute a radical departure from standard statistical tools, as far as understanding is concerned."
+    "program": ""
   },
   {
     "name": "Scoring Society. Methods, Interactions, Politics",
@@ -323,10 +323,10 @@
     "endDate": "2021-06-19",
     "type": "Online-Lecture",
     "organizedBy": "Axel Gelfert / TU Berlin",
-    "description": "",
+    "description": "Much ink has been spilt on the nefarious aspects of creating and disseminating fake news, its adverse effects on the public sphere and the violation of trust it engenders. Yet, given that the socio-epistemic dynamics that underlie fake news are here to stay, it is equally important to think about how we can navigate treacherous informational environments. I argue that this requires the cultivation of epistemic routines that reduce our exposure to misleading and deceptive information, while at the same time continuing to allow us to partake in the collective growth of knowledge. Shifting the focus to epistemic routines steers a middle path between two purported solutions that have received much attention: viz., between emphasizing the individual’s responsibility to ‘think critically and check one’s sources’ and advocating technological tweaks (such as automated fact-checking). While epistemic agents ought to be held responsible for the epistemic routines they commit themselves to, there is also a collective need for making the predictable effects of such choices transparent to individuals, wherever this is technologically possible.",
     "location": "RWTH Aachen",
     "done": "false",
-    "program": "Much ink has been spilt on the nefarious aspects of creating and disseminating fake news, its adverse effects on the public sphere and the violation of trust it engenders. Yet, given that the socio-epistemic dynamics that underlie fake news are here to stay, it is equally important to think about how we can navigate treacherous informational environments. I argue that this requires the cultivation of epistemic routines that reduce our exposure to misleading and deceptive information, while at the same time continuing to allow us to partake in the collective growth of knowledge. Shifting the focus to epistemic routines steers a middle path between two purported solutions that have received much attention: viz., between emphasizing the individual’s responsibility to ‘think critically and check one’s sources’ and advocating technological tweaks (such as automated fact-checking). While epistemic agents ought to be held responsible for the epistemic routines they commit themselves to, there is also a collective need for making the predictable effects of such choices transparent to individuals, wherever this is technologically possible."
+    "program": ""
   },
   {
     "name": "Ampliative Deductive Proof in Mathematical Practice: Lessons from Kant and Frege",
@@ -335,10 +335,10 @@
     "endDate": "2021-05-21",
     "type": "Online-Lecture",
     "organizedBy": "Danielle Macbeth / Haverford College",
-    "description": "",
+    "description": "Mathematicians in their practice appear to establish fully contentful, non-trivial truths that extend our knowledge. And at least in some cases they do so through a course of deductive reasoning from the contents of concepts, from definitions. Building on the work of Kant and Frege, I aim to clarify how this works, how it is that by deductive reasoning on the basis of definitions of mathematical concepts one can discover substantive and novel mathematical truths.",
     "location": "RWTH Aachen (Registration under dawid.kasprowicz@humtec.rwth-aachen.de)",
     "done": "false",
-    "program": "Mathematicians in their practice appear to establish fully contentful, non-trivial truths that extend our knowledge. And at least in some cases they do so through a course of deductive reasoning from the contents of concepts, from definitions. Building on the work of Kant and Frege, I aim to clarify how this works, how it is that by deductive reasoning on the basis of definitions of mathematical concepts one can discover substantive and novel mathematical truths."
+    "program": ""
   },
   {
     "name": "The optimist, the curious and the sceptic: Three earth scientist perspectives on machine learning",
@@ -347,10 +347,10 @@
     "endDate": "2021-04-16",
     "type": "Online-Lecture",
     "organizedBy": "Uwe Ehret, Erwin Zehe, Jan Cermat / Karlsruhe Institute of Technology",
-    "description": "",
+    "description": "In this talk, we present the perspectives of three earth scientists on the uses, benefits and limitations of  machine learning (ML) approaches applied to their discipline. Jan Cermak provides an optimistic view based on successful applications of ML approaches for exploiting big data in remote sensing and atmospheric modelling. Uwe Ehret acknowledges the recent success of ML approaches in hydrological modelling, but argues that further development of ML models should be based on rigorous out-of-sample evaluation, and with a focus on interpretability and parsimony. Erwin Zehe, physicist by training, offers a sceptical view, making the case for reasoning and modelling based on first principles",
     "location": "RWTH Aachen (Registration under dawid.kasprowicz@humtec.rwth-aachen.de)",
     "done": "false",
-    "program": "In this talk, we present the perspectives of three earth scientists on the uses, benefits and limitations of  machine learning (ML) approaches applied to their discipline. Jan Cermak provides an optimistic view based on successful applications of ML approaches for exploiting big data in remote sensing and atmospheric modelling. Uwe Ehret acknowledges the recent success of ML approaches in hydrological modelling, but argues that further development of ML models should be based on rigorous out-of-sample evaluation, and with a focus on interpretability and parsimony. Erwin Zehe, physicist by training, offers a sceptical view, making the case for reasoning and modelling based on first principles"
+    "program": ""
   },
   {
     "name": "Algorithmic Regimes",
@@ -359,10 +359,10 @@
     "endDate": "2021-02-02",
     "type": "Associated Online-Workshop",
     "organizedBy": "Dawid Kasprowicz, Daniel Wenz, Gabriele Gramelsberger, CSS Lab",
-    "description": "",
+    "description": "The planned network \"Algorithmic Regimes: Interactions, Methods and Politics\" aims to examine the current changes in scientific and non-scientific practices of knowledge production caused by the dissemination and rise of algorithmic, (big) data-driven systems. We call theses systems 'algorithmic regimes'. These current changes involve shifts in the methodology and epistemology of knowledge production, especially in the ways in which scientific knowledge and non-scientific knowledge are entangled and/or distinguished. The interdisciplinary network approaches the emerging 'algorithmic regimes' by focusing on media practices like coding, algorithm-design and -use to ask how these practices reshape, extend but also complicate the understanding of scientific and non-scientific knowledge production in an era of algorithmic big data-analysis.",
     "location": "RWTH Aachen",
     "done": "true",
-    "program": "The planned network \"Algorithmic Regimes: Interactions, Methods and Politics\" aims to examine the current changes in scientific and non-scientific practices of knowledge production caused by the dissemination and rise of algorithmic, (big) data-driven systems. We call theses systems 'algorithmic regimes'. These current changes involve shifts in the methodology and epistemology of knowledge production, especially in the ways in which scientific knowledge and non-scientific knowledge are entangled and/or distinguished. The interdisciplinary network approaches the emerging 'algorithmic regimes' by focusing on media practices like coding, algorithm-design and -use to ask how these practices reshape, extend but also complicate the understanding of scientific and non-scientific knowledge production in an era of algorithmic big data-analysis."
+    "program": ""
   },
   {
     "name": "How to Model Artificial Sociality: A Proposal",
@@ -371,10 +371,10 @@
     "endDate": "2021-02-05",
     "type": "Online-Colloquium",
     "organizedBy": "Johanna Seibt / Aarhus University",
-    "description": "",
+    "description": "While the ethical problems of AI and social robotics have been foregrounded during the past decade, this talk addresses the conceptual problems that arise when artificial agents present themselves as social agents. With focus on social robotics in particular, I argue that in the current research situation we first need (philosophical) ontology and then ethics--more precise descriptions of human social interactions with robots will enable us to produce the sort of empirical data that can ground detailed ethical recommendations. I introduce the descriptive framework OASIS (Ontology of Asymmetric Social Interactions) which is based on three constructional ideas: degrees of simulation, levels of sociality, and perspectivalness.  As I try to show, OASIS offere simple, yet sufficiently expressive and precise descriptive tools that can facilitate the interdisciplinary integration of Human-Robot Interaction Research.",
     "location": "RWTH Aachen",
     "done": "false",
-    "program": "While the ethical problems of AI and social robotics have been foregrounded during the past decade, this talk addresses the conceptual problems that arise when artificial agents present themselves as social agents. With focus on social robotics in particular, I argue that in the current research situation we first need (philosophical) ontology and then ethics--more precise descriptions of human social interactions with robots will enable us to produce the sort of empirical data that can ground detailed ethical recommendations. I introduce the descriptive framework OASIS (Ontology of Asymmetric Social Interactions) which is based on three constructional ideas: degrees of simulation, levels of sociality, and perspectivalness.  As I try to show, OASIS offere simple, yet sufficiently expressive and precise descriptive tools that can facilitate the interdisciplinary integration of Human-Robot Interaction Research.",
+    "program": "",
     "links": [
       {
         "name": "Programm",
@@ -441,10 +441,10 @@
     "endDate": "2020-11-19",
     "type": "Online-Lecture",
     "organizedBy": " Ben Jantzen/ Virginia Tech",
-    "description": "Kolloquium in Cooperation with the Research Group \"Modelling Trust\" of the HLRS Stuttgart",
+    "description": "Kolloquium in Cooperation with the Research Group \"Modelling Trust\" of the HLRS Stuttgart. Abstract:<br/> There is concern that the methods of machine learning (ML) offer limited support for scientific inference. The worry is that while ML methods are apt for spotting hidden patterns in large, complex datasets, the output of such methods is neither readily interpretable nor accompanied by clear error bounds or degrees of confidence. More broadly, science generally aims at causal knowledge, and the statistical methods of ML are not reliable guides to causal relations. However, if ML is understood broadly to encompass all algorithms that learn from empirical experience, these fears are misguided. In this talk, I outline the remarkable progress over the last three decades in finding algorithmic solutions to a series of scientific inference problems: (1) combining causal knowledge with statistical learning techniques, (2) discovering causal structure, (3) identifying laws of nature, and (4) inventing novel scientifically salient variables. I argue that these advances represent a powerful armamentarium for automated scientific discovery. But this armamentarium is incomplete. I close by indicating an overlooked step in experimental inquiry that remains poorly characterized and consequently cannot yet be automated.",
     "location": "RWTH Aachen",
     "done": "false",
-    "program": "Abstract:<br/> There is concern that the methods of machine learning (ML) offer limited support for scientific inference. The worry is that while ML methods are apt for spotting hidden patterns in large, complex datasets, the output of such methods is neither readily interpretable nor accompanied by clear error bounds or degrees of confidence. More broadly, science generally aims at causal knowledge, and the statistical methods of ML are not reliable guides to causal relations. However, if ML is understood broadly to encompass all algorithms that learn from empirical experience, these fears are misguided. In this talk, I outline the remarkable progress over the last three decades in finding algorithmic solutions to a series of scientific inference problems: (1) combining causal knowledge with statistical learning techniques, (2) discovering causal structure, (3) identifying laws of nature, and (4) inventing novel scientifically salient variables. I argue that these advances represent a powerful armamentarium for automated scientific discovery. But this armamentarium is incomplete. I close by indicating an overlooked step in experimental inquiry that remains poorly characterized and consequently cannot yet be automated.",
+    "program": "",
     "links": [
       {
         "name": "Website of HLRS Stuttgart",
