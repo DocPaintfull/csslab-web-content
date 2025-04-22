@@ -52,14 +52,14 @@
     "name": "Wissenschaft und Technik",
     "heldBy": "Daniel Wenz",
     "description": "",
-    "type": "Vorlesung/Seminar",
+    "type": "Seminar/Vorlesung",
     "semesterTags": "S24"
   },
   {
     "name": "Philosophie des Digitalen",
     "heldBy": "Daniel Wenz",
     "description": "",
-    "type": "Vorlesung/Seminar",
+    "type": "Seminar/Vorlesung",
     "semesterTags": "S24"
   },
   {
