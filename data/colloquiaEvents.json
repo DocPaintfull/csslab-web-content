@@ -3,25 +3,25 @@
     "date": "",
     "name": "Kolloquium Philosophie (Gabriele Gramelsberger, Andreas Michael Kaminski)",
     "semester": "S23",
-    "type": ""
+    "type": "colloquium"
   },
     {
     "date": "January 2023",
     "name": "Lecture: Lena Kästner: “Explaining AI Through the Scientific Perspective”",
     "semester": "W23",
-    "type": ""
+    "type": "external"
   },
     {
     "date": "January 2023",
     "name": "Lecture: Thomas Bedorf: “Digital Hermeneutics”",
     "semester": "W23",
-    "type": ""
+    "type": "external"
   },
   {
     "date": "November 2022",
     "name": "Lecture: C. Thi Nguyen: “The Seductions of Clarity”",
     "semester": "W23",
-    "type": ""
+    "type": "external"
   },
   {
     "date": "January 2025",
@@ -75,7 +75,7 @@
     "date": "January 2024",
     "name": "Lecture: Trustworthiness Ranking with Uncertain Information",
     "semester": "W24",
-    "type": ""
+    "type": "lecture"
   },
   {
     "date": "September 2022",
