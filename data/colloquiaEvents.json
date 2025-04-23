@@ -2,298 +2,357 @@
         {
     "date": "",
     "name": "Kolloquium Philosophie (Gabriele Gramelsberger, Andreas Michael Kaminski)",
-    "semester": "S23"
+    "semester": "S23",
+    "type": ""
   },
     {
     "date": "January 2023",
     "name": "Lecture: Lena Kästner: “Explaining AI Through the Scientific Perspective”",
-    "semester": "W23"
+    "semester": "W23",
+    "type": ""
   },
     {
     "date": "January 2023",
     "name": "Lecture: Thomas Bedorf: “Digital Hermeneutics”",
-    "semester": "W23"
+    "semester": "W23",
+    "type": ""
   },
   {
     "date": "November 2022",
     "name": "Lecture: C. Thi Nguyen: “The Seductions of Clarity”",
-    "semester": "W23"
+    "semester": "W23",
+    "type": ""
   },
   {
     "date": "January 2025",
     "name": "Sebastian Bücker: presentation (wip), Jörn Wiengarn: presentation (wip)",
-    "semester": "W25"
+    "semester": "W25",
+    "type": ""
   },
   {
     "date": "January 2025",
     "name": "Ana Maria Guzmán: presentation (wip), Thomas Venator: presentation (wip)",
-    "semester": "W25"
+    "semester": "W25",
+    "type": ""
   },
   {
     "date": "December 2024",
     "name": "Daniel Wenz: Cusanus and Cantor on mathematical Understanding, Jacqueline Bellon: presentation (wip)",
-    "semester": "W25"
+    "semester": "W25",
+    "type": ""
   },
   {
     "date": "November 2024",
     "name": "Thomas Venator: presentation (wip)",
-    "semester": "W25"
+    "semester": "W25",
+    "type": ""
   },
   {
     "date": "November 2024",
     "name": "Dawid Kasprowicz: paper discussion, Gudrun Rohde: presentation(wip), Markus Pantsar: presentation (wip)",
-    "semester": "W25"
+    "semester": "W25",
+    "type": ""
   },
   {
     "date": "October 2024",
     "name": "RWTH Aachen internal: Start of Semester: Tooldevelopment, Organizational matters, teaching, ...",
-    "semester": "W25"
+    "semester": "W25",
+    "type": ""
   },
   {
     "date": "January 2024",
     "name": "Colloquium CSS-HLRS-Darmstadt",
-    "semester": "W24"
+    "semester": "W24",
+    "type": ""
   },
   {
     "date": "January 2024",
     "name": "Presentations: Dissertation/Habilitation 3. Colloquium WS2023/24",
-    "semester": "W24"
+    "semester": "W24",
+    "type": ""
   },
   {
     "date": "January 2024",
     "name": "Lecture: Trustworthiness Ranking with Uncertain Information",
-    "semester": "W24"
+    "semester": "W24",
+    "type": ""
   },
   {
     "date": "September 2022",
     "name": "IDEA L. summer school “Infrastrctures of Science“ + retreat",
-    "semester": "S22"
+    "semester": "S22",
+    "type": ""
   },
   {
     "date": "June 2022",
     "name": "KHK-lecture: Gabriele Gramelsberger / Markus Rautzenberg (Folkwang University Essen): Mind the Game! AI and Computer Games.",
-    "semester": "S22"
+    "semester": "S22",
+    "type": ""
   },
   {
     "date": "May 2022",
     "name": "Internal meeting Stuttgart: tba",
-    "semester": "S22"
+    "semester": "S22",
+    "type": ""
   },
   {
     "date": "May 2022",
     "name": "KHK-lecture: Kim Guldstrand Larsen (Aalborg University): tba.",
-    "semester": "S22"
+    "semester": "S22",
+    "type": ""
   },
   {
     "date": "April 2022",
     "name": "Internal meeting Aachen: Dawid Kasprowicz: “At the limits of experience: Towards phenomenological approach in philosophy of science II.“ Daniel Wenz: “The truth of being: A pragmatist reading of Heideggers Kehre“ ",
-    "semester": "S22"
+    "semester": "S22",
+    "type": ""
   },
   {
     "date": "December 2021",
     "name": "Dawid Kasprowicz: At the limits of experience (Paper discussion); Presentation by Daniel Wenz; Project-Presentation by Ana María Guzmán Olmos; (all Aachen) (16 December 2021)",
-    "semester": "W22"
+    "semester": "W22",
+    "type": ""
   },
   {
     "date": "November 2021",
     "name": "Nico Formanek (Stuttgart): Grounds for Trust. Essential Epistemic Opacity and Computational Reliabilism. Jörn Wiengarn and Maike Arnold (Stuttgart): Trust in Algorithmic Regimes (4 November 2021)",
-    "semester": "W22"
+    "semester": "W22",
+    "type": ""
   },
   {
     "date": "October 2021",
     "name": "Vorstellung Tools; Besprechung Lehre (21 October 2021)",
-    "semester": "W22"
+    "semester": "W22",
+    "type": ""
   },
   {
     "date": "November 2021",
     "name": "Vortrag Ana María Guzmán Olmos; Vorträge Stuttgart (4 November 2021)",
-    "semester": "W22"
+    "semester": "W22",
+    "type": ""
   },
   {
     "date": "November 2021",
     "name": "Prof. Dr. Vincent Lam (Bern University) „Understanding climate change with statistical downscaling and machine learning“ (18 November 2021)",
-    "semester": "W22"
+    "semester": "W22",
+    "type": ""
   },
   {
     "date": "December 2021",
     "name": "Alexandra Zinke (Stuttgart): „Formal Representations of Doxastic Suspension“ (2 December 2021)",
-    "semester": "W22"
+    "semester": "W22",
+    "type": ""
   },
   {
     "date": "December 2021",
     "name": "Dawid Kasprowicz: Diskussion paper; Vortrag Daniel Wenz; Vortrag Stuttgart (16 December 2021)",
-    "semester": "W22"
+    "semester": "W22",
+    "type": ""
   },
   {
     "date": "January 2022",
     "name": "Prof. Dr. Wally Smith and Peta Masters (University of Melbourne): „Deceptive AI“ (13 January 2022)",
-    "semester": "W22"
+    "semester": "W22",
+    "type": ""
   },
   {
     "date": "January 2022",
     "name": "Domink Gersdorfer (Stuttgart): The artificial intelligence revolution in science? (27 January 2022)",
-    "semester": "W22"
+    "semester": "W22",
+    "type": ""
   },
   {
     "date": "April 2021",
     "name": "Project-Presentation Aachen/Stuttgart: Daniel Wenz and Dawid Kasprowicz: Navigating Ontologies - The Instantiation Relation and Husserls Theory of Judgment, Gabriele Gramelsberger: Sozialität der KI (29 April 2021) ",
-    "semester": "S21"
+    "semester": "S21",
+    "type": ""
   },
   {
     "date": "July 2021",
     "name": "Project-Presentations Aachen/Stuttgart: Maike Arnold, Daniel Wenz, Jörn Wiengarn and Michael Herrmann (1 July 2021)",
-    "semester": "S21"
+    "semester": "S21",
+    "type": ""
   },
   {
     "date": "July 2021",
     "name": "Project-Presentations Aachen/Stuttgart: Carmen Krämer, Ammu Joshy, Nico Formanek and Daniel Maschmann (15 July 2021)",
-    "semester": "S21"
+    "semester": "S21",
+    "type": ""
   },
   {
     "date": "June 2021",
     "name": "Axel Gelfert (TU Berlin) - Cultivating epistemic routines for navigating toxic epistemic environments (17 June 2021)",
-    "semester": "S21"
+    "semester": "S21",
+    "type": ""
   },
   {
     "date": "May 2021",
     "name": "Danielle Macbeth (Haverford College) - Ampliative Deductive Proof in Mathematical Practice: Lessons from Kant and Frege (20 May 2021)",
-    "semester": "S21"
+    "semester": "S21",
+    "type": ""
   },
   {
     "date": "April 2021",
     "name": "Uwe Ehret, Erwin Zehe, Jan Cermat (KIT) - The optimist, the curious and the sceptic: Three earth scientist perspectives on machine learning (15 April 2021)",
-    "semester": "S21"
+    "semester": "S21",
+    "type": ""
   },
   {
     "date": "June 2020",
     "name": "Discussion of the PhD and Postdoc-Projects (23 June 2020)",
-    "semester": "S20"
+    "semester": "S20",
+    "type": ""
   },
   {
     "date": "June 2020",
     "name": "Workshop: Modeling Trust in AI (Interactive online-Workshop organized by Andreas Kaminiski, with Keeley Crockett (Leader of the Computational Intelligence Lab), James O'Shea (both University of Manchester) and Bernd Lahno (Konstanz) (23 June 2020)",
-    "semester": "S20"
+    "semester": "S20",
+    "type": ""
   },
   {
     "date": "February 2021",
     "name": "Richard Evans (Imperial College London/Google Deep Mind) - Kant's Cognitive Architecture (11 February 2021)",
-    "semester": "W21"
+    "semester": "W21",
+    "type": ""
   },
   {
     "date": "February 2021",
     "name": "Johanna Seibt (Aarhus University) - How to Model Artificial Sociality: A Proposal (4 February 2021)",
-    "semester": "W21"
+    "semester": "W21",
+    "type": ""
   },
   {
     "date": "January 2021",
     "name": "Samira Samadi (MPI for Intelligent Systems Tübingen) - Fairness in Machine Learning (21 January 2021)",
-    "semester": "W21"
+    "semester": "W21",
+    "type": ""
   },
   {
     "date": "January 2021",
     "name": "Project-Presentations Forschergruppe Stuttgart / Project-Presentations Research Group Stuttgart (7 January 2021)",
-    "semester": "W21"
+    "semester": "W21",
+    "type": ""
   },
   {
     "date": "December 2020",
     "name": "Carlos Zednik (TU Eindhoven) - Explainable Artificial Intelligence and the Problems of Philosophy (17 December 2021)",
-    "semester": "W21"
+    "semester": "W21",
+    "type": ""
   },
   {
     "date": "December 2020",
     "name": "Project-Presentations II (Lisa Schüttler, Carmen Krämer, Dawid Kasprowicz) (3 December 2020)",
-    "semester": "W21"
+    "semester": "W21",
+    "type": ""
   },
   {
     "date": "November 2020",
     "name": "Ben Jantzen (Virginia Tech): The status and limits of scientific learning by machine (19 November 2020)",
-    "semester": "W21"
+    "semester": "W21",
+    "type": ""
   },
   {
     "date": "November 2020",
     "name": "Project-Presentations I: Daniel Wenz (Paper-Diskussion), Tobias Dumschat (Project-Presentations \"Gesellschaft nach dem Geld\")(5 November 2020)",
-    "semester": "W21"
+    "semester": "W21",
+    "type": ""
   },
   {
     "date": "Nov and Dec 2019",
     "name": "Reading Group \"Code Studies\"",
-    "semester": "W20"
+    "semester": "W20",
+    "type": ""
   },
   {
     "date": "October 2019",
     "name": "Presentatoion \"Neuro Modeling Talk\" (Lisa Schüttler) (10.10. 2019)",
-    "semester": "W20"
+    "semester": "W20",
+    "type": ""
   },
 
   {
     "date": "July 2019",
     "name": "Workshop \"Embodied AI / Exbodied Mind\" (4 to 5 July 2019)",
-    "semester": "S19"
+    "semester": "S19",
+    "type": ""
   },
   {
     "date": "June 2019",
     "name": "Discussion of the PhD- and PostDoc projects",
-    "semester": "S19"
+    "semester": "S19",
+    "type": ""
   },
   {
     "date": "June 2019",
     "name": "Presentation \"First Code Studies.\" (Daniel Maschmann) (07. June 19)",
-    "semester": "S19"
+    "semester": "S19",
+    "type": ""
   },
   {
     "date": "May 2019",
     "name": "Workshop \"Machine Learning in Research\" (16 May 2019)",
-    "semester": "S19"
+    "semester": "S19",
+    "type": ""
   },
   {
     "date": "April 2019",
     "name": "Reading Group \"Code Studies\"",
-    "semester": "S19"
+    "semester": "S19",
+    "type": ""
   },
 
   {
     "date": "January 2019",
     "name": "Reading Group \"Code Studies\"",
-    "semester": "W18"
+    "semester": "W18",
+    "type": ""
   },
   {
     "date": "December 2018",
     "name": "Workshop \"Philosophy and Physics\" (Dr. Joshua Rosaler, Dr. Daniel Jon Mitchell, Dr. Niels Martens, all DFG Research Group \"Epistemology of LHC,\" Physics Department, RWTH Aachen University) (6 December 2018)",
-    "semester": "W18"
+    "semester": "W18",
+    "type": ""
   },
   {
     "date": "December 2018",
     "name": "Workshop \"Computational Science Studies\" (follow-up workshop of the EASST 2018 panel) (14 December 2018)",
-    "semester": "W18"
+    "semester": "W18",
+    "type": ""
   },
   {
     "date": "November 2018",
     "name": "Workshop \"Many Faces of Logic. Discussions with Johan van Benthem\" (19 to 20 November 2018)",
-    "semester": "W18"
+    "semester": "W18",
+    "type": ""
   },
   {
     "date": "October 2018",
     "name": "Reading Group \"Code Studies\"",
-    "semester": "W18"
+    "semester": "W18",
+    "type": ""
   },
   {
     "date": "July 2018",
     "name": "Reading Group \"Code Studies\"",
-    "semester": "S18"
+    "semester": "S18",
+    "type": ""
   },
   {
     "date": "June 2018",
     "name": "Reading Group \"Code Studies\"",
-    "semester": "S18"
+    "semester": "S18",
+    "type": ""
   },
   {
     "date": "May 2018",
     "name": "Live Coding (Frederic Kerksieck), Programming Languages (Lukas Böhres), Applied Logic (Daniel Wenz), Digital Humanities (Jennifer Schaffrath)",
-    "semester": "S18"
+    "semester": "S18",
+    "type": ""
   },
   {
     "date": "April 2018",
     "name": "Series of presentations on Programming (Lukas Böhres, Frederic Kerksieck)",
-    "semester": "S18"
+    "semester": "S18",
+    "type": ""
   }
 ]
