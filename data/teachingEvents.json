@@ -1,4 +1,18 @@
 [
+    {
+    "name": "Instrumentalisierungen der Wissenschaften",
+    "heldBy": "Jan-Hendrik Heinrichs",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W22"
+  },
+    {
+    "name": "Introduction to Philosophy of Mathematics",
+    "heldBy": "Andreas Kaminski",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W22"
+  },
   {
     "name": "Bachelorkolloquium BA PLuS",
     "heldBy": "Gabriele Gramelsberger, Wulf Kellerwessel",
