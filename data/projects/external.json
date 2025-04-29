@@ -152,14 +152,14 @@
     "endYear": 2019,
     "images": [
       {
-        "src": "https://www.stifterverband.org/sites/all/themes/stifterverband/images/logos/sv.svg",
+        "src": "https://www.stifterverband.org/themes/custom/cake/res/logo_stifterverband_wide.svg",
         "alt": "Stifterverband Logo",
-        "href": "https://www.dfg.de/en/"
+        "href": "https://www.stifterverband.org"
       },
       {
-        "src": "https://www.mkw.nrw/themes/custom/mkw_theme/source/images/logo.png",
+        "src": "https://www.mkw.nrw/themes/custom/mkw_theme/images/logo.svg",
         "alt": "NRW Ministry of Research Logo",
-        "href": "https://www.rwth-aachen.de/cms/root/Forschung/Angebote-fuer-Forschende/~ohy/ERS-Angebote/?lidx=1"
+        "href": "https://www.mkw.nrw"
       }
     ]
   },
