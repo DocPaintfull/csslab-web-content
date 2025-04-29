@@ -95,7 +95,8 @@
     "images": [
       {
         "src": "https://www.rwth-aachen.de/global/show_picture.asp?id=aaaaaaaaaaagazb",
-        "alt": "RWTH Logo"
+        "alt": "RWTH Logo",
+        "href": "https://www.rwth-aachen.de/cms/root/Forschung/Angebote-fuer-Forschende/~ohy/ERS-Angebote/?lidx=1"
       }
     ]
   },
@@ -208,7 +209,7 @@
     "link": "https://www.geisteswissenschaften.fu-berlin.de/en/v/embodiedinformation/index.html",
     "images": [
       {
-        "src": "https://www.bmbf.de/SiteGlobals/Frontend/Images/icons/_common/logo.svg?__blob=normal&v=5",
+        "src": "https://www.bmbf.de/SiteGlobals/Frontend/Images/images/logo-dark.svg?__blob=normal&v=4",
         "alt": "BMBF Logo",
         "href": "https://www.bmbf.de/bmbf/de/home/home_node.html"
       }
@@ -226,7 +227,7 @@
     "link": "",
     "images": [
       {
-        "src": "https://www.bmbf.de/SiteGlobals/Frontend/Images/icons/_common/logo.svg?__blob=normal&v=5",
+        "src": "https://www.bmbf.de/SiteGlobals/Frontend/Images/images/logo-dark.svg?__blob=normal&v=4",
         "alt": "BMBF Logo",
         "href": "https://www.bmbf.de/bmbf/de/home/home_node.html"
       }
