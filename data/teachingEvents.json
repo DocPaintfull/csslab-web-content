@@ -1,4 +1,95 @@
 [
+                {
+    "name": "Der Begriff \"Rasse\" und das Thema \"Rassismus\" in der Philosophie",
+    "heldBy": "Wulf Kellerwessel",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S25"
+  },
+                {
+    "name": "Bachelorkolloquium BA PLuS",
+    "heldBy": "Gabriele Gramelsberger, Wulf Kellerwessel",
+    "description": "",
+    "type": "Kolloquium",
+    "semesterTags": "S25"
+  },
+              {
+    "name": "Lektürekurs Politische Philosophie der Neuzeit",
+    "heldBy": "Wulf Kellerwessel",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S25"
+  },
+              {
+    "name": "Modelling for Policy",
+    "heldBy": "Markus Pantsar",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S25"
+  },
+              {
+    "name": "Philosophie des Digitalen",
+    "heldBy": "Gabriele Gramelsberger, Daniel Wenz",
+    "description": "",
+    "type": "Vorlesung",
+    "semesterTags": "S25"
+  },
+              {
+    "name": "Philosophy of Mind",
+    "heldBy": "Markus Pantsar",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S25"
+  },
+              {
+    "name": "Wissenschaft und Technik",
+    "heldBy": "Daniel Wenz",
+    "description": "",
+    "type": "Vorlesung",
+    "semesterTags": "S25"
+  },
+              {
+    "name": "Politische Philosophie; \"Menschenrechte und ihre philosophische Begründung\"",
+    "heldBy": "Wulf Kellerwessel",
+    "description": "",
+    "type": "Vorlesung",
+    "semesterTags": "S25"
+  },
+              {
+    "name": "Philosophy of Computational Sciences",
+    "heldBy": "Markus Pantsar",
+    "description": "",
+    "type": "Vorlesung",
+    "semesterTags": "S25"
+  },
+              {
+    "name": "Achtung, Würde, Selbstzweck und Selbstbestimmung",
+    "heldBy": "Daniel Wenz",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S25"
+  },
+              {
+    "name": "Theoreien des Gerechten Krieges",
+    "heldBy": "Jan-Hendrik Heinrichs",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S25"
+  },
+              {
+    "name": "Erkenntnistheoretische Grundlagen der Naturwissenschaft",
+    "heldBy": "Reinhold Breil",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S25"
+  },
+            {
+    "name": "John Stuart und Harriet Taylor-Mill: \"Über die Freiheit\".\"Betrachtungen über die Repräsentativregierung\" und \"Die Hörigkeit der Frau\"",
+    "heldBy": "Wulf Kellerwessel",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S25"
+  },
             {
     "name": "Erkenntnistheoretische Grundlagen der Physik",
     "heldBy": "Reinhold Breil",
