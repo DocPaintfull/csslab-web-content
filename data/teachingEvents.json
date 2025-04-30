@@ -1,4 +1,123 @@
 [
+            {
+    "name": "Erkenntnistheoretische Grundlagen der Physik",
+    "heldBy": "Reinhold Breil",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W24"
+  },
+            {
+    "name": "Theoretische Philosophie zu Seminar Vertiefung Theoretische Philosophie",
+    "heldBy": "Daniel Wenz",
+    "description": "",
+    "type": "übung",
+    "semesterTags": "W24"
+  },
+            {
+    "name": "Vertiefung Theoretische Philosophie",
+    "heldBy": "Daniel Wenz, Wulf Kellerwessel",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W24"
+  },
+            {
+    "name": "Praktische Philosophie zu Seminar Umwelt- und Klimaethik",
+    "heldBy": "Wulf Kellerwessel",
+    "description": "",
+    "type": "Übung",
+    "semesterTags": "W24"
+  },
+            {
+    "name": "Einführungsworkshop GovTec",
+    "heldBy": "Stefan Böschen, Gabriele Gramelsberger",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W24"
+  },
+            {
+    "name": "Blockseminar STS-Methoden",
+    "heldBy": "Stefan Böschen, Gabriele Gramelsberger",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W24"
+  },
+            {
+    "name": "Umwelt- und Klimaethik",
+    "heldBy": "Wulf Kellerwessel",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W24"
+  },
+            {
+    "name": "Einführung in die Wissenschafts- und Technikphilosophie",
+    "heldBy": "Markus Pantsar",
+    "description": "",
+    "type": "Vorlesung",
+    "semesterTags": "W24"
+  },
+            {
+    "name": "Forschungskolloquium Philosophie",
+    "heldBy": "Gabriele Gramelsberger",
+    "description": "",
+    "type": "Forschungskolloquium",
+    "semesterTags": "W24"
+  },
+            {
+    "name": "Theorien des Forschens",
+    "heldBy": "Markus Pantsar",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W24"
+  },
+            {
+    "name": "Politische Philosophie im 20. Jahrhundert: Liberalismus und Kommunitarismus",
+    "heldBy": "Wulf Kellerwessel",
+    "description": "",
+    "type": "Vorlesung",
+    "semesterTags": "W24"
+  },
+            {
+    "name": "Einführung in die Erkenntnistheorie",
+    "heldBy": "Gabriele Gramelsberger, Gudrun Rohde",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W24"
+  },
+            {
+    "name": "Kausalität in Spinoza. Leibniz und dem postkantischen Idealismus",
+    "heldBy": "Ana Maria Guzmán Olmos",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W24"
+  },
+            {
+    "name": "Einführung in die Ethik",
+    "heldBy": "Wulf Kellerwessel",
+    "description": "",
+    "type": "Vorlesung",
+    "semesterTags": "W24"
+  },
+           {
+    "name": "Edmund Husserl: Ding und Raum",
+    "heldBy": "Dawid Kasprowicz",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W24"
+  }, 
+          {
+    "name": "Zwischen reveil mortel und Unsterblichkeitsphantasien: Alter in der Philosophie",
+    "heldBy": "J. Heinrichs",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "W24"
+  },
+        {
+    "name": "Argumentation und Interpretation",
+    "heldBy": "Wulf Kellerwessel",
+    "description": "",
+    "type": "Vorlesung",
+    "semesterTags": "W24"
+  },
       {
     "name": "Modeling for Policy",
     "heldBy": "Markus Pantsar",
