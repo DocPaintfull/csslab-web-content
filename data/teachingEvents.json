@@ -1,4 +1,11 @@
 [
+      {
+    "name": "Modeling for Policy",
+    "heldBy": "Markus Pantsar",
+    "description": "",
+    "type": "Seminar",
+    "semesterTags": "S23"
+  },
     {
     "name": "Instrumentalisierungen der Wissenschaften",
     "heldBy": "Jan-Hendrik Heinrichs",
@@ -364,7 +371,7 @@
     "semesterTags": "S23"
   },
   {
-    "name": "Demokratie im Zeitalter der Globalisierung",
+    "name": "Höffe: Demokratie im Zeitalter der Globalisierung",
     "heldBy": "Wulf Kellerwessel",
     "description": "",
     "type": "Seminar",
