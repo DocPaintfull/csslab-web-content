@@ -4,10 +4,120 @@
     "by": "pantsar",
     "date": "7 April 2025",
     "startDate": "2025-04-07",
-    "endDate": "",
+    "endDate": "2025-04-07",
     "type": "Workshop on Theorem Proving and Machine Learning",
     "in": "",
     "institution": "Heriot-Watt University, Edinburgh"
+  },
+          {
+    "name": "Arithmetic and proto-arithmetic: the need for clear conceptual distinctions in computational cognitive sciences",
+    "by": "pantsar",
+    "date": "14 November 2023",
+    "startDate": "2023-11-14",
+    "endDate": "2023-11-14",
+    "type": "Seminar talk",
+    "in": "",
+    "institution": "Warsaw University of Technology"
+  },
+          {
+    "name": "Scaffolding as a useful notion in the cognitive sciences",
+    "by": "pantsar",
+    "date": "8 November 2023",
+    "startDate": "2023-11-08",
+    "endDate": "2023-11-08",
+    "type": "Round table at the Käte Hamburger Kolleg Cultures of Research",
+    "in": "",
+    "institution": "RWTH Aachen"
+  },
+          {
+    "name": "Recognising artificial mathematical intelligence",
+    "by": "pantsar",
+    "date": "30 August 2023",
+    "startDate": "2023-08-30",
+    "endDate": "2023-08-30",
+    "type": "Infinity and Intensionality Seminar",
+    "in": "",
+    "institution": "University of Oslo"
+  },
+          {
+    "name": "Arithmetic and proto-arithmetic: the need for clear conceptual distinctions in computational cognitive sciences",
+    "by": "pantsar",
+    "date": "23 June 2023",
+    "startDate": "2023-06-23",
+    "endDate": "2023-06-23",
+    "type": "CSS-HLRS-Darmstadt Colloquium",
+    "in": "",
+    "institution": "RWTH Aachen"
+  },
+          {
+    "name": "How numerical symbols shape arithmetical cognition",
+    "by": "pantsar",
+    "date": "8 June 2023",
+    "startDate": "2023-06-08",
+    "endDate": "2023-06-08",
+    "type": "To the Symbols Themselves Conference",
+    "in": "",
+    "institution": "University of Cologne"
+  },
+          {
+    "name": "Recognising artificial mathematical intelligence",
+    "by": "pantsar",
+    "date": "27 May 2023",
+    "startDate": "2023-05-27",
+    "endDate": "2023-05-27",
+    "type": "",
+    "in": "",
+    "institution": "Munich Center for Mathematical Philosophy, LMU Munich"
+  },
+          {
+    "name": "Recognising artificial mathematical intelligence",
+    "by": "pantsar",
+    "date": "5 June 2023",
+    "startDate": "2023-05-05",
+    "endDate": "2023-05-05",
+    "type": "",
+    "in": "Varieties of Science workshop",
+    "institution": "Bucharest"
+  },
+          {
+    "name": "Arithmetic and proto-arithmetic: the need for clear conceptual distinctions in research on numerical cognition",
+    "by": "pantsar",
+    "date": "4 Mat 2023",
+    "startDate": "2023-05-04",
+    "endDate": "2023-05-04",
+    "type": "",
+    "in": "",
+    "institution": "University of Bucharest"
+  },
+          {
+    "name": "The counting animal",
+    "by": "pantsar",
+    "date": "21 April 2023",
+    "startDate": "2023-04-21",
+    "endDate": "2023-04-21",
+    "type": "Conference in Honor of Frederik Stjernfelt",
+    "in": "",
+    "institution": "Aalborg University, Copenhagen"
+  },
+      {
+    "name": "Recognising artificial mathematical intelligence",
+    "by": "pantsar",
+    "date": "27 February 2023",
+    "startDate": "2023-02-27",
+    "endDate": "2023-02-27",
+    "type": "Philosophy Seminar",
+    "in": "",
+    "institution": "Macquarie University, Sydney"
+  },
+        {
+    "name": "Recognising artificial mathematical intelligence",
+    "by": "pantsar",
+    "date": "22 December 2022",
+    "startDate": "2022-12-22",
+    "endDate": "2022-12-22",
+    "type": "CSS-HLRS Colloquium on Philosophy of Computational Sciences",
+    "in": "",
+    "institution": "RWTH Aachen"
   },
   {
     "name": "Philosophical Considerations on Machine Learning in Scientific Research",
