@@ -31,7 +31,7 @@
     "name": "Philosophie des Digitalen",
     "heldBy": "Gabriele Gramelsberger, Daniel Wenz",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "S25"
   },
               {
@@ -45,21 +45,21 @@
     "name": "Wissenschaft und Technik",
     "heldBy": "Daniel Wenz",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "S25"
   },
               {
     "name": "Politische Philosophie; \"Menschenrechte und ihre philosophische Begründung\"",
     "heldBy": "Wulf Kellerwessel",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "S25"
   },
               {
     "name": "Philosophy of Computational Sciences",
     "heldBy": "Markus Pantsar",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "S25"
   },
               {
@@ -143,7 +143,7 @@
     "name": "Einführung in die Wissenschafts- und Technikphilosophie",
     "heldBy": "Markus Pantsar",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "W24"
   },
             {
@@ -164,7 +164,7 @@
     "name": "Politische Philosophie im 20. Jahrhundert: Liberalismus und Kommunitarismus",
     "heldBy": "Wulf Kellerwessel",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "W24"
   },
             {
@@ -185,7 +185,7 @@
     "name": "Einführung in die Ethik",
     "heldBy": "Wulf Kellerwessel",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "W24"
   },
            {
@@ -206,7 +206,7 @@
     "name": "Argumentation und Interpretation",
     "heldBy": "Wulf Kellerwessel",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "W24"
   },
       {
@@ -276,7 +276,7 @@
     "name": "Philosophy of Computational Sciences",
     "heldBy": "Markus Pantsar",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "S24"
   },
   {
@@ -325,14 +325,14 @@
     "name": "Politische Philosophie; \"Menschenrechte und ihre philosophische Begründung\"",
     "heldBy": "Wulf Kellerwessel",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "S24"
   },
   {
     "name": "Projekt \"Leonardo\" Soziale Gerechtigkeit – Angewandte Ethik, Politische Philosophie und nachhaltige Gesellschaftsentwicklung",
     "heldBy": "Wulf Kellerwessel",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "S24"
   },
   {
@@ -388,7 +388,7 @@
     "name": "Introduction to the Philosophy of Science and Technology",
     "heldBy": "Markus Pantsar",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "W23"
   },
   {
@@ -458,28 +458,28 @@
     "name": "Argumentation und Interpretation: Argumentationstheorie",
     "heldBy": "Wulf Kellerwessel",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "W23"
   },
   {
     "name": "Einführung in die Ethik",
     "heldBy": "Wulf Kellerwessel",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "W23"
   },
   {
     "name": "Politische Philosophie im 20. Jahrhundert: Liberalismus und Kommunitarismus",
     "heldBy": "Wulf Kellerwessel",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "W23"
   },
   {
     "name": "Projekt \"Leonardo\" Welche Rolle spielen Tiere in der Ethik? Tiere – Moral – Rechte",
     "heldBy": "Wulf Kellerwessel",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "W23"
   },
   {
@@ -542,14 +542,14 @@
     "name": "Was sind wissenschaftliche Revolutionen? Thomas S. Kuhn und sein Erbe",
     "heldBy": "Gabriele Gramelsberger, Dawid Kasprowicz",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "S23"
   },
   {
     "name": "Wissenschaft und Technik",
     "heldBy": "Gabriele Gramelsberger, Daniel Wenz",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "S23"
   },
   {
@@ -563,7 +563,7 @@
     "name": "Philosophy of Computational Sciences",
     "heldBy": "Markus Pantsar",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "S23"
   },
   {
@@ -605,14 +605,14 @@
     "name": "Politische Philosophie, Rechts- und Sozialphilosophie: Menschenrechte und ihre philosophische Begründung",
     "heldBy": "Wulf Kellerwessel",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "S23"
   },
   {
     "name": "Projekt \"Leonardo\"",
     "heldBy": "Wulf Kellerwessel",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "S23"
   },
   {
@@ -703,28 +703,28 @@
     "name": "Introduction to the Philosophy of Science and Technology",
     "heldBy": "Markus Pantsar",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "W22"
   },
   {
     "name": "Politische Philosophie im 20. Jahrhundert: Liberalismus und Kommunitarismus",
     "heldBy": "Wulf Kellerwessel",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "W22"
   },
   {
     "name": "Einführung in die Ethik",
     "heldBy": "Wulf Kellerwessel",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "W22"
   },
   {
     "name": "Argumentation und Interpretation: Argumentationstheorie",
     "heldBy": "Wulf Kellerwessel",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "W22"
   },
   {
@@ -801,7 +801,7 @@
     "name": "Einführung in die Phänomenologie",
     "heldBy": "Prof. Dr. Gabriele Gramelsberger, Dr. Dawid Kasprowicz",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "S22"
   },
   {
@@ -815,7 +815,7 @@
     "name": "Wissenschaft und Technik",
     "heldBy": "PD Dr. Andreas Kaminski",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "S22"
   },
   {
@@ -843,7 +843,7 @@
     "name": "Philosophy of Computational Sciences",
     "heldBy": "PD Dr. Andreas Kaminski",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "S22"
   },
   {
@@ -934,7 +934,7 @@
     "name": "Einführung in die Wissenschafts- und Technikphilosophie",
     "heldBy": "PD Dr. Andreas Kaminski",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "W21"
   },
   {
@@ -955,7 +955,7 @@
     "name": "Politische Philosophie im 20. Jahrhundert: Liberalismus und Kommunitarismus",
     "heldBy": "Prof. Dr. Wulf Kellerwessel",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "W21"
   },
   {
@@ -976,7 +976,7 @@
     "name": "Einführung in die Ethik",
     "heldBy": "Prof. Dr. Wulf Kellerwessel",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "W21"
   },
   {
@@ -997,7 +997,7 @@
     "name": "Argumentation und Interpretation: Argumentationstheorie",
     "heldBy": "Prof. Dr. Wulf Kellerwessel",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "W21"
   },
   {
@@ -1018,14 +1018,14 @@
     "name": "Philosophy of Computational Sciences",
     "heldBy": "PD Dr. Andreas Kaminski",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "S21"
   },
   {
     "name": "Wissenschaft und Technik",
     "heldBy": "PD Dr. Andreas Kaminski",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "S21"
   },
   {
@@ -1039,7 +1039,7 @@
     "name": "Was sind angewandte Wissenschaften?",
     "heldBy": "Prof. Dr. Gabriele Gramelsberger, Dr. Dawid Kasprowicz",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "S21"
   },
   {
@@ -1060,7 +1060,7 @@
     "name": "Politische Philosophie, Rechts- und Sozialphilosophie: Menschenrechte und ihre philosophische Begründung",
     "heldBy": "Prof. Dr. Wulf Kellerwessel",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "S21"
   },
   {
@@ -1137,7 +1137,7 @@
     "name": "Politische Philosophie",
     "heldBy": "Prof. Dr. Wulf Kellerwessel",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "W20 "
   },
   {
@@ -1151,7 +1151,7 @@
     "name": "Argumentation und Interpretation",
     "heldBy": "Prof. Dr. Wulf Kellerwessel",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "W20 "
   },
   {
@@ -1221,7 +1221,7 @@
     "name": "Einführung in die Wissenschafts- und Technikphilosophie",
     "heldBy": "Prof. Dr. Gabriele Gramelsberger",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "W20 "
   },
   {
@@ -1256,21 +1256,21 @@
     "name": "Visualität - Materialität - Protokoll: Eckpunkte der Wissensproduktion",
     "heldBy": "Prof. Dr. Gabriele Gramelsberger and Dr. Dawid Kasprowicz",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "S20 "
   },
   {
     "name": "Philosophy of Computational Sciences",
     "heldBy": "Dr. Andreas Kaminski",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "S20 "
   },
   {
     "name": "Wissenschaft und Technik",
     "heldBy": "Dr. Andreas Kaminski",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "S20 "
   },
   {
@@ -1312,7 +1312,7 @@
     "name": "Politische Philosophie, Rechts- und Sozialphilosophie: Menschenrechte und ihre philosophische Begründung",
     "heldBy": "Prof. Dr. Wulf Kellerwessel",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "S20 "
   },
   {
@@ -1368,21 +1368,21 @@
     "name": "Politische Philosophie im 20. Jahrhundert: Liberalismus und Kommunitarismus",
     "heldBy": "Prof. Dr. Wulf Kellerwessel",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "W19 "
   },
   {
     "name": "Praktische Philosophie: Einführung in die Ethik",
     "heldBy": "Prof. Dr. Wulf Kellerwessel",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "W19 "
   },
   {
     "name": "Argumentation und Interpretation: Argumentationstheorie",
     "heldBy": "Prof. Dr. Wulf Kellerwessel",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "W19 "
   },
   {
@@ -1403,7 +1403,7 @@
     "name": "Einführung in die Wissenschafts- und Technikphilosophie",
     "heldBy": "Prof. Dr. Gabriele Gramelsberger",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "W19 "
   },
   {
@@ -1424,7 +1424,7 @@
     "name": "Wissenschaftstheorie",
     "heldBy": "Prof. Dr. Gabriele Gramelsberger",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "S19 "
   },
   {
@@ -1480,7 +1480,7 @@
     "name": "Menschenrechte und ihre philosophische Begründung",
     "heldBy": "Prof. Dr. Wulf Kellerwessel",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "S19"
   },
   {
@@ -1509,7 +1509,7 @@
     "name": "Modell- und Simulationstheorie",
     "heldBy": "Prof. Dr. Gabriele Gramelsberger",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "W18 "
   },
   {
@@ -1558,14 +1558,14 @@
     "name": "Politische Philosophie des 20. Jahrhunderts: Liberalismus und Kommunitarismus",
     "heldBy": "Prof. Dr. Wulf Kellerwessel",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "W18 "
   },
   {
     "name": "Einführung in die Ethik",
     "heldBy": "Prof. Dr. Wulf Kellerwessel",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "W18 "
   },
   {
@@ -1587,7 +1587,7 @@
     "name": "Einführung in die Wissenschafts- und Technikphilosophie des frühen 20. Jahrhunderts",
     "heldBy": "Prof. Dr. Gabriele Gramelsberger",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "S18 "
   },
   {
@@ -1636,7 +1636,7 @@
     "name": "Menschenrechte",
     "heldBy": "Prof. Dr. Wulf Kellerwessel",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "S18 "
   },
   {
@@ -1657,7 +1657,7 @@
     "name": "Immanuel Kant: Kritik der reinen Vernunft",
     "heldBy": "Prof. Dr. Gabriele Gramelsberger",
     "description": "",
-    "type": "Vorlesung",
+    "type": "Lecture",
     "semesterTags": "W17 "
   },
   {
