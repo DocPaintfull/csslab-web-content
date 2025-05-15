@@ -10,7 +10,7 @@
     "name": "Bachelorkolloquium BA PLuS",
     "heldBy": "Gabriele Gramelsberger, Wulf Kellerwessel",
     "description": "",
-    "type": "Kolloquium",
+    "type": "Colloquium",
     "semesterTags": "S25"
   },
               {
@@ -49,7 +49,7 @@
     "semesterTags": "S25"
   },
               {
-    "name": "Politische Philosophie; \"Menschenrechte und ihre philosophische Begründung\"",
+    "name": "Politische Philosophie \"Menschenrechte und ihre philosophische Begründung\"",
     "heldBy": "Wulf Kellerwessel",
     "description": "",
     "type": "Lecture",
@@ -70,7 +70,7 @@
     "semesterTags": "S25"
   },
               {
-    "name": "Theoreien des Gerechten Krieges",
+    "name": "Theorien des Gerechten Krieges",
     "heldBy": "Jan-Hendrik Heinrichs",
     "description": "",
     "type": "Seminar",
@@ -101,7 +101,7 @@
     "name": "Theoretische Philosophie zu Seminar Vertiefung Theoretische Philosophie",
     "heldBy": "Daniel Wenz",
     "description": "",
-    "type": "übung",
+    "type": "Übung",
     "semesterTags": "W24"
   },
             {
@@ -150,7 +150,7 @@
     "name": "Forschungskolloquium Philosophie",
     "heldBy": "Gabriele Gramelsberger",
     "description": "",
-    "type": "Kolloquium",
+    "type": "Colloquium",
     "semesterTags": "W24"
   },
             {
@@ -175,7 +175,7 @@
     "semesterTags": "W24"
   },
             {
-    "name": "Kausalität in Spinoza. Leibniz und dem postkantischen Idealismus",
+    "name": "Kausalität in Spinoza, Leibniz und dem postkantischen Idealismus",
     "heldBy": "Ana Maria Guzmán Olmos",
     "description": "",
     "type": "Seminar",
@@ -248,7 +248,7 @@
     "name": "Forschungskolloquium Philosophie",
     "heldBy": "Gabriele Gramelsberger",
     "description": "",
-    "type": "Kolloquium",
+    "type": "Colloquium",
     "semesterTags": "S24"
   },
   {
@@ -322,7 +322,7 @@
     "semesterTags": "S24"
   },
   {
-    "name": "Politische Philosophie; \"Menschenrechte und ihre philosophische Begründung\"",
+    "name": "Politische Philosophie \"Menschenrechte und ihre philosophische Begründung\"",
     "heldBy": "Wulf Kellerwessel",
     "description": "",
     "type": "Lecture",
@@ -374,7 +374,7 @@
     "name": "Forschungskolloquium Philosophie",
     "heldBy": "Gabriele Gramelsberger",
     "description": "",
-    "type": "Kolloquium",
+    "type": "Colloquium",
     "semesterTags": "W23"
   },
   {
@@ -500,7 +500,7 @@
     "name": "Bachelorkolloquium BA PLuS",
     "heldBy": "Gabriele Gramelsberger, Wulf Kellerwessel",
     "description": "",
-    "type": "Kolloquium",
+    "type": "Colloquium",
     "semesterTags": "S23"
   },
   {
@@ -514,7 +514,7 @@
     "name": "Forschungskolloquium",
     "heldBy": "Gabriele Gramelsberger",
     "description": "",
-    "type": "Kolloquium",
+    "type": "Colloquium",
     "semesterTags": "S23"
   },
   {
@@ -528,7 +528,7 @@
     "name": "Philosophie",
     "heldBy": "Gabriele Gramelsberger, Andreas Kaminski",
     "description": "",
-    "type": "Kolloquium",
+    "type": "Colloquium",
     "semesterTags": "S23"
   },
   {
