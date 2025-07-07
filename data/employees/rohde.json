@@ -4,11 +4,24 @@
     "title": "M.A.",
     "status": "PhD candidate",
     "cv": "Gudrun Rohde is a PhD candidate at the Chair for Theory of Science and Technology. She studied Philosophy, German literature and Political Science at the Rheinische Friedrich Wilhelms University Bonn, the University of Cologne and the Rijksuniversiteit Leiden. She graduated with a master’s thesis on Charles Taylor’s theories of the modern self and Will Kymlikas’ Concept of Multiculturalism. She is currently working on knowledge transfer in living labs in the BMBF funded TRANSFER project at the Human Technology Centre (HumTec). Her PhD project is about the analysis of socio-epistemic categories.",
-    "img": "rohde.jpg",
+    "img": "rohde.png",
     "field": "",
+    "researchInterests":"Epistemology, social epistemology, political philosophy",
     "projects": [
     ],
     "publications": {
+        "books": [
+            {
+            "name":"Meeting report: “Knowledge transfer in and through Living Labs”",
+            "authors":"Gudrun Rohde; Backhaus Julia; Stefan John; Alexander Sonntag; Juri Dachtera; Inge Leurs; Milena Rößner; Stefan Böschen; Gabriele Gramelsberger",
+            "year":"2024",
+            "in":"TATuP - Zeitschrift für Technikfolgenabschätzung in Theorie und Praxis ",
+            "pages":"84-85",
+            "city":"Aachen (hybrid)",
+            "publisher":"",
+            "url": "https://www.tatup.de/index.php/tatup/article/view/7151"
+            }
+        ],
         "contributions": [
             {
                 "authors":"Gudrun Rohde",
