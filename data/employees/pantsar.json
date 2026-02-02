@@ -13,6 +13,19 @@
     "publications":{
         "reviewed":[
             {
+                "name": "Two Approaches to Developing Human-like Artificial Mathematical Intelligence",
+                "authors": "Pantsar, Markus",
+                "year": "2025",
+                "in": "Pantsar, M., Stjernfelt, F., Gramelsberger, G. & Olteanu, A. (eds.): Philosophy of Artificial Intelligence: Optimistic and Pessimistic Views",
+                "volume": "",
+                "pages": "165-182",
+                "city": "",
+                "doi": "",
+                "publisher": "Springer",
+                "url": "",
+                "in_print": false
+            },
+            {
                 "name": "The need for ethical guidelines in mathematical research in the time of generative AI",
                 "authors": "Pantsar, Markus",
                 "year": "2025",
@@ -442,6 +455,19 @@
             }
         ],
         "books": [
+            {
+                "name": "Philosophy of Artificial Intelligence: Optimistic and Pessimistic Views",
+                "authors": "Pantsar, Markus; Stjernfelt Frederik; Gramelsberger, Gabriele and Olteanu, Alin (eds.)",
+                "year": "2025",
+                "in": "",
+                "volume": "",
+                "pages": "",
+                "city": "",
+                "doi": "10.1007/978-3-031-99654-2",
+                "publisher": "Springer",
+                "url": "",
+                "in_print": false
+            },
             {
                 "name": "Numerical Cognition and the Epistemology of Arithmetic",
                 "authors": "Pantsar, Markus",
