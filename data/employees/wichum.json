@@ -1,7 +1,7 @@
 {
     "name": "Ricky Wichum",
     "ref": "wichum",
-    "title": "Dr- phil.",
+    "title": "Dr.",
     "status": "Post-Doc",
     "cv": "Ricky Wichum is the project leader of the \"Edition wissenschaftliche Software\" at the Chair of Theory of Science and Technology at RWTH Aachen. Ricky is a sociologist and historian of technology who works at the intersection of the history of technology and political sociology. His research focuses on the histories of (super-)computing, the rise of electronic government, and the securitization of social infrastructures. In his first book, \"Biometrie. Zur Soziologie der Identifikation\" (2017), Ricky explores how biometric identification technologies address control issues in liberal societies. The monograph \"Simulation for All. Supercomputing in Stuttgart\" (2021) (co-authored with David Gugerli) analyzed how supercomputing has developed through ongoing reconfigurations of computing, science, industry, and politics. The upcoming book \"Die Datenverarbeitung der Schweiz\" (2026), examines how the use of computers in public administration and the development of computer science at ETH Zurich have mutually influenced each other. His work has been supported by fellowships at the Institute for Advanced Study on Media Cultures of Computer Simulation (MECS) in Lüneburg, the University of Copenhagen, the KHK \"Cultures of Research\" in Aachen, and the University of California, Berkeley.",
     "img": "wichum.jpeg",
@@ -10,8 +10,57 @@
     "email": "ricky.wichum@humtec.rwth-aachen.de",
     "tel": "",
     "pictureBy": "Jana Hambitzer (KHK)",
+    "link": "https://orcid.org/0000-0002-7685-1851",
+    "link_text": "ORCID",
     "projects": [],
     "publications": {
-        "reviewed":[]
-          }
+        "reviewed":[],
+        "books": [
+        {
+            "name":"Biometrie",
+            "authors":"Wichum, Ricky",
+            "year":"2017",
+            "in":"Zur Soziologie der Identifikation",
+            "pages":"",
+            "city":"",
+            "publisher":"Wilhelm Fink"
+        },
+        {
+            "name": "An den Grenzen der Berechenbarkeit",
+            "authors": "Wichum, Ricky; Gugerli, David",
+            "year": "2020",
+            "in": "Supercomputing in Stuttgart",
+            "pages": "",
+            "city": "",
+            "publisher": "Chronos"
+        },
+        {
+            "name": "Simulation for All",
+            "authors": "Wichum, Ricky; Gugerli, David",
+            "year": "2021",
+            "in": "The Politics of Supercomputing in Stuttgart",
+            "pages": "",
+            "city": "",
+            "publisher": "Chronos"
+        },
+                {
+            "name": "Zur Geschichte des digitalen Zeitalters",
+            "authors": "Wichum, Ricky; Zetti, Daniela (eds.)",
+            "year": "2022",
+            "in": "",
+            "pages": "",
+            "city": "",
+            "publisher": "Springer"
+        },
+                {
+            "name": "Die Datenverarbeitung in der Schweiz",
+            "authors": "Wichum, Ricky",
+            "year": "2026",
+            "in": "Zur Informatik der staatlichen Verwaltung in der Schweiz (1960-1986)",
+            "pages": "",
+            "city": "",
+            "publisher": "Brill I Ferdinand Schöningh (Reihe Geschichte der technischen Kultur)"
+        }
+        ]
+    }
 }
