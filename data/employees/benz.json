@@ -1,0 +1,29 @@
+{
+    "name": "Jacob Benz",
+    "ref": "benz",
+    "title": "M. Sc.",
+    "status": "PhD candidate",
+    "cv": "Jacob Benz is a member of the project \"Edition wissenschaftliche Software\" at the Chair of Theory of Science and Technology at RWTH Aachen. Jacob is additionally working on his PhD project regarding the historical user experience with Free/Libre Open Source Software. He studied history, computer and information science and worked in his master thesis on machine learning technology to support the scientific research process. Previously Jacob worked for \"NFDI in Hessen\" and was part of NFDI4Memory, supporting the dissemination of research data management and accompanying software in the historical sciences.",
+    "img": "benz.jpg",
+    "field": "",
+    "pictureBy": "Britta Hüning",
+    "email": "jacob.benz@humtec.rwth-aachen.de",
+    "tel": "",
+    "researchInterests": "Machine Learning; Digital Humanities; History of computers and software, especially Free/Libre Office Source Software; data protection and privacy through software",
+    "projects": [
+
+    ],
+    "publications": {
+        "books": [
+        {
+            "name":"Die Nutzung der Isenach im Mittelalter und der frühen Neuyeit. Zum Zusammenhang gesellschaftlicher und fluvialer Prozesse an einem Nebenfluss der Vorderpfalz",
+            "authors":"Benz, Jacob; Michelle Campopiano, Gerrit Jasper Schenkd (eds.)",
+            "year":"2024",
+            "in":"Conflicts over Water Management and Water Rights from the End of Antiquity to Industrialization",
+            "pages":"189-218",
+            "city":"Stuttgart",
+            "publisher":"Franz Steiner Verlag"
+        }
+        ]
+    }
+}
